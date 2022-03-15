@@ -1,0 +1,22 @@
+{
+  "last_update": "28.2.2022",
+  "map_overrides": {
+    "en": {
+      "description": "Polling stations for early voting at the 2022 National Assembly elections",
+      "title": "2022 National Assembly elections"
+    },
+    "enabled": true,
+    "hu": {
+      "description": "Korai szavazásra használt szavazóhelyiségek a 2022-es parlamenti választáson",
+      "title": "2022-es országgyűlési választások"
+    },
+    "it": {
+      "description": "Seggi elettorali per il voto anticipato nelle elezioni della Camera di Stato del 2022",
+      "title": "Camera di Stato del 2022"
+    },
+    "sl": {
+      "description": "Volišča za predčasno glasovanje na volitvah v državni zbor 2022",
+      "title": "VOLITVE V DZ 2022"
+    }
+  }
+}
