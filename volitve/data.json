@@ -1,0 +1,445 @@
+{
+  "nastavitve": {
+    "cas_udelezba": "",
+    "datum": "2022-03-28T14:30:00Z",
+    "has_kandidati": true,
+    "has_kandidati_mandati": false,
+    "has_kandidati_removed": false,
+    "has_rezultat": false,
+    "has_rezultat_kandidati": false,
+    "has_rezultat_manjsine": false,
+    "has_udel_11": false,
+    "has_udel_16": false,
+    "has_udelezba": false,
+    "is_final": false,
+    "timestamp": "2022-03-28T14:10:36.339Z"
+  },
+  "slovenija": {
+    "enote": [
+      {
+        "naz": "Kranj",
+        "okraji": [
+          {
+            "naz": "Jesenice",
+            "st": 1
+          },
+          {
+            "naz": "Radovljica 1",
+            "st": 2
+          },
+          {
+            "naz": "Radovljica 2",
+            "st": 3
+          },
+          {
+            "naz": "Kranj 1",
+            "st": 4
+          },
+          {
+            "naz": "Kranj 2",
+            "st": 5
+          },
+          {
+            "naz": "Kranj 3",
+            "st": 6
+          },
+          {
+            "naz": "Tržič",
+            "st": 7
+          },
+          {
+            "naz": "Škofja Loka 1",
+            "st": 8
+          },
+          {
+            "naz": "Škofja Loka 2",
+            "st": 9
+          },
+          {
+            "naz": "Kamnik",
+            "st": 10
+          },
+          {
+            "naz": "Idrija",
+            "st": 11
+          }
+        ],
+        "st": 1
+      },
+      {
+        "naz": "Postojna",
+        "okraji": [
+          {
+            "naz": "Tolmin",
+            "st": 1
+          },
+          {
+            "naz": "Piran",
+            "st": 2
+          },
+          {
+            "naz": "Izola",
+            "st": 3
+          },
+          {
+            "naz": "Koper 1",
+            "st": 4
+          },
+          {
+            "naz": "Koper 2",
+            "st": 5
+          },
+          {
+            "naz": "Sežana",
+            "st": 6
+          },
+          {
+            "naz": "Ilirska Bistrica",
+            "st": 7
+          },
+          {
+            "naz": "Postojna",
+            "st": 8
+          },
+          {
+            "naz": "Nova Gorica 1",
+            "st": 9
+          },
+          {
+            "naz": "Nova Gorica 2",
+            "st": 10
+          },
+          {
+            "naz": "Ajdovščina",
+            "st": 11
+          }
+        ],
+        "st": 2
+      },
+      {
+        "naz": "Ljubljana Center",
+        "okraji": [
+          {
+            "naz": "Logatec",
+            "st": 1
+          },
+          {
+            "naz": "Vrhnika",
+            "st": 2
+          },
+          {
+            "naz": "Ljubljana Vič - Rudnik 1",
+            "st": 3
+          },
+          {
+            "naz": "Ljubljana Vič - Rudnik 2",
+            "st": 4
+          },
+          {
+            "naz": "Ljubljana Vič - Rudnik 3",
+            "st": 5
+          },
+          {
+            "naz": "Ljubljana Vič - Rudnik 4",
+            "st": 6
+          },
+          {
+            "naz": "Ljubljana Center",
+            "st": 7
+          },
+          {
+            "naz": "Ljubljana Šiška 1",
+            "st": 8
+          },
+          {
+            "naz": "Ljubljana Šiška 2",
+            "st": 9
+          },
+          {
+            "naz": "Ljubljana Šiška 3",
+            "st": 10
+          },
+          {
+            "naz": "Ljubljana Šiška 4",
+            "st": 11
+          }
+        ],
+        "st": 3
+      },
+      {
+        "naz": "Ljubljana Bežigrad",
+        "okraji": [
+          {
+            "naz": "Kočevje",
+            "st": 1
+          },
+          {
+            "naz": "Ribnica - Dobrepolje",
+            "st": 2
+          },
+          {
+            "naz": "Grosuplje",
+            "st": 3
+          },
+          {
+            "naz": "Ivančna Gorica",
+            "st": 4
+          },
+          {
+            "naz": "Ljubljana Moste - Polje 1",
+            "st": 5
+          },
+          {
+            "naz": "Ljubljana Moste - Polje 2",
+            "st": 6
+          },
+          {
+            "naz": "Ljubljana Moste - Polje 3",
+            "st": 7
+          },
+          {
+            "naz": "Ljubljana Bežigrad 1",
+            "st": 8
+          },
+          {
+            "naz": "Ljubljana Bežigrad 2",
+            "st": 9
+          },
+          {
+            "naz": "Domžale 1",
+            "st": 10
+          },
+          {
+            "naz": "Domžale 2",
+            "st": 11
+          }
+        ],
+        "st": 4
+      },
+      {
+        "naz": "Celje",
+        "okraji": [
+          {
+            "naz": "Šentjur",
+            "st": 1
+          },
+          {
+            "naz": "Celje 1",
+            "st": 2
+          },
+          {
+            "naz": "Celje 2",
+            "st": 3
+          },
+          {
+            "naz": "Žalec 1",
+            "st": 4
+          },
+          {
+            "naz": "Žalec 2",
+            "st": 5
+          },
+          {
+            "naz": "Mozirje",
+            "st": 6
+          },
+          {
+            "naz": "Velenje 1",
+            "st": 7
+          },
+          {
+            "naz": "Velenje 2",
+            "st": 8
+          },
+          {
+            "naz": "Slovenj Gradec",
+            "st": 9
+          },
+          {
+            "naz": "Ravne na Koroškem",
+            "st": 10
+          },
+          {
+            "naz": "Radlje",
+            "st": 11
+          }
+        ],
+        "st": 5
+      },
+      {
+        "naz": "Novo mesto",
+        "okraji": [
+          {
+            "naz": "Črnomelj",
+            "st": 1
+          },
+          {
+            "naz": "Novo mesto 1",
+            "st": 2
+          },
+          {
+            "naz": "Novo mesto 2",
+            "st": 3
+          },
+          {
+            "naz": "Trebnje",
+            "st": 4
+          },
+          {
+            "naz": "Brežice",
+            "st": 5
+          },
+          {
+            "naz": "Krško",
+            "st": 6
+          },
+          {
+            "naz": "Sevnica",
+            "st": 7
+          },
+          {
+            "naz": "Laško",
+            "st": 8
+          },
+          {
+            "naz": "Litija",
+            "st": 9
+          },
+          {
+            "naz": "Hrastnik - Trbovlje",
+            "st": 10
+          },
+          {
+            "naz": "Zagorje",
+            "st": 11
+          }
+        ],
+        "st": 6
+      },
+      {
+        "naz": "Maribor",
+        "okraji": [
+          {
+            "naz": "Šmarje pri Jelšah",
+            "st": 1
+          },
+          {
+            "naz": "Slovenska Bistrica",
+            "st": 2
+          },
+          {
+            "naz": "Slovenske Konjice",
+            "st": 3
+          },
+          {
+            "naz": "Ruše",
+            "st": 4
+          },
+          {
+            "naz": "Maribor 1",
+            "st": 5
+          },
+          {
+            "naz": "Maribor 2",
+            "st": 6
+          },
+          {
+            "naz": "Maribor 3",
+            "st": 7
+          },
+          {
+            "naz": "Maribor 4",
+            "st": 8
+          },
+          {
+            "naz": "Maribor 5",
+            "st": 9
+          },
+          {
+            "naz": "Maribor 6",
+            "st": 10
+          },
+          {
+            "naz": "Maribor 7",
+            "st": 11
+          }
+        ],
+        "st": 7
+      },
+      {
+        "naz": "Ptuj",
+        "okraji": [
+          {
+            "naz": "Lendava",
+            "st": 1
+          },
+          {
+            "naz": "Ormož",
+            "st": 2
+          },
+          {
+            "naz": "Ljutomer",
+            "st": 3
+          },
+          {
+            "naz": "Murska Sobota 1",
+            "st": 4
+          },
+          {
+            "naz": "Murska Sobota 2",
+            "st": 5
+          },
+          {
+            "naz": "Gornja Radgona",
+            "st": 6
+          },
+          {
+            "naz": "Lenart",
+            "st": 7
+          },
+          {
+            "naz": "Pesnica",
+            "st": 8
+          },
+          {
+            "naz": "Ptuj 1",
+            "st": 9
+          },
+          {
+            "naz": "Ptuj 2",
+            "st": 10
+          },
+          {
+            "naz": "Ptuj 3",
+            "st": 11
+          }
+        ],
+        "st": 8
+      }
+    ],
+    "posebna_volisca": [
+      {
+        "naziv": "Volišča OMNIA",
+        "tip": 1
+      },
+      {
+        "naziv": "Volišča dostopna invalidom",
+        "tip": 2
+      }
+    ],
+    "prip_manjs": {
+      "enote": [
+        {
+          "naz": "Koper",
+          "opis": "IX. VOLILNA ENOTA / 9a CIRCOSCRIZIONE ELETTORALE",
+          "st": 9
+        },
+        {
+          "naz": "Lendava",
+          "opis": "X. VOLILNA ENOTA / 10. VÁLASZTÁSI EGYSÉG",
+          "st": 10
+        }
+      ]
+    }
+  }
+}
