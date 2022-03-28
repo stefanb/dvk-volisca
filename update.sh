@@ -12,3 +12,16 @@ jq -r 'map({id: .id, name: .name, address: .address, description: .description, 
 
 curl -s "${BASEURL}/pg_volisca.csv.json"   | jq --sort-keys > dvk/pg_volisca.csv.json
 jq -r 'map({id: .id, name: .name, address: .address, description: .description, lat: .lat, lon: .lon }) | (.[0] | to_entries | map(.key)), (.[] | [.[]]) | @csv' dvk/pg_volisca.csv.json > dvk/pg_volisca.csv
+
+
+VolitveBASEURL="https://volitve.dvk-rs.si"
+mkdir -p volitve
+
+curl -s "${VolitveBASEURL}/config/config.json" | jq --sort-keys > volitve/config.json
+curl -s "${VolitveBASEURL}/data/obvestila.json"     | jq --sort-keys > volitve/obvestila.json
+curl -s "${VolitveBASEURL}/data/data.json"     | jq --sort-keys > volitve/data.json
+curl -s "${VolitveBASEURL}/data/liste.json"     | jq > volitve/liste.json
+jq -r '(.[0] | to_entries | map(.key)), (.[] | [.[]]) | @csv' volitve/liste.json > volitve/liste.csv
+curl -s "${VolitveBASEURL}/data/kandidati.json"     | jq --sort-keys > volitve/kandidati.json
+curl -s "${VolitveBASEURL}/data/zgod_udel.json"     | jq --sort-keys > volitve/zgod_udel.json
+
