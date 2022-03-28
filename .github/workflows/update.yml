@@ -50,5 +50,5 @@ jobs:
         push-branch: 'main'
         commit-message: 'DVK volišča update 🤖'
         rebase: 'true' # pull and rebase before commit
-        files: 'dvk/'
+        files:  dvk/ volitve/
         name: DVK volišča scrape bot 🤖
