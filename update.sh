@@ -23,6 +23,7 @@ curl -s "${VolitveBASEURL}/data/data.json"       | jq > volitve/data.json
 curl -s "${VolitveBASEURL}/data/liste.json"      | jq > volitve/liste.json
 jq -r '(.[0] | to_entries | map(.key)), (.[] | [.[]]) | @csv' volitve/liste.json > volitve/liste.csv
 curl -s "${VolitveBASEURL}/data/kandidati.json"  | jq > volitve/kandidati.json
+jq -r 'map({zap_st: .zap_st, st: .st, ime: .ime, priimek: .pri, datum_rojstva: .dat_roj, delo: .del , obcina: .obc , naselje: .nas , ulica: .ul , hisna_st: .hst , enota: .enota }) | (.[0] | to_entries | map(.key)), (.[] | [.[]]) | @csv' volitve/kandidati.json > volitve/kandidati.csv
 curl -s "${VolitveBASEURL}/data/zgod_udel.json"  | jq > volitve/zgod_udel.json
 
 
