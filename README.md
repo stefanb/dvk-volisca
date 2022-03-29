@@ -4,5 +4,5 @@
 
 Sources:
 
-* https://volitve.dvk-rs.si/ -> volitve [volitve/](volitve/)
+* https://volitve.dvk-rs.si/ -> [volitve/](volitve/)
 * https://www.dvk-rs.si/volisca/ -> [dvk/](dvk/)
