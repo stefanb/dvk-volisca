@@ -20,6 +20,7 @@ mkdir -p volitve
 curl -s "${VolitveBASEURL}/config/config.json"   | jq > volitve/config.json
 curl -s "${VolitveBASEURL}/data/obvestila.json"  | jq > volitve/obvestila.json
 curl -s "${VolitveBASEURL}/data/data.json"       | jq > volitve/data.json
+jq -r '(.slovenija.enote | map({st: .st, naziv: .naz} ))| (.[0] | to_entries | map(.key)), (.[] | [.[]]) | @csv' volitve/data.json > volitve/enote.csv
 curl -s "${VolitveBASEURL}/data/liste.json"      | jq > volitve/liste.json
 jq -r '(.[0] | to_entries | map(.key)), (.[] | [.[]]) | @csv' volitve/liste.json > volitve/liste.csv
 curl -s "${VolitveBASEURL}/data/kandidati.json"  | jq > volitve/kandidati.json
