@@ -6493,6 +6493,23 @@
   },
   {
     "zap_st": null,
+    "st": 7,
+    "ime": "Igor",
+    "pri": "Dekleva",
+    "dat_roj": "1979-01-19T00:00:00Z",
+    "pokl": null,
+    "del": "direktor",
+    "obc": "Cerknica",
+    "nas": "Cerknica",
+    "ul": "Ulica za mlinom",
+    "hst": "7",
+    "enota": 3,
+    "okraji": [
+      1
+    ]
+  },
+  {
+    "zap_st": null,
     "st": 8,
     "ime": "Alenka",
     "pri": "Jevšnik",
@@ -6794,6 +6811,23 @@
     "nas": "Verd",
     "ul": "Verd",
     "hst": "96",
+    "enota": 3,
+    "okraji": [
+      2
+    ]
+  },
+  {
+    "zap_st": null,
+    "st": 7,
+    "ime": "Maja",
+    "pri": "Markov",
+    "dat_roj": "1984-04-02T00:00:00Z",
+    "pokl": null,
+    "del": "komercialist",
+    "obc": "Postojna",
+    "nas": "Postojna",
+    "ul": "Tomšičeva ulica",
+    "hst": "45",
     "enota": 3,
     "okraji": [
       2
@@ -7319,6 +7353,24 @@
   },
   {
     "zap_st": null,
+    "st": 7,
+    "ime": "Rok",
+    "pri": "Bohinc",
+    "dat_roj": "1976-02-28T00:00:00Z",
+    "pokl": null,
+    "del": "komercialist",
+    "obc": "Vodice",
+    "nas": "Vodice",
+    "ul": "Kamniška cesta",
+    "hst": "53F",
+    "enota": 3,
+    "okraji": [
+      3,
+      7
+    ]
+  },
+  {
+    "zap_st": null,
     "st": 3,
     "ime": "Alenka",
     "pri": "Viceljo",
@@ -7363,6 +7415,23 @@
     "nas": "Ljubljana",
     "ul": "Cesta v Mestni log",
     "hst": "3",
+    "enota": 3,
+    "okraji": [
+      4
+    ]
+  },
+  {
+    "zap_st": null,
+    "st": 7,
+    "ime": "Kristina",
+    "pri": "Čibarić",
+    "dat_roj": "1999-12-15T00:00:00Z",
+    "pokl": null,
+    "del": "komercialist",
+    "obc": "Piran",
+    "nas": "Lucija",
+    "ul": "Fazanska ulica",
+    "hst": "2",
     "enota": 3,
     "okraji": [
       4
@@ -7783,6 +7852,24 @@
   },
   {
     "zap_st": null,
+    "st": 7,
+    "ime": "Nik",
+    "pri": "Popovič",
+    "dat_roj": "2000-04-17T00:00:00Z",
+    "pokl": null,
+    "del": "direktor",
+    "obc": "Koper",
+    "nas": "Bošamarin",
+    "ul": "Bošamarin",
+    "hst": "62",
+    "enota": 3,
+    "okraji": [
+      5,
+      8
+    ]
+  },
+  {
+    "zap_st": null,
     "st": 1,
     "ime": "Janez",
     "pri": "Artač",
@@ -7881,6 +7968,23 @@
     "nas": "Ljubljana",
     "ul": "Papirniški trg",
     "hst": "7",
+    "enota": 3,
+    "okraji": [
+      6
+    ]
+  },
+  {
+    "zap_st": null,
+    "st": 7,
+    "ime": "Tanja",
+    "pri": "Pogačnik",
+    "dat_roj": "1975-11-11T00:00:00Z",
+    "pokl": null,
+    "del": "poslovodja",
+    "obc": "Brezovica",
+    "nas": "Vnanje Gorice",
+    "ul": "Vnanje Gorice",
+    "hst": "11",
     "enota": 3,
     "okraji": [
       6
@@ -8629,6 +8733,23 @@
   },
   {
     "zap_st": null,
+    "st": 7,
+    "ime": "Anže",
+    "pri": "Lemež",
+    "dat_roj": "1994-07-30T00:00:00Z",
+    "pokl": null,
+    "del": "ekonomist",
+    "obc": "Ljubljana",
+    "nas": "Ljubljana",
+    "ul": "Jakopičeva ulica",
+    "hst": "2",
+    "enota": 3,
+    "okraji": [
+      9
+    ]
+  },
+  {
+    "zap_st": null,
     "st": 8,
     "ime": "Zdravko",
     "pri": "Selič",
@@ -8887,6 +9008,23 @@
   },
   {
     "zap_st": null,
+    "st": 7,
+    "ime": "Daliborka",
+    "pri": "Grabovac",
+    "dat_roj": "1976-10-11T00:00:00Z",
+    "pokl": null,
+    "del": "samostojni podjetnik",
+    "obc": "Ljubljana",
+    "nas": "Ljubljana",
+    "ul": "Ledarska ulica",
+    "hst": "7",
+    "enota": 3,
+    "okraji": [
+      10
+    ]
+  },
+  {
+    "zap_st": null,
     "st": 8,
     "ime": "Urška",
     "pri": "Cankar Bošnjak",
@@ -9103,6 +9241,23 @@
     "nas": "Ljubljana",
     "ul": "Ulica Ivice Pirjevčeve",
     "hst": "36",
+    "enota": 3,
+    "okraji": [
+      11
+    ]
+  },
+  {
+    "zap_st": null,
+    "st": 7,
+    "ime": "Vito",
+    "pri": "Klavora",
+    "dat_roj": "1983-07-15T00:00:00Z",
+    "pokl": null,
+    "del": "strokovni sodelavec",
+    "obc": "Medvode",
+    "nas": "Medvode",
+    "ul": "Cesta na Senico",
+    "hst": "4M",
     "enota": 3,
     "okraji": [
       11
@@ -12383,7 +12538,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 12,
     "st": 1,
     "ime": "Matilda",
     "pri": "Kočar",
@@ -12400,7 +12555,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 13,
     "st": 3,
     "ime": "Davorin",
     "pri": "Cizej",
@@ -12417,7 +12572,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 18,
     "st": 4,
     "ime": "Danica",
     "pri": "Polak Gruden",
@@ -12434,7 +12589,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 10,
     "st": 6,
     "ime": "Aleš",
     "pri": "Gulič",
@@ -12451,7 +12606,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 6,
     "st": 7,
     "ime": "Tina",
     "pri": "Quéchon",
@@ -12468,7 +12623,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 2,
     "st": 8,
     "ime": "Urška",
     "pri": "Javornik",
@@ -12485,7 +12640,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 15,
     "st": 9,
     "ime": "Jasmina",
     "pri": "Duraković Pompe",
@@ -12502,7 +12657,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 16,
     "st": 10,
     "ime": "Marija",
     "pri": "Arzenšek",
@@ -12519,7 +12674,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 5,
     "st": 13,
     "ime": "Cirila",
     "pri": "Lavbič",
@@ -12536,7 +12691,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 8,
     "st": 15,
     "ime": "Maj",
     "pri": "Antešić",
@@ -12553,7 +12708,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 19,
     "st": 16,
     "ime": "Tina",
     "pri": "Bregant",
@@ -12570,7 +12725,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 3,
     "st": 17,
     "ime": "Jelka",
     "pri": "Godec",
@@ -12587,7 +12742,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 4,
     "st": 18,
     "ime": "Robert",
     "pri": "Polnar",
@@ -12604,7 +12759,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 14,
     "st": 19,
     "ime": "Polona",
     "pri": "Bajt",
@@ -12621,7 +12776,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 17,
     "st": 20,
     "ime": "Blaž",
     "pri": "Kolar",
@@ -12638,7 +12793,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 11,
     "st": 21,
     "ime": "Ibrahim",
     "pri": "Nouhoum",
@@ -12655,7 +12810,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 7,
     "st": 22,
     "ime": "Roman",
     "pri": "Zalokar",
@@ -12672,7 +12827,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 1,
     "st": 11,
     "ime": "Mateja",
     "pri": "Kreuh",
@@ -12690,7 +12845,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 9,
     "st": 2,
     "ime": "Darinka",
     "pri": "Lakner Bevc",
@@ -12708,7 +12863,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 12,
     "st": 1,
     "ime": "Vili",
     "pri": "Šmid",
@@ -12725,7 +12880,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 13,
     "st": 3,
     "ime": "Mateja",
     "pri": "Pozeb",
@@ -12742,7 +12897,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 18,
     "st": 4,
     "ime": "Miha",
     "pri": "Lamut",
@@ -12759,7 +12914,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 10,
     "st": 6,
     "ime": "Žiga",
     "pri": "Vipotnik",
@@ -12776,7 +12931,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 6,
     "st": 7,
     "ime": "Radomir",
     "pri": "Kopranović",
@@ -12793,7 +12948,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 2,
     "st": 8,
     "ime": "Dušan",
     "pri": "Leban",
@@ -12810,7 +12965,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 15,
     "st": 9,
     "ime": "Rok",
     "pri": "Kopitar",
@@ -12827,7 +12982,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 16,
     "st": 10,
     "ime": "Sandi",
     "pri": "Sendelbah",
@@ -12844,7 +12999,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 5,
     "st": 13,
     "ime": "Primož",
     "pri": "Slakan",
@@ -12861,7 +13016,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 19,
     "st": 16,
     "ime": "Roman",
     "pri": "Pungartnik",
@@ -12878,7 +13033,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 3,
     "st": 17,
     "ime": "Damjan",
     "pri": "Muzel",
@@ -12895,7 +13050,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 14,
     "st": 19,
     "ime": "Martina",
     "pri": "Strniša",
@@ -12912,7 +13067,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 17,
     "st": 20,
     "ime": "Bojan",
     "pri": "Bračun",
@@ -12929,7 +13084,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 11,
     "st": 21,
     "ime": "Edi",
     "pri": "Einspieler",
@@ -12946,7 +13101,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 9,
     "st": 2,
     "ime": "Uroš",
     "pri": "Palhartinger",
@@ -12964,7 +13119,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 4,
     "st": 18,
     "ime": "Konrad",
     "pri": "Križanec",
@@ -12982,7 +13137,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 7,
     "st": 22,
     "ime": "Marko",
     "pri": "Kramer",
@@ -13000,7 +13155,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 8,
     "st": 15,
     "ime": "Maja",
     "pri": "Šaver",
@@ -13018,7 +13173,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 13,
     "st": 3,
     "ime": "Renata",
     "pri": "Kragolnik",
@@ -13035,7 +13190,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 18,
     "st": 4,
     "ime": "Janja",
     "pri": "Sluga",
@@ -13052,7 +13207,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 10,
     "st": 6,
     "ime": "Simon",
     "pri": "Maljevac",
@@ -13069,7 +13224,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 6,
     "st": 7,
     "ime": "Boštjan",
     "pri": "Grzinčič",
@@ -13086,7 +13241,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 2,
     "st": 8,
     "ime": "Oton",
     "pri": "Račečič",
@@ -13103,7 +13258,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 15,
     "st": 9,
     "ime": "Jože",
     "pri": "Kerneža",
@@ -13120,7 +13275,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 16,
     "st": 10,
     "ime": "Igor",
     "pri": "Gobec",
@@ -13137,7 +13292,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 5,
     "st": 13,
     "ime": "Nataša",
     "pri": "Brežnik",
@@ -13154,7 +13309,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 19,
     "st": 16,
     "ime": "Polona",
     "pri": "Rifelj",
@@ -13171,7 +13326,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 3,
     "st": 17,
     "ime": "Marjan",
     "pri": "Ferjanc",
@@ -13188,7 +13343,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 14,
     "st": 19,
     "ime": "Luka",
     "pri": "Goršek",
@@ -13205,7 +13360,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 17,
     "st": 20,
     "ime": "Vojko",
     "pri": "Starović",
@@ -13222,7 +13377,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 11,
     "st": 21,
     "ime": "Nejc",
     "pri": "Gajšek",
@@ -13239,7 +13394,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 8,
     "st": 15,
     "ime": "Sebastjan",
     "pri": "Zupin",
@@ -13257,7 +13412,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 12,
     "st": 1,
     "ime": "Brigita",
     "pri": "Čokl",
@@ -13275,7 +13430,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 1,
     "st": 11,
     "ime": "Marjan",
     "pri": "Račnik",
@@ -13293,7 +13448,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 13,
     "st": 3,
     "ime": "Anja",
     "pri": "Bevc",
@@ -13310,7 +13465,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 18,
     "st": 4,
     "ime": "Aleš",
     "pri": "Rezar",
@@ -13327,7 +13482,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 6,
     "st": 7,
     "ime": "Ivana",
     "pri": "Dominković",
@@ -13344,7 +13499,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 15,
     "st": 9,
     "ime": "Zdenka",
     "pri": "Jan",
@@ -13361,7 +13516,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 16,
     "st": 10,
     "ime": "Jasna",
     "pri": "Rode Nikolčić",
@@ -13378,7 +13533,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 5,
     "st": 13,
     "ime": "Jože",
     "pri": "Kužnik",
@@ -13395,7 +13550,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 19,
     "st": 16,
     "ime": "Urška",
     "pri": "Žolnir Jugovar",
@@ -13412,7 +13567,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 3,
     "st": 17,
     "ime": "Lidija",
     "pri": "Ivanuša",
@@ -13429,7 +13584,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 4,
     "st": 18,
     "ime": "Suzana",
     "pri": "Gajšek",
@@ -13446,7 +13601,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 14,
     "st": 19,
     "ime": "Nina",
     "pri": "Plaskan",
@@ -13463,7 +13618,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 17,
     "st": 20,
     "ime": "Jožef",
     "pri": "Ribič",
@@ -13480,7 +13635,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 11,
     "st": 21,
     "ime": "Mihaela",
     "pri": "Anclin",
@@ -13497,7 +13652,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 7,
     "st": 22,
     "ime": "Esmeralda",
     "pri": "Vidmar",
@@ -13514,7 +13669,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 12,
     "st": 1,
     "ime": "Matjaž",
     "pri": "Vodlan",
@@ -13532,7 +13687,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 10,
     "st": 6,
     "ime": "Mateja",
     "pri": "Žvižej",
@@ -13550,7 +13705,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 2,
     "st": 8,
     "ime": "Luka",
     "pri": "Špoljar",
@@ -13568,7 +13723,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 1,
     "st": 11,
     "ime": "Srečko",
     "pri": "Prislan",
@@ -13586,7 +13741,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 13,
     "st": 3,
     "ime": "Klemen",
     "pri": "Matič",
@@ -13603,7 +13758,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 18,
     "st": 4,
     "ime": "Dean",
     "pri": "Premik",
@@ -13620,7 +13775,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 10,
     "st": 6,
     "ime": "Andreja",
     "pri": "Banič Zebec",
@@ -13637,7 +13792,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 6,
     "st": 7,
     "ime": "Ismet",
     "pri": "Kržalić",
@@ -13654,7 +13809,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 2,
     "st": 8,
     "ime": "Nik",
     "pri": "Prebil",
@@ -13671,7 +13826,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 15,
     "st": 9,
     "ime": "Bojan",
     "pri": "Cizej",
@@ -13688,7 +13843,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 16,
     "st": 10,
     "ime": "Eva",
     "pri": "Janković",
@@ -13705,7 +13860,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 1,
     "st": 11,
     "ime": "Marta",
     "pri": "Vehovar",
@@ -13722,7 +13877,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 5,
     "st": 13,
     "ime": "Aleksander",
     "pri": "Reberšek",
@@ -13739,7 +13894,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 19,
     "st": 16,
     "ime": "Sebastijan",
     "pri": "Kamenik",
@@ -13756,7 +13911,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 3,
     "st": 17,
     "ime": "Dragica",
     "pri": "Sternad Pražnikar",
@@ -13773,7 +13928,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 4,
     "st": 18,
     "ime": "Staša",
     "pri": "Moškotevc",
@@ -13790,7 +13945,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 14,
     "st": 19,
     "ime": "Marko",
     "pri": "Repnik",
@@ -13807,7 +13962,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 17,
     "st": 20,
     "ime": "Tanja",
     "pri": "Basle",
@@ -13824,7 +13979,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 11,
     "st": 21,
     "ime": "Urška",
     "pri": "Repar",
@@ -13841,7 +13996,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 7,
     "st": 22,
     "ime": "Andrej",
     "pri": "Golenač",
@@ -13858,7 +14013,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 9,
     "st": 2,
     "ime": "Marija Mojca",
     "pri": "Ivec",
@@ -13876,7 +14031,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 12,
     "st": 1,
     "ime": "Anton",
     "pri": "Rifelj",
@@ -13893,7 +14048,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 13,
     "st": 3,
     "ime": "Stanka",
     "pri": "Golob",
@@ -13910,7 +14065,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 18,
     "st": 4,
     "ime": "Miha",
     "pri": "Brodnik",
@@ -13927,7 +14082,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 6,
     "st": 7,
     "ime": "Adrian",
     "pri": "Blažević",
@@ -13944,7 +14099,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 15,
     "st": 9,
     "ime": "Marjan",
     "pri": "Vodeb",
@@ -13961,7 +14116,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 16,
     "st": 10,
     "ime": "Gaber",
     "pri": "Marolt",
@@ -13978,7 +14133,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 5,
     "st": 13,
     "ime": "Klemen",
     "pri": "Matk",
@@ -13995,7 +14150,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 19,
     "st": 16,
     "ime": "Jakob",
     "pri": "Presečnik",
@@ -14012,7 +14167,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 3,
     "st": 17,
     "ime": "Jožef",
     "pri": "Jelen",
@@ -14029,7 +14184,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 4,
     "st": 18,
     "ime": "Primož",
     "pri": "Vengušt",
@@ -14046,7 +14201,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 14,
     "st": 19,
     "ime": "Mark",
     "pri": "Molnar",
@@ -14063,7 +14218,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 17,
     "st": 20,
     "ime": "Marija Antonija",
     "pri": "Kovačič",
@@ -14080,7 +14235,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 11,
     "st": 21,
     "ime": "Luka",
     "pri": "Zgojznik",
@@ -14097,7 +14252,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 2,
     "st": 8,
     "ime": "Mateja",
     "pri": "Kumer",
@@ -14115,7 +14270,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 1,
     "st": 11,
     "ime": "Bojana",
     "pri": "Pustinek Miočić",
@@ -14133,7 +14288,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 8,
     "st": 15,
     "ime": "Jasmina",
     "pri": "Feratović",
@@ -14151,7 +14306,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 7,
     "st": 22,
     "ime": "Jure",
     "pri": "Podergajs",
@@ -14169,7 +14324,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 12,
     "st": 1,
     "ime": "Marjan",
     "pri": "Korošec",
@@ -14186,7 +14341,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 13,
     "st": 3,
     "ime": "Lidija",
     "pri": "Šolinc",
@@ -14203,7 +14358,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 18,
     "st": 4,
     "ime": "Tatjana",
     "pri": "Zafošnik Kanduti",
@@ -14220,7 +14375,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 10,
     "st": 6,
     "ime": "Dorotea",
     "pri": "Pospihalj",
@@ -14237,7 +14392,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 15,
     "st": 9,
     "ime": "Janja",
     "pri": "Praznik",
@@ -14254,7 +14409,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 16,
     "st": 10,
     "ime": "Benjamin",
     "pri": "Strozak",
@@ -14271,7 +14426,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 1,
     "st": 11,
     "ime": "Karen",
     "pri": "Kralj",
@@ -14288,7 +14443,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 5,
     "st": 13,
     "ime": "Veronika",
     "pri": "Juvan",
@@ -14305,7 +14460,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 19,
     "st": 16,
     "ime": "Darko",
     "pri": "Koželj",
@@ -14322,7 +14477,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 3,
     "st": 17,
     "ime": "Simon",
     "pri": "Dobaj",
@@ -14339,7 +14494,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 4,
     "st": 18,
     "ime": "Tjaša",
     "pri": "Založnik",
@@ -14356,7 +14511,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 14,
     "st": 19,
     "ime": "Andreja",
     "pri": "Katič",
@@ -14373,7 +14528,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 17,
     "st": 20,
     "ime": "Darja",
     "pri": "Štraus",
@@ -14390,7 +14545,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 11,
     "st": 21,
     "ime": "Jasminka",
     "pri": "Dedić",
@@ -14407,7 +14562,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 9,
     "st": 2,
     "ime": "Boštjan",
     "pri": "Zupančič",
@@ -14425,7 +14580,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 6,
     "st": 7,
     "ime": "Daniel",
     "pri": "Grabovac",
@@ -14443,7 +14598,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 8,
     "st": 15,
     "ime": "Ula",
     "pri": "Matek",
@@ -14461,7 +14616,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 7,
     "st": 22,
     "ime": "Nika",
     "pri": "Bidar",
@@ -14479,7 +14634,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 12,
     "st": 1,
     "ime": "Margareta",
     "pri": "Atelšek",
@@ -14496,7 +14651,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 13,
     "st": 3,
     "ime": "Iztok",
     "pri": "Kotnik",
@@ -14513,7 +14668,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 18,
     "st": 4,
     "ime": "Milan",
     "pri": "Žvan",
@@ -14530,7 +14685,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 10,
     "st": 6,
     "ime": "Janko",
     "pri": "Belin",
@@ -14547,7 +14702,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 15,
     "st": 9,
     "ime": "Andrej",
     "pri": "Volk",
@@ -14564,7 +14719,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 16,
     "st": 10,
     "ime": "Matjaž",
     "pri": "Koželj",
@@ -14581,7 +14736,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 5,
     "st": 13,
     "ime": "Mitja",
     "pri": "Ločičnik",
@@ -14598,7 +14753,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 19,
     "st": 16,
     "ime": "Matic",
     "pri": "Mežnar",
@@ -14615,7 +14770,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 3,
     "st": 17,
     "ime": "Franc",
     "pri": "Rosec",
@@ -14632,7 +14787,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 4,
     "st": 18,
     "ime": "Matevž",
     "pri": "Perovec",
@@ -14649,7 +14804,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 14,
     "st": 19,
     "ime": "Janja",
     "pri": "Rednjak",
@@ -14666,7 +14821,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 17,
     "st": 20,
     "ime": "Franc",
     "pri": "Vedenik",
@@ -14683,7 +14838,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 11,
     "st": 21,
     "ime": "Sabina",
     "pri": "Fetić",
@@ -14700,7 +14855,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 13,
     "st": 3,
     "ime": "Gregor",
     "pri": "Aberšek",
@@ -14717,7 +14872,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 18,
     "st": 4,
     "ime": "Dušan",
     "pri": "Stojanovič",
@@ -14734,7 +14889,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 10,
     "st": 6,
     "ime": "Neža",
     "pri": "Oder",
@@ -14751,7 +14906,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 2,
     "st": 8,
     "ime": "Jože",
     "pri": "Lenart",
@@ -14768,7 +14923,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 15,
     "st": 9,
     "ime": "Andreja",
     "pri": "Hace",
@@ -14785,7 +14940,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 16,
     "st": 10,
     "ime": "Katarina",
     "pri": "Praznik",
@@ -14802,7 +14957,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 1,
     "st": 11,
     "ime": "Dušan",
     "pri": "Hartman",
@@ -14819,7 +14974,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 5,
     "st": 13,
     "ime": "Igor",
     "pri": "Jeram",
@@ -14836,7 +14991,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 19,
     "st": 16,
     "ime": "Ivan",
     "pri": "Meh",
@@ -14853,7 +15008,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 3,
     "st": 17,
     "ime": "Boštjan",
     "pri": "Konečnik",
@@ -14870,7 +15025,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 14,
     "st": 19,
     "ime": "Sebastjan",
     "pri": "Zbičajnik",
@@ -14887,7 +15042,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 17,
     "st": 20,
     "ime": "Miha",
     "pri": "Prapotnik",
@@ -14904,7 +15059,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 11,
     "st": 21,
     "ime": "Davor",
     "pri": "Pečnik",
@@ -14921,7 +15076,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 9,
     "st": 2,
     "ime": "Jakob",
     "pri": "Rupert",
@@ -14939,7 +15094,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 6,
     "st": 7,
     "ime": "Anja",
     "pri": "Poberžnik",
@@ -14957,7 +15112,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 8,
     "st": 15,
     "ime": "Nejc",
     "pri": "Gašper",
@@ -14975,7 +15130,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 4,
     "st": 18,
     "ime": "Marijana",
     "pri": "Kresnik",
@@ -14993,7 +15148,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 7,
     "st": 22,
     "ime": "Maša",
     "pri": "Brzin",
@@ -15011,7 +15166,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 12,
     "st": 1,
     "ime": "Almira Alma",
     "pri": "Kočnik",
@@ -15029,7 +15184,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 13,
     "st": 3,
     "ime": "Žiga",
     "pri": "König",
@@ -15046,7 +15201,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 18,
     "st": 4,
     "ime": "Mojca",
     "pri": "Kert",
@@ -15063,7 +15218,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 10,
     "st": 6,
     "ime": "Milan",
     "pri": "Mrđenović",
@@ -15080,7 +15235,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 2,
     "st": 8,
     "ime": "Nuša",
     "pri": "Vengušt",
@@ -15097,7 +15252,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 15,
     "st": 9,
     "ime": "Klara",
     "pri": "Golja",
@@ -15114,7 +15269,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 16,
     "st": 10,
     "ime": "Klavdija",
     "pri": "Šeruga",
@@ -15131,7 +15286,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 5,
     "st": 13,
     "ime": "Mojca",
     "pri": "Erjavec",
@@ -15148,7 +15303,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 19,
     "st": 16,
     "ime": "Erika",
     "pri": "Mubi Smolak",
@@ -15165,7 +15320,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 3,
     "st": 17,
     "ime": "Stašo",
     "pri": "Lodrant",
@@ -15182,7 +15337,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 14,
     "st": 19,
     "ime": "Jani",
     "pri": "Prednik",
@@ -15199,7 +15354,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 17,
     "st": 20,
     "ime": "Nina",
     "pri": "Mauhler",
@@ -15216,7 +15371,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 11,
     "st": 21,
     "ime": "Zoran",
     "pri": "Rožič",
@@ -15233,7 +15388,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 9,
     "st": 2,
     "ime": "Karmen",
     "pri": "Ponikvar",
@@ -15250,7 +15405,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 13,
     "st": 3,
     "ime": "Mirnes",
     "pri": "Mešić",
@@ -15267,7 +15422,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 18,
     "st": 4,
     "ime": "Damaz",
     "pri": "Topler",
@@ -15284,7 +15439,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 10,
     "st": 6,
     "ime": "Vladimir",
     "pri": "Jarh Nikolič",
@@ -15301,7 +15456,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 6,
     "st": 7,
     "ime": "Urška",
     "pri": "Doler",
@@ -15318,7 +15473,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 2,
     "st": 8,
     "ime": "Marjeta",
     "pri": "Podgoršek Rek",
@@ -15335,7 +15490,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 15,
     "st": 9,
     "ime": "Milenko",
     "pri": "Skenderija",
@@ -15352,7 +15507,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 16,
     "st": 10,
     "ime": "Boštjan",
     "pri": "Kotnik",
@@ -15369,7 +15524,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 5,
     "st": 13,
     "ime": "Marijana",
     "pri": "Cigala",
@@ -15386,7 +15541,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 19,
     "st": 16,
     "ime": "Rene",
     "pri": "Dopler",
@@ -15403,7 +15558,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 3,
     "st": 17,
     "ime": "Alenka",
     "pri": "Helbl",
@@ -15420,7 +15575,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 4,
     "st": 18,
     "ime": "Gregor",
     "pri": "Vrtič",
@@ -15437,7 +15592,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 14,
     "st": 19,
     "ime": "Marjan",
     "pri": "Šol",
@@ -15454,7 +15609,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 17,
     "st": 20,
     "ime": "Mirjana",
     "pri": "Polovšak",
@@ -15471,7 +15626,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 11,
     "st": 21,
     "ime": "Lucija",
     "pri": "Mlinarič",
@@ -15488,7 +15643,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 10,
     "st": 1,
     "ime": "Silvo",
     "pri": "Grdešič",
@@ -15505,7 +15660,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 14,
     "st": 2,
     "ime": "Petra",
     "pri": "Strmole",
@@ -15522,7 +15677,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 8,
     "st": 3,
     "ime": "Pavel",
     "pri": "Šuštarič",
@@ -15539,7 +15694,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 11,
     "st": 4,
     "ime": "Jana",
     "pri": "Jerman",
@@ -15556,7 +15711,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 7,
     "st": 6,
     "ime": "Jožica",
     "pri": "Fortun Tomažič",
@@ -15573,7 +15728,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 12,
     "st": 8,
     "ime": "Vesna",
     "pri": "Fabjan",
@@ -15590,7 +15745,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 13,
     "st": 9,
     "ime": "Dušan",
     "pri": "Pavlič",
@@ -15607,7 +15762,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 2,
     "st": 10,
     "ime": "Marjana",
     "pri": "Čegovnik",
@@ -15624,7 +15779,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 18,
     "st": 13,
     "ime": "Nataša",
     "pri": "Hudelja",
@@ -15641,7 +15796,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 4,
     "st": 16,
     "ime": "Boris",
     "pri": "Grabrijan",
@@ -15658,7 +15813,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 9,
     "st": 17,
     "ime": "Maja",
     "pri": "Kocjan",
@@ -15675,7 +15830,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 5,
     "st": 18,
     "ime": "Sabina",
     "pri": "Barič",
@@ -15692,7 +15847,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 17,
     "st": 19,
     "ime": "Bojan",
     "pri": "Krajačič",
@@ -15709,7 +15864,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 6,
     "st": 20,
     "ime": "Andrija",
     "pri": "Brčinović",
@@ -15726,7 +15881,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 1,
     "st": 21,
     "ime": "Marko",
     "pri": "Puh",
@@ -15743,7 +15898,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 19,
     "st": 15,
     "ime": "Jože",
     "pri": "Pirh",
@@ -15761,7 +15916,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 3,
     "st": 7,
     "ime": "Timotej",
     "pri": "Cizej",
@@ -15779,7 +15934,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 15,
     "st": 11,
     "ime": "Polona",
     "pri": "Kambič",
@@ -15797,7 +15952,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 16,
     "st": 22,
     "ime": "Igor Jožef",
     "pri": "Bahč",
@@ -15815,7 +15970,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 10,
     "st": 1,
     "ime": "Ana",
     "pri": "Bilbija",
@@ -15832,7 +15987,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 8,
     "st": 3,
     "ime": "Borut",
     "pri": "Zoran",
@@ -15849,7 +16004,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 11,
     "st": 4,
     "ime": "Simona",
     "pri": "Pirnat Skeledžija",
@@ -15866,7 +16021,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 3,
     "st": 7,
     "ime": "Zdenka",
     "pri": "Pavlin Kapla",
@@ -15883,7 +16038,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 12,
     "st": 8,
     "ime": "Žiga",
     "pri": "Papež",
@@ -15900,7 +16055,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 13,
     "st": 9,
     "ime": "Simona",
     "pri": "Volf",
@@ -15917,7 +16072,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 2,
     "st": 10,
     "ime": "Bojan",
     "pri": "Mikec",
@@ -15934,7 +16089,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 18,
     "st": 13,
     "ime": "Vida",
     "pri": "Čadonič Špelič",
@@ -15951,7 +16106,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 4,
     "st": 16,
     "ime": "Zvonko",
     "pri": "Lah",
@@ -15968,7 +16123,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 9,
     "st": 17,
     "ime": "Anja",
     "pri": "Bah Žibert",
@@ -15985,7 +16140,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 5,
     "st": 18,
     "ime": "Boštjan",
     "pri": "Kovačič",
@@ -16002,7 +16157,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 17,
     "st": 19,
     "ime": "Daša",
     "pri": "Windischer",
@@ -16019,7 +16174,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 6,
     "st": 20,
     "ime": "Boris",
     "pri": "Golež",
@@ -16036,7 +16191,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 1,
     "st": 21,
     "ime": "Janez",
     "pri": "Penca",
@@ -16053,7 +16208,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 7,
     "st": 6,
     "ime": "Ksenja",
     "pri": "Lorber",
@@ -16071,7 +16226,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 16,
     "st": 22,
     "ime": "Robert",
     "pri": "Šinkovec",
@@ -16089,7 +16244,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 14,
     "st": 2,
     "ime": "Blaž",
     "pri": "Strmole",
@@ -16107,7 +16262,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 15,
     "st": 11,
     "ime": "Katja",
     "pri": "Čelič",
@@ -16125,7 +16280,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 10,
     "st": 1,
     "ime": "Adolf",
     "pri": "Zupan",
@@ -16142,7 +16297,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 8,
     "st": 3,
     "ime": "Mateja",
     "pri": "Tomič",
@@ -16159,7 +16314,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 11,
     "st": 4,
     "ime": "Jožica",
     "pri": "Derganc",
@@ -16176,7 +16331,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 12,
     "st": 8,
     "ime": "Anja",
     "pri": "Jordan",
@@ -16193,7 +16348,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 13,
     "st": 9,
     "ime": "Urška",
     "pri": "Ban",
@@ -16210,7 +16365,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 2,
     "st": 10,
     "ime": "Andrej",
     "pri": "Kastrevec",
@@ -16227,7 +16382,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 18,
     "st": 13,
     "ime": "Mark Boris",
     "pri": "Andrijanič",
@@ -16244,7 +16399,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 4,
     "st": 16,
     "ime": "Marjanca",
     "pri": "Trščinar Antić",
@@ -16261,7 +16416,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 9,
     "st": 17,
     "ime": "Bojan",
     "pri": "Kekec",
@@ -16278,7 +16433,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 17,
     "st": 19,
     "ime": "Srečko",
     "pri": "Vovko",
@@ -16295,7 +16450,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 6,
     "st": 20,
     "ime": "Saša",
     "pri": "Jerele",
@@ -16312,7 +16467,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 1,
     "st": 21,
     "ime": "Marko",
     "pri": "Dular",
@@ -16329,7 +16484,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 5,
     "st": 18,
     "ime": "Ingrid",
     "pri": "Hodnik",
@@ -16347,7 +16502,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 14,
     "st": 2,
     "ime": "Anton",
     "pri": "Anžlovar",
@@ -16365,7 +16520,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 19,
     "st": 15,
     "ime": "Karmen",
     "pri": "Brecelj",
@@ -16383,7 +16538,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 10,
     "st": 1,
     "ime": "Stanko",
     "pri": "Peruš",
@@ -16400,7 +16555,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 8,
     "st": 3,
     "ime": "Ratko",
     "pri": "Kosanović",
@@ -16417,7 +16572,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 11,
     "st": 4,
     "ime": "Leon",
     "pri": "Lobe",
@@ -16434,7 +16589,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 7,
     "st": 6,
     "ime": "Marko",
     "pri": "Tratar",
@@ -16451,7 +16606,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 12,
     "st": 8,
     "ime": "Gregor",
     "pri": "Kaplan",
@@ -16468,7 +16623,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 13,
     "st": 9,
     "ime": "Andrej",
     "pri": "Ule",
@@ -16485,7 +16640,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 2,
     "st": 10,
     "ime": "Igor",
     "pri": "Blažina",
@@ -16502,7 +16657,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 15,
     "st": 11,
     "ime": "Vitoslav",
     "pri": "Leskovec",
@@ -16519,7 +16674,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 18,
     "st": 13,
     "ime": "Blaž",
     "pri": "Pavlin",
@@ -16536,7 +16691,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 4,
     "st": 16,
     "ime": "Ana",
     "pri": "Moder",
@@ -16553,7 +16708,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 9,
     "st": 17,
     "ime": "Franci",
     "pri": "Kepa",
@@ -16570,7 +16725,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 17,
     "st": 19,
     "ime": "Dušan",
     "pri": "Hočevar",
@@ -16587,7 +16742,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 6,
     "st": 20,
     "ime": "Dušica",
     "pri": "Tarman",
@@ -16604,7 +16759,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 1,
     "st": 21,
     "ime": "Gorazd",
     "pri": "Marinček",
@@ -16621,7 +16776,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 19,
     "st": 15,
     "ime": "Ana Marija",
     "pri": "Gerbič",
@@ -16639,7 +16794,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 3,
     "st": 7,
     "ime": "Hermina",
     "pri": "Ocvirk",
@@ -16657,7 +16812,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 10,
     "st": 1,
     "ime": "Verica",
     "pri": "Seničar",
@@ -16674,7 +16829,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 8,
     "st": 3,
     "ime": "Nada",
     "pri": "Pavlovski",
@@ -16691,7 +16846,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 11,
     "st": 4,
     "ime": "Nataša",
     "pri": "Avšič Bogovič",
@@ -16708,7 +16863,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 7,
     "st": 6,
     "ime": "Peter",
     "pri": "Dirnbek Vatovec",
@@ -16725,7 +16880,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 3,
     "st": 7,
     "ime": "Stefan",
     "pri": "Iljaž",
@@ -16742,7 +16897,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 12,
     "st": 8,
     "ime": "Andrej",
     "pri": "Gerjevič",
@@ -16759,7 +16914,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 13,
     "st": 9,
     "ime": "Jelena",
     "pri": "Ilišević Gramc",
@@ -16776,7 +16931,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 2,
     "st": 10,
     "ime": "Jože",
     "pri": "Prah",
@@ -16793,7 +16948,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 15,
     "st": 11,
     "ime": "Jože",
     "pri": "Muc",
@@ -16810,7 +16965,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 18,
     "st": 13,
     "ime": "Katja",
     "pri": "Berk Bevc",
@@ -16827,7 +16982,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 4,
     "st": 16,
     "ime": "Rok",
     "pri": "Capl",
@@ -16844,7 +16999,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 9,
     "st": 17,
     "ime": "Patricia",
     "pri": "Čular",
@@ -16861,7 +17016,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 17,
     "st": 19,
     "ime": "Bogdan",
     "pri": "Palovšnik",
@@ -16878,7 +17033,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 6,
     "st": 20,
     "ime": "Ljubiša",
     "pri": "Kostadinović",
@@ -16895,7 +17050,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 1,
     "st": 21,
     "ime": "Marija",
     "pri": "Marinček",
@@ -16912,7 +17067,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 16,
     "st": 22,
     "ime": "Miloš",
     "pri": "Škorc",
@@ -16929,7 +17084,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 5,
     "st": 18,
     "ime": "Leona",
     "pri": "Gošek",
@@ -16947,7 +17102,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 10,
     "st": 1,
     "ime": "Marjan",
     "pri": "Špes",
@@ -16964,7 +17119,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 8,
     "st": 3,
     "ime": "Katja",
     "pri": "Rožman",
@@ -16981,7 +17136,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 11,
     "st": 4,
     "ime": "Tamara",
     "pri": "Vonta",
@@ -16998,7 +17153,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 7,
     "st": 6,
     "ime": "Aleš",
     "pri": "Suša",
@@ -17015,7 +17170,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 3,
     "st": 7,
     "ime": "Jakob John",
     "pri": "Freeland",
@@ -17032,7 +17187,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 12,
     "st": 8,
     "ime": "Alenka",
     "pri": "Hiti",
@@ -17049,7 +17204,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 13,
     "st": 9,
     "ime": "Darko",
     "pri": "Martinc",
@@ -17066,7 +17221,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 2,
     "st": 10,
     "ime": "Dušan",
     "pri": "Vodlan",
@@ -17083,7 +17238,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 18,
     "st": 13,
     "ime": "Alen",
     "pri": "Lenič",
@@ -17100,7 +17255,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 19,
     "st": 15,
     "ime": "Jure",
     "pri": "Repinc",
@@ -17117,7 +17272,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 4,
     "st": 16,
     "ime": "Ana",
     "pri": "Somrak",
@@ -17134,7 +17289,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 9,
     "st": 17,
     "ime": "Janez Jože",
     "pri": "Olovec",
@@ -17151,7 +17306,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 5,
     "st": 18,
     "ime": "Dušan",
     "pri": "Šiško",
@@ -17168,7 +17323,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 17,
     "st": 19,
     "ime": "Senta",
     "pri": "Jeler",
@@ -17185,7 +17340,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 6,
     "st": 20,
     "ime": "Dan",
     "pri": "Laye",
@@ -17202,7 +17357,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 1,
     "st": 21,
     "ime": "Alenka",
     "pri": "Leskovšek",
@@ -17219,7 +17374,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 16,
     "st": 22,
     "ime": "Andreja",
     "pri": "Zaljetelj",
@@ -17236,7 +17391,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 14,
     "st": 2,
     "ime": "Gaja",
     "pri": "Semler",
@@ -17254,7 +17409,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 10,
     "st": 1,
     "ime": "Betka",
     "pri": "Salmič",
@@ -17271,7 +17426,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 8,
     "st": 3,
     "ime": "Olga",
     "pri": "Čepin",
@@ -17288,7 +17443,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 11,
     "st": 4,
     "ime": "Jernej",
     "pri": "Žnidaršič",
@@ -17305,7 +17460,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 7,
     "st": 6,
     "ime": "Sašo",
     "pri": "Jejčič",
@@ -17322,7 +17477,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 13,
     "st": 9,
     "ime": "Dejan",
     "pri": "Cesar",
@@ -17339,7 +17494,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 2,
     "st": 10,
     "ime": "Metka",
     "pri": "Modic",
@@ -17356,7 +17511,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 18,
     "st": 13,
     "ime": "Maša",
     "pri": "Brulc",
@@ -17373,7 +17528,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 4,
     "st": 16,
     "ime": "Janez",
     "pri": "Kukec",
@@ -17390,7 +17545,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 9,
     "st": 17,
     "ime": "Tomaž",
     "pri": "Lisec",
@@ -17407,7 +17562,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 17,
     "st": 19,
     "ime": "Ana",
     "pri": "Jelančić",
@@ -17424,7 +17579,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 6,
     "st": 20,
     "ime": "Nataša",
     "pri": "Gazvoda",
@@ -17441,7 +17596,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 1,
     "st": 21,
     "ime": "Ana",
     "pri": "Markelj",
@@ -17458,7 +17613,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 14,
     "st": 2,
     "ime": "Jernej",
     "pri": "Kos",
@@ -17476,7 +17631,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 12,
     "st": 8,
     "ime": "Nives",
     "pri": "Matjan",
@@ -17494,7 +17649,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 15,
     "st": 11,
     "ime": "Natalija",
     "pri": "Potočnik",
@@ -17512,7 +17667,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 19,
     "st": 15,
     "ime": "Jasmina",
     "pri": "Klančar",
@@ -17530,7 +17685,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 16,
     "st": 22,
     "ime": "Tadeja",
     "pri": "Vrstovšek",
@@ -17548,7 +17703,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 10,
     "st": 1,
     "ime": "Darinka",
     "pri": "Dobovičnik",
@@ -17565,7 +17720,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 8,
     "st": 3,
     "ime": "Antonio",
     "pri": "Dijaković",
@@ -17582,7 +17737,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 11,
     "st": 4,
     "ime": "Marjan",
     "pri": "Mačkošek",
@@ -17599,7 +17754,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 7,
     "st": 6,
     "ime": "Tina",
     "pri": "Kolar",
@@ -17616,7 +17771,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 3,
     "st": 7,
     "ime": "Gregor",
     "pri": "Jelenc",
@@ -17633,7 +17788,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 13,
     "st": 9,
     "ime": "Denis",
     "pri": "Plavčak",
@@ -17650,7 +17805,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 2,
     "st": 10,
     "ime": "Zorka",
     "pri": "Vodlan",
@@ -17667,7 +17822,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 18,
     "st": 13,
     "ime": "Jože",
     "pri": "Senica",
@@ -17684,7 +17839,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 4,
     "st": 16,
     "ime": "Boža",
     "pri": "Herek",
@@ -17701,7 +17856,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 9,
     "st": 17,
     "ime": "Štefanija",
     "pri": "Pavčnik",
@@ -17718,7 +17873,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 17,
     "st": 19,
     "ime": "Matjaž",
     "pri": "Han",
@@ -17735,7 +17890,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 6,
     "st": 20,
     "ime": "Miladin",
     "pri": "Dević",
@@ -17752,7 +17907,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 1,
     "st": 21,
     "ime": "Matic",
     "pri": "Rotar",
@@ -17769,7 +17924,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 16,
     "st": 22,
     "ime": "Boris",
     "pri": "Gabrijel",
@@ -17786,7 +17941,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 5,
     "st": 18,
     "ime": "Jelka",
     "pri": "Rostohar Božič",
@@ -17804,7 +17959,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 19,
     "st": 15,
     "ime": "Rok",
     "pri": "Deželak",
@@ -17822,7 +17977,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 10,
     "st": 1,
     "ime": "Ivanka",
     "pri": "Kirm",
@@ -17839,7 +17994,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 8,
     "st": 3,
     "ime": "Rajko",
     "pri": "Povše",
@@ -17856,7 +18011,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 11,
     "st": 4,
     "ime": "Franc",
     "pri": "Props",
@@ -17873,7 +18028,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 7,
     "st": 6,
     "ime": "Kaja",
     "pri": "Mlakar Agrež",
@@ -17890,7 +18045,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 3,
     "st": 7,
     "ime": "Nataša",
     "pri": "Prinčič",
@@ -17907,7 +18062,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 12,
     "st": 8,
     "ime": "Igor",
     "pri": "Žavbi",
@@ -17924,7 +18079,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 13,
     "st": 9,
     "ime": "Mateja",
     "pri": "Blažič",
@@ -17941,7 +18096,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 2,
     "st": 10,
     "ime": "Miloš",
     "pri": "Hudarin",
@@ -17958,7 +18113,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 15,
     "st": 11,
     "ime": "Goran",
     "pri": "Mlakar",
@@ -17975,7 +18130,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 18,
     "st": 13,
     "ime": "Janez",
     "pri": "Beja",
@@ -17992,7 +18147,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 4,
     "st": 16,
     "ime": "Lijana",
     "pri": "Lovše",
@@ -18009,7 +18164,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 9,
     "st": 17,
     "ime": "Boris",
     "pri": "Doblekar",
@@ -18026,7 +18181,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 17,
     "st": 19,
     "ime": "Janja",
     "pri": "Bregar",
@@ -18043,7 +18198,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 6,
     "st": 20,
     "ime": "Edvard",
     "pri": "Oražem",
@@ -18060,7 +18215,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 1,
     "st": 21,
     "ime": "Erna",
     "pri": "Šekli",
@@ -18077,7 +18232,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 10,
     "st": 1,
     "ime": "Drago",
     "pri": "Kocbek",
@@ -18094,7 +18249,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 8,
     "st": 3,
     "ime": "Alen",
     "pri": "Turanović",
@@ -18111,7 +18266,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 11,
     "st": 4,
     "ime": "Gašper",
     "pri": "Ovnik",
@@ -18128,7 +18283,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 7,
     "st": 6,
     "ime": "Primož",
     "pri": "Siter",
@@ -18145,7 +18300,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 3,
     "st": 7,
     "ime": "Maša",
     "pri": "Kerin",
@@ -18162,7 +18317,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 12,
     "st": 8,
     "ime": "Roman",
     "pri": "Kukovič",
@@ -18179,7 +18334,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 13,
     "st": 9,
     "ime": "Jože",
     "pri": "Pustoslemšek",
@@ -18196,7 +18351,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 2,
     "st": 10,
     "ime": "Mišo",
     "pri": "Šušak",
@@ -18213,7 +18368,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 15,
     "st": 11,
     "ime": "Darija",
     "pri": "Kovačič",
@@ -18230,7 +18385,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 18,
     "st": 13,
     "ime": "Drago",
     "pri": "Kočar",
@@ -18247,7 +18402,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 4,
     "st": 16,
     "ime": "Gregor",
     "pri": "Pajić",
@@ -18264,7 +18419,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 9,
     "st": 17,
     "ime": "Patricija",
     "pri": "Gorenc",
@@ -18281,7 +18436,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 5,
     "st": 18,
     "ime": "Bojan",
     "pri": "Kovačič",
@@ -18298,7 +18453,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 17,
     "st": 19,
     "ime": "Soniboj",
     "pri": "Knežak",
@@ -18315,7 +18470,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 6,
     "st": 20,
     "ime": "Mirzet",
     "pri": "Lukavačkić",
@@ -18332,7 +18487,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 1,
     "st": 21,
     "ime": "Nermin",
     "pri": "Bajramović",
@@ -18349,7 +18504,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 16,
     "st": 22,
     "ime": "Tanja",
     "pri": "Mencin",
@@ -18366,7 +18521,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 14,
     "st": 2,
     "ime": "Marija Ana",
     "pri": "Anžlovar",
@@ -18384,7 +18539,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 10,
     "st": 1,
     "ime": "Štefan",
     "pri": "Misja",
@@ -18401,7 +18556,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 8,
     "st": 3,
     "ime": "Petra",
     "pri": "Vrtačnik",
@@ -18418,7 +18573,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 11,
     "st": 4,
     "ime": "Teodor",
     "pri": "Uranič",
@@ -18435,7 +18590,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 7,
     "st": 6,
     "ime": "Eva",
     "pri": "Koprivšek Petkovšek",
@@ -18452,7 +18607,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 3,
     "st": 7,
     "ime": "Aleksander",
     "pri": "Radanović",
@@ -18469,7 +18624,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 12,
     "st": 8,
     "ime": "Rudi",
     "pri": "Medved",
@@ -18486,7 +18641,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 13,
     "st": 9,
     "ime": "Roman",
     "pri": "Savšek",
@@ -18503,7 +18658,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 2,
     "st": 10,
     "ime": "Džurža",
     "pri": "Rus",
@@ -18520,7 +18675,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 15,
     "st": 11,
     "ime": "Vinko",
     "pri": "Sladoljev",
@@ -18537,7 +18692,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 18,
     "st": 13,
     "ime": "Aljaž",
     "pri": "Jerin",
@@ -18554,7 +18709,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 4,
     "st": 16,
     "ime": "Primož",
     "pri": "Jelševar",
@@ -18571,7 +18726,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 9,
     "st": 17,
     "ime": "Alenka",
     "pri": "Forte",
@@ -18588,7 +18743,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 5,
     "st": 18,
     "ime": "Srečko",
     "pri": "Prijatelj",
@@ -18605,7 +18760,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 17,
     "st": 19,
     "ime": "Nataša",
     "pri": "Češko",
@@ -18622,7 +18777,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 6,
     "st": 20,
     "ime": "Rebeka",
     "pri": "Ostrovršnik",
@@ -18639,7 +18794,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 1,
     "st": 21,
     "ime": "Vladimir",
     "pri": "Poredoš",
@@ -18656,7 +18811,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 16,
     "st": 22,
     "ime": "Darja",
     "pri": "Požun",
