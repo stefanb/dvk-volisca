@@ -1,6 +1,6 @@
 [
   {
-    "zap_st": null,
+    "zap_st": 10,
     "st": 1,
     "ime": "Vinko",
     "pri": "Otovič",
@@ -17,7 +17,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 7,
     "st": 3,
     "ime": "Zoran",
     "pri": "Stevanović",
@@ -34,7 +34,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 9,
     "st": 4,
     "ime": "Katarina",
     "pri": "Štravs",
@@ -51,7 +51,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 11,
     "st": 6,
     "ime": "Dušan",
     "pri": "Krnel",
@@ -68,7 +68,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 13,
     "st": 7,
     "ime": "Grega",
     "pri": "Šebjanič",
@@ -85,7 +85,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 20,
     "st": 8,
     "ime": "Mirjam",
     "pri": "Noč",
@@ -102,7 +102,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 18,
     "st": 9,
     "ime": "Boštjan",
     "pri": "Noč",
@@ -119,7 +119,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 1,
     "st": 10,
     "ime": "Alma",
     "pri": "Rekić",
@@ -136,7 +136,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 3,
     "st": 11,
     "ime": "Mojca",
     "pri": "Vene",
@@ -153,8 +153,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 13,
+    "zap_st": 19,
+    "st": 12,
     "ime": "Boris",
     "pri": "Kitek",
     "dat_roj": "1966-12-30T00:00:00Z",
@@ -170,8 +170,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 16,
+    "zap_st": 8,
+    "st": 14,
     "ime": "Miha",
     "pri": "Rebolj",
     "dat_roj": "1977-09-22T00:00:00Z",
@@ -187,8 +187,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 17,
+    "zap_st": 15,
+    "st": 15,
     "ime": "Irena",
     "pri": "Pfeifer",
     "dat_roj": "1960-07-30T00:00:00Z",
@@ -204,8 +204,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 18,
+    "zap_st": 16,
+    "st": 16,
     "ime": "Alenka",
     "pri": "Gabrovec",
     "dat_roj": "1981-07-11T00:00:00Z",
@@ -221,8 +221,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 19,
+    "zap_st": 14,
+    "st": 17,
     "ime": "Vera",
     "pri": "Djurić Drozdek",
     "dat_roj": "1966-09-30T00:00:00Z",
@@ -238,8 +238,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 21,
+    "zap_st": 4,
+    "st": 19,
     "ime": "Tina",
     "pri": "Robič",
     "dat_roj": "1966-01-19T00:00:00Z",
@@ -255,8 +255,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 22,
+    "zap_st": 17,
+    "st": 20,
     "ime": "Tomaž",
     "pri": "Jelenc",
     "dat_roj": "1983-03-03T00:00:00Z",
@@ -272,8 +272,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 23,
+    "zap_st": 5,
+    "st": 21,
     "ime": "Klemen",
     "pri": "Piber",
     "dat_roj": "1965-12-17T00:00:00Z",
@@ -289,8 +289,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 20,
+    "zap_st": 12,
+    "st": 18,
     "ime": "Alenka",
     "pri": "Pavlič",
     "dat_roj": "1962-05-18T00:00:00Z",
@@ -307,8 +307,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 15,
+    "zap_st": 6,
+    "st": 13,
     "ime": "Haris",
     "pri": "Hatić",
     "dat_roj": "1971-12-21T00:00:00Z",
@@ -325,7 +325,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 2,
     "st": 2,
     "ime": "Žiga",
     "pri": "Jereb",
@@ -343,7 +343,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 7,
     "st": 3,
     "ime": "Mitja",
     "pri": "Žnidar",
@@ -360,7 +360,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 9,
     "st": 4,
     "ime": "Eva",
     "pri": "Knez",
@@ -377,7 +377,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 11,
     "st": 6,
     "ime": "Milan",
     "pri": "Rejc",
@@ -394,7 +394,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 13,
     "st": 7,
     "ime": "Tim",
     "pri": "Borse",
@@ -411,7 +411,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 20,
     "st": 8,
     "ime": "Boštjan",
     "pri": "Poklukar",
@@ -428,7 +428,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 18,
     "st": 9,
     "ime": "Mojca",
     "pri": "Papler",
@@ -445,7 +445,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 1,
     "st": 10,
     "ime": "Boris",
     "pri": "Grilc",
@@ -462,7 +462,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 3,
     "st": 11,
     "ime": "Franci",
     "pri": "Humerca",
@@ -479,8 +479,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 13,
+    "zap_st": 19,
+    "st": 12,
     "ime": "Maja",
     "pri": "Fajdiga Komar",
     "dat_roj": "1967-05-25T00:00:00Z",
@@ -496,8 +496,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 16,
+    "zap_st": 8,
+    "st": 14,
     "ime": "Mirko",
     "pri": "Jeršič",
     "dat_roj": "1967-03-21T00:00:00Z",
@@ -513,8 +513,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 17,
+    "zap_st": 15,
+    "st": 15,
     "ime": "Bogomir",
     "pri": "Vnučec",
     "dat_roj": "1966-02-22T00:00:00Z",
@@ -530,8 +530,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 19,
+    "zap_st": 14,
+    "st": 17,
     "ime": "Lev",
     "pri": "Pavlovski",
     "dat_roj": "1994-06-19T00:00:00Z",
@@ -547,8 +547,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 20,
+    "zap_st": 12,
+    "st": 18,
     "ime": "Nina",
     "pri": "Božič Odar",
     "dat_roj": "1983-05-05T00:00:00Z",
@@ -564,8 +564,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 21,
+    "zap_st": 4,
+    "st": 19,
     "ime": "Milena",
     "pri": "Dežman",
     "dat_roj": "1964-06-28T00:00:00Z",
@@ -581,8 +581,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 22,
+    "zap_st": 17,
+    "st": 20,
     "ime": "Andrej",
     "pri": "Bolčina",
     "dat_roj": "1978-10-23T00:00:00Z",
@@ -598,7 +598,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 10,
     "st": 1,
     "ime": "Gordana Ana",
     "pri": "Višnar Župančič",
@@ -616,7 +616,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 2,
     "st": 2,
     "ime": "Klemen",
     "pri": "Lah",
@@ -634,8 +634,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 18,
+    "zap_st": 16,
+    "st": 16,
     "ime": "Tomaž",
     "pri": "Grohar",
     "dat_roj": "1972-04-29T00:00:00Z",
@@ -652,8 +652,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 23,
+    "zap_st": 5,
+    "st": 21,
     "ime": "Tina",
     "pri": "Remec",
     "dat_roj": "2000-07-21T00:00:00Z",
@@ -670,8 +670,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 15,
+    "zap_st": 6,
+    "st": 13,
     "ime": "Jasmina",
     "pri": "Bejtović",
     "dat_roj": "1989-02-23T00:00:00Z",
@@ -688,7 +688,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 7,
     "st": 3,
     "ime": "Tamara",
     "pri": "Krajnc Stepišnik",
@@ -705,7 +705,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 9,
     "st": 4,
     "ime": "Alma",
     "pri": "Intihar",
@@ -722,7 +722,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 11,
     "st": 6,
     "ime": "Jan",
     "pri": "Podgornik",
@@ -739,7 +739,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 13,
     "st": 7,
     "ime": "Andrej",
     "pri": "Boldin",
@@ -756,7 +756,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 20,
     "st": 8,
     "ime": "Peter",
     "pri": "Podlesnik",
@@ -773,7 +773,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 18,
     "st": 9,
     "ime": "Andrej",
     "pri": "Golčman",
@@ -790,7 +790,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 1,
     "st": 10,
     "ime": "Maja",
     "pri": "Ilić Babić",
@@ -807,7 +807,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 3,
     "st": 11,
     "ime": "Zvonko",
     "pri": "Stojnšek",
@@ -824,8 +824,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 13,
+    "zap_st": 19,
+    "st": 12,
     "ime": "Cveto",
     "pri": "Uršič",
     "dat_roj": "1956-08-09T00:00:00Z",
@@ -841,8 +841,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 16,
+    "zap_st": 8,
+    "st": 14,
     "ime": "Andrej",
     "pri": "Maver",
     "dat_roj": "1958-02-17T00:00:00Z",
@@ -858,8 +858,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 17,
+    "zap_st": 15,
+    "st": 15,
     "ime": "Mark",
     "pri": "Toplak",
     "dat_roj": "1963-03-28T00:00:00Z",
@@ -875,8 +875,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 19,
+    "zap_st": 14,
+    "st": 17,
     "ime": "Mojca",
     "pri": "Faganel",
     "dat_roj": "1988-04-09T00:00:00Z",
@@ -892,8 +892,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 21,
+    "zap_st": 4,
+    "st": 19,
     "ime": "Danilo",
     "pri": "Bertoncelj",
     "dat_roj": "1960-10-06T00:00:00Z",
@@ -909,8 +909,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 22,
+    "zap_st": 17,
+    "st": 20,
     "ime": "Viljem",
     "pri": "Plevnik",
     "dat_roj": "1972-07-07T00:00:00Z",
@@ -926,8 +926,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 15,
+    "zap_st": 6,
+    "st": 13,
     "ime": "Boštjan",
     "pri": "Tavčar",
     "dat_roj": "1964-07-09T00:00:00Z",
@@ -944,7 +944,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 10,
     "st": 1,
     "ime": "Stanislav",
     "pri": "Lončarič",
@@ -961,7 +961,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 7,
     "st": 3,
     "ime": "Ana",
     "pri": "Pavlovski",
@@ -978,7 +978,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 9,
     "st": 4,
     "ime": "Andreja",
     "pri": "Kert",
@@ -995,7 +995,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 11,
     "st": 6,
     "ime": "Ana",
     "pri": "Černe",
@@ -1012,7 +1012,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 13,
     "st": 7,
     "ime": "Nadja",
     "pri": "Poljanec",
@@ -1029,7 +1029,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 20,
     "st": 8,
     "ime": "Špela",
     "pri": "Trobec",
@@ -1046,7 +1046,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 18,
     "st": 9,
     "ime": "Polona",
     "pri": "Šafner",
@@ -1063,7 +1063,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 1,
     "st": 10,
     "ime": "Borut",
     "pri": "Werber",
@@ -1080,7 +1080,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 3,
     "st": 11,
     "ime": "Peter",
     "pri": "Kozjek",
@@ -1097,8 +1097,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 13,
+    "zap_st": 19,
+    "st": 12,
     "ime": "Marija",
     "pri": "Rogar",
     "dat_roj": "1983-02-27T00:00:00Z",
@@ -1114,8 +1114,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 16,
+    "zap_st": 8,
+    "st": 14,
     "ime": "Marija",
     "pri": "Aleš",
     "dat_roj": "1965-12-18T00:00:00Z",
@@ -1131,8 +1131,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 17,
+    "zap_st": 15,
+    "st": 15,
     "ime": "Nataša",
     "pri": "Jenkole",
     "dat_roj": "1968-06-21T00:00:00Z",
@@ -1148,8 +1148,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 21,
+    "zap_st": 4,
+    "st": 19,
     "ime": "Klemen",
     "pri": "Belhar",
     "dat_roj": "1973-10-31T00:00:00Z",
@@ -1165,7 +1165,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 2,
     "st": 2,
     "ime": "Matija",
     "pri": "Horvat",
@@ -1183,8 +1183,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 18,
+    "zap_st": 16,
+    "st": 16,
     "ime": "Stanislav",
     "pri": "Žagar",
     "dat_roj": "1957-10-19T00:00:00Z",
@@ -1201,8 +1201,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 19,
+    "zap_st": 14,
+    "st": 17,
     "ime": "Janez",
     "pri": "Černe",
     "dat_roj": "1982-12-05T00:00:00Z",
@@ -1219,8 +1219,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 20,
+    "zap_st": 12,
+    "st": 18,
     "ime": "Alenka",
     "pri": "Bratušek",
     "dat_roj": "1970-03-31T00:00:00Z",
@@ -1237,8 +1237,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 23,
+    "zap_st": 5,
+    "st": 21,
     "ime": "Mia",
     "pri": "Gričar Seferi",
     "dat_roj": "1976-03-09T00:00:00Z",
@@ -1255,8 +1255,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 22,
+    "zap_st": 17,
+    "st": 20,
     "ime": "Bojan",
     "pri": "Pivk",
     "dat_roj": "1964-03-19T00:00:00Z",
@@ -1273,8 +1273,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 15,
+    "zap_st": 6,
+    "st": 13,
     "ime": "Emina",
     "pri": "Gazibera",
     "dat_roj": "1998-01-15T00:00:00Z",
@@ -1291,7 +1291,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 10,
     "st": 1,
     "ime": "Marko",
     "pri": "Petrić",
@@ -1308,7 +1308,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 7,
     "st": 3,
     "ime": "Neven",
     "pri": "Polajnar",
@@ -1325,7 +1325,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 9,
     "st": 4,
     "ime": "Sandra",
     "pri": "Gazinkovski",
@@ -1342,7 +1342,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 11,
     "st": 6,
     "ime": "Janez",
     "pri": "Rozman",
@@ -1359,7 +1359,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 13,
     "st": 7,
     "ime": "Lea",
     "pri": "Klinar Lukan",
@@ -1376,7 +1376,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 20,
     "st": 8,
     "ime": "Iztok",
     "pri": "Purič",
@@ -1393,7 +1393,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 18,
     "st": 9,
     "ime": "Maja",
     "pri": "Marinček",
@@ -1410,7 +1410,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 1,
     "st": 10,
     "ime": "Jaka",
     "pri": "Vadnjal",
@@ -1427,7 +1427,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 3,
     "st": 11,
     "ime": "Kristjan",
     "pri": "Koželj",
@@ -1444,8 +1444,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 13,
+    "zap_st": 19,
+    "st": 12,
     "ime": "Irena",
     "pri": "Dolenc",
     "dat_roj": "1968-02-06T00:00:00Z",
@@ -1461,8 +1461,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 16,
+    "zap_st": 8,
+    "st": 14,
     "ime": "Janez",
     "pri": "Remškar",
     "dat_roj": "1947-06-11T00:00:00Z",
@@ -1478,8 +1478,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 17,
+    "zap_st": 15,
+    "st": 15,
     "ime": "Bojan",
     "pri": "Homan",
     "dat_roj": "1969-07-26T00:00:00Z",
@@ -1495,8 +1495,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 21,
+    "zap_st": 4,
+    "st": 19,
     "ime": "Ana",
     "pri": "Veternik",
     "dat_roj": "1992-05-19T00:00:00Z",
@@ -1512,8 +1512,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 22,
+    "zap_st": 17,
+    "st": 20,
     "ime": "Ivan",
     "pri": "Kastigar",
     "dat_roj": "1973-03-22T00:00:00Z",
@@ -1529,7 +1529,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 2,
     "st": 2,
     "ime": "Sabina Marija",
     "pri": "Korošec",
@@ -1546,7 +1546,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 7,
     "st": 3,
     "ime": "Anita",
     "pri": "Praprotnik",
@@ -1563,7 +1563,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 9,
     "st": 4,
     "ime": "Tomaž",
     "pri": "Krišelj",
@@ -1580,7 +1580,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 11,
     "st": 6,
     "ime": "Dragica",
     "pri": "Štromajer",
@@ -1597,7 +1597,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 13,
     "st": 7,
     "ime": "Asja Bonnie",
     "pri": "Pivk",
@@ -1614,7 +1614,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 20,
     "st": 8,
     "ime": "Igor",
     "pri": "Peček",
@@ -1631,7 +1631,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 18,
     "st": 9,
     "ime": "Janez",
     "pri": "Žumer",
@@ -1648,7 +1648,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 3,
     "st": 11,
     "ime": "Klavdija",
     "pri": "Podjed",
@@ -1665,8 +1665,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 16,
+    "zap_st": 8,
+    "st": 14,
     "ime": "Franc",
     "pri": "Čebulj",
     "dat_roj": "1952-08-21T00:00:00Z",
@@ -1682,8 +1682,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 17,
+    "zap_st": 15,
+    "st": 15,
     "ime": "Branko",
     "pri": "Grims",
     "dat_roj": "1962-08-26T00:00:00Z",
@@ -1699,8 +1699,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 18,
+    "zap_st": 16,
+    "st": 16,
     "ime": "Vilko",
     "pri": "Rozman",
     "dat_roj": "1962-11-01T00:00:00Z",
@@ -1716,8 +1716,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 19,
+    "zap_st": 14,
+    "st": 17,
     "ime": "Senka",
     "pri": "Pucelj",
     "dat_roj": "1979-07-20T00:00:00Z",
@@ -1733,8 +1733,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 20,
+    "zap_st": 12,
+    "st": 18,
     "ime": "Sandi",
     "pri": "Markišić",
     "dat_roj": "1977-10-22T00:00:00Z",
@@ -1750,8 +1750,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 21,
+    "zap_st": 4,
+    "st": 19,
     "ime": "Pavel",
     "pri": "Gartnar Kastelic",
     "dat_roj": "1991-09-06T00:00:00Z",
@@ -1767,8 +1767,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 22,
+    "zap_st": 17,
+    "st": 20,
     "ime": "Romana",
     "pri": "Brzin",
     "dat_roj": "1970-09-21T00:00:00Z",
@@ -1784,7 +1784,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 1,
     "st": 10,
     "ime": "Mateja",
     "pri": "Čadež",
@@ -1802,8 +1802,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 23,
+    "zap_st": 5,
+    "st": 21,
     "ime": "Luka",
     "pri": "Teran",
     "dat_roj": "1996-08-28T00:00:00Z",
@@ -1820,7 +1820,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 10,
     "st": 1,
     "ime": "Bojan",
     "pri": "Potočnik",
@@ -1838,8 +1838,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 13,
+    "zap_st": 19,
+    "st": 12,
     "ime": "Matej",
     "pri": "Tonin",
     "dat_roj": "1983-07-30T00:00:00Z",
@@ -1856,7 +1856,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 10,
     "st": 1,
     "ime": "Marija",
     "pri": "Mravlje",
@@ -1873,7 +1873,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 2,
     "st": 2,
     "ime": "Kristina",
     "pri": "Kelhar",
@@ -1890,7 +1890,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 7,
     "st": 3,
     "ime": "Marko",
     "pri": "Gavranović",
@@ -1907,7 +1907,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 9,
     "st": 4,
     "ime": "Borut",
     "pri": "Sajovic",
@@ -1924,7 +1924,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 11,
     "st": 6,
     "ime": "Mateja",
     "pri": "Hočevar",
@@ -1941,7 +1941,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 13,
     "st": 7,
     "ime": "Bernard",
     "pri": "Bečan",
@@ -1958,7 +1958,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 20,
     "st": 8,
     "ime": "Edvard",
     "pri": "Paulič",
@@ -1975,7 +1975,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 18,
     "st": 9,
     "ime": "Stane",
     "pri": "Rožič",
@@ -1992,7 +1992,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 3,
     "st": 11,
     "ime": "Branko",
     "pri": "Kvasnik",
@@ -2009,8 +2009,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 13,
+    "zap_st": 19,
+    "st": 12,
     "ime": "David",
     "pri": "Ahačič",
     "dat_roj": "1988-09-23T00:00:00Z",
@@ -2026,8 +2026,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 16,
+    "zap_st": 8,
+    "st": 14,
     "ime": "Alenka",
     "pri": "Bradač",
     "dat_roj": "1968-09-20T00:00:00Z",
@@ -2043,8 +2043,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 17,
+    "zap_st": 15,
+    "st": 15,
     "ime": "Lucija",
     "pri": "Zalokar",
     "dat_roj": "1963-06-15T00:00:00Z",
@@ -2060,8 +2060,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 19,
+    "zap_st": 14,
+    "st": 17,
     "ime": "Vida",
     "pri": "Ribnikar",
     "dat_roj": "1955-08-18T00:00:00Z",
@@ -2077,8 +2077,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 20,
+    "zap_st": 12,
+    "st": 18,
     "ime": "Robert",
     "pri": "Kojc",
     "dat_roj": "1975-01-15T00:00:00Z",
@@ -2094,8 +2094,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 21,
+    "zap_st": 4,
+    "st": 19,
     "ime": "Metka",
     "pri": "Gaberc",
     "dat_roj": "1982-11-22T00:00:00Z",
@@ -2111,8 +2111,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 18,
+    "zap_st": 16,
+    "st": 16,
     "ime": "Otton",
     "pri": "Zajec",
     "dat_roj": "2001-11-07T00:00:00Z",
@@ -2129,8 +2129,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 15,
+    "zap_st": 6,
+    "st": 13,
     "ime": "Neja",
     "pri": "Repinc",
     "dat_roj": "1983-12-08T00:00:00Z",
@@ -2147,7 +2147,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 7,
     "st": 3,
     "ime": "Dijana",
     "pri": "Kovič",
@@ -2164,7 +2164,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 9,
     "st": 4,
     "ime": "Gašper",
     "pri": "Poženel",
@@ -2181,7 +2181,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 11,
     "st": 6,
     "ime": "Miha",
     "pri": "Kordiš",
@@ -2198,7 +2198,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 13,
     "st": 7,
     "ime": "Alexander",
     "pri": "Kadić",
@@ -2215,7 +2215,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 20,
     "st": 8,
     "ime": "Stojan",
     "pri": "Tramte",
@@ -2232,7 +2232,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 18,
     "st": 9,
     "ime": "Anton",
     "pri": "Peršin",
@@ -2249,7 +2249,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 1,
     "st": 10,
     "ime": "Gorazd",
     "pri": "Korošec",
@@ -2266,7 +2266,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 3,
     "st": 11,
     "ime": "Damir",
     "pri": "Pintarič",
@@ -2283,8 +2283,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 13,
+    "zap_st": 19,
+    "st": 12,
     "ime": "Marija",
     "pri": "Klopčič",
     "dat_roj": "1962-05-24T00:00:00Z",
@@ -2300,8 +2300,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 15,
+    "zap_st": 6,
+    "st": 13,
     "ime": "Miha",
     "pri": "Velikanje",
     "dat_roj": "1996-11-26T00:00:00Z",
@@ -2317,8 +2317,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 16,
+    "zap_st": 8,
+    "st": 14,
     "ime": "Darija",
     "pri": "Jamnik",
     "dat_roj": "1969-07-31T00:00:00Z",
@@ -2334,8 +2334,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 17,
+    "zap_st": 15,
+    "st": 15,
     "ime": "Andrej",
     "pri": "Hoivik",
     "dat_roj": "1993-01-13T00:00:00Z",
@@ -2351,8 +2351,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 19,
+    "zap_st": 14,
+    "st": 17,
     "ime": "Asima",
     "pri": "Harbaš",
     "dat_roj": "1957-01-03T00:00:00Z",
@@ -2368,8 +2368,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 20,
+    "zap_st": 12,
+    "st": 18,
     "ime": "Franc",
     "pri": "Rudolf",
     "dat_roj": "1944-09-05T00:00:00Z",
@@ -2385,8 +2385,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 21,
+    "zap_st": 4,
+    "st": 19,
     "ime": "Dean",
     "pri": "Jug",
     "dat_roj": "1969-11-10T00:00:00Z",
@@ -2402,8 +2402,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 23,
+    "zap_st": 5,
+    "st": 21,
     "ime": "Tjaša",
     "pri": "Gričar",
     "dat_roj": "2002-08-26T00:00:00Z",
@@ -2419,7 +2419,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 2,
     "st": 2,
     "ime": "Domen",
     "pri": "Ponikvar",
@@ -2437,8 +2437,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 22,
+    "zap_st": 17,
+    "st": 20,
     "ime": "Adrijana",
     "pri": "Mrak",
     "dat_roj": "1983-04-13T00:00:00Z",
@@ -2455,7 +2455,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 10,
     "st": 1,
     "ime": "Erika",
     "pri": "Petković",
@@ -2473,7 +2473,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 7,
     "st": 3,
     "ime": "Špela",
     "pri": "Vehar",
@@ -2490,7 +2490,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 9,
     "st": 4,
     "ime": "Simon",
     "pri": "Peternel",
@@ -2507,7 +2507,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 11,
     "st": 6,
     "ime": "Ivan",
     "pri": "Albreht",
@@ -2524,7 +2524,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 13,
     "st": 7,
     "ime": "Gregor",
     "pri": "Hlupič",
@@ -2541,7 +2541,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 20,
     "st": 8,
     "ime": "Romana",
     "pri": "Purkart",
@@ -2558,7 +2558,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 18,
     "st": 9,
     "ime": "Viktorija",
     "pri": "Vodnik",
@@ -2575,7 +2575,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 3,
     "st": 11,
     "ime": "Tadeja",
     "pri": "Zgaga",
@@ -2592,8 +2592,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 13,
+    "zap_st": 19,
+    "st": 12,
     "ime": "Janez",
     "pri": "Žakelj",
     "dat_roj": "1964-11-26T00:00:00Z",
@@ -2609,8 +2609,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 16,
+    "zap_st": 8,
+    "st": 14,
     "ime": "Anton",
     "pri": "Luznar",
     "dat_roj": "1961-04-05T00:00:00Z",
@@ -2626,8 +2626,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 17,
+    "zap_st": 15,
+    "st": 15,
     "ime": "Žan",
     "pri": "Mahnič",
     "dat_roj": "1990-01-12T00:00:00Z",
@@ -2643,8 +2643,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 18,
+    "zap_st": 16,
+    "st": 16,
     "ime": "Janez",
     "pri": "Jeras",
     "dat_roj": "1958-04-30T00:00:00Z",
@@ -2660,8 +2660,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 19,
+    "zap_st": 14,
+    "st": 17,
     "ime": "Blaž",
     "pri": "Kozjek",
     "dat_roj": "1997-10-27T00:00:00Z",
@@ -2677,8 +2677,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 20,
+    "zap_st": 12,
+    "st": 18,
     "ime": "Anton",
     "pri": "Klemenčič",
     "dat_roj": "1997-07-09T00:00:00Z",
@@ -2694,7 +2694,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 1,
     "st": 10,
     "ime": "Nina",
     "pri": "Tušar Markež",
@@ -2712,8 +2712,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 23,
+    "zap_st": 5,
+    "st": 21,
     "ime": "Ferhan",
     "pri": "Korać",
     "dat_roj": "1960-08-01T00:00:00Z",
@@ -2730,8 +2730,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 21,
+    "zap_st": 4,
+    "st": 19,
     "ime": "Erika",
     "pri": "Oblak",
     "dat_roj": "1966-09-13T00:00:00Z",
@@ -2748,7 +2748,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 10,
     "st": 1,
     "ime": "Janez",
     "pri": "Pančur",
@@ -2765,7 +2765,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 7,
     "st": 3,
     "ime": "Rok",
     "pri": "Držanič",
@@ -2782,7 +2782,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 9,
     "st": 4,
     "ime": "Aleš",
     "pri": "Lipičnik",
@@ -2799,7 +2799,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 11,
     "st": 6,
     "ime": "Ivan",
     "pri": "Mitrevski",
@@ -2816,7 +2816,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 13,
     "st": 7,
     "ime": "Mojca",
     "pri": "Podobnik Rozman",
@@ -2833,7 +2833,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 20,
     "st": 8,
     "ime": "Marjan",
     "pri": "Šarec",
@@ -2850,7 +2850,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 18,
     "st": 9,
     "ime": "Matjaž",
     "pri": "Zorman",
@@ -2867,7 +2867,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 3,
     "st": 11,
     "ime": "Robin",
     "pri": "Majnik",
@@ -2884,8 +2884,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 16,
+    "zap_st": 8,
+    "st": 14,
     "ime": "Simona",
     "pri": "Kustec",
     "dat_roj": "1976-06-19T00:00:00Z",
@@ -2901,8 +2901,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 17,
+    "zap_st": 15,
+    "st": 15,
     "ime": "Nežka",
     "pri": "Poljanšek",
     "dat_roj": "1972-07-12T00:00:00Z",
@@ -2918,8 +2918,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 18,
+    "zap_st": 16,
+    "st": 16,
     "ime": "Monika",
     "pri": "Bregant",
     "dat_roj": "1977-08-17T00:00:00Z",
@@ -2935,8 +2935,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 19,
+    "zap_st": 14,
+    "st": 17,
     "ime": "Maja",
     "pri": "Aleksovska-Lesjak",
     "dat_roj": "1976-04-24T00:00:00Z",
@@ -2952,8 +2952,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 20,
+    "zap_st": 12,
+    "st": 18,
     "ime": "Dragica",
     "pri": "Klemše",
     "dat_roj": "1961-02-01T00:00:00Z",
@@ -2969,8 +2969,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 21,
+    "zap_st": 4,
+    "st": 19,
     "ime": "Andreja",
     "pri": "Pogačar",
     "dat_roj": "1982-10-02T00:00:00Z",
@@ -2986,8 +2986,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 22,
+    "zap_st": 17,
+    "st": 20,
     "ime": "Zdenka",
     "pri": "Čemažar",
     "dat_roj": "1974-09-07T00:00:00Z",
@@ -3004,7 +3004,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 2,
     "st": 2,
     "ime": "Tatjana",
     "pri": "Pungerčar",
@@ -3021,7 +3021,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 7,
     "st": 3,
     "ime": "Aljaž",
     "pri": "Rupnik",
@@ -3038,7 +3038,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 9,
     "st": 4,
     "ime": "Sara",
     "pri": "Erdić",
@@ -3055,7 +3055,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 11,
     "st": 6,
     "ime": "Sara",
     "pri": "Dejanović",
@@ -3072,7 +3072,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 13,
     "st": 7,
     "ime": "Darko",
     "pri": "Peljhan",
@@ -3089,7 +3089,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 20,
     "st": 8,
     "ime": "Natalija",
     "pri": "Kovač Jereb",
@@ -3106,7 +3106,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 18,
     "st": 9,
     "ime": "Dolores",
     "pri": "Primožič",
@@ -3123,7 +3123,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 1,
     "st": 10,
     "ime": "Gabrijel",
     "pri": "Leskovec",
@@ -3140,7 +3140,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 3,
     "st": 11,
     "ime": "Katarina",
     "pri": "Bošnjak",
@@ -3157,8 +3157,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 13,
+    "zap_st": 19,
+    "st": 12,
     "ime": "Francisco Estanislao",
     "pri": "Medic",
     "dat_roj": "1958-03-29T00:00:00Z",
@@ -3174,8 +3174,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 16,
+    "zap_st": 8,
+    "st": 14,
     "ime": "Jurij",
     "pri": "Kavčič",
     "dat_roj": "1960-04-17T00:00:00Z",
@@ -3191,8 +3191,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 17,
+    "zap_st": 15,
+    "st": 15,
     "ime": "Andrej",
     "pri": "Poglajen",
     "dat_roj": "2000-06-05T00:00:00Z",
@@ -3208,8 +3208,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 18,
+    "zap_st": 16,
+    "st": 16,
     "ime": "Monika",
     "pri": "Rožanc",
     "dat_roj": "1996-08-25T00:00:00Z",
@@ -3225,8 +3225,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 19,
+    "zap_st": 14,
+    "st": 17,
     "ime": "Samo",
     "pri": "Bevk",
     "dat_roj": "1956-08-27T00:00:00Z",
@@ -3242,8 +3242,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 20,
+    "zap_st": 12,
+    "st": 18,
     "ime": "Ivan",
     "pri": "Pergovnik",
     "dat_roj": "1955-04-14T00:00:00Z",
@@ -3259,8 +3259,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 23,
+    "zap_st": 5,
+    "st": 21,
     "ime": "Rok",
     "pri": "Teran",
     "dat_roj": "1995-05-26T00:00:00Z",
@@ -3276,7 +3276,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 8,
     "st": 1,
     "ime": "Darja",
     "pri": "Lampret",
@@ -3293,7 +3293,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 20,
     "st": 3,
     "ime": "Matej",
     "pri": "Hosner",
@@ -3310,7 +3310,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 9,
     "st": 4,
     "ime": "Uroš",
     "pri": "Brežan",
@@ -3327,7 +3327,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 6,
     "st": 6,
     "ime": "Blaž",
     "pri": "Jug",
@@ -3344,7 +3344,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 13,
     "st": 7,
     "ime": "Tadej",
     "pri": "Mihalič",
@@ -3361,7 +3361,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 4,
     "st": 8,
     "ime": "Erik",
     "pri": "Pagon",
@@ -3378,7 +3378,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 10,
     "st": 9,
     "ime": "Robert",
     "pri": "Kavčič",
@@ -3395,7 +3395,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 1,
     "st": 10,
     "ime": "Zlatko",
     "pri": "Gombar",
@@ -3412,7 +3412,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 5,
     "st": 11,
     "ime": "David",
     "pri": "Zorč",
@@ -3429,8 +3429,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 13,
+    "zap_st": 17,
+    "st": 12,
     "ime": "Matej",
     "pri": "Hrast",
     "dat_roj": "1990-08-10T00:00:00Z",
@@ -3446,8 +3446,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 16,
+    "zap_st": 14,
+    "st": 14,
     "ime": "Marko",
     "pri": "Matajurc",
     "dat_roj": "1967-02-20T00:00:00Z",
@@ -3463,8 +3463,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 17,
+    "zap_st": 12,
+    "st": 15,
     "ime": "Danijel",
     "pri": "Krivec",
     "dat_roj": "1965-05-16T00:00:00Z",
@@ -3480,8 +3480,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 19,
+    "zap_st": 2,
+    "st": 17,
     "ime": "Alen",
     "pri": "Červ",
     "dat_roj": "1990-04-21T00:00:00Z",
@@ -3497,8 +3497,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 20,
+    "zap_st": 7,
+    "st": 18,
     "ime": "Nika",
     "pri": "Kravanja",
     "dat_roj": "1953-12-05T00:00:00Z",
@@ -3514,7 +3514,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 19,
     "st": 2,
     "ime": "Natalija",
     "pri": "Pungerčar",
@@ -3532,8 +3532,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 21,
+    "zap_st": 16,
+    "st": 19,
     "ime": "Saša",
     "pri": "Hreščak",
     "dat_roj": "1982-10-31T00:00:00Z",
@@ -3550,8 +3550,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 22,
+    "zap_st": 15,
+    "st": 20,
     "ime": "Vida",
     "pri": "Tekavčič",
     "dat_roj": "1966-06-13T00:00:00Z",
@@ -3568,8 +3568,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 23,
+    "zap_st": 11,
+    "st": 21,
     "ime": "Jožef",
     "pri": "Špes",
     "dat_roj": "1950-03-21T00:00:00Z",
@@ -3586,8 +3586,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 18,
+    "zap_st": 18,
+    "st": 16,
     "ime": "Iztok",
     "pri": "Mrak",
     "dat_roj": "1962-07-07T00:00:00Z",
@@ -3604,8 +3604,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 15,
+    "zap_st": 3,
+    "st": 13,
     "ime": "Sabina",
     "pri": "Erjavec",
     "dat_roj": "1975-04-14T00:00:00Z",
@@ -3622,7 +3622,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 20,
     "st": 3,
     "ime": "Sabrina",
     "pri": "Simonovich",
@@ -3639,7 +3639,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 9,
     "st": 4,
     "ime": "Danijel",
     "pri": "Bešič Loredan",
@@ -3656,7 +3656,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 6,
     "st": 6,
     "ime": "Nina",
     "pri": "Ukmar",
@@ -3673,7 +3673,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 13,
     "st": 7,
     "ime": "Anja",
     "pri": "Pečič",
@@ -3690,7 +3690,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 4,
     "st": 8,
     "ime": "Andrej",
     "pri": "Korenika",
@@ -3707,7 +3707,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 10,
     "st": 9,
     "ime": "Andreja",
     "pri": "Humar",
@@ -3724,8 +3724,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 13,
+    "zap_st": 17,
+    "st": 12,
     "ime": "Zdenka",
     "pri": "Zupančič",
     "dat_roj": "1951-12-03T00:00:00Z",
@@ -3741,8 +3741,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 16,
+    "zap_st": 14,
+    "st": 14,
     "ime": "Gorazd",
     "pri": "Pretnar",
     "dat_roj": "1956-07-19T00:00:00Z",
@@ -3758,8 +3758,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 17,
+    "zap_st": 12,
+    "st": 15,
     "ime": "Vojko",
     "pri": "Jevševar",
     "dat_roj": "1955-12-20T00:00:00Z",
@@ -3775,8 +3775,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 19,
+    "zap_st": 2,
+    "st": 17,
     "ime": "Meira",
     "pri": "Hot",
     "dat_roj": "1980-02-14T00:00:00Z",
@@ -3792,8 +3792,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 20,
+    "zap_st": 7,
+    "st": 18,
     "ime": "Tatjana",
     "pri": "Voj",
     "dat_roj": "1940-03-21T00:00:00Z",
@@ -3809,8 +3809,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 21,
+    "zap_st": 16,
+    "st": 19,
     "ime": "Andrej",
     "pri": "Mikola",
     "dat_roj": "1964-11-10T00:00:00Z",
@@ -3826,8 +3826,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 22,
+    "zap_st": 15,
+    "st": 20,
     "ime": "Bruno",
     "pri": "Tenčić",
     "dat_roj": "1966-03-30T00:00:00Z",
@@ -3843,7 +3843,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 5,
     "st": 11,
     "ime": "Martina",
     "pri": "Kos",
@@ -3861,8 +3861,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 15,
+    "zap_st": 3,
+    "st": 13,
     "ime": "Urša",
     "pri": "Filiput",
     "dat_roj": "1986-04-04T00:00:00Z",
@@ -3879,8 +3879,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 18,
+    "zap_st": 18,
+    "st": 16,
     "ime": "Valerija",
     "pri": "Trost",
     "dat_roj": "1985-11-04T00:00:00Z",
@@ -3897,7 +3897,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 1,
     "st": 10,
     "ime": "Saša",
     "pri": "Petejan",
@@ -3915,8 +3915,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 23,
+    "zap_st": 11,
+    "st": 21,
     "ime": "Zlatka",
     "pri": "Olah",
     "dat_roj": "1961-11-12T00:00:00Z",
@@ -3933,7 +3933,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 8,
     "st": 1,
     "ime": "Milena",
     "pri": "Bužan",
@@ -3951,7 +3951,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 20,
     "st": 3,
     "ime": "Damjan",
     "pri": "Bertok",
@@ -3968,7 +3968,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 9,
     "st": 4,
     "ime": "Robert",
     "pri": "Janev",
@@ -3985,7 +3985,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 6,
     "st": 6,
     "ime": "Alan",
     "pri": "Medveš",
@@ -4002,7 +4002,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 13,
     "st": 7,
     "ime": "Rene",
     "pri": "Ristovski",
@@ -4019,7 +4019,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 4,
     "st": 8,
     "ime": "Sandi",
     "pri": "Čurin",
@@ -4036,7 +4036,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 10,
     "st": 9,
     "ime": "Tomo",
     "pri": "Drevenšek",
@@ -4053,7 +4053,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 1,
     "st": 10,
     "ime": "Seit",
     "pri": "Demiri",
@@ -4070,8 +4070,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 13,
+    "zap_st": 17,
+    "st": 12,
     "ime": "Srečko",
     "pri": "Langeršek",
     "dat_roj": "1967-03-28T00:00:00Z",
@@ -4087,8 +4087,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 16,
+    "zap_st": 14,
+    "st": 14,
     "ime": "Gregor",
     "pri": "Perič",
     "dat_roj": "1984-03-12T00:00:00Z",
@@ -4104,8 +4104,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 17,
+    "zap_st": 12,
+    "st": 15,
     "ime": "Mojca",
     "pri": "Mahajnc",
     "dat_roj": "1973-02-11T00:00:00Z",
@@ -4121,8 +4121,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 19,
+    "zap_st": 2,
+    "st": 17,
     "ime": "Romina",
     "pri": "Kralj",
     "dat_roj": "1974-05-12T00:00:00Z",
@@ -4138,8 +4138,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 20,
+    "zap_st": 7,
+    "st": 18,
     "ime": "Senka",
     "pri": "Bembič",
     "dat_roj": "1962-04-05T00:00:00Z",
@@ -4155,7 +4155,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 8,
     "st": 1,
     "ime": "Tatjana",
     "pri": "Antončič",
@@ -4173,7 +4173,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 19,
     "st": 2,
     "ime": "Suzana",
     "pri": "Šulin",
@@ -4191,8 +4191,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 23,
+    "zap_st": 11,
+    "st": 21,
     "ime": "Blažo",
     "pri": "Ždrnja",
     "dat_roj": "1944-05-12T00:00:00Z",
@@ -4209,7 +4209,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 20,
     "st": 3,
     "ime": "Mojca",
     "pri": "Lampe",
@@ -4226,7 +4226,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 9,
     "st": 4,
     "ime": "Tamara",
     "pri": "Kozlovič",
@@ -4243,7 +4243,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 6,
     "st": 6,
     "ime": "Matej",
     "pri": "Tašner Vatovec",
@@ -4260,7 +4260,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 4,
     "st": 8,
     "ime": "Dragica",
     "pri": "Vrkič Kozlan",
@@ -4277,7 +4277,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 10,
     "st": 9,
     "ime": "Elizabet",
     "pri": "Bordon",
@@ -4294,7 +4294,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 5,
     "st": 11,
     "ime": "Robert",
     "pri": "Škrokov",
@@ -4311,8 +4311,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 13,
+    "zap_st": 17,
+    "st": 12,
     "ime": "Danijel",
     "pri": "Sertić",
     "dat_roj": "1977-05-07T00:00:00Z",
@@ -4328,8 +4328,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 15,
+    "zap_st": 3,
+    "st": 13,
     "ime": "Janoš",
     "pri": "Kastelic",
     "dat_roj": "1996-09-13T00:00:00Z",
@@ -4345,8 +4345,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 16,
+    "zap_st": 14,
+    "st": 14,
     "ime": "Vlasta",
     "pri": "Vežnaver",
     "dat_roj": "1964-01-15T00:00:00Z",
@@ -4362,8 +4362,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 17,
+    "zap_st": 12,
+    "st": 15,
     "ime": "Albin",
     "pri": "Železnik",
     "dat_roj": "1954-12-14T00:00:00Z",
@@ -4379,8 +4379,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 19,
+    "zap_st": 2,
+    "st": 17,
     "ime": "Natalija",
     "pri": "Gulič",
     "dat_roj": "1965-08-05T00:00:00Z",
@@ -4396,8 +4396,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 20,
+    "zap_st": 7,
+    "st": 18,
     "ime": "Jaka",
     "pri": "Klajderič",
     "dat_roj": "1987-05-25T00:00:00Z",
@@ -4413,8 +4413,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 21,
+    "zap_st": 16,
+    "st": 19,
     "ime": "Jasmina",
     "pri": "Jerant",
     "dat_roj": "1980-09-15T00:00:00Z",
@@ -4430,7 +4430,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 19,
     "st": 2,
     "ime": "Ksenija",
     "pri": "Galjanič",
@@ -4448,7 +4448,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 13,
     "st": 7,
     "ime": "Boris",
     "pri": "Popovič",
@@ -4466,8 +4466,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 18,
+    "zap_st": 18,
+    "st": 16,
     "ime": "Svetlana",
     "pri": "Aleksovska",
     "dat_roj": "1980-01-27T00:00:00Z",
@@ -4484,8 +4484,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 22,
+    "zap_st": 15,
+    "st": 20,
     "ime": "Lara",
     "pri": "Lovrečič",
     "dat_roj": "1971-01-23T00:00:00Z",
@@ -4502,7 +4502,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 20,
     "st": 3,
     "ime": "Robert",
     "pri": "Vodopija",
@@ -4519,7 +4519,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 9,
     "st": 4,
     "ime": "Mateja",
     "pri": "Čalušić",
@@ -4536,7 +4536,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 6,
     "st": 6,
     "ime": "Maja",
     "pri": "Tašner Vatovec",
@@ -4553,7 +4553,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 4,
     "st": 8,
     "ime": "Bojan",
     "pri": "Tavčar",
@@ -4570,7 +4570,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 10,
     "st": 9,
     "ime": "Aleks",
     "pri": "Bordon",
@@ -4587,7 +4587,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 1,
     "st": 10,
     "ime": "Igor",
     "pri": "Crnić",
@@ -4604,7 +4604,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 5,
     "st": 11,
     "ime": "Franc",
     "pri": "Malečkar",
@@ -4621,8 +4621,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 13,
+    "zap_st": 17,
+    "st": 12,
     "ime": "Jerneja",
     "pri": "Stopar",
     "dat_roj": "1978-02-28T00:00:00Z",
@@ -4638,8 +4638,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 16,
+    "zap_st": 14,
+    "st": 14,
     "ime": "Tamara",
     "pri": "Mikin",
     "dat_roj": "1967-10-31T00:00:00Z",
@@ -4655,8 +4655,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 17,
+    "zap_st": 12,
+    "st": 15,
     "ime": "Silvano",
     "pri": "Radin",
     "dat_roj": "1955-06-27T00:00:00Z",
@@ -4672,8 +4672,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 19,
+    "zap_st": 2,
+    "st": 17,
     "ime": "Jadranka",
     "pri": "Šturm Kocjan",
     "dat_roj": "1952-12-20T00:00:00Z",
@@ -4689,8 +4689,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 20,
+    "zap_st": 7,
+    "st": 18,
     "ime": "Janko",
     "pri": "Sever",
     "dat_roj": "1951-02-19T00:00:00Z",
@@ -4706,8 +4706,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 21,
+    "zap_st": 16,
+    "st": 19,
     "ime": "Miha",
     "pri": "Stegel",
     "dat_roj": "1978-02-02T00:00:00Z",
@@ -4723,8 +4723,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 15,
+    "zap_st": 3,
+    "st": 13,
     "ime": "Mitja",
     "pri": "Ivanič",
     "dat_roj": "1997-11-18T00:00:00Z",
@@ -4741,8 +4741,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 23,
+    "zap_st": 11,
+    "st": 21,
     "ime": "Maja",
     "pri": "Antolovič",
     "dat_roj": "1963-09-14T00:00:00Z",
@@ -4759,7 +4759,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 8,
     "st": 1,
     "ime": "Mirko",
     "pri": "Višnjevec",
@@ -4776,7 +4776,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 9,
     "st": 4,
     "ime": "Andreja",
     "pri": "Živic",
@@ -4793,7 +4793,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 6,
     "st": 6,
     "ime": "Bojan",
     "pri": "Pahor",
@@ -4810,7 +4810,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 4,
     "st": 8,
     "ime": "Andrej",
     "pri": "Starc",
@@ -4827,7 +4827,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 10,
     "st": 9,
     "ime": "Darja",
     "pri": "Sikirica",
@@ -4844,7 +4844,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 1,
     "st": 10,
     "ime": "Damjana",
     "pri": "Škapin",
@@ -4861,7 +4861,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 5,
     "st": 11,
     "ime": "Olga",
     "pri": "Knez",
@@ -4878,8 +4878,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 13,
+    "zap_st": 17,
+    "st": 12,
     "ime": "Klavdija",
     "pri": "Primc",
     "dat_roj": "1975-12-03T00:00:00Z",
@@ -4895,8 +4895,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 16,
+    "zap_st": 14,
+    "st": 14,
     "ime": "Klementina",
     "pri": "Križman",
     "dat_roj": "1977-06-11T00:00:00Z",
@@ -4912,8 +4912,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 17,
+    "zap_st": 12,
+    "st": 15,
     "ime": "Mara",
     "pri": "Glušič",
     "dat_roj": "1963-06-15T00:00:00Z",
@@ -4929,8 +4929,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 18,
+    "zap_st": 18,
+    "st": 16,
     "ime": "Vladimir",
     "pri": "Skok",
     "dat_roj": "1956-02-07T00:00:00Z",
@@ -4946,8 +4946,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 19,
+    "zap_st": 2,
+    "st": 17,
     "ime": "Marina",
     "pri": "Suban",
     "dat_roj": "1962-06-09T00:00:00Z",
@@ -4963,8 +4963,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 20,
+    "zap_st": 7,
+    "st": 18,
     "ime": "Marko",
     "pri": "Bandelli",
     "dat_roj": "1967-11-19T00:00:00Z",
@@ -4980,8 +4980,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 21,
+    "zap_st": 16,
+    "st": 19,
     "ime": "Anton",
     "pri": "Zobec",
     "dat_roj": "1955-02-26T00:00:00Z",
@@ -4997,7 +4997,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 19,
     "st": 2,
     "ime": "Tom",
     "pri": "Žnidarčič",
@@ -5015,7 +5015,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 20,
     "st": 3,
     "ime": "Aleksander",
     "pri": "Ževart",
@@ -5033,7 +5033,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 13,
     "st": 7,
     "ime": "Sara",
     "pri": "Pfeifer Pelicon",
@@ -5051,8 +5051,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 22,
+    "zap_st": 15,
+    "st": 20,
     "ime": "Borut",
     "pri": "Loboda",
     "dat_roj": "1966-05-23T00:00:00Z",
@@ -5069,8 +5069,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 15,
+    "zap_st": 3,
+    "st": 13,
     "ime": "Vladoša",
     "pri": "Vidic",
     "dat_roj": "1997-07-19T00:00:00Z",
@@ -5087,7 +5087,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 8,
     "st": 1,
     "ime": "Ljubomil",
     "pri": "Jasnič",
@@ -5104,7 +5104,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 20,
     "st": 3,
     "ime": "Ines",
     "pri": "Miklaužić",
@@ -5121,7 +5121,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 9,
     "st": 4,
     "ime": "Boštjan",
     "pri": "Kerma",
@@ -5138,7 +5138,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 6,
     "st": 6,
     "ime": "Safet",
     "pri": "Salkić",
@@ -5155,7 +5155,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 13,
     "st": 7,
     "ime": "Urška",
     "pri": "Fidel",
@@ -5172,7 +5172,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 4,
     "st": 8,
     "ime": "Oliver",
     "pri": "Šabić",
@@ -5189,7 +5189,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 10,
     "st": 9,
     "ime": "Boštjan",
     "pri": "Skok",
@@ -5206,7 +5206,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 1,
     "st": 10,
     "ime": "Jasna",
     "pri": "Gombar",
@@ -5223,7 +5223,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 5,
     "st": 11,
     "ime": "Darjo",
     "pri": "Humar",
@@ -5240,8 +5240,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 13,
+    "zap_st": 17,
+    "st": 12,
     "ime": "Andrej",
     "pri": "Černigoj",
     "dat_roj": "1983-04-12T00:00:00Z",
@@ -5257,8 +5257,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 16,
+    "zap_st": 14,
+    "st": 14,
     "ime": "Borut",
     "pri": "Rojc",
     "dat_roj": "1983-01-09T00:00:00Z",
@@ -5274,8 +5274,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 17,
+    "zap_st": 12,
+    "st": 15,
     "ime": "Adrijana",
     "pri": "Kocjančič",
     "dat_roj": "1962-05-09T00:00:00Z",
@@ -5291,8 +5291,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 18,
+    "zap_st": 18,
+    "st": 16,
     "ime": "Romano",
     "pri": "Brozina",
     "dat_roj": "1959-07-19T00:00:00Z",
@@ -5308,8 +5308,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 20,
+    "zap_st": 7,
+    "st": 18,
     "ime": "Emil",
     "pri": "Karajić",
     "dat_roj": "1984-04-04T00:00:00Z",
@@ -5325,8 +5325,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 23,
+    "zap_st": 11,
+    "st": 21,
     "ime": "Branko",
     "pri": "Ciglarič",
     "dat_roj": "1972-01-03T00:00:00Z",
@@ -5342,8 +5342,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 15,
+    "zap_st": 3,
+    "st": 13,
     "ime": "Nevio",
     "pri": "Miklavčič",
     "dat_roj": "1960-06-01T00:00:00Z",
@@ -5360,8 +5360,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 19,
+    "zap_st": 2,
+    "st": 17,
     "ime": "Patrik",
     "pri": "Bole",
     "dat_roj": "1996-05-24T00:00:00Z",
@@ -5378,8 +5378,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 21,
+    "zap_st": 16,
+    "st": 19,
     "ime": "Nace",
     "pri": "Peric",
     "dat_roj": "2003-12-19T00:00:00Z",
@@ -5396,8 +5396,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 22,
+    "zap_st": 15,
+    "st": 20,
     "ime": "Robert",
     "pri": "Močnik",
     "dat_roj": "1966-01-30T00:00:00Z",
@@ -5414,7 +5414,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 8,
     "st": 1,
     "ime": "Evgen",
     "pri": "Primožič",
@@ -5431,7 +5431,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 9,
     "st": 4,
     "ime": "Aleksander",
     "pri": "Prosen Kralj",
@@ -5448,7 +5448,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 6,
     "st": 6,
     "ime": "Tina",
     "pri": "Žigon",
@@ -5465,7 +5465,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 13,
     "st": 7,
     "ime": "Valentina",
     "pri": "Žnidaršič",
@@ -5482,7 +5482,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 4,
     "st": 8,
     "ime": "Robert",
     "pri": "Pavšič",
@@ -5499,7 +5499,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 10,
     "st": 9,
     "ime": "Aleš",
     "pri": "Sedmak",
@@ -5516,7 +5516,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 1,
     "st": 10,
     "ime": "Petra",
     "pri": "Bremec",
@@ -5533,7 +5533,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 5,
     "st": 11,
     "ime": "Katarina",
     "pri": "Temkova",
@@ -5550,8 +5550,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 13,
+    "zap_st": 17,
+    "st": 12,
     "ime": "Aljaž",
     "pri": "Plevnik",
     "dat_roj": "1989-11-30T00:00:00Z",
@@ -5567,8 +5567,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 16,
+    "zap_st": 14,
+    "st": 14,
     "ime": "Nada",
     "pri": "Pavšer",
     "dat_roj": "1948-04-16T00:00:00Z",
@@ -5584,8 +5584,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 17,
+    "zap_st": 12,
+    "st": 15,
     "ime": "Zvonko",
     "pri": "Černač",
     "dat_roj": "1962-09-23T00:00:00Z",
@@ -5601,8 +5601,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 18,
+    "zap_st": 18,
+    "st": 16,
     "ime": "Tjaša",
     "pri": "Margon",
     "dat_roj": "1994-10-24T00:00:00Z",
@@ -5618,8 +5618,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 20,
+    "zap_st": 7,
+    "st": 18,
     "ime": "Jerko",
     "pri": "Čehovin",
     "dat_roj": "1946-12-10T00:00:00Z",
@@ -5635,8 +5635,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 22,
+    "zap_st": 15,
+    "st": 20,
     "ime": "Stanko",
     "pri": "Fišer",
     "dat_roj": "1960-05-24T00:00:00Z",
@@ -5652,7 +5652,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 6,
     "st": 6,
     "ime": "Andrej",
     "pri": "Pelicon",
@@ -5669,7 +5669,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 4,
     "st": 8,
     "ime": "Mateja",
     "pri": "Lednik",
@@ -5686,7 +5686,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 10,
     "st": 9,
     "ime": "Anita",
     "pri": "Manfreda",
@@ -5703,7 +5703,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 1,
     "st": 10,
     "ime": "Rasti",
     "pri": "Humar",
@@ -5720,8 +5720,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 13,
+    "zap_st": 17,
+    "st": 12,
     "ime": "Anton",
     "pri": "Harej",
     "dat_roj": "1977-03-07T00:00:00Z",
@@ -5737,8 +5737,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 16,
+    "zap_st": 14,
+    "st": 14,
     "ime": "Kostja",
     "pri": "Jelinčič",
     "dat_roj": "1977-06-01T00:00:00Z",
@@ -5754,8 +5754,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 17,
+    "zap_st": 12,
+    "st": 15,
     "ime": "Elena",
     "pri": "Zavadlav Ušaj",
     "dat_roj": "1971-10-20T00:00:00Z",
@@ -5771,8 +5771,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 19,
+    "zap_st": 2,
+    "st": 17,
     "ime": "Sara",
     "pri": "Krošelj",
     "dat_roj": "1985-07-17T00:00:00Z",
@@ -5788,8 +5788,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 20,
+    "zap_st": 7,
+    "st": 18,
     "ime": "Severin",
     "pri": "Kovačič",
     "dat_roj": "1956-03-01T00:00:00Z",
@@ -5805,8 +5805,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 21,
+    "zap_st": 16,
+    "st": 19,
     "ime": "Ana",
     "pri": "Jug",
     "dat_roj": "1949-07-28T00:00:00Z",
@@ -5822,7 +5822,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 8,
     "st": 1,
     "ime": "Darinka",
     "pri": "Kozinc",
@@ -5840,7 +5840,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 20,
     "st": 3,
     "ime": "Jadranka",
     "pri": "Kocbek Mervič",
@@ -5858,7 +5858,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 9,
     "st": 4,
     "ime": "Matej",
     "pri": "Arčon",
@@ -5876,7 +5876,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 5,
     "st": 11,
     "ime": "Mima",
     "pri": "Zadnek",
@@ -5894,8 +5894,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 23,
+    "zap_st": 11,
+    "st": 21,
     "ime": "Dona",
     "pri": "Olah",
     "dat_roj": "1980-07-15T00:00:00Z",
@@ -5912,7 +5912,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 19,
     "st": 2,
     "ime": "Mitja",
     "pri": "Ličen",
@@ -5930,7 +5930,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 19,
     "st": 2,
     "ime": "Marvin",
     "pri": "Šulin",
@@ -5947,7 +5947,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 6,
     "st": 6,
     "ime": "Marko",
     "pri": "Rusjan",
@@ -5964,7 +5964,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 13,
     "st": 7,
     "ime": "Predrag",
     "pri": "Bodiroža",
@@ -5981,7 +5981,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 4,
     "st": 8,
     "ime": "Maja",
     "pri": "Pangos",
@@ -5998,7 +5998,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 10,
     "st": 9,
     "ime": "Silvan",
     "pri": "Saksida",
@@ -6015,7 +6015,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 1,
     "st": 10,
     "ime": "Peter",
     "pri": "Golob",
@@ -6032,8 +6032,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 13,
+    "zap_st": 17,
+    "st": 12,
     "ime": "Erika",
     "pri": "Podgornik Rijavec",
     "dat_roj": "1969-03-30T00:00:00Z",
@@ -6049,8 +6049,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 16,
+    "zap_st": 14,
+    "st": 14,
     "ime": "Vasja",
     "pri": "Medvešček",
     "dat_roj": "1968-08-09T00:00:00Z",
@@ -6066,8 +6066,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 17,
+    "zap_st": 12,
+    "st": 15,
     "ime": "Tomaž",
     "pri": "Slokar",
     "dat_roj": "1971-07-16T00:00:00Z",
@@ -6083,8 +6083,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 19,
+    "zap_st": 2,
+    "st": 17,
     "ime": "Matjaž",
     "pri": "Nemec",
     "dat_roj": "1980-04-10T00:00:00Z",
@@ -6100,8 +6100,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 20,
+    "zap_st": 7,
+    "st": 18,
     "ime": "Andrej",
     "pri": "Šušmelj",
     "dat_roj": "1965-08-08T00:00:00Z",
@@ -6117,8 +6117,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 21,
+    "zap_st": 16,
+    "st": 19,
     "ime": "Manuela",
     "pri": "Korečič",
     "dat_roj": "1993-09-07T00:00:00Z",
@@ -6134,8 +6134,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 18,
+    "zap_st": 18,
+    "st": 16,
     "ime": "Leonida",
     "pri": "Gregorič",
     "dat_roj": "1958-07-01T00:00:00Z",
@@ -6152,7 +6152,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 8,
     "st": 1,
     "ime": "Ivan",
     "pri": "Kobal",
@@ -6169,7 +6169,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 20,
     "st": 3,
     "ime": "Martin",
     "pri": "Vidmar",
@@ -6186,7 +6186,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 9,
     "st": 4,
     "ime": "Mojca",
     "pri": "Stegovec",
@@ -6203,7 +6203,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 6,
     "st": 6,
     "ime": "Meri",
     "pri": "Hreščak",
@@ -6220,7 +6220,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 13,
     "st": 7,
     "ime": "Valter",
     "pri": "Kobal",
@@ -6237,7 +6237,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 4,
     "st": 8,
     "ime": "Melita",
     "pri": "Šinkovec",
@@ -6254,7 +6254,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 10,
     "st": 9,
     "ime": "Neli",
     "pri": "Skočaj",
@@ -6271,7 +6271,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 1,
     "st": 10,
     "ime": "Mateja",
     "pri": "Terčon Knap",
@@ -6288,7 +6288,7 @@
     ]
   },
   {
-    "zap_st": null,
+    "zap_st": 5,
     "st": 11,
     "ime": "Majin",
     "pri": "Maraž",
@@ -6305,8 +6305,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 13,
+    "zap_st": 17,
+    "st": 12,
     "ime": "Jernej",
     "pri": "Vrtovec",
     "dat_roj": "1985-05-24T00:00:00Z",
@@ -6322,8 +6322,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 16,
+    "zap_st": 14,
+    "st": 14,
     "ime": "Oskar",
     "pri": "Birsa",
     "dat_roj": "1955-02-03T00:00:00Z",
@@ -6339,8 +6339,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 17,
+    "zap_st": 12,
+    "st": 15,
     "ime": "Eva",
     "pri": "Irgl",
     "dat_roj": "1976-12-09T00:00:00Z",
@@ -6356,8 +6356,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 19,
+    "zap_st": 2,
+    "st": 17,
     "ime": "Miloš",
     "pri": "Bizjak",
     "dat_roj": "1965-05-29T00:00:00Z",
@@ -6373,8 +6373,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 20,
+    "zap_st": 7,
+    "st": 18,
     "ime": "Dejana",
     "pri": "Baša",
     "dat_roj": "1964-04-09T00:00:00Z",
@@ -6390,8 +6390,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 21,
+    "zap_st": 16,
+    "st": 19,
     "ime": "Mojca",
     "pri": "Milone",
     "dat_roj": "1968-05-17T00:00:00Z",
@@ -6407,8 +6407,8 @@
     ]
   },
   {
-    "zap_st": null,
-    "st": 22,
+    "zap_st": 15,
+    "st": 20,
     "ime": "Irena",
     "pri": "Ličen",
     "dat_roj": "1965-11-16T00:00:00Z",
@@ -6578,7 +6578,7 @@
   },
   {
     "zap_st": null,
-    "st": 13,
+    "st": 12,
     "ime": "Iva",
     "pri": "Dimic",
     "dat_roj": "1972-10-28T00:00:00Z",
@@ -6595,7 +6595,7 @@
   },
   {
     "zap_st": null,
-    "st": 15,
+    "st": 13,
     "ime": "Mojca",
     "pri": "Pungerčar",
     "dat_roj": "1998-03-19T00:00:00Z",
@@ -6612,7 +6612,7 @@
   },
   {
     "zap_st": null,
-    "st": 16,
+    "st": 14,
     "ime": "Berto",
     "pri": "Menard",
     "dat_roj": "1954-06-05T00:00:00Z",
@@ -6629,7 +6629,7 @@
   },
   {
     "zap_st": null,
-    "st": 17,
+    "st": 15,
     "ime": "Zoran",
     "pri": "Mojškerc",
     "dat_roj": "1978-01-31T00:00:00Z",
@@ -6646,7 +6646,7 @@
   },
   {
     "zap_st": null,
-    "st": 18,
+    "st": 16,
     "ime": "Saša",
     "pri": "Otoničar",
     "dat_roj": "1978-11-23T00:00:00Z",
@@ -6663,7 +6663,7 @@
   },
   {
     "zap_st": null,
-    "st": 19,
+    "st": 17,
     "ime": "Armida",
     "pri": "Bavec",
     "dat_roj": "1967-08-21T00:00:00Z",
@@ -6680,7 +6680,7 @@
   },
   {
     "zap_st": null,
-    "st": 20,
+    "st": 18,
     "ime": "Angela",
     "pri": "Menart",
     "dat_roj": "1954-01-15T00:00:00Z",
@@ -6697,7 +6697,7 @@
   },
   {
     "zap_st": null,
-    "st": 21,
+    "st": 19,
     "ime": "Žiga",
     "pri": "Valetič",
     "dat_roj": "1973-04-29T00:00:00Z",
@@ -6732,7 +6732,7 @@
   },
   {
     "zap_st": null,
-    "st": 22,
+    "st": 20,
     "ime": "Karmen",
     "pri": "Peternelj",
     "dat_roj": "1956-01-19T00:00:00Z",
@@ -6903,7 +6903,7 @@
   },
   {
     "zap_st": null,
-    "st": 13,
+    "st": 12,
     "ime": "Janez",
     "pri": "Ovsec",
     "dat_roj": "1958-06-18T00:00:00Z",
@@ -6920,7 +6920,7 @@
   },
   {
     "zap_st": null,
-    "st": 16,
+    "st": 14,
     "ime": "Nejc",
     "pri": "Škof",
     "dat_roj": "1991-07-08T00:00:00Z",
@@ -6937,7 +6937,7 @@
   },
   {
     "zap_st": null,
-    "st": 17,
+    "st": 15,
     "ime": "Domen",
     "pri": "Cukjati",
     "dat_roj": "1976-10-11T00:00:00Z",
@@ -6954,7 +6954,7 @@
   },
   {
     "zap_st": null,
-    "st": 19,
+    "st": 17,
     "ime": "Bojan",
     "pri": "Perić",
     "dat_roj": "1982-04-30T00:00:00Z",
@@ -6971,7 +6971,7 @@
   },
   {
     "zap_st": null,
-    "st": 20,
+    "st": 18,
     "ime": "Jakob",
     "pri": "Klaić",
     "dat_roj": "1996-01-15T00:00:00Z",
@@ -6988,7 +6988,7 @@
   },
   {
     "zap_st": null,
-    "st": 21,
+    "st": 19,
     "ime": "Jernej",
     "pri": "Fefer",
     "dat_roj": "1965-01-19T00:00:00Z",
@@ -7005,7 +7005,7 @@
   },
   {
     "zap_st": null,
-    "st": 22,
+    "st": 20,
     "ime": "Andreja",
     "pri": "Novak",
     "dat_roj": "1971-01-22T00:00:00Z",
@@ -7023,7 +7023,7 @@
   },
   {
     "zap_st": null,
-    "st": 15,
+    "st": 13,
     "ime": "Ira",
     "pri": "Mešiček",
     "dat_roj": "1996-09-02T00:00:00Z",
@@ -7041,7 +7041,7 @@
   },
   {
     "zap_st": null,
-    "st": 18,
+    "st": 16,
     "ime": "Janja",
     "pri": "Mišič",
     "dat_roj": "1969-04-28T00:00:00Z",
@@ -7178,7 +7178,7 @@
   },
   {
     "zap_st": null,
-    "st": 13,
+    "st": 12,
     "ime": "Marko",
     "pri": "Gruden",
     "dat_roj": "1996-09-06T00:00:00Z",
@@ -7195,7 +7195,7 @@
   },
   {
     "zap_st": null,
-    "st": 16,
+    "st": 14,
     "ime": "Janez",
     "pri": "Cimperman",
     "dat_roj": "1951-06-01T00:00:00Z",
@@ -7212,7 +7212,7 @@
   },
   {
     "zap_st": null,
-    "st": 17,
+    "st": 15,
     "ime": "Alenka",
     "pri": "Jeraj",
     "dat_roj": "1973-02-23T00:00:00Z",
@@ -7229,7 +7229,7 @@
   },
   {
     "zap_st": null,
-    "st": 19,
+    "st": 17,
     "ime": "Janez",
     "pri": "Kastelic",
     "dat_roj": "1961-06-09T00:00:00Z",
@@ -7246,7 +7246,7 @@
   },
   {
     "zap_st": null,
-    "st": 21,
+    "st": 19,
     "ime": "Anja",
     "pri": "Završnik",
     "dat_roj": "1987-05-21T00:00:00Z",
@@ -7281,7 +7281,7 @@
   },
   {
     "zap_st": null,
-    "st": 15,
+    "st": 13,
     "ime": "Jasmin",
     "pri": "Feratović",
     "dat_roj": "1996-09-18T00:00:00Z",
@@ -7299,7 +7299,7 @@
   },
   {
     "zap_st": null,
-    "st": 18,
+    "st": 16,
     "ime": "Jože",
     "pri": "Kovač",
     "dat_roj": "1953-01-04T00:00:00Z",
@@ -7335,7 +7335,7 @@
   },
   {
     "zap_st": null,
-    "st": 20,
+    "st": 18,
     "ime": "Peter Jožef",
     "pri": "Česnik",
     "dat_roj": "1945-01-11T00:00:00Z",
@@ -7490,7 +7490,7 @@
   },
   {
     "zap_st": null,
-    "st": 13,
+    "st": 12,
     "ime": "Peter",
     "pri": "Kolenc",
     "dat_roj": "1966-02-20T00:00:00Z",
@@ -7507,7 +7507,7 @@
   },
   {
     "zap_st": null,
-    "st": 16,
+    "st": 14,
     "ime": "Monika",
     "pri": "Gregorčič",
     "dat_roj": "1969-03-05T00:00:00Z",
@@ -7524,7 +7524,7 @@
   },
   {
     "zap_st": null,
-    "st": 17,
+    "st": 15,
     "ime": "Mojca",
     "pri": "Gregorič",
     "dat_roj": "1974-08-29T00:00:00Z",
@@ -7541,7 +7541,7 @@
   },
   {
     "zap_st": null,
-    "st": 19,
+    "st": 17,
     "ime": "Dominika",
     "pri": "Švarc Pipan",
     "dat_roj": "1978-07-09T00:00:00Z",
@@ -7558,7 +7558,7 @@
   },
   {
     "zap_st": null,
-    "st": 20,
+    "st": 18,
     "ime": "Božidar",
     "pri": "Jezernik",
     "dat_roj": "1951-10-09T00:00:00Z",
@@ -7575,7 +7575,7 @@
   },
   {
     "zap_st": null,
-    "st": 21,
+    "st": 19,
     "ime": "Jaka",
     "pri": "Zevnik",
     "dat_roj": "1980-03-24T00:00:00Z",
@@ -7713,7 +7713,7 @@
   },
   {
     "zap_st": null,
-    "st": 13,
+    "st": 12,
     "ime": "Boris",
     "pri": "Kham",
     "dat_roj": "1950-04-23T00:00:00Z",
@@ -7730,7 +7730,7 @@
   },
   {
     "zap_st": null,
-    "st": 16,
+    "st": 14,
     "ime": "Monika",
     "pri": "Zupanc Kovač",
     "dat_roj": "1969-07-27T00:00:00Z",
@@ -7747,7 +7747,7 @@
   },
   {
     "zap_st": null,
-    "st": 17,
+    "st": 15,
     "ime": "Aleš",
     "pri": "Hojs",
     "dat_roj": "1961-12-12T00:00:00Z",
@@ -7764,7 +7764,7 @@
   },
   {
     "zap_st": null,
-    "st": 19,
+    "st": 17,
     "ime": "Jonas",
     "pri": "Žnidaršič",
     "dat_roj": "1962-01-30T00:00:00Z",
@@ -7781,7 +7781,7 @@
   },
   {
     "zap_st": null,
-    "st": 21,
+    "st": 19,
     "ime": "Alja",
     "pri": "Miklavčič",
     "dat_roj": "1991-08-20T00:00:00Z",
@@ -7834,7 +7834,7 @@
   },
   {
     "zap_st": null,
-    "st": 22,
+    "st": 20,
     "ime": "Samir",
     "pri": "Hvalec",
     "dat_roj": "1965-08-09T00:00:00Z",
@@ -7888,7 +7888,7 @@
   },
   {
     "zap_st": null,
-    "st": 15,
+    "st": 13,
     "ime": "Zala",
     "pri": "Rebernak",
     "dat_roj": "1992-05-01T00:00:00Z",
@@ -7906,7 +7906,7 @@
   },
   {
     "zap_st": null,
-    "st": 18,
+    "st": 16,
     "ime": "Simo",
     "pri": "Marić",
     "dat_roj": "1975-03-15T00:00:00Z",
@@ -8043,7 +8043,7 @@
   },
   {
     "zap_st": null,
-    "st": 13,
+    "st": 12,
     "ime": "Mojca",
     "pri": "Sojar",
     "dat_roj": "1964-07-15T00:00:00Z",
@@ -8060,7 +8060,7 @@
   },
   {
     "zap_st": null,
-    "st": 17,
+    "st": 15,
     "ime": "Anže",
     "pri": "Logar",
     "dat_roj": "1976-05-15T00:00:00Z",
@@ -8077,7 +8077,7 @@
   },
   {
     "zap_st": null,
-    "st": 19,
+    "st": 17,
     "ime": "Gregor",
     "pri": "Židan",
     "dat_roj": "1965-10-05T00:00:00Z",
@@ -8094,7 +8094,7 @@
   },
   {
     "zap_st": null,
-    "st": 20,
+    "st": 18,
     "ime": "Tjaša",
     "pri": "Zorc Rupnik",
     "dat_roj": "1967-07-02T00:00:00Z",
@@ -8111,7 +8111,7 @@
   },
   {
     "zap_st": null,
-    "st": 21,
+    "st": 19,
     "ime": "Nina",
     "pri": "Lesjak",
     "dat_roj": "1985-12-12T00:00:00Z",
@@ -8128,7 +8128,7 @@
   },
   {
     "zap_st": null,
-    "st": 22,
+    "st": 20,
     "ime": "Darko",
     "pri": "Fekete",
     "dat_roj": "1963-12-02T00:00:00Z",
@@ -8163,7 +8163,7 @@
   },
   {
     "zap_st": null,
-    "st": 16,
+    "st": 14,
     "ime": "Alojz",
     "pri": "Kovšca",
     "dat_roj": "1965-09-13T00:00:00Z",
@@ -8283,7 +8283,7 @@
   },
   {
     "zap_st": null,
-    "st": 13,
+    "st": 12,
     "ime": "Stanislava",
     "pri": "Sosič",
     "dat_roj": "1959-10-27T00:00:00Z",
@@ -8300,7 +8300,7 @@
   },
   {
     "zap_st": null,
-    "st": 16,
+    "st": 14,
     "ime": "Andrej",
     "pri": "Magajna",
     "dat_roj": "1952-05-04T00:00:00Z",
@@ -8317,7 +8317,7 @@
   },
   {
     "zap_st": null,
-    "st": 17,
+    "st": 15,
     "ime": "Marko",
     "pri": "Posavec",
     "dat_roj": "1969-06-25T00:00:00Z",
@@ -8334,7 +8334,7 @@
   },
   {
     "zap_st": null,
-    "st": 19,
+    "st": 17,
     "ime": "Marko",
     "pri": "Koprivc",
     "dat_roj": "1978-12-14T00:00:00Z",
@@ -8351,7 +8351,7 @@
   },
   {
     "zap_st": null,
-    "st": 21,
+    "st": 19,
     "ime": "Črt",
     "pri": "Batagelj",
     "dat_roj": "1980-12-20T00:00:00Z",
@@ -8404,7 +8404,7 @@
   },
   {
     "zap_st": null,
-    "st": 15,
+    "st": 13,
     "ime": "Gorazd",
     "pri": "Knific",
     "dat_roj": "1976-07-04T00:00:00Z",
@@ -8422,7 +8422,7 @@
   },
   {
     "zap_st": null,
-    "st": 18,
+    "st": 16,
     "ime": "Janja",
     "pri": "Hostnik",
     "dat_roj": "1983-05-27T00:00:00Z",
@@ -8440,7 +8440,7 @@
   },
   {
     "zap_st": null,
-    "st": 20,
+    "st": 18,
     "ime": "Karmen",
     "pri": "Velikonja",
     "dat_roj": "1959-03-24T00:00:00Z",
@@ -8543,7 +8543,7 @@
   },
   {
     "zap_st": null,
-    "st": 13,
+    "st": 12,
     "ime": "Mateja",
     "pri": "Drobnič",
     "dat_roj": "1964-02-25T00:00:00Z",
@@ -8560,7 +8560,7 @@
   },
   {
     "zap_st": null,
-    "st": 16,
+    "st": 14,
     "ime": "Sara",
     "pri": "Iseinoski",
     "dat_roj": "1997-09-11T00:00:00Z",
@@ -8577,7 +8577,7 @@
   },
   {
     "zap_st": null,
-    "st": 17,
+    "st": 15,
     "ime": "Mojca",
     "pri": "Škrinjar",
     "dat_roj": "1955-11-30T00:00:00Z",
@@ -8594,7 +8594,7 @@
   },
   {
     "zap_st": null,
-    "st": 19,
+    "st": 17,
     "ime": "Blaž",
     "pri": "Zgaga",
     "dat_roj": "1973-09-26T00:00:00Z",
@@ -8611,7 +8611,7 @@
   },
   {
     "zap_st": null,
-    "st": 21,
+    "st": 19,
     "ime": "Urška",
     "pri": "Zgojznik",
     "dat_roj": "1980-08-01T00:00:00Z",
@@ -8646,7 +8646,7 @@
   },
   {
     "zap_st": null,
-    "st": 22,
+    "st": 20,
     "ime": "Damjan",
     "pri": "Gregorič",
     "dat_roj": "1980-09-22T00:00:00Z",
@@ -8801,7 +8801,7 @@
   },
   {
     "zap_st": null,
-    "st": 13,
+    "st": 12,
     "ime": "Marcela",
     "pri": "Uršič",
     "dat_roj": "1961-06-16T00:00:00Z",
@@ -8818,7 +8818,7 @@
   },
   {
     "zap_st": null,
-    "st": 16,
+    "st": 14,
     "ime": "Špela",
     "pri": "Jovanovič-Gaberšek",
     "dat_roj": "1984-03-08T00:00:00Z",
@@ -8835,7 +8835,7 @@
   },
   {
     "zap_st": null,
-    "st": 17,
+    "st": 15,
     "ime": "Davorin",
     "pri": "Kopše",
     "dat_roj": "1963-11-08T00:00:00Z",
@@ -8852,7 +8852,7 @@
   },
   {
     "zap_st": null,
-    "st": 19,
+    "st": 17,
     "ime": "Tanja",
     "pri": "Fajon",
     "dat_roj": "1971-05-09T00:00:00Z",
@@ -8869,7 +8869,7 @@
   },
   {
     "zap_st": null,
-    "st": 20,
+    "st": 18,
     "ime": "Maša",
     "pri": "Kociper",
     "dat_roj": "1972-07-17T00:00:00Z",
@@ -8886,7 +8886,7 @@
   },
   {
     "zap_st": null,
-    "st": 21,
+    "st": 19,
     "ime": "Saša",
     "pri": "Fras",
     "dat_roj": "1975-05-18T00:00:00Z",
@@ -8921,7 +8921,7 @@
   },
   {
     "zap_st": null,
-    "st": 15,
+    "st": 13,
     "ime": "Ratko",
     "pri": "Stojiljković",
     "dat_roj": "1980-04-21T00:00:00Z",
@@ -8939,7 +8939,7 @@
   },
   {
     "zap_st": null,
-    "st": 18,
+    "st": 16,
     "ime": "Dušan",
     "pri": "Dolar",
     "dat_roj": "1954-04-11T00:00:00Z",
@@ -9093,7 +9093,7 @@
   },
   {
     "zap_st": null,
-    "st": 13,
+    "st": 12,
     "ime": "Gašper",
     "pri": "Čižman",
     "dat_roj": "1995-07-09T00:00:00Z",
@@ -9110,7 +9110,7 @@
   },
   {
     "zap_st": null,
-    "st": 17,
+    "st": 15,
     "ime": "Ksenija",
     "pri": "Sever",
     "dat_roj": "1947-07-24T00:00:00Z",
@@ -9127,7 +9127,7 @@
   },
   {
     "zap_st": null,
-    "st": 19,
+    "st": 17,
     "ime": "Petra",
     "pri": "Doles",
     "dat_roj": "1996-04-26T00:00:00Z",
@@ -9144,7 +9144,7 @@
   },
   {
     "zap_st": null,
-    "st": 21,
+    "st": 19,
     "ime": "Nenad",
     "pri": "Đorđević",
     "dat_roj": "1963-09-24T00:00:00Z",
@@ -9161,7 +9161,7 @@
   },
   {
     "zap_st": null,
-    "st": 20,
+    "st": 18,
     "ime": "Mateja",
     "pri": "Logar",
     "dat_roj": "1970-02-07T00:00:00Z",
@@ -9179,7 +9179,7 @@
   },
   {
     "zap_st": null,
-    "st": 22,
+    "st": 20,
     "ime": "Tanja",
     "pri": "Nosan",
     "dat_roj": "1964-08-02T00:00:00Z",
@@ -9333,7 +9333,7 @@
   },
   {
     "zap_st": null,
-    "st": 13,
+    "st": 12,
     "ime": "Jože",
     "pri": "Podgoršek",
     "dat_roj": "1974-03-17T00:00:00Z",
@@ -9350,7 +9350,7 @@
   },
   {
     "zap_st": null,
-    "st": 16,
+    "st": 14,
     "ime": "Dragan",
     "pri": "Djukić",
     "dat_roj": "1955-11-01T00:00:00Z",
@@ -9367,7 +9367,7 @@
   },
   {
     "zap_st": null,
-    "st": 17,
+    "st": 15,
     "ime": "Leon",
     "pri": "Merjasec",
     "dat_roj": "1969-02-25T00:00:00Z",
@@ -9384,7 +9384,7 @@
   },
   {
     "zap_st": null,
-    "st": 19,
+    "st": 17,
     "ime": "Alenka",
     "pri": "Žavbi Kunaver",
     "dat_roj": "1973-10-29T00:00:00Z",
@@ -9401,7 +9401,7 @@
   },
   {
     "zap_st": null,
-    "st": 21,
+    "st": 19,
     "ime": "Gregor",
     "pri": "Gregorčič",
     "dat_roj": "1966-03-18T00:00:00Z",
@@ -9554,7 +9554,7 @@
   },
   {
     "zap_st": null,
-    "st": 13,
+    "st": 12,
     "ime": "Andrej",
     "pri": "Janša",
     "dat_roj": "1978-05-22T00:00:00Z",
@@ -9571,7 +9571,7 @@
   },
   {
     "zap_st": null,
-    "st": 16,
+    "st": 14,
     "ime": "Maja",
     "pri": "Klemen Cokan",
     "dat_roj": "1966-07-27T00:00:00Z",
@@ -9588,7 +9588,7 @@
   },
   {
     "zap_st": null,
-    "st": 17,
+    "st": 15,
     "ime": "Robert",
     "pri": "Tomazin",
     "dat_roj": "1971-03-27T00:00:00Z",
@@ -9605,7 +9605,7 @@
   },
   {
     "zap_st": null,
-    "st": 18,
+    "st": 16,
     "ime": "Alenka",
     "pri": "Jelenovič",
     "dat_roj": "1967-05-15T00:00:00Z",
@@ -9622,7 +9622,7 @@
   },
   {
     "zap_st": null,
-    "st": 19,
+    "st": 17,
     "ime": "Predrag",
     "pri": "Baković",
     "dat_roj": "1964-11-21T00:00:00Z",
@@ -9639,7 +9639,7 @@
   },
   {
     "zap_st": null,
-    "st": 20,
+    "st": 18,
     "ime": "Zlatko",
     "pri": "Ficko",
     "dat_roj": "1956-07-08T00:00:00Z",
@@ -9656,7 +9656,7 @@
   },
   {
     "zap_st": null,
-    "st": 21,
+    "st": 19,
     "ime": "Vanjo",
     "pri": "Grobljar",
     "dat_roj": "1962-12-14T00:00:00Z",
@@ -9673,7 +9673,7 @@
   },
   {
     "zap_st": null,
-    "st": 22,
+    "st": 20,
     "ime": "Ivanka",
     "pri": "Kostanjevec",
     "dat_roj": "1968-01-03T00:00:00Z",
@@ -9708,7 +9708,7 @@
   },
   {
     "zap_st": null,
-    "st": 15,
+    "st": 13,
     "ime": "Sofija Maša",
     "pri": "Božič",
     "dat_roj": "2001-03-16T00:00:00Z",
@@ -9897,7 +9897,7 @@
   },
   {
     "zap_st": null,
-    "st": 16,
+    "st": 14,
     "ime": "Kaja",
     "pri": "Galič",
     "dat_roj": "1997-01-01T00:00:00Z",
@@ -9914,7 +9914,7 @@
   },
   {
     "zap_st": null,
-    "st": 17,
+    "st": 15,
     "ime": "Jože",
     "pri": "Tanko",
     "dat_roj": "1956-04-16T00:00:00Z",
@@ -9931,7 +9931,7 @@
   },
   {
     "zap_st": null,
-    "st": 19,
+    "st": 17,
     "ime": "Alvina",
     "pri": "Bajrami",
     "dat_roj": "1989-08-06T00:00:00Z",
@@ -9948,7 +9948,7 @@
   },
   {
     "zap_st": null,
-    "st": 20,
+    "st": 18,
     "ime": "Robert",
     "pri": "Latin",
     "dat_roj": "1976-10-07T00:00:00Z",
@@ -9965,7 +9965,7 @@
   },
   {
     "zap_st": null,
-    "st": 21,
+    "st": 19,
     "ime": "Natali",
     "pri": "Kriletić",
     "dat_roj": "1965-11-20T00:00:00Z",
@@ -9982,7 +9982,7 @@
   },
   {
     "zap_st": null,
-    "st": 15,
+    "st": 13,
     "ime": "Ines",
     "pri": "Stamejčič",
     "dat_roj": "1997-07-29T00:00:00Z",
@@ -10000,7 +10000,7 @@
   },
   {
     "zap_st": null,
-    "st": 22,
+    "st": 20,
     "ime": "Leja",
     "pri": "Kralj",
     "dat_roj": "1996-02-25T00:00:00Z",
@@ -10018,7 +10018,7 @@
   },
   {
     "zap_st": null,
-    "st": 18,
+    "st": 16,
     "ime": "Tina",
     "pri": "Vrenko",
     "dat_roj": "1986-05-21T00:00:00Z",
@@ -10036,7 +10036,7 @@
   },
   {
     "zap_st": null,
-    "st": 13,
+    "st": 12,
     "ime": "Janez",
     "pri": "Cigler Kralj",
     "dat_roj": "1978-12-28T00:00:00Z",
@@ -10207,7 +10207,7 @@
   },
   {
     "zap_st": null,
-    "st": 13,
+    "st": 12,
     "ime": "Mojca",
     "pri": "Gruden",
     "dat_roj": "1976-05-09T00:00:00Z",
@@ -10224,7 +10224,7 @@
   },
   {
     "zap_st": null,
-    "st": 16,
+    "st": 14,
     "ime": "Peter",
     "pri": "Gašperšič",
     "dat_roj": "1965-09-19T00:00:00Z",
@@ -10241,7 +10241,7 @@
   },
   {
     "zap_st": null,
-    "st": 19,
+    "st": 17,
     "ime": "Miloš",
     "pri": "Kosić",
     "dat_roj": "1980-07-01T00:00:00Z",
@@ -10258,7 +10258,7 @@
   },
   {
     "zap_st": null,
-    "st": 20,
+    "st": 18,
     "ime": "Radovana",
     "pri": "Kostadinović",
     "dat_roj": "1952-03-23T00:00:00Z",
@@ -10275,7 +10275,7 @@
   },
   {
     "zap_st": null,
-    "st": 21,
+    "st": 19,
     "ime": "Gorazd",
     "pri": "Bernik",
     "dat_roj": "1965-05-04T00:00:00Z",
@@ -10310,7 +10310,7 @@
   },
   {
     "zap_st": null,
-    "st": 17,
+    "st": 15,
     "ime": "Janez (Ivan)",
     "pri": "Janša",
     "dat_roj": "1958-09-17T00:00:00Z",
@@ -10328,7 +10328,7 @@
   },
   {
     "zap_st": null,
-    "st": 18,
+    "st": 16,
     "ime": "Franc",
     "pri": "Mišič",
     "dat_roj": "1965-01-05T00:00:00Z",
@@ -10482,7 +10482,7 @@
   },
   {
     "zap_st": null,
-    "st": 13,
+    "st": 12,
     "ime": "Julija",
     "pri": "Humar",
     "dat_roj": "1991-06-19T00:00:00Z",
@@ -10499,7 +10499,7 @@
   },
   {
     "zap_st": null,
-    "st": 16,
+    "st": 14,
     "ime": "Nina",
     "pri": "Strah",
     "dat_roj": "1992-05-02T00:00:00Z",
@@ -10516,7 +10516,7 @@
   },
   {
     "zap_st": null,
-    "st": 19,
+    "st": 17,
     "ime": "Mojca",
     "pri": "Cvetek",
     "dat_roj": "1978-12-22T00:00:00Z",
@@ -10533,7 +10533,7 @@
   },
   {
     "zap_st": null,
-    "st": 20,
+    "st": 18,
     "ime": "Marinka",
     "pri": "Levičar",
     "dat_roj": "1951-07-05T00:00:00Z",
@@ -10550,7 +10550,7 @@
   },
   {
     "zap_st": null,
-    "st": 21,
+    "st": 19,
     "ime": "Barbara",
     "pri": "Šimenc",
     "dat_roj": "1976-07-20T00:00:00Z",
@@ -10567,7 +10567,7 @@
   },
   {
     "zap_st": null,
-    "st": 22,
+    "st": 20,
     "ime": "Boštjan",
     "pri": "Krajnc",
     "dat_roj": "1979-06-27T00:00:00Z",
@@ -10738,7 +10738,7 @@
   },
   {
     "zap_st": null,
-    "st": 13,
+    "st": 12,
     "ime": "Igor",
     "pri": "Pigac",
     "dat_roj": "1981-08-06T00:00:00Z",
@@ -10755,7 +10755,7 @@
   },
   {
     "zap_st": null,
-    "st": 16,
+    "st": 14,
     "ime": "Oto",
     "pri": "Pestner",
     "dat_roj": "1956-01-04T00:00:00Z",
@@ -10772,7 +10772,7 @@
   },
   {
     "zap_st": null,
-    "st": 17,
+    "st": 15,
     "ime": "Maruša",
     "pri": "Babnik",
     "dat_roj": "1977-03-09T00:00:00Z",
@@ -10789,7 +10789,7 @@
   },
   {
     "zap_st": null,
-    "st": 19,
+    "st": 17,
     "ime": "Nataša",
     "pri": "Bombač",
     "dat_roj": "1973-06-15T00:00:00Z",
@@ -10806,7 +10806,7 @@
   },
   {
     "zap_st": null,
-    "st": 20,
+    "st": 18,
     "ime": "Nina",
     "pri": "Petrić",
     "dat_roj": "1975-02-22T00:00:00Z",
@@ -10823,7 +10823,7 @@
   },
   {
     "zap_st": null,
-    "st": 21,
+    "st": 19,
     "ime": "Velimir",
     "pri": "Živković",
     "dat_roj": "1978-01-03T00:00:00Z",
@@ -10840,7 +10840,7 @@
   },
   {
     "zap_st": null,
-    "st": 22,
+    "st": 20,
     "ime": "Valter Gregor",
     "pri": "Oprešnik",
     "dat_roj": "1978-08-28T00:00:00Z",
@@ -10875,7 +10875,7 @@
   },
   {
     "zap_st": null,
-    "st": 18,
+    "st": 16,
     "ime": "Erika",
     "pri": "Brumen",
     "dat_roj": "1962-03-23T00:00:00Z",
@@ -10893,7 +10893,7 @@
   },
   {
     "zap_st": null,
-    "st": 15,
+    "st": 13,
     "ime": "Andraž",
     "pri": "Vrhovec",
     "dat_roj": "1989-10-06T00:00:00Z",
@@ -11064,7 +11064,7 @@
   },
   {
     "zap_st": null,
-    "st": 13,
+    "st": 12,
     "ime": "Mateja",
     "pri": "Ribič",
     "dat_roj": "1977-09-06T00:00:00Z",
@@ -11081,7 +11081,7 @@
   },
   {
     "zap_st": null,
-    "st": 16,
+    "st": 14,
     "ime": "Luj",
     "pri": "Šprohar",
     "dat_roj": "1952-08-14T00:00:00Z",
@@ -11098,7 +11098,7 @@
   },
   {
     "zap_st": null,
-    "st": 17,
+    "st": 15,
     "ime": "Igor",
     "pri": "Horvat",
     "dat_roj": "1973-10-09T00:00:00Z",
@@ -11115,7 +11115,7 @@
   },
   {
     "zap_st": null,
-    "st": 19,
+    "st": 17,
     "ime": "Dejan",
     "pri": "Prešiček",
     "dat_roj": "1970-12-21T00:00:00Z",
@@ -11132,7 +11132,7 @@
   },
   {
     "zap_st": null,
-    "st": 21,
+    "st": 19,
     "ime": "Luka",
     "pri": "Florjanc",
     "dat_roj": "1972-07-08T00:00:00Z",
@@ -11149,7 +11149,7 @@
   },
   {
     "zap_st": null,
-    "st": 15,
+    "st": 13,
     "ime": "Žiga",
     "pri": "Šubic",
     "dat_roj": "1980-09-14T00:00:00Z",
@@ -11167,7 +11167,7 @@
   },
   {
     "zap_st": null,
-    "st": 20,
+    "st": 18,
     "ime": "Jernej",
     "pri": "Pavlič",
     "dat_roj": "1984-01-18T00:00:00Z",
@@ -11185,7 +11185,7 @@
   },
   {
     "zap_st": null,
-    "st": 22,
+    "st": 20,
     "ime": "Borut",
     "pri": "Bevc",
     "dat_roj": "1950-10-27T00:00:00Z",
@@ -11339,7 +11339,7 @@
   },
   {
     "zap_st": null,
-    "st": 13,
+    "st": 12,
     "ime": "Janez",
     "pri": "Novljan",
     "dat_roj": "1995-06-28T00:00:00Z",
@@ -11356,7 +11356,7 @@
   },
   {
     "zap_st": null,
-    "st": 16,
+    "st": 14,
     "ime": "Ksenija",
     "pri": "Flegar",
     "dat_roj": "1983-03-11T00:00:00Z",
@@ -11373,7 +11373,7 @@
   },
   {
     "zap_st": null,
-    "st": 17,
+    "st": 15,
     "ime": "Ida",
     "pri": "Medved",
     "dat_roj": "1955-02-09T00:00:00Z",
@@ -11390,7 +11390,7 @@
   },
   {
     "zap_st": null,
-    "st": 19,
+    "st": 17,
     "ime": "Igor",
     "pri": "Šoltes",
     "dat_roj": "1964-08-22T00:00:00Z",
@@ -11407,7 +11407,7 @@
   },
   {
     "zap_st": null,
-    "st": 21,
+    "st": 19,
     "ime": "Saša",
     "pri": "Đorđević",
     "dat_roj": "1979-08-26T00:00:00Z",
@@ -11424,7 +11424,7 @@
   },
   {
     "zap_st": null,
-    "st": 22,
+    "st": 20,
     "ime": "Maja",
     "pri": "Penko",
     "dat_roj": "1973-04-18T00:00:00Z",
@@ -11478,7 +11478,7 @@
   },
   {
     "zap_st": null,
-    "st": 20,
+    "st": 18,
     "ime": "Angelika Rosa",
     "pri": "Mlinar",
     "dat_roj": "1970-06-29T00:00:00Z",
@@ -11649,7 +11649,7 @@
   },
   {
     "zap_st": null,
-    "st": 13,
+    "st": 12,
     "ime": "Jožef",
     "pri": "Horvat",
     "dat_roj": "1965-02-03T00:00:00Z",
@@ -11666,7 +11666,7 @@
   },
   {
     "zap_st": null,
-    "st": 16,
+    "st": 14,
     "ime": "Dušan",
     "pri": "Verbič",
     "dat_roj": "1952-09-13T00:00:00Z",
@@ -11683,7 +11683,7 @@
   },
   {
     "zap_st": null,
-    "st": 17,
+    "st": 15,
     "ime": "Klavdija",
     "pri": "Operčkal",
     "dat_roj": "1985-09-09T00:00:00Z",
@@ -11700,7 +11700,7 @@
   },
   {
     "zap_st": null,
-    "st": 19,
+    "st": 17,
     "ime": "Petra",
     "pri": "Culetto",
     "dat_roj": "1982-07-27T00:00:00Z",
@@ -11717,7 +11717,7 @@
   },
   {
     "zap_st": null,
-    "st": 21,
+    "st": 19,
     "ime": "Petra",
     "pri": "Stegel",
     "dat_roj": "1977-09-08T00:00:00Z",
@@ -11752,7 +11752,7 @@
   },
   {
     "zap_st": null,
-    "st": 15,
+    "st": 13,
     "ime": "Matic Leon",
     "pri": "Božič",
     "dat_roj": "1996-05-17T00:00:00Z",
@@ -11770,7 +11770,7 @@
   },
   {
     "zap_st": null,
-    "st": 18,
+    "st": 16,
     "ime": "Sonny",
     "pri": "Beronja",
     "dat_roj": "1959-12-20T00:00:00Z",
@@ -11890,7 +11890,7 @@
   },
   {
     "zap_st": null,
-    "st": 13,
+    "st": 12,
     "ime": "Karolina",
     "pri": "Korenčan",
     "dat_roj": "1964-07-26T00:00:00Z",
@@ -11907,7 +11907,7 @@
   },
   {
     "zap_st": null,
-    "st": 16,
+    "st": 14,
     "ime": "Simon",
     "pri": "Zajc",
     "dat_roj": "1980-06-25T00:00:00Z",
@@ -11924,7 +11924,7 @@
   },
   {
     "zap_st": null,
-    "st": 17,
+    "st": 15,
     "ime": "Zvone",
     "pri": "Čadež",
     "dat_roj": "1966-12-04T00:00:00Z",
@@ -11941,7 +11941,7 @@
   },
   {
     "zap_st": null,
-    "st": 19,
+    "st": 17,
     "ime": "Milan Martin",
     "pri": "Cvikl",
     "dat_roj": "1959-05-19T00:00:00Z",
@@ -11958,7 +11958,7 @@
   },
   {
     "zap_st": null,
-    "st": 21,
+    "st": 19,
     "ime": "Uroš",
     "pri": "Macerl",
     "dat_roj": "1968-07-04T00:00:00Z",
@@ -11975,7 +11975,7 @@
   },
   {
     "zap_st": null,
-    "st": 22,
+    "st": 20,
     "ime": "Anita",
     "pri": "Jeruc",
     "dat_roj": "1959-05-01T00:00:00Z",
@@ -12128,7 +12128,7 @@
   },
   {
     "zap_st": null,
-    "st": 16,
+    "st": 14,
     "ime": "Milan",
     "pri": "Balažic",
     "dat_roj": "1958-10-19T00:00:00Z",
@@ -12145,7 +12145,7 @@
   },
   {
     "zap_st": null,
-    "st": 17,
+    "st": 15,
     "ime": "Rado",
     "pri": "Gladek",
     "dat_roj": "1967-05-26T00:00:00Z",
@@ -12162,7 +12162,7 @@
   },
   {
     "zap_st": null,
-    "st": 19,
+    "st": 17,
     "ime": "Marko",
     "pri": "Skušek",
     "dat_roj": "1964-06-02T00:00:00Z",
@@ -12179,7 +12179,7 @@
   },
   {
     "zap_st": null,
-    "st": 20,
+    "st": 18,
     "ime": "Majda",
     "pri": "Debelec",
     "dat_roj": "1956-05-09T00:00:00Z",
@@ -12196,7 +12196,7 @@
   },
   {
     "zap_st": null,
-    "st": 21,
+    "st": 19,
     "ime": "Andreja",
     "pri": "Marolt",
     "dat_roj": "1973-10-21T00:00:00Z",
@@ -12213,7 +12213,7 @@
   },
   {
     "zap_st": null,
-    "st": 22,
+    "st": 20,
     "ime": "Gorazd",
     "pri": "Rejc",
     "dat_roj": "1970-10-23T00:00:00Z",
@@ -12266,7 +12266,7 @@
   },
   {
     "zap_st": null,
-    "st": 18,
+    "st": 16,
     "ime": "Matjaž",
     "pri": "Perše",
     "dat_roj": "1963-03-09T00:00:00Z",
@@ -12420,7 +12420,7 @@
   },
   {
     "zap_st": null,
-    "st": 13,
+    "st": 12,
     "ime": "Tadeja",
     "pri": "Šuštar Zalar",
     "dat_roj": "1990-09-14T00:00:00Z",
@@ -12437,7 +12437,7 @@
   },
   {
     "zap_st": null,
-    "st": 15,
+    "st": 13,
     "ime": "Urška",
     "pri": "Orehek",
     "dat_roj": "1969-03-15T00:00:00Z",
@@ -12454,7 +12454,7 @@
   },
   {
     "zap_st": null,
-    "st": 16,
+    "st": 14,
     "ime": "Tomaž",
     "pri": "Štebe",
     "dat_roj": "1950-02-15T00:00:00Z",
@@ -12471,7 +12471,7 @@
   },
   {
     "zap_st": null,
-    "st": 17,
+    "st": 15,
     "ime": "Julija",
     "pri": "Herle",
     "dat_roj": "1975-11-22T00:00:00Z",
@@ -12488,7 +12488,7 @@
   },
   {
     "zap_st": null,
-    "st": 19,
+    "st": 17,
     "ime": "Ganimet",
     "pri": "Shala",
     "dat_roj": "1975-01-03T00:00:00Z",
@@ -12505,7 +12505,7 @@
   },
   {
     "zap_st": null,
-    "st": 20,
+    "st": 18,
     "ime": "Bojan",
     "pri": "Arh",
     "dat_roj": "1957-11-07T00:00:00Z",
@@ -12522,7 +12522,7 @@
   },
   {
     "zap_st": null,
-    "st": 21,
+    "st": 19,
     "ime": "Tanja",
     "pri": "Mrkun",
     "dat_roj": "1985-10-12T00:00:00Z",
@@ -12675,7 +12675,7 @@
   },
   {
     "zap_st": 5,
-    "st": 13,
+    "st": 12,
     "ime": "Cirila",
     "pri": "Lavbič",
     "dat_roj": "1968-03-18T00:00:00Z",
@@ -12692,7 +12692,7 @@
   },
   {
     "zap_st": 8,
-    "st": 15,
+    "st": 13,
     "ime": "Maj",
     "pri": "Antešić",
     "dat_roj": "1996-04-25T00:00:00Z",
@@ -12709,7 +12709,7 @@
   },
   {
     "zap_st": 19,
-    "st": 16,
+    "st": 14,
     "ime": "Tina",
     "pri": "Bregant",
     "dat_roj": "1975-11-16T00:00:00Z",
@@ -12726,7 +12726,7 @@
   },
   {
     "zap_st": 3,
-    "st": 17,
+    "st": 15,
     "ime": "Jelka",
     "pri": "Godec",
     "dat_roj": "1969-11-21T00:00:00Z",
@@ -12743,7 +12743,7 @@
   },
   {
     "zap_st": 4,
-    "st": 18,
+    "st": 16,
     "ime": "Robert",
     "pri": "Polnar",
     "dat_roj": "1960-12-01T00:00:00Z",
@@ -12760,7 +12760,7 @@
   },
   {
     "zap_st": 14,
-    "st": 19,
+    "st": 17,
     "ime": "Polona",
     "pri": "Bajt",
     "dat_roj": "1985-06-03T00:00:00Z",
@@ -12777,7 +12777,7 @@
   },
   {
     "zap_st": 17,
-    "st": 20,
+    "st": 18,
     "ime": "Blaž",
     "pri": "Kolar",
     "dat_roj": "1971-01-22T00:00:00Z",
@@ -12794,7 +12794,7 @@
   },
   {
     "zap_st": 11,
-    "st": 21,
+    "st": 19,
     "ime": "Ibrahim",
     "pri": "Nouhoum",
     "dat_roj": "1959-07-09T00:00:00Z",
@@ -12811,7 +12811,7 @@
   },
   {
     "zap_st": 7,
-    "st": 22,
+    "st": 20,
     "ime": "Roman",
     "pri": "Zalokar",
     "dat_roj": "1967-06-18T00:00:00Z",
@@ -13000,7 +13000,7 @@
   },
   {
     "zap_st": 5,
-    "st": 13,
+    "st": 12,
     "ime": "Primož",
     "pri": "Slakan",
     "dat_roj": "1979-01-14T00:00:00Z",
@@ -13017,7 +13017,7 @@
   },
   {
     "zap_st": 19,
-    "st": 16,
+    "st": 14,
     "ime": "Roman",
     "pri": "Pungartnik",
     "dat_roj": "1971-05-16T00:00:00Z",
@@ -13034,7 +13034,7 @@
   },
   {
     "zap_st": 3,
-    "st": 17,
+    "st": 15,
     "ime": "Damjan",
     "pri": "Muzel",
     "dat_roj": "1990-05-24T00:00:00Z",
@@ -13051,7 +13051,7 @@
   },
   {
     "zap_st": 14,
-    "st": 19,
+    "st": 17,
     "ime": "Martina",
     "pri": "Strniša",
     "dat_roj": "1981-11-01T00:00:00Z",
@@ -13068,7 +13068,7 @@
   },
   {
     "zap_st": 17,
-    "st": 20,
+    "st": 18,
     "ime": "Bojan",
     "pri": "Bračun",
     "dat_roj": "1960-02-17T00:00:00Z",
@@ -13085,7 +13085,7 @@
   },
   {
     "zap_st": 11,
-    "st": 21,
+    "st": 19,
     "ime": "Edi",
     "pri": "Einspieler",
     "dat_roj": "1961-04-27T00:00:00Z",
@@ -13120,7 +13120,7 @@
   },
   {
     "zap_st": 4,
-    "st": 18,
+    "st": 16,
     "ime": "Konrad",
     "pri": "Križanec",
     "dat_roj": "1958-07-14T00:00:00Z",
@@ -13138,7 +13138,7 @@
   },
   {
     "zap_st": 7,
-    "st": 22,
+    "st": 20,
     "ime": "Marko",
     "pri": "Kramer",
     "dat_roj": "1974-12-26T00:00:00Z",
@@ -13156,7 +13156,7 @@
   },
   {
     "zap_st": 8,
-    "st": 15,
+    "st": 13,
     "ime": "Maja",
     "pri": "Šaver",
     "dat_roj": "1993-01-02T00:00:00Z",
@@ -13293,7 +13293,7 @@
   },
   {
     "zap_st": 5,
-    "st": 13,
+    "st": 12,
     "ime": "Nataša",
     "pri": "Brežnik",
     "dat_roj": "1976-10-05T00:00:00Z",
@@ -13310,7 +13310,7 @@
   },
   {
     "zap_st": 19,
-    "st": 16,
+    "st": 14,
     "ime": "Polona",
     "pri": "Rifelj",
     "dat_roj": "1973-08-30T00:00:00Z",
@@ -13327,7 +13327,7 @@
   },
   {
     "zap_st": 3,
-    "st": 17,
+    "st": 15,
     "ime": "Marjan",
     "pri": "Ferjanc",
     "dat_roj": "1956-06-15T00:00:00Z",
@@ -13344,7 +13344,7 @@
   },
   {
     "zap_st": 14,
-    "st": 19,
+    "st": 17,
     "ime": "Luka",
     "pri": "Goršek",
     "dat_roj": "1993-02-08T00:00:00Z",
@@ -13361,7 +13361,7 @@
   },
   {
     "zap_st": 17,
-    "st": 20,
+    "st": 18,
     "ime": "Vojko",
     "pri": "Starović",
     "dat_roj": "1952-01-20T00:00:00Z",
@@ -13378,7 +13378,7 @@
   },
   {
     "zap_st": 11,
-    "st": 21,
+    "st": 19,
     "ime": "Nejc",
     "pri": "Gajšek",
     "dat_roj": "1991-10-18T00:00:00Z",
@@ -13395,7 +13395,7 @@
   },
   {
     "zap_st": 8,
-    "st": 15,
+    "st": 13,
     "ime": "Sebastjan",
     "pri": "Zupin",
     "dat_roj": "1996-11-02T00:00:00Z",
@@ -13534,7 +13534,7 @@
   },
   {
     "zap_st": 5,
-    "st": 13,
+    "st": 12,
     "ime": "Jože",
     "pri": "Kužnik",
     "dat_roj": "1973-03-06T00:00:00Z",
@@ -13551,7 +13551,7 @@
   },
   {
     "zap_st": 19,
-    "st": 16,
+    "st": 14,
     "ime": "Urška",
     "pri": "Žolnir Jugovar",
     "dat_roj": "1981-10-09T00:00:00Z",
@@ -13568,7 +13568,7 @@
   },
   {
     "zap_st": 3,
-    "st": 17,
+    "st": 15,
     "ime": "Lidija",
     "pri": "Ivanuša",
     "dat_roj": "1979-01-03T00:00:00Z",
@@ -13585,7 +13585,7 @@
   },
   {
     "zap_st": 4,
-    "st": 18,
+    "st": 16,
     "ime": "Suzana",
     "pri": "Gajšek",
     "dat_roj": "1982-04-26T00:00:00Z",
@@ -13602,7 +13602,7 @@
   },
   {
     "zap_st": 14,
-    "st": 19,
+    "st": 17,
     "ime": "Nina",
     "pri": "Plaskan",
     "dat_roj": "1977-05-25T00:00:00Z",
@@ -13619,7 +13619,7 @@
   },
   {
     "zap_st": 17,
-    "st": 20,
+    "st": 18,
     "ime": "Jožef",
     "pri": "Ribič",
     "dat_roj": "1959-09-19T00:00:00Z",
@@ -13636,7 +13636,7 @@
   },
   {
     "zap_st": 11,
-    "st": 21,
+    "st": 19,
     "ime": "Mihaela",
     "pri": "Anclin",
     "dat_roj": "1977-02-21T00:00:00Z",
@@ -13653,7 +13653,7 @@
   },
   {
     "zap_st": 7,
-    "st": 22,
+    "st": 20,
     "ime": "Esmeralda",
     "pri": "Vidmar",
     "dat_roj": "1976-06-25T00:00:00Z",
@@ -13878,7 +13878,7 @@
   },
   {
     "zap_st": 5,
-    "st": 13,
+    "st": 12,
     "ime": "Aleksander",
     "pri": "Reberšek",
     "dat_roj": "1980-10-09T00:00:00Z",
@@ -13895,7 +13895,7 @@
   },
   {
     "zap_st": 19,
-    "st": 16,
+    "st": 14,
     "ime": "Sebastijan",
     "pri": "Kamenik",
     "dat_roj": "1979-01-19T00:00:00Z",
@@ -13912,7 +13912,7 @@
   },
   {
     "zap_st": 3,
-    "st": 17,
+    "st": 15,
     "ime": "Dragica",
     "pri": "Sternad Pražnikar",
     "dat_roj": "1974-09-06T00:00:00Z",
@@ -13929,7 +13929,7 @@
   },
   {
     "zap_st": 4,
-    "st": 18,
+    "st": 16,
     "ime": "Staša",
     "pri": "Moškotevc",
     "dat_roj": "1988-02-02T00:00:00Z",
@@ -13946,7 +13946,7 @@
   },
   {
     "zap_st": 14,
-    "st": 19,
+    "st": 17,
     "ime": "Marko",
     "pri": "Repnik",
     "dat_roj": "1978-04-03T00:00:00Z",
@@ -13963,7 +13963,7 @@
   },
   {
     "zap_st": 17,
-    "st": 20,
+    "st": 18,
     "ime": "Tanja",
     "pri": "Basle",
     "dat_roj": "1965-09-19T00:00:00Z",
@@ -13980,7 +13980,7 @@
   },
   {
     "zap_st": 11,
-    "st": 21,
+    "st": 19,
     "ime": "Urška",
     "pri": "Repar",
     "dat_roj": "1988-08-13T00:00:00Z",
@@ -13997,7 +13997,7 @@
   },
   {
     "zap_st": 7,
-    "st": 22,
+    "st": 20,
     "ime": "Andrej",
     "pri": "Golenač",
     "dat_roj": "1983-01-06T00:00:00Z",
@@ -14134,7 +14134,7 @@
   },
   {
     "zap_st": 5,
-    "st": 13,
+    "st": 12,
     "ime": "Klemen",
     "pri": "Matk",
     "dat_roj": "1974-04-10T00:00:00Z",
@@ -14151,7 +14151,7 @@
   },
   {
     "zap_st": 19,
-    "st": 16,
+    "st": 14,
     "ime": "Jakob",
     "pri": "Presečnik",
     "dat_roj": "1948-07-23T00:00:00Z",
@@ -14168,7 +14168,7 @@
   },
   {
     "zap_st": 3,
-    "st": 17,
+    "st": 15,
     "ime": "Jožef",
     "pri": "Jelen",
     "dat_roj": "1964-04-30T00:00:00Z",
@@ -14185,7 +14185,7 @@
   },
   {
     "zap_st": 4,
-    "st": 18,
+    "st": 16,
     "ime": "Primož",
     "pri": "Vengušt",
     "dat_roj": "1979-07-02T00:00:00Z",
@@ -14202,7 +14202,7 @@
   },
   {
     "zap_st": 14,
-    "st": 19,
+    "st": 17,
     "ime": "Mark",
     "pri": "Molnar",
     "dat_roj": "1987-10-17T00:00:00Z",
@@ -14219,7 +14219,7 @@
   },
   {
     "zap_st": 17,
-    "st": 20,
+    "st": 18,
     "ime": "Marija Antonija",
     "pri": "Kovačič",
     "dat_roj": "1946-03-11T00:00:00Z",
@@ -14236,7 +14236,7 @@
   },
   {
     "zap_st": 11,
-    "st": 21,
+    "st": 19,
     "ime": "Luka",
     "pri": "Zgojznik",
     "dat_roj": "1982-04-25T00:00:00Z",
@@ -14289,7 +14289,7 @@
   },
   {
     "zap_st": 8,
-    "st": 15,
+    "st": 13,
     "ime": "Jasmina",
     "pri": "Feratović",
     "dat_roj": "1988-05-15T00:00:00Z",
@@ -14307,7 +14307,7 @@
   },
   {
     "zap_st": 7,
-    "st": 22,
+    "st": 20,
     "ime": "Jure",
     "pri": "Podergajs",
     "dat_roj": "1978-11-05T00:00:00Z",
@@ -14444,7 +14444,7 @@
   },
   {
     "zap_st": 5,
-    "st": 13,
+    "st": 12,
     "ime": "Veronika",
     "pri": "Juvan",
     "dat_roj": "1978-06-28T00:00:00Z",
@@ -14461,7 +14461,7 @@
   },
   {
     "zap_st": 19,
-    "st": 16,
+    "st": 14,
     "ime": "Darko",
     "pri": "Koželj",
     "dat_roj": "1958-07-31T00:00:00Z",
@@ -14478,7 +14478,7 @@
   },
   {
     "zap_st": 3,
-    "st": 17,
+    "st": 15,
     "ime": "Simon",
     "pri": "Dobaj",
     "dat_roj": "1970-08-01T00:00:00Z",
@@ -14495,7 +14495,7 @@
   },
   {
     "zap_st": 4,
-    "st": 18,
+    "st": 16,
     "ime": "Tjaša",
     "pri": "Založnik",
     "dat_roj": "1991-06-18T00:00:00Z",
@@ -14512,7 +14512,7 @@
   },
   {
     "zap_st": 14,
-    "st": 19,
+    "st": 17,
     "ime": "Andreja",
     "pri": "Katič",
     "dat_roj": "1969-12-22T00:00:00Z",
@@ -14529,7 +14529,7 @@
   },
   {
     "zap_st": 17,
-    "st": 20,
+    "st": 18,
     "ime": "Darja",
     "pri": "Štraus",
     "dat_roj": "1967-10-30T00:00:00Z",
@@ -14546,7 +14546,7 @@
   },
   {
     "zap_st": 11,
-    "st": 21,
+    "st": 19,
     "ime": "Jasminka",
     "pri": "Dedić",
     "dat_roj": "1975-09-05T00:00:00Z",
@@ -14599,7 +14599,7 @@
   },
   {
     "zap_st": 8,
-    "st": 15,
+    "st": 13,
     "ime": "Ula",
     "pri": "Matek",
     "dat_roj": "1998-12-05T00:00:00Z",
@@ -14617,7 +14617,7 @@
   },
   {
     "zap_st": 7,
-    "st": 22,
+    "st": 20,
     "ime": "Nika",
     "pri": "Bidar",
     "dat_roj": "1999-03-27T00:00:00Z",
@@ -14737,7 +14737,7 @@
   },
   {
     "zap_st": 5,
-    "st": 13,
+    "st": 12,
     "ime": "Mitja",
     "pri": "Ločičnik",
     "dat_roj": "1987-01-23T00:00:00Z",
@@ -14754,7 +14754,7 @@
   },
   {
     "zap_st": 19,
-    "st": 16,
+    "st": 14,
     "ime": "Matic",
     "pri": "Mežnar",
     "dat_roj": "1988-01-20T00:00:00Z",
@@ -14771,7 +14771,7 @@
   },
   {
     "zap_st": 3,
-    "st": 17,
+    "st": 15,
     "ime": "Franc",
     "pri": "Rosec",
     "dat_roj": "1967-10-28T00:00:00Z",
@@ -14788,7 +14788,7 @@
   },
   {
     "zap_st": 4,
-    "st": 18,
+    "st": 16,
     "ime": "Matevž",
     "pri": "Perovec",
     "dat_roj": "1980-03-11T00:00:00Z",
@@ -14805,7 +14805,7 @@
   },
   {
     "zap_st": 14,
-    "st": 19,
+    "st": 17,
     "ime": "Janja",
     "pri": "Rednjak",
     "dat_roj": "1966-05-21T00:00:00Z",
@@ -14822,7 +14822,7 @@
   },
   {
     "zap_st": 17,
-    "st": 20,
+    "st": 18,
     "ime": "Franc",
     "pri": "Vedenik",
     "dat_roj": "1953-03-18T00:00:00Z",
@@ -14839,7 +14839,7 @@
   },
   {
     "zap_st": 11,
-    "st": 21,
+    "st": 19,
     "ime": "Sabina",
     "pri": "Fetić",
     "dat_roj": "1982-12-05T00:00:00Z",
@@ -14975,7 +14975,7 @@
   },
   {
     "zap_st": 5,
-    "st": 13,
+    "st": 12,
     "ime": "Igor",
     "pri": "Jeram",
     "dat_roj": "1969-10-01T00:00:00Z",
@@ -14992,7 +14992,7 @@
   },
   {
     "zap_st": 19,
-    "st": 16,
+    "st": 14,
     "ime": "Ivan",
     "pri": "Meh",
     "dat_roj": "1964-05-09T00:00:00Z",
@@ -15009,7 +15009,7 @@
   },
   {
     "zap_st": 3,
-    "st": 17,
+    "st": 15,
     "ime": "Boštjan",
     "pri": "Konečnik",
     "dat_roj": "1974-10-28T00:00:00Z",
@@ -15026,7 +15026,7 @@
   },
   {
     "zap_st": 14,
-    "st": 19,
+    "st": 17,
     "ime": "Sebastjan",
     "pri": "Zbičajnik",
     "dat_roj": "1975-01-03T00:00:00Z",
@@ -15043,7 +15043,7 @@
   },
   {
     "zap_st": 17,
-    "st": 20,
+    "st": 18,
     "ime": "Miha",
     "pri": "Prapotnik",
     "dat_roj": "1970-04-11T00:00:00Z",
@@ -15060,7 +15060,7 @@
   },
   {
     "zap_st": 11,
-    "st": 21,
+    "st": 19,
     "ime": "Davor",
     "pri": "Pečnik",
     "dat_roj": "1987-11-28T00:00:00Z",
@@ -15113,7 +15113,7 @@
   },
   {
     "zap_st": 8,
-    "st": 15,
+    "st": 13,
     "ime": "Nejc",
     "pri": "Gašper",
     "dat_roj": "1985-08-18T00:00:00Z",
@@ -15131,7 +15131,7 @@
   },
   {
     "zap_st": 4,
-    "st": 18,
+    "st": 16,
     "ime": "Marijana",
     "pri": "Kresnik",
     "dat_roj": "1961-10-24T00:00:00Z",
@@ -15149,7 +15149,7 @@
   },
   {
     "zap_st": 7,
-    "st": 22,
+    "st": 20,
     "ime": "Maša",
     "pri": "Brzin",
     "dat_roj": "2001-05-12T00:00:00Z",
@@ -15287,7 +15287,7 @@
   },
   {
     "zap_st": 5,
-    "st": 13,
+    "st": 12,
     "ime": "Mojca",
     "pri": "Erjavec",
     "dat_roj": "1980-09-01T00:00:00Z",
@@ -15304,7 +15304,7 @@
   },
   {
     "zap_st": 19,
-    "st": 16,
+    "st": 14,
     "ime": "Erika",
     "pri": "Mubi Smolak",
     "dat_roj": "1981-01-30T00:00:00Z",
@@ -15321,7 +15321,7 @@
   },
   {
     "zap_st": 3,
-    "st": 17,
+    "st": 15,
     "ime": "Stašo",
     "pri": "Lodrant",
     "dat_roj": "1985-08-18T00:00:00Z",
@@ -15338,7 +15338,7 @@
   },
   {
     "zap_st": 14,
-    "st": 19,
+    "st": 17,
     "ime": "Jani",
     "pri": "Prednik",
     "dat_roj": "1987-04-07T00:00:00Z",
@@ -15355,7 +15355,7 @@
   },
   {
     "zap_st": 17,
-    "st": 20,
+    "st": 18,
     "ime": "Nina",
     "pri": "Mauhler",
     "dat_roj": "1972-01-19T00:00:00Z",
@@ -15372,7 +15372,7 @@
   },
   {
     "zap_st": 11,
-    "st": 21,
+    "st": 19,
     "ime": "Zoran",
     "pri": "Rožič",
     "dat_roj": "1964-12-27T00:00:00Z",
@@ -15525,7 +15525,7 @@
   },
   {
     "zap_st": 5,
-    "st": 13,
+    "st": 12,
     "ime": "Marijana",
     "pri": "Cigala",
     "dat_roj": "1962-01-09T00:00:00Z",
@@ -15542,7 +15542,7 @@
   },
   {
     "zap_st": 19,
-    "st": 16,
+    "st": 14,
     "ime": "Rene",
     "pri": "Dopler",
     "dat_roj": "1996-06-21T00:00:00Z",
@@ -15559,7 +15559,7 @@
   },
   {
     "zap_st": 3,
-    "st": 17,
+    "st": 15,
     "ime": "Alenka",
     "pri": "Helbl",
     "dat_roj": "1965-10-25T00:00:00Z",
@@ -15576,7 +15576,7 @@
   },
   {
     "zap_st": 4,
-    "st": 18,
+    "st": 16,
     "ime": "Gregor",
     "pri": "Vrtič",
     "dat_roj": "1983-10-10T00:00:00Z",
@@ -15593,7 +15593,7 @@
   },
   {
     "zap_st": 14,
-    "st": 19,
+    "st": 17,
     "ime": "Marjan",
     "pri": "Šol",
     "dat_roj": "1956-08-31T00:00:00Z",
@@ -15610,7 +15610,7 @@
   },
   {
     "zap_st": 17,
-    "st": 20,
+    "st": 18,
     "ime": "Mirjana",
     "pri": "Polovšak",
     "dat_roj": "1979-12-10T00:00:00Z",
@@ -15627,7 +15627,7 @@
   },
   {
     "zap_st": 11,
-    "st": 21,
+    "st": 19,
     "ime": "Lucija",
     "pri": "Mlinarič",
     "dat_roj": "1991-06-10T00:00:00Z",
@@ -15780,7 +15780,7 @@
   },
   {
     "zap_st": 18,
-    "st": 13,
+    "st": 12,
     "ime": "Nataša",
     "pri": "Hudelja",
     "dat_roj": "1964-06-06T00:00:00Z",
@@ -15797,7 +15797,7 @@
   },
   {
     "zap_st": 4,
-    "st": 16,
+    "st": 14,
     "ime": "Boris",
     "pri": "Grabrijan",
     "dat_roj": "1961-10-22T00:00:00Z",
@@ -15814,7 +15814,7 @@
   },
   {
     "zap_st": 9,
-    "st": 17,
+    "st": 15,
     "ime": "Maja",
     "pri": "Kocjan",
     "dat_roj": "1980-04-16T00:00:00Z",
@@ -15831,7 +15831,7 @@
   },
   {
     "zap_st": 5,
-    "st": 18,
+    "st": 16,
     "ime": "Sabina",
     "pri": "Barič",
     "dat_roj": "1975-05-27T00:00:00Z",
@@ -15848,7 +15848,7 @@
   },
   {
     "zap_st": 17,
-    "st": 19,
+    "st": 17,
     "ime": "Bojan",
     "pri": "Krajačič",
     "dat_roj": "1973-01-09T00:00:00Z",
@@ -15865,7 +15865,7 @@
   },
   {
     "zap_st": 6,
-    "st": 20,
+    "st": 18,
     "ime": "Andrija",
     "pri": "Brčinović",
     "dat_roj": "1964-06-02T00:00:00Z",
@@ -15882,7 +15882,7 @@
   },
   {
     "zap_st": 1,
-    "st": 21,
+    "st": 19,
     "ime": "Marko",
     "pri": "Puh",
     "dat_roj": "1968-02-18T00:00:00Z",
@@ -15899,7 +15899,7 @@
   },
   {
     "zap_st": 19,
-    "st": 15,
+    "st": 13,
     "ime": "Jože",
     "pri": "Pirh",
     "dat_roj": "1986-07-07T00:00:00Z",
@@ -15953,7 +15953,7 @@
   },
   {
     "zap_st": 16,
-    "st": 22,
+    "st": 20,
     "ime": "Igor Jožef",
     "pri": "Bahč",
     "dat_roj": "1966-05-11T00:00:00Z",
@@ -16090,7 +16090,7 @@
   },
   {
     "zap_st": 18,
-    "st": 13,
+    "st": 12,
     "ime": "Vida",
     "pri": "Čadonič Špelič",
     "dat_roj": "1959-07-16T00:00:00Z",
@@ -16107,7 +16107,7 @@
   },
   {
     "zap_st": 4,
-    "st": 16,
+    "st": 14,
     "ime": "Zvonko",
     "pri": "Lah",
     "dat_roj": "1958-01-21T00:00:00Z",
@@ -16124,7 +16124,7 @@
   },
   {
     "zap_st": 9,
-    "st": 17,
+    "st": 15,
     "ime": "Anja",
     "pri": "Bah Žibert",
     "dat_roj": "1973-06-27T00:00:00Z",
@@ -16141,7 +16141,7 @@
   },
   {
     "zap_st": 5,
-    "st": 18,
+    "st": 16,
     "ime": "Boštjan",
     "pri": "Kovačič",
     "dat_roj": "1950-04-28T00:00:00Z",
@@ -16158,7 +16158,7 @@
   },
   {
     "zap_st": 17,
-    "st": 19,
+    "st": 17,
     "ime": "Daša",
     "pri": "Windischer",
     "dat_roj": "1997-08-05T00:00:00Z",
@@ -16175,7 +16175,7 @@
   },
   {
     "zap_st": 6,
-    "st": 20,
+    "st": 18,
     "ime": "Boris",
     "pri": "Golež",
     "dat_roj": "1945-10-05T00:00:00Z",
@@ -16192,7 +16192,7 @@
   },
   {
     "zap_st": 1,
-    "st": 21,
+    "st": 19,
     "ime": "Janez",
     "pri": "Penca",
     "dat_roj": "1949-03-06T00:00:00Z",
@@ -16227,7 +16227,7 @@
   },
   {
     "zap_st": 16,
-    "st": 22,
+    "st": 20,
     "ime": "Robert",
     "pri": "Šinkovec",
     "dat_roj": "1972-03-28T00:00:00Z",
@@ -16383,7 +16383,7 @@
   },
   {
     "zap_st": 18,
-    "st": 13,
+    "st": 12,
     "ime": "Mark Boris",
     "pri": "Andrijanič",
     "dat_roj": "1983-07-04T00:00:00Z",
@@ -16400,7 +16400,7 @@
   },
   {
     "zap_st": 4,
-    "st": 16,
+    "st": 14,
     "ime": "Marjanca",
     "pri": "Trščinar Antić",
     "dat_roj": "1961-08-21T00:00:00Z",
@@ -16417,7 +16417,7 @@
   },
   {
     "zap_st": 9,
-    "st": 17,
+    "st": 15,
     "ime": "Bojan",
     "pri": "Kekec",
     "dat_roj": "1965-05-04T00:00:00Z",
@@ -16434,7 +16434,7 @@
   },
   {
     "zap_st": 17,
-    "st": 19,
+    "st": 17,
     "ime": "Srečko",
     "pri": "Vovko",
     "dat_roj": "1967-09-07T00:00:00Z",
@@ -16451,7 +16451,7 @@
   },
   {
     "zap_st": 6,
-    "st": 20,
+    "st": 18,
     "ime": "Saša",
     "pri": "Jerele",
     "dat_roj": "1981-09-15T00:00:00Z",
@@ -16468,7 +16468,7 @@
   },
   {
     "zap_st": 1,
-    "st": 21,
+    "st": 19,
     "ime": "Marko",
     "pri": "Dular",
     "dat_roj": "1980-11-22T00:00:00Z",
@@ -16485,7 +16485,7 @@
   },
   {
     "zap_st": 5,
-    "st": 18,
+    "st": 16,
     "ime": "Ingrid",
     "pri": "Hodnik",
     "dat_roj": "1970-05-09T00:00:00Z",
@@ -16521,7 +16521,7 @@
   },
   {
     "zap_st": 19,
-    "st": 15,
+    "st": 13,
     "ime": "Karmen",
     "pri": "Brecelj",
     "dat_roj": "1976-04-11T00:00:00Z",
@@ -16675,7 +16675,7 @@
   },
   {
     "zap_st": 18,
-    "st": 13,
+    "st": 12,
     "ime": "Blaž",
     "pri": "Pavlin",
     "dat_roj": "1975-02-26T00:00:00Z",
@@ -16692,7 +16692,7 @@
   },
   {
     "zap_st": 4,
-    "st": 16,
+    "st": 14,
     "ime": "Ana",
     "pri": "Moder",
     "dat_roj": "1966-01-30T00:00:00Z",
@@ -16709,7 +16709,7 @@
   },
   {
     "zap_st": 9,
-    "st": 17,
+    "st": 15,
     "ime": "Franci",
     "pri": "Kepa",
     "dat_roj": "1964-09-26T00:00:00Z",
@@ -16726,7 +16726,7 @@
   },
   {
     "zap_st": 17,
-    "st": 19,
+    "st": 17,
     "ime": "Dušan",
     "pri": "Hočevar",
     "dat_roj": "1968-03-24T00:00:00Z",
@@ -16743,7 +16743,7 @@
   },
   {
     "zap_st": 6,
-    "st": 20,
+    "st": 18,
     "ime": "Dušica",
     "pri": "Tarman",
     "dat_roj": "1954-10-28T00:00:00Z",
@@ -16760,7 +16760,7 @@
   },
   {
     "zap_st": 1,
-    "st": 21,
+    "st": 19,
     "ime": "Gorazd",
     "pri": "Marinček",
     "dat_roj": "1952-06-14T00:00:00Z",
@@ -16777,7 +16777,7 @@
   },
   {
     "zap_st": 19,
-    "st": 15,
+    "st": 13,
     "ime": "Ana Marija",
     "pri": "Gerbič",
     "dat_roj": "1996-12-26T00:00:00Z",
@@ -16966,7 +16966,7 @@
   },
   {
     "zap_st": 18,
-    "st": 13,
+    "st": 12,
     "ime": "Katja",
     "pri": "Berk Bevc",
     "dat_roj": "1991-03-28T00:00:00Z",
@@ -16983,7 +16983,7 @@
   },
   {
     "zap_st": 4,
-    "st": 16,
+    "st": 14,
     "ime": "Rok",
     "pri": "Capl",
     "dat_roj": "1987-09-30T00:00:00Z",
@@ -17000,7 +17000,7 @@
   },
   {
     "zap_st": 9,
-    "st": 17,
+    "st": 15,
     "ime": "Patricia",
     "pri": "Čular",
     "dat_roj": "1973-01-21T00:00:00Z",
@@ -17017,7 +17017,7 @@
   },
   {
     "zap_st": 17,
-    "st": 19,
+    "st": 17,
     "ime": "Bogdan",
     "pri": "Palovšnik",
     "dat_roj": "1972-08-28T00:00:00Z",
@@ -17034,7 +17034,7 @@
   },
   {
     "zap_st": 6,
-    "st": 20,
+    "st": 18,
     "ime": "Ljubiša",
     "pri": "Kostadinović",
     "dat_roj": "1954-10-28T00:00:00Z",
@@ -17051,7 +17051,7 @@
   },
   {
     "zap_st": 1,
-    "st": 21,
+    "st": 19,
     "ime": "Marija",
     "pri": "Marinček",
     "dat_roj": "1958-11-30T00:00:00Z",
@@ -17068,7 +17068,7 @@
   },
   {
     "zap_st": 16,
-    "st": 22,
+    "st": 20,
     "ime": "Miloš",
     "pri": "Škorc",
     "dat_roj": "1981-05-23T00:00:00Z",
@@ -17085,7 +17085,7 @@
   },
   {
     "zap_st": 5,
-    "st": 18,
+    "st": 16,
     "ime": "Leona",
     "pri": "Gošek",
     "dat_roj": "1977-02-11T00:00:00Z",
@@ -17239,7 +17239,7 @@
   },
   {
     "zap_st": 18,
-    "st": 13,
+    "st": 12,
     "ime": "Alen",
     "pri": "Lenič",
     "dat_roj": "1997-05-10T00:00:00Z",
@@ -17256,7 +17256,7 @@
   },
   {
     "zap_st": 19,
-    "st": 15,
+    "st": 13,
     "ime": "Jure",
     "pri": "Repinc",
     "dat_roj": "1981-04-07T00:00:00Z",
@@ -17273,7 +17273,7 @@
   },
   {
     "zap_st": 4,
-    "st": 16,
+    "st": 14,
     "ime": "Ana",
     "pri": "Somrak",
     "dat_roj": "1958-05-01T00:00:00Z",
@@ -17290,7 +17290,7 @@
   },
   {
     "zap_st": 9,
-    "st": 17,
+    "st": 15,
     "ime": "Janez Jože",
     "pri": "Olovec",
     "dat_roj": "1994-10-11T00:00:00Z",
@@ -17307,7 +17307,7 @@
   },
   {
     "zap_st": 5,
-    "st": 18,
+    "st": 16,
     "ime": "Dušan",
     "pri": "Šiško",
     "dat_roj": "1969-05-09T00:00:00Z",
@@ -17324,7 +17324,7 @@
   },
   {
     "zap_st": 17,
-    "st": 19,
+    "st": 17,
     "ime": "Senta",
     "pri": "Jeler",
     "dat_roj": "1994-07-25T00:00:00Z",
@@ -17341,7 +17341,7 @@
   },
   {
     "zap_st": 6,
-    "st": 20,
+    "st": 18,
     "ime": "Dan",
     "pri": "Laye",
     "dat_roj": "1986-03-07T00:00:00Z",
@@ -17358,7 +17358,7 @@
   },
   {
     "zap_st": 1,
-    "st": 21,
+    "st": 19,
     "ime": "Alenka",
     "pri": "Leskovšek",
     "dat_roj": "1965-05-11T00:00:00Z",
@@ -17375,7 +17375,7 @@
   },
   {
     "zap_st": 16,
-    "st": 22,
+    "st": 20,
     "ime": "Andreja",
     "pri": "Zaljetelj",
     "dat_roj": "1967-11-30T00:00:00Z",
@@ -17512,7 +17512,7 @@
   },
   {
     "zap_st": 18,
-    "st": 13,
+    "st": 12,
     "ime": "Maša",
     "pri": "Brulc",
     "dat_roj": "1998-06-13T00:00:00Z",
@@ -17529,7 +17529,7 @@
   },
   {
     "zap_st": 4,
-    "st": 16,
+    "st": 14,
     "ime": "Janez",
     "pri": "Kukec",
     "dat_roj": "1962-07-29T00:00:00Z",
@@ -17546,7 +17546,7 @@
   },
   {
     "zap_st": 9,
-    "st": 17,
+    "st": 15,
     "ime": "Tomaž",
     "pri": "Lisec",
     "dat_roj": "1978-02-19T00:00:00Z",
@@ -17563,7 +17563,7 @@
   },
   {
     "zap_st": 17,
-    "st": 19,
+    "st": 17,
     "ime": "Ana",
     "pri": "Jelančić",
     "dat_roj": "1959-03-08T00:00:00Z",
@@ -17580,7 +17580,7 @@
   },
   {
     "zap_st": 6,
-    "st": 20,
+    "st": 18,
     "ime": "Nataša",
     "pri": "Gazvoda",
     "dat_roj": "1959-05-02T00:00:00Z",
@@ -17597,7 +17597,7 @@
   },
   {
     "zap_st": 1,
-    "st": 21,
+    "st": 19,
     "ime": "Ana",
     "pri": "Markelj",
     "dat_roj": "1986-07-19T00:00:00Z",
@@ -17668,7 +17668,7 @@
   },
   {
     "zap_st": 19,
-    "st": 15,
+    "st": 13,
     "ime": "Jasmina",
     "pri": "Klančar",
     "dat_roj": "1983-01-04T00:00:00Z",
@@ -17686,7 +17686,7 @@
   },
   {
     "zap_st": 16,
-    "st": 22,
+    "st": 20,
     "ime": "Tadeja",
     "pri": "Vrstovšek",
     "dat_roj": "1989-07-28T00:00:00Z",
@@ -17823,7 +17823,7 @@
   },
   {
     "zap_st": 18,
-    "st": 13,
+    "st": 12,
     "ime": "Jože",
     "pri": "Senica",
     "dat_roj": "1960-03-14T00:00:00Z",
@@ -17840,7 +17840,7 @@
   },
   {
     "zap_st": 4,
-    "st": 16,
+    "st": 14,
     "ime": "Boža",
     "pri": "Herek",
     "dat_roj": "1962-11-25T00:00:00Z",
@@ -17857,7 +17857,7 @@
   },
   {
     "zap_st": 9,
-    "st": 17,
+    "st": 15,
     "ime": "Štefanija",
     "pri": "Pavčnik",
     "dat_roj": "1970-12-03T00:00:00Z",
@@ -17874,7 +17874,7 @@
   },
   {
     "zap_st": 17,
-    "st": 19,
+    "st": 17,
     "ime": "Matjaž",
     "pri": "Han",
     "dat_roj": "1971-01-17T00:00:00Z",
@@ -17891,7 +17891,7 @@
   },
   {
     "zap_st": 6,
-    "st": 20,
+    "st": 18,
     "ime": "Miladin",
     "pri": "Dević",
     "dat_roj": "1963-05-21T00:00:00Z",
@@ -17908,7 +17908,7 @@
   },
   {
     "zap_st": 1,
-    "st": 21,
+    "st": 19,
     "ime": "Matic",
     "pri": "Rotar",
     "dat_roj": "1985-01-22T00:00:00Z",
@@ -17925,7 +17925,7 @@
   },
   {
     "zap_st": 16,
-    "st": 22,
+    "st": 20,
     "ime": "Boris",
     "pri": "Gabrijel",
     "dat_roj": "1953-03-07T00:00:00Z",
@@ -17942,7 +17942,7 @@
   },
   {
     "zap_st": 5,
-    "st": 18,
+    "st": 16,
     "ime": "Jelka",
     "pri": "Rostohar Božič",
     "dat_roj": "1979-09-24T00:00:00Z",
@@ -17960,7 +17960,7 @@
   },
   {
     "zap_st": 19,
-    "st": 15,
+    "st": 13,
     "ime": "Rok",
     "pri": "Deželak",
     "dat_roj": "1978-04-10T00:00:00Z",
@@ -18131,7 +18131,7 @@
   },
   {
     "zap_st": 18,
-    "st": 13,
+    "st": 12,
     "ime": "Janez",
     "pri": "Beja",
     "dat_roj": "1969-09-18T00:00:00Z",
@@ -18148,7 +18148,7 @@
   },
   {
     "zap_st": 4,
-    "st": 16,
+    "st": 14,
     "ime": "Lijana",
     "pri": "Lovše",
     "dat_roj": "1961-04-05T00:00:00Z",
@@ -18165,7 +18165,7 @@
   },
   {
     "zap_st": 9,
-    "st": 17,
+    "st": 15,
     "ime": "Boris",
     "pri": "Doblekar",
     "dat_roj": "1970-07-04T00:00:00Z",
@@ -18182,7 +18182,7 @@
   },
   {
     "zap_st": 17,
-    "st": 19,
+    "st": 17,
     "ime": "Janja",
     "pri": "Bregar",
     "dat_roj": "1980-03-23T00:00:00Z",
@@ -18199,7 +18199,7 @@
   },
   {
     "zap_st": 6,
-    "st": 20,
+    "st": 18,
     "ime": "Edvard",
     "pri": "Oražem",
     "dat_roj": "1969-11-10T00:00:00Z",
@@ -18216,7 +18216,7 @@
   },
   {
     "zap_st": 1,
-    "st": 21,
+    "st": 19,
     "ime": "Erna",
     "pri": "Šekli",
     "dat_roj": "1953-09-06T00:00:00Z",
@@ -18386,7 +18386,7 @@
   },
   {
     "zap_st": 18,
-    "st": 13,
+    "st": 12,
     "ime": "Drago",
     "pri": "Kočar",
     "dat_roj": "1977-05-26T00:00:00Z",
@@ -18403,7 +18403,7 @@
   },
   {
     "zap_st": 4,
-    "st": 16,
+    "st": 14,
     "ime": "Gregor",
     "pri": "Pajić",
     "dat_roj": "1968-02-07T00:00:00Z",
@@ -18420,7 +18420,7 @@
   },
   {
     "zap_st": 9,
-    "st": 17,
+    "st": 15,
     "ime": "Patricija",
     "pri": "Gorenc",
     "dat_roj": "1984-08-19T00:00:00Z",
@@ -18437,7 +18437,7 @@
   },
   {
     "zap_st": 5,
-    "st": 18,
+    "st": 16,
     "ime": "Bojan",
     "pri": "Kovačič",
     "dat_roj": "1956-12-07T00:00:00Z",
@@ -18454,7 +18454,7 @@
   },
   {
     "zap_st": 17,
-    "st": 19,
+    "st": 17,
     "ime": "Soniboj",
     "pri": "Knežak",
     "dat_roj": "1962-05-13T00:00:00Z",
@@ -18471,7 +18471,7 @@
   },
   {
     "zap_st": 6,
-    "st": 20,
+    "st": 18,
     "ime": "Mirzet",
     "pri": "Lukavačkić",
     "dat_roj": "1987-04-25T00:00:00Z",
@@ -18488,7 +18488,7 @@
   },
   {
     "zap_st": 1,
-    "st": 21,
+    "st": 19,
     "ime": "Nermin",
     "pri": "Bajramović",
     "dat_roj": "1976-10-31T00:00:00Z",
@@ -18505,7 +18505,7 @@
   },
   {
     "zap_st": 16,
-    "st": 22,
+    "st": 20,
     "ime": "Tanja",
     "pri": "Mencin",
     "dat_roj": "1965-05-11T00:00:00Z",
@@ -18693,7 +18693,7 @@
   },
   {
     "zap_st": 18,
-    "st": 13,
+    "st": 12,
     "ime": "Aljaž",
     "pri": "Jerin",
     "dat_roj": "1998-04-05T00:00:00Z",
@@ -18710,7 +18710,7 @@
   },
   {
     "zap_st": 4,
-    "st": 16,
+    "st": 14,
     "ime": "Primož",
     "pri": "Jelševar",
     "dat_roj": "1981-08-29T00:00:00Z",
@@ -18727,7 +18727,7 @@
   },
   {
     "zap_st": 9,
-    "st": 17,
+    "st": 15,
     "ime": "Alenka",
     "pri": "Forte",
     "dat_roj": "1957-09-07T00:00:00Z",
@@ -18744,7 +18744,7 @@
   },
   {
     "zap_st": 5,
-    "st": 18,
+    "st": 16,
     "ime": "Srečko",
     "pri": "Prijatelj",
     "dat_roj": "1962-08-28T00:00:00Z",
@@ -18761,7 +18761,7 @@
   },
   {
     "zap_st": 17,
-    "st": 19,
+    "st": 17,
     "ime": "Nataša",
     "pri": "Češko",
     "dat_roj": "1964-01-13T00:00:00Z",
@@ -18778,7 +18778,7 @@
   },
   {
     "zap_st": 6,
-    "st": 20,
+    "st": 18,
     "ime": "Rebeka",
     "pri": "Ostrovršnik",
     "dat_roj": "1990-10-14T00:00:00Z",
@@ -18795,7 +18795,7 @@
   },
   {
     "zap_st": 1,
-    "st": 21,
+    "st": 19,
     "ime": "Vladimir",
     "pri": "Poredoš",
     "dat_roj": "1958-08-01T00:00:00Z",
@@ -18812,7 +18812,7 @@
   },
   {
     "zap_st": 16,
-    "st": 22,
+    "st": 20,
     "ime": "Darja",
     "pri": "Požun",
     "dat_roj": "1976-05-28T00:00:00Z",
@@ -18982,7 +18982,7 @@
   },
   {
     "zap_st": 6,
-    "st": 13,
+    "st": 12,
     "ime": "Martin",
     "pri": "Mikolič",
     "dat_roj": "1959-10-07T00:00:00Z",
@@ -18999,7 +18999,7 @@
   },
   {
     "zap_st": 10,
-    "st": 16,
+    "st": 14,
     "ime": "Zdravko",
     "pri": "Počivalšek",
     "dat_roj": "1957-11-25T00:00:00Z",
@@ -19016,7 +19016,7 @@
   },
   {
     "zap_st": 5,
-    "st": 17,
+    "st": 15,
     "ime": "Anton",
     "pri": "Šturbej",
     "dat_roj": "1960-02-17T00:00:00Z",
@@ -19033,7 +19033,7 @@
   },
   {
     "zap_st": 18,
-    "st": 18,
+    "st": 16,
     "ime": "Tanja",
     "pri": "Rožanc",
     "dat_roj": "1972-09-29T00:00:00Z",
@@ -19050,7 +19050,7 @@
   },
   {
     "zap_st": 20,
-    "st": 19,
+    "st": 17,
     "ime": "Gorazd",
     "pri": "Prah",
     "dat_roj": "1982-07-25T00:00:00Z",
@@ -19067,7 +19067,7 @@
   },
   {
     "zap_st": 4,
-    "st": 21,
+    "st": 19,
     "ime": "Andrej",
     "pri": "Černelč",
     "dat_roj": "1983-09-26T00:00:00Z",
@@ -19084,7 +19084,7 @@
   },
   {
     "zap_st": 8,
-    "st": 22,
+    "st": 20,
     "ime": "Dušanka",
     "pri": "Strnad",
     "dat_roj": "1971-10-05T00:00:00Z",
@@ -19119,7 +19119,7 @@
   },
   {
     "zap_st": 9,
-    "st": 15,
+    "st": 13,
     "ime": "Nejc",
     "pri": "Velkavrh",
     "dat_roj": "1996-03-14T00:00:00Z",
@@ -19155,7 +19155,7 @@
   },
   {
     "zap_st": 13,
-    "st": 20,
+    "st": 18,
     "ime": "Gordana",
     "pri": "Weber",
     "dat_roj": "1964-11-24T00:00:00Z",
@@ -19326,7 +19326,7 @@
   },
   {
     "zap_st": 6,
-    "st": 13,
+    "st": 12,
     "ime": "Alenka",
     "pri": "Pušnik",
     "dat_roj": "1979-10-14T00:00:00Z",
@@ -19343,7 +19343,7 @@
   },
   {
     "zap_st": 10,
-    "st": 16,
+    "st": 14,
     "ime": "Modest",
     "pri": "Motaln",
     "dat_roj": "1989-04-27T00:00:00Z",
@@ -19360,7 +19360,7 @@
   },
   {
     "zap_st": 5,
-    "st": 17,
+    "st": 15,
     "ime": "Karmen",
     "pri": "Furman",
     "dat_roj": "1980-04-17T00:00:00Z",
@@ -19377,7 +19377,7 @@
   },
   {
     "zap_st": 20,
-    "st": 19,
+    "st": 17,
     "ime": "Tin",
     "pri": "Kampl",
     "dat_roj": "1990-07-20T00:00:00Z",
@@ -19394,7 +19394,7 @@
   },
   {
     "zap_st": 13,
-    "st": 20,
+    "st": 18,
     "ime": "Irena",
     "pri": "Majcen",
     "dat_roj": "1958-03-02T00:00:00Z",
@@ -19411,7 +19411,7 @@
   },
   {
     "zap_st": 4,
-    "st": 21,
+    "st": 19,
     "ime": "Boštjan",
     "pri": "Selinšek",
     "dat_roj": "1991-10-14T00:00:00Z",
@@ -19428,7 +19428,7 @@
   },
   {
     "zap_st": 18,
-    "st": 18,
+    "st": 16,
     "ime": "Zmago",
     "pri": "Jelinčič Plemeniti",
     "dat_roj": "1948-01-07T00:00:00Z",
@@ -19464,7 +19464,7 @@
   },
   {
     "zap_st": 8,
-    "st": 22,
+    "st": 20,
     "ime": "Bogomir",
     "pri": "Gajser",
     "dat_roj": "1965-11-28T00:00:00Z",
@@ -19618,7 +19618,7 @@
   },
   {
     "zap_st": 6,
-    "st": 13,
+    "st": 12,
     "ime": "Janez",
     "pri": "Črešnar",
     "dat_roj": "1992-01-04T00:00:00Z",
@@ -19635,7 +19635,7 @@
   },
   {
     "zap_st": 10,
-    "st": 16,
+    "st": 14,
     "ime": "Marko",
     "pri": "Cigler",
     "dat_roj": "1976-02-19T00:00:00Z",
@@ -19652,7 +19652,7 @@
   },
   {
     "zap_st": 5,
-    "st": 17,
+    "st": 15,
     "ime": "Bojan",
     "pri": "Podkrajšek",
     "dat_roj": "1968-01-08T00:00:00Z",
@@ -19669,7 +19669,7 @@
   },
   {
     "zap_st": 20,
-    "st": 19,
+    "st": 17,
     "ime": "Jernej",
     "pri": "Štromajer",
     "dat_roj": "1987-05-13T00:00:00Z",
@@ -19686,7 +19686,7 @@
   },
   {
     "zap_st": 9,
-    "st": 15,
+    "st": 13,
     "ime": "Suzana",
     "pri": "Auguštin",
     "dat_roj": "1971-04-26T00:00:00Z",
@@ -19704,7 +19704,7 @@
   },
   {
     "zap_st": 8,
-    "st": 22,
+    "st": 20,
     "ime": "Matija",
     "pri": "Matić",
     "dat_roj": "1986-09-04T00:00:00Z",
@@ -19740,7 +19740,7 @@
   },
   {
     "zap_st": 4,
-    "st": 21,
+    "st": 19,
     "ime": "Simon",
     "pri": "Žlahtič",
     "dat_roj": "1987-01-28T00:00:00Z",
@@ -19895,7 +19895,7 @@
   },
   {
     "zap_st": 6,
-    "st": 13,
+    "st": 12,
     "ime": "Miha",
     "pri": "Žižek",
     "dat_roj": "1986-10-19T00:00:00Z",
@@ -19912,7 +19912,7 @@
   },
   {
     "zap_st": 10,
-    "st": 16,
+    "st": 14,
     "ime": "Anita",
     "pri": "Jodl",
     "dat_roj": "1991-01-17T00:00:00Z",
@@ -19929,7 +19929,7 @@
   },
   {
     "zap_st": 5,
-    "st": 17,
+    "st": 15,
     "ime": "Aleksander",
     "pri": "Brunčko",
     "dat_roj": "1972-06-30T00:00:00Z",
@@ -19946,7 +19946,7 @@
   },
   {
     "zap_st": 20,
-    "st": 19,
+    "st": 17,
     "ime": "Bojana",
     "pri": "Muršič",
     "dat_roj": "1971-09-20T00:00:00Z",
@@ -19963,7 +19963,7 @@
   },
   {
     "zap_st": 13,
-    "st": 20,
+    "st": 18,
     "ime": "Metka",
     "pri": "Vodušek",
     "dat_roj": "1958-05-29T00:00:00Z",
@@ -19980,7 +19980,7 @@
   },
   {
     "zap_st": 4,
-    "st": 21,
+    "st": 19,
     "ime": "Tomi",
     "pri": "Prosnik",
     "dat_roj": "1976-05-04T00:00:00Z",
@@ -19997,7 +19997,7 @@
   },
   {
     "zap_st": 18,
-    "st": 18,
+    "st": 16,
     "ime": "Katarina",
     "pri": "Žunko",
     "dat_roj": "1993-10-13T00:00:00Z",
@@ -20205,7 +20205,7 @@
   },
   {
     "zap_st": 6,
-    "st": 13,
+    "st": 12,
     "ime": "Andrej",
     "pri": "Šauperl",
     "dat_roj": "1964-08-29T00:00:00Z",
@@ -20222,7 +20222,7 @@
   },
   {
     "zap_st": 10,
-    "st": 16,
+    "st": 14,
     "ime": "Monika",
     "pri": "Kirbiš Rojs",
     "dat_roj": "1978-08-04T00:00:00Z",
@@ -20239,7 +20239,7 @@
   },
   {
     "zap_st": 5,
-    "st": 17,
+    "st": 15,
     "ime": "Barbara",
     "pri": "Klajderič",
     "dat_roj": "1983-10-05T00:00:00Z",
@@ -20256,7 +20256,7 @@
   },
   {
     "zap_st": 20,
-    "st": 19,
+    "st": 17,
     "ime": "Nastja",
     "pri": "Trajkovič",
     "dat_roj": "1997-10-10T00:00:00Z",
@@ -20273,7 +20273,7 @@
   },
   {
     "zap_st": 13,
-    "st": 20,
+    "st": 18,
     "ime": "Luka",
     "pri": "Vodušek",
     "dat_roj": "1988-11-30T00:00:00Z",
@@ -20290,7 +20290,7 @@
   },
   {
     "zap_st": 4,
-    "st": 21,
+    "st": 19,
     "ime": "Katja",
     "pri": "Beck Kos",
     "dat_roj": "1977-03-28T00:00:00Z",
@@ -20307,7 +20307,7 @@
   },
   {
     "zap_st": 9,
-    "st": 15,
+    "st": 13,
     "ime": "Tomas",
     "pri": "Tišler",
     "dat_roj": "1975-06-09T00:00:00Z",
@@ -20325,7 +20325,7 @@
   },
   {
     "zap_st": 8,
-    "st": 22,
+    "st": 20,
     "ime": "Bojan",
     "pri": "Papež",
     "dat_roj": "1982-02-10T00:00:00Z",
@@ -20481,7 +20481,7 @@
   },
   {
     "zap_st": 6,
-    "st": 13,
+    "st": 12,
     "ime": "Aleš",
     "pri": "Bandur",
     "dat_roj": "1974-05-01T00:00:00Z",
@@ -20498,7 +20498,7 @@
   },
   {
     "zap_st": 10,
-    "st": 16,
+    "st": 14,
     "ime": "Breda",
     "pri": "Čepe Vizjak",
     "dat_roj": "1954-10-12T00:00:00Z",
@@ -20515,7 +20515,7 @@
   },
   {
     "zap_st": 5,
-    "st": 17,
+    "st": 15,
     "ime": "Luka",
     "pri": "Simonič",
     "dat_roj": "1999-08-27T00:00:00Z",
@@ -20532,7 +20532,7 @@
   },
   {
     "zap_st": 20,
-    "st": 19,
+    "st": 17,
     "ime": "Martina",
     "pri": "Rauter",
     "dat_roj": "1973-12-06T00:00:00Z",
@@ -20549,7 +20549,7 @@
   },
   {
     "zap_st": 13,
-    "st": 20,
+    "st": 18,
     "ime": "Vesna",
     "pri": "Nemec Gajzer",
     "dat_roj": "1977-01-02T00:00:00Z",
@@ -20602,7 +20602,7 @@
   },
   {
     "zap_st": 18,
-    "st": 18,
+    "st": 16,
     "ime": "Rok",
     "pri": "Bukovšek",
     "dat_roj": "1994-07-29T00:00:00Z",
@@ -20775,7 +20775,7 @@
   },
   {
     "zap_st": 6,
-    "st": 13,
+    "st": 12,
     "ime": "Bernard",
     "pri": "Memon",
     "dat_roj": "1972-10-25T00:00:00Z",
@@ -20792,7 +20792,7 @@
   },
   {
     "zap_st": 9,
-    "st": 15,
+    "st": 13,
     "ime": "Filip",
     "pri": "Mikuž",
     "dat_roj": "1997-05-31T00:00:00Z",
@@ -20809,7 +20809,7 @@
   },
   {
     "zap_st": 10,
-    "st": 16,
+    "st": 14,
     "ime": "Franc",
     "pri": "Kangler",
     "dat_roj": "1965-07-08T00:00:00Z",
@@ -20826,7 +20826,7 @@
   },
   {
     "zap_st": 5,
-    "st": 17,
+    "st": 15,
     "ime": "Dejan",
     "pri": "Kaloh",
     "dat_roj": "1975-02-01T00:00:00Z",
@@ -20843,7 +20843,7 @@
   },
   {
     "zap_st": 20,
-    "st": 19,
+    "st": 17,
     "ime": "Zoran",
     "pri": "Ličen",
     "dat_roj": "1978-08-07T00:00:00Z",
@@ -20860,7 +20860,7 @@
   },
   {
     "zap_st": 13,
-    "st": 20,
+    "st": 18,
     "ime": "Marina",
     "pri": "Držić",
     "dat_roj": "1962-07-13T00:00:00Z",
@@ -20877,7 +20877,7 @@
   },
   {
     "zap_st": 4,
-    "st": 21,
+    "st": 19,
     "ime": "Nina",
     "pri": "Gornik Mulec",
     "dat_roj": "1985-06-18T00:00:00Z",
@@ -20894,7 +20894,7 @@
   },
   {
     "zap_st": 8,
-    "st": 22,
+    "st": 20,
     "ime": "Nina",
     "pri": "Mihelič",
     "dat_roj": "1996-03-17T00:00:00Z",
@@ -21030,7 +21030,7 @@
   },
   {
     "zap_st": 6,
-    "st": 13,
+    "st": 12,
     "ime": "Karmen",
     "pri": "Teržan Kopecky",
     "dat_roj": "1954-11-11T00:00:00Z",
@@ -21047,7 +21047,7 @@
   },
   {
     "zap_st": 10,
-    "st": 16,
+    "st": 14,
     "ime": "Damir",
     "pri": "Orehovec",
     "dat_roj": "1967-01-16T00:00:00Z",
@@ -21064,7 +21064,7 @@
   },
   {
     "zap_st": 5,
-    "st": 17,
+    "st": 15,
     "ime": "Ivan",
     "pri": "Celcer",
     "dat_roj": "1960-04-08T00:00:00Z",
@@ -21081,7 +21081,7 @@
   },
   {
     "zap_st": 20,
-    "st": 19,
+    "st": 17,
     "ime": "Franc",
     "pri": "Trček",
     "dat_roj": "1969-01-03T00:00:00Z",
@@ -21098,7 +21098,7 @@
   },
   {
     "zap_st": 13,
-    "st": 20,
+    "st": 18,
     "ime": "Andrej",
     "pri": "Rajh",
     "dat_roj": "1979-03-30T00:00:00Z",
@@ -21115,7 +21115,7 @@
   },
   {
     "zap_st": 8,
-    "st": 22,
+    "st": 20,
     "ime": "Janja",
     "pri": "Zorko",
     "dat_roj": "1989-11-20T00:00:00Z",
@@ -21168,7 +21168,7 @@
   },
   {
     "zap_st": 9,
-    "st": 15,
+    "st": 13,
     "ime": "Nina",
     "pri": "Beyokol",
     "dat_roj": "1985-05-30T00:00:00Z",
@@ -21186,7 +21186,7 @@
   },
   {
     "zap_st": 18,
-    "st": 18,
+    "st": 16,
     "ime": "Martin",
     "pri": "Horvat",
     "dat_roj": "1967-03-23T00:00:00Z",
@@ -21204,7 +21204,7 @@
   },
   {
     "zap_st": 4,
-    "st": 21,
+    "st": 19,
     "ime": "Petra",
     "pri": "Greiner",
     "dat_roj": "1978-05-12T00:00:00Z",
@@ -21358,7 +21358,7 @@
   },
   {
     "zap_st": 6,
-    "st": 13,
+    "st": 12,
     "ime": "Zdravko",
     "pri": "Luketič",
     "dat_roj": "1956-11-24T00:00:00Z",
@@ -21375,7 +21375,7 @@
   },
   {
     "zap_st": 10,
-    "st": 16,
+    "st": 14,
     "ime": "Franc",
     "pri": "Slavinec",
     "dat_roj": "1954-09-12T00:00:00Z",
@@ -21392,7 +21392,7 @@
   },
   {
     "zap_st": 5,
-    "st": 17,
+    "st": 15,
     "ime": "Kaja",
     "pri": "Medved",
     "dat_roj": "1982-03-29T00:00:00Z",
@@ -21409,7 +21409,7 @@
   },
   {
     "zap_st": 20,
-    "st": 19,
+    "st": 17,
     "ime": "Jolanda",
     "pri": "Lašič",
     "dat_roj": "1961-04-09T00:00:00Z",
@@ -21426,7 +21426,7 @@
   },
   {
     "zap_st": 13,
-    "st": 20,
+    "st": 18,
     "ime": "Vekoslav",
     "pri": "Šterman",
     "dat_roj": "1961-05-08T00:00:00Z",
@@ -21443,7 +21443,7 @@
   },
   {
     "zap_st": 8,
-    "st": 22,
+    "st": 20,
     "ime": "Damijan",
     "pri": "Planar",
     "dat_roj": "1979-01-05T00:00:00Z",
@@ -21614,7 +21614,7 @@
   },
   {
     "zap_st": 6,
-    "st": 13,
+    "st": 12,
     "ime": "Magdalena",
     "pri": "Šverc",
     "dat_roj": "1967-08-02T00:00:00Z",
@@ -21631,7 +21631,7 @@
   },
   {
     "zap_st": 10,
-    "st": 16,
+    "st": 14,
     "ime": "Helena",
     "pri": "Kujundžić Lukaček",
     "dat_roj": "1966-09-19T00:00:00Z",
@@ -21648,7 +21648,7 @@
   },
   {
     "zap_st": 5,
-    "st": 17,
+    "st": 15,
     "ime": "Bernarda",
     "pri": "Mandres",
     "dat_roj": "1959-11-17T00:00:00Z",
@@ -21665,7 +21665,7 @@
   },
   {
     "zap_st": 20,
-    "st": 19,
+    "st": 17,
     "ime": "Emilija",
     "pri": "Stojmenova Duh",
     "dat_roj": "1985-12-25T00:00:00Z",
@@ -21682,7 +21682,7 @@
   },
   {
     "zap_st": 13,
-    "st": 20,
+    "st": 18,
     "ime": "Branislav",
     "pri": "Rajić",
     "dat_roj": "1962-05-09T00:00:00Z",
@@ -21699,7 +21699,7 @@
   },
   {
     "zap_st": 4,
-    "st": 21,
+    "st": 19,
     "ime": "Miha",
     "pri": "Lovše",
     "dat_roj": "1976-03-04T00:00:00Z",
@@ -21752,7 +21752,7 @@
   },
   {
     "zap_st": 9,
-    "st": 15,
+    "st": 13,
     "ime": "Petra",
     "pri": "Kovačec",
     "dat_roj": "1987-02-18T00:00:00Z",
@@ -21770,7 +21770,7 @@
   },
   {
     "zap_st": 18,
-    "st": 18,
+    "st": 16,
     "ime": "Miranda",
     "pri": "Osterc Zinrajh",
     "dat_roj": "1976-04-11T00:00:00Z",
@@ -21890,7 +21890,7 @@
   },
   {
     "zap_st": 6,
-    "st": 13,
+    "st": 12,
     "ime": "Renata",
     "pri": "Esih Flac",
     "dat_roj": "1983-01-02T00:00:00Z",
@@ -21907,7 +21907,7 @@
   },
   {
     "zap_st": 10,
-    "st": 16,
+    "st": 14,
     "ime": "Boštjan",
     "pri": "Jambrovič",
     "dat_roj": "1975-02-03T00:00:00Z",
@@ -21924,7 +21924,7 @@
   },
   {
     "zap_st": 5,
-    "st": 17,
+    "st": 15,
     "ime": "Miran",
     "pri": "Ulbin",
     "dat_roj": "1961-02-12T00:00:00Z",
@@ -21941,7 +21941,7 @@
   },
   {
     "zap_st": 20,
-    "st": 19,
+    "st": 17,
     "ime": "Uroš",
     "pri": "Prikl",
     "dat_roj": "1972-09-18T00:00:00Z",
@@ -21958,7 +21958,7 @@
   },
   {
     "zap_st": 13,
-    "st": 20,
+    "st": 18,
     "ime": "Ninoslav",
     "pri": "Ninić",
     "dat_roj": "1979-11-05T00:00:00Z",
@@ -21975,7 +21975,7 @@
   },
   {
     "zap_st": 4,
-    "st": 21,
+    "st": 19,
     "ime": "Katarina",
     "pri": "Kušar",
     "dat_roj": "1989-06-02T00:00:00Z",
@@ -21992,7 +21992,7 @@
   },
   {
     "zap_st": 8,
-    "st": 22,
+    "st": 20,
     "ime": "Vesna",
     "pri": "Ornik",
     "dat_roj": "1961-03-15T00:00:00Z",
@@ -22162,7 +22162,7 @@
   },
   {
     "zap_st": null,
-    "st": 13,
+    "st": 12,
     "ime": "Jožef",
     "pri": "Horvat",
     "dat_roj": "1955-07-08T00:00:00Z",
@@ -22179,7 +22179,7 @@
   },
   {
     "zap_st": null,
-    "st": 16,
+    "st": 14,
     "ime": "Darko",
     "pri": "Horvat",
     "dat_roj": "1980-01-21T00:00:00Z",
@@ -22196,7 +22196,7 @@
   },
   {
     "zap_st": null,
-    "st": 17,
+    "st": 15,
     "ime": "Janez",
     "pri": "Magyar",
     "dat_roj": "1968-10-24T00:00:00Z",
@@ -22213,7 +22213,7 @@
   },
   {
     "zap_st": null,
-    "st": 19,
+    "st": 17,
     "ime": "Vlasta",
     "pri": "Veren",
     "dat_roj": "1957-09-06T00:00:00Z",
@@ -22230,7 +22230,7 @@
   },
   {
     "zap_st": null,
-    "st": 20,
+    "st": 18,
     "ime": "Dominik",
     "pri": "Šteiner",
     "dat_roj": "1971-01-07T00:00:00Z",
@@ -22247,7 +22247,7 @@
   },
   {
     "zap_st": null,
-    "st": 21,
+    "st": 19,
     "ime": "Gabrijela",
     "pri": "Starešina Fras",
     "dat_roj": "1981-01-15T00:00:00Z",
@@ -22264,7 +22264,7 @@
   },
   {
     "zap_st": null,
-    "st": 15,
+    "st": 13,
     "ime": "Katja",
     "pri": "Orehek",
     "dat_roj": "1997-01-12T00:00:00Z",
@@ -22282,7 +22282,7 @@
   },
   {
     "zap_st": null,
-    "st": 18,
+    "st": 16,
     "ime": "Erika",
     "pri": "Štrucl",
     "dat_roj": "2001-09-30T00:00:00Z",
@@ -22300,7 +22300,7 @@
   },
   {
     "zap_st": null,
-    "st": 22,
+    "st": 20,
     "ime": "Matej",
     "pri": "Bidar",
     "dat_roj": "1993-09-14T00:00:00Z",
@@ -22318,7 +22318,7 @@
   },
   {
     "zap_st": null,
-    "st": 23,
+    "st": 21,
     "ime": "Ivan",
     "pri": "Bolfek",
     "dat_roj": "1971-03-25T00:00:00Z",
@@ -22455,7 +22455,7 @@
   },
   {
     "zap_st": null,
-    "st": 13,
+    "st": 12,
     "ime": "Matjaž",
     "pri": "Kosi",
     "dat_roj": "1986-01-31T00:00:00Z",
@@ -22472,7 +22472,7 @@
   },
   {
     "zap_st": null,
-    "st": 15,
+    "st": 13,
     "ime": "Katka",
     "pri": "Kovačec",
     "dat_roj": "1984-11-09T00:00:00Z",
@@ -22489,7 +22489,7 @@
   },
   {
     "zap_st": null,
-    "st": 16,
+    "st": 14,
     "ime": "Mojca",
     "pri": "Žnidarič",
     "dat_roj": "1977-01-05T00:00:00Z",
@@ -22506,7 +22506,7 @@
   },
   {
     "zap_st": null,
-    "st": 17,
+    "st": 15,
     "ime": "Andrej",
     "pri": "Kosi",
     "dat_roj": "1977-10-24T00:00:00Z",
@@ -22523,7 +22523,7 @@
   },
   {
     "zap_st": null,
-    "st": 18,
+    "st": 16,
     "ime": "Jani",
     "pri": "Ivanuša",
     "dat_roj": "1968-02-22T00:00:00Z",
@@ -22540,7 +22540,7 @@
   },
   {
     "zap_st": null,
-    "st": 19,
+    "st": 17,
     "ime": "Ferdinand",
     "pri": "Šulek",
     "dat_roj": "1967-07-20T00:00:00Z",
@@ -22557,7 +22557,7 @@
   },
   {
     "zap_st": null,
-    "st": 20,
+    "st": 18,
     "ime": "Nadja",
     "pri": "Požek",
     "dat_roj": "1953-01-30T00:00:00Z",
@@ -22574,7 +22574,7 @@
   },
   {
     "zap_st": null,
-    "st": 22,
+    "st": 20,
     "ime": "Renata",
     "pri": "Požgan Bubek",
     "dat_roj": "1971-05-05T00:00:00Z",
@@ -22609,7 +22609,7 @@
   },
   {
     "zap_st": null,
-    "st": 23,
+    "st": 21,
     "ime": "Petra",
     "pri": "Mavrič",
     "dat_roj": "1988-04-25T00:00:00Z",
@@ -22627,7 +22627,7 @@
   },
   {
     "zap_st": null,
-    "st": 21,
+    "st": 19,
     "ime": "Andrejka",
     "pri": "Belhar Polanc",
     "dat_roj": "1975-11-04T00:00:00Z",
@@ -22765,7 +22765,7 @@
   },
   {
     "zap_st": null,
-    "st": 13,
+    "st": 12,
     "ime": "Andreja",
     "pri": "Novak Görkeš",
     "dat_roj": "1972-08-09T00:00:00Z",
@@ -22782,7 +22782,7 @@
   },
   {
     "zap_st": null,
-    "st": 16,
+    "st": 14,
     "ime": "Helena",
     "pri": "Krajnc",
     "dat_roj": "1987-05-31T00:00:00Z",
@@ -22799,7 +22799,7 @@
   },
   {
     "zap_st": null,
-    "st": 17,
+    "st": 15,
     "ime": "Dominik",
     "pri": "Štrakl",
     "dat_roj": "1991-02-09T00:00:00Z",
@@ -22816,7 +22816,7 @@
   },
   {
     "zap_st": null,
-    "st": 19,
+    "st": 17,
     "ime": "Stanislava",
     "pri": "Perčič",
     "dat_roj": "1970-08-18T00:00:00Z",
@@ -22833,7 +22833,7 @@
   },
   {
     "zap_st": null,
-    "st": 20,
+    "st": 18,
     "ime": "Klavdija",
     "pri": "Grkman",
     "dat_roj": "1976-09-15T00:00:00Z",
@@ -22850,7 +22850,7 @@
   },
   {
     "zap_st": null,
-    "st": 22,
+    "st": 20,
     "ime": "Natalija",
     "pri": "Majcen",
     "dat_roj": "1963-07-29T00:00:00Z",
@@ -22885,7 +22885,7 @@
   },
   {
     "zap_st": null,
-    "st": 21,
+    "st": 19,
     "ime": "Miran",
     "pri": "Rajšp",
     "dat_roj": "1951-10-17T00:00:00Z",
@@ -23040,7 +23040,7 @@
   },
   {
     "zap_st": null,
-    "st": 13,
+    "st": 12,
     "ime": "Ivan",
     "pri": "Horvat",
     "dat_roj": "1959-05-13T00:00:00Z",
@@ -23057,7 +23057,7 @@
   },
   {
     "zap_st": null,
-    "st": 16,
+    "st": 14,
     "ime": "Franc",
     "pri": "Küčan",
     "dat_roj": "1959-04-05T00:00:00Z",
@@ -23074,7 +23074,7 @@
   },
   {
     "zap_st": null,
-    "st": 17,
+    "st": 15,
     "ime": "Bojan",
     "pri": "Petrijan",
     "dat_roj": "1967-12-09T00:00:00Z",
@@ -23091,7 +23091,7 @@
   },
   {
     "zap_st": null,
-    "st": 19,
+    "st": 17,
     "ime": "Damijan",
     "pri": "Zrim",
     "dat_roj": "1993-05-12T00:00:00Z",
@@ -23108,7 +23108,7 @@
   },
   {
     "zap_st": null,
-    "st": 20,
+    "st": 18,
     "ime": "Denis",
     "pri": "Vrečič",
     "dat_roj": "1988-05-22T00:00:00Z",
@@ -23125,7 +23125,7 @@
   },
   {
     "zap_st": null,
-    "st": 21,
+    "st": 19,
     "ime": "Tina",
     "pri": "Hozjan Žižek",
     "dat_roj": "1992-08-12T00:00:00Z",
@@ -23142,7 +23142,7 @@
   },
   {
     "zap_st": null,
-    "st": 22,
+    "st": 20,
     "ime": "Jožica",
     "pri": "Jurjaševič",
     "dat_roj": "1968-02-19T00:00:00Z",
@@ -23195,7 +23195,7 @@
   },
   {
     "zap_st": null,
-    "st": 15,
+    "st": 13,
     "ime": "Igor",
     "pri": "Brlek",
     "dat_roj": "1967-05-30T00:00:00Z",
@@ -23213,7 +23213,7 @@
   },
   {
     "zap_st": null,
-    "st": 18,
+    "st": 16,
     "ime": "Valerija",
     "pri": "Markuš",
     "dat_roj": "1984-12-04T00:00:00Z",
@@ -23231,7 +23231,7 @@
   },
   {
     "zap_st": null,
-    "st": 23,
+    "st": 21,
     "ime": "Franc",
     "pri": "Friškič",
     "dat_roj": "1957-02-24T00:00:00Z",
@@ -23368,7 +23368,7 @@
   },
   {
     "zap_st": null,
-    "st": 13,
+    "st": 12,
     "ime": "Martina",
     "pri": "Perša",
     "dat_roj": "1983-09-02T00:00:00Z",
@@ -23385,7 +23385,7 @@
   },
   {
     "zap_st": null,
-    "st": 16,
+    "st": 14,
     "ime": "Mitja",
     "pri": "Slavinec",
     "dat_roj": "1964-05-30T00:00:00Z",
@@ -23402,7 +23402,7 @@
   },
   {
     "zap_st": null,
-    "st": 17,
+    "st": 15,
     "ime": "Andreja",
     "pri": "Prettner",
     "dat_roj": "1983-04-14T00:00:00Z",
@@ -23419,7 +23419,7 @@
   },
   {
     "zap_st": null,
-    "st": 19,
+    "st": 17,
     "ime": "Dejan",
     "pri": "Židan",
     "dat_roj": "1967-10-16T00:00:00Z",
@@ -23436,7 +23436,7 @@
   },
   {
     "zap_st": null,
-    "st": 20,
+    "st": 18,
     "ime": "Olga",
     "pri": "Belec",
     "dat_roj": "1968-07-16T00:00:00Z",
@@ -23453,7 +23453,7 @@
   },
   {
     "zap_st": null,
-    "st": 21,
+    "st": 19,
     "ime": "Romeo",
     "pri": "Varga",
     "dat_roj": "1966-10-18T00:00:00Z",
@@ -23589,7 +23589,7 @@
   },
   {
     "zap_st": null,
-    "st": 13,
+    "st": 12,
     "ime": "Ivan",
     "pri": "Fras",
     "dat_roj": "1974-04-13T00:00:00Z",
@@ -23606,7 +23606,7 @@
   },
   {
     "zap_st": null,
-    "st": 16,
+    "st": 14,
     "ime": "Mojca",
     "pri": "Marovič",
     "dat_roj": "1969-05-03T00:00:00Z",
@@ -23623,7 +23623,7 @@
   },
   {
     "zap_st": null,
-    "st": 17,
+    "st": 15,
     "ime": "Simona",
     "pri": "Himelrajh",
     "dat_roj": "1988-11-11T00:00:00Z",
@@ -23640,7 +23640,7 @@
   },
   {
     "zap_st": null,
-    "st": 18,
+    "st": 16,
     "ime": "David",
     "pri": "Dominko",
     "dat_roj": "1970-11-07T00:00:00Z",
@@ -23657,7 +23657,7 @@
   },
   {
     "zap_st": null,
-    "st": 19,
+    "st": 17,
     "ime": "Boris",
     "pri": "Edšidt",
     "dat_roj": "1960-06-13T00:00:00Z",
@@ -23674,7 +23674,7 @@
   },
   {
     "zap_st": null,
-    "st": 20,
+    "st": 18,
     "ime": "Valerija",
     "pri": "Frangež",
     "dat_roj": "1969-12-07T00:00:00Z",
@@ -23691,7 +23691,7 @@
   },
   {
     "zap_st": null,
-    "st": 22,
+    "st": 20,
     "ime": "Zdenko",
     "pri": "Čuš",
     "dat_roj": "1981-07-31T00:00:00Z",
@@ -23726,7 +23726,7 @@
   },
   {
     "zap_st": null,
-    "st": 23,
+    "st": 21,
     "ime": "Metka",
     "pri": "Rotman",
     "dat_roj": "1988-04-16T00:00:00Z",
@@ -23744,7 +23744,7 @@
   },
   {
     "zap_st": null,
-    "st": 15,
+    "st": 13,
     "ime": "Nina",
     "pri": "Kodrič",
     "dat_roj": "1977-12-30T00:00:00Z",
@@ -23898,7 +23898,7 @@
   },
   {
     "zap_st": null,
-    "st": 13,
+    "st": 12,
     "ime": "Nataša",
     "pri": "Bauman",
     "dat_roj": "1972-11-24T00:00:00Z",
@@ -23915,7 +23915,7 @@
   },
   {
     "zap_st": null,
-    "st": 16,
+    "st": 14,
     "ime": "Marjan",
     "pri": "Bračko",
     "dat_roj": "1964-11-22T00:00:00Z",
@@ -23932,7 +23932,7 @@
   },
   {
     "zap_st": null,
-    "st": 17,
+    "st": 15,
     "ime": "Franc",
     "pri": "Breznik",
     "dat_roj": "1970-07-23T00:00:00Z",
@@ -23949,7 +23949,7 @@
   },
   {
     "zap_st": null,
-    "st": 18,
+    "st": 16,
     "ime": "Branka",
     "pri": "Rojht",
     "dat_roj": "1979-06-15T00:00:00Z",
@@ -23966,7 +23966,7 @@
   },
   {
     "zap_st": null,
-    "st": 19,
+    "st": 17,
     "ime": "Bernarda",
     "pri": "Potočnik",
     "dat_roj": "1958-12-19T00:00:00Z",
@@ -23983,7 +23983,7 @@
   },
   {
     "zap_st": null,
-    "st": 22,
+    "st": 20,
     "ime": "Bojan",
     "pri": "Krejač",
     "dat_roj": "1962-06-09T00:00:00Z",
@@ -24000,7 +24000,7 @@
   },
   {
     "zap_st": null,
-    "st": 20,
+    "st": 18,
     "ime": "Nina",
     "pri": "Lovrenčič",
     "dat_roj": "1975-02-03T00:00:00Z",
@@ -24018,7 +24018,7 @@
   },
   {
     "zap_st": null,
-    "st": 15,
+    "st": 13,
     "ime": "Rok",
     "pri": "Hrabar",
     "dat_roj": "1996-07-14T00:00:00Z",
@@ -24155,7 +24155,7 @@
   },
   {
     "zap_st": null,
-    "st": 13,
+    "st": 12,
     "ime": "Viktor",
     "pri": "Vajngerl",
     "dat_roj": "1982-12-22T00:00:00Z",
@@ -24172,7 +24172,7 @@
   },
   {
     "zap_st": null,
-    "st": 16,
+    "st": 14,
     "ime": "Miša",
     "pri": "Pušenjak",
     "dat_roj": "1962-11-29T00:00:00Z",
@@ -24189,7 +24189,7 @@
   },
   {
     "zap_st": null,
-    "st": 17,
+    "st": 15,
     "ime": "Marijan",
     "pri": "Pojbič",
     "dat_roj": "1961-02-06T00:00:00Z",
@@ -24206,7 +24206,7 @@
   },
   {
     "zap_st": null,
-    "st": 18,
+    "st": 16,
     "ime": "Zvonko",
     "pri": "Zinrajh",
     "dat_roj": "1954-05-17T00:00:00Z",
@@ -24223,7 +24223,7 @@
   },
   {
     "zap_st": null,
-    "st": 19,
+    "st": 17,
     "ime": "Samo",
     "pri": "Dvoršak",
     "dat_roj": "1969-05-29T00:00:00Z",
@@ -24240,7 +24240,7 @@
   },
   {
     "zap_st": null,
-    "st": 22,
+    "st": 20,
     "ime": "Marinka",
     "pri": "Dajčman",
     "dat_roj": "1970-02-22T00:00:00Z",
@@ -24257,7 +24257,7 @@
   },
   {
     "zap_st": null,
-    "st": 21,
+    "st": 19,
     "ime": "Mihael",
     "pri": "Jazbinšek",
     "dat_roj": "1941-11-04T00:00:00Z",
@@ -24412,7 +24412,7 @@
   },
   {
     "zap_st": null,
-    "st": 13,
+    "st": 12,
     "ime": "Špela",
     "pri": "Hojnik",
     "dat_roj": "1990-02-06T00:00:00Z",
@@ -24429,7 +24429,7 @@
   },
   {
     "zap_st": null,
-    "st": 16,
+    "st": 14,
     "ime": "Andrej",
     "pri": "Čuš",
     "dat_roj": "1990-07-29T00:00:00Z",
@@ -24446,7 +24446,7 @@
   },
   {
     "zap_st": null,
-    "st": 17,
+    "st": 15,
     "ime": "Jožef",
     "pri": "Lenart",
     "dat_roj": "1969-02-20T00:00:00Z",
@@ -24463,7 +24463,7 @@
   },
   {
     "zap_st": null,
-    "st": 18,
+    "st": 16,
     "ime": "Dejan",
     "pri": "Horvat",
     "dat_roj": "1984-10-26T00:00:00Z",
@@ -24480,7 +24480,7 @@
   },
   {
     "zap_st": null,
-    "st": 19,
+    "st": 17,
     "ime": "Brigita",
     "pri": "Tetičkovič",
     "dat_roj": "1974-10-08T00:00:00Z",
@@ -24497,7 +24497,7 @@
   },
   {
     "zap_st": null,
-    "st": 20,
+    "st": 18,
     "ime": "Darko",
     "pri": "Jazbec",
     "dat_roj": "1964-10-04T00:00:00Z",
@@ -24514,7 +24514,7 @@
   },
   {
     "zap_st": null,
-    "st": 21,
+    "st": 19,
     "ime": "Nejc",
     "pri": "Herjavec",
     "dat_roj": "2002-12-11T00:00:00Z",
@@ -24531,7 +24531,7 @@
   },
   {
     "zap_st": null,
-    "st": 22,
+    "st": 20,
     "ime": "Radko",
     "pri": "Hriberšek",
     "dat_roj": "1965-11-24T00:00:00Z",
@@ -24566,7 +24566,7 @@
   },
   {
     "zap_st": null,
-    "st": 15,
+    "st": 13,
     "ime": "Marko",
     "pri": "Pušnik",
     "dat_roj": "1991-06-20T00:00:00Z",
@@ -24584,7 +24584,7 @@
   },
   {
     "zap_st": null,
-    "st": 23,
+    "st": 21,
     "ime": "Alojz",
     "pri": "Kojzek",
     "dat_roj": "1948-01-18T00:00:00Z",
@@ -24739,7 +24739,7 @@
   },
   {
     "zap_st": null,
-    "st": 13,
+    "st": 12,
     "ime": "Peter",
     "pri": "Pribožič",
     "dat_roj": "1963-05-20T00:00:00Z",
@@ -24756,7 +24756,7 @@
   },
   {
     "zap_st": null,
-    "st": 16,
+    "st": 14,
     "ime": "Sergeja",
     "pri": "Puppis Freebairn",
     "dat_roj": "1974-10-04T00:00:00Z",
@@ -24773,7 +24773,7 @@
   },
   {
     "zap_st": null,
-    "st": 17,
+    "st": 15,
     "ime": "Nuša",
     "pri": "Vrabl Ferenčič",
     "dat_roj": "1975-01-31T00:00:00Z",
@@ -24790,7 +24790,7 @@
   },
   {
     "zap_st": null,
-    "st": 18,
+    "st": 16,
     "ime": "Bojan",
     "pri": "Sabotin",
     "dat_roj": "1975-12-11T00:00:00Z",
@@ -24807,7 +24807,7 @@
   },
   {
     "zap_st": null,
-    "st": 19,
+    "st": 17,
     "ime": "Vlasta",
     "pri": "Stojak",
     "dat_roj": "1967-05-10T00:00:00Z",
@@ -24824,7 +24824,7 @@
   },
   {
     "zap_st": null,
-    "st": 20,
+    "st": 18,
     "ime": "Maks",
     "pri": "Ferk",
     "dat_roj": "1953-10-14T00:00:00Z",
@@ -24841,7 +24841,7 @@
   },
   {
     "zap_st": null,
-    "st": 22,
+    "st": 20,
     "ime": "Jelena",
     "pri": "Novak",
     "dat_roj": "1975-04-11T00:00:00Z",
@@ -24977,7 +24977,7 @@
   },
   {
     "zap_st": null,
-    "st": 13,
+    "st": 12,
     "ime": "Peter",
     "pri": "Feguš",
     "dat_roj": "1962-05-03T00:00:00Z",
@@ -24994,7 +24994,7 @@
   },
   {
     "zap_st": null,
-    "st": 16,
+    "st": 14,
     "ime": "Ivan",
     "pri": "Brodnjak",
     "dat_roj": "1959-12-17T00:00:00Z",
@@ -25011,7 +25011,7 @@
   },
   {
     "zap_st": null,
-    "st": 17,
+    "st": 15,
     "ime": "Suzana",
     "pri": "Lep Šimenko",
     "dat_roj": "1979-10-30T00:00:00Z",
@@ -25028,7 +25028,7 @@
   },
   {
     "zap_st": null,
-    "st": 18,
+    "st": 16,
     "ime": "Melissa",
     "pri": "Pipenbacher",
     "dat_roj": "2000-09-28T00:00:00Z",
@@ -25045,7 +25045,7 @@
   },
   {
     "zap_st": null,
-    "st": 19,
+    "st": 17,
     "ime": "Slavko",
     "pri": "Krajnc",
     "dat_roj": "1967-12-10T00:00:00Z",
@@ -25062,7 +25062,7 @@
   },
   {
     "zap_st": null,
-    "st": 20,
+    "st": 18,
     "ime": "Milan",
     "pri": "Feguš",
     "dat_roj": "1966-08-29T00:00:00Z",
@@ -25079,7 +25079,7 @@
   },
   {
     "zap_st": null,
-    "st": 21,
+    "st": 19,
     "ime": "Nika",
     "pri": "Pušič",
     "dat_roj": "2002-04-10T00:00:00Z",
@@ -25096,7 +25096,7 @@
   },
   {
     "zap_st": null,
-    "st": 22,
+    "st": 20,
     "ime": "Karmen",
     "pri": "Ivančič",
     "dat_roj": "1972-01-26T00:00:00Z",
@@ -25113,7 +25113,7 @@
   },
   {
     "zap_st": null,
-    "st": 23,
+    "st": 21,
     "ime": "Marjeta",
     "pri": "Kodrič",
     "dat_roj": "1972-12-26T00:00:00Z",
@@ -25159,7 +25159,7 @@
     "okraji": null
   },
   {
-    "zap_st": null,
+    "zap_st": 1,
     "st": null,
     "ime": "Otto",
     "pri": "Močnek",
@@ -25174,22 +25174,7 @@
     "okraji": null
   },
   {
-    "zap_st": null,
-    "st": null,
-    "ime": "Mihael",
-    "pri": "Kasaš",
-    "dat_roj": "1983-01-08T00:00:00Z",
-    "pokl": null,
-    "del": "Direktor občinske uprave",
-    "obc": "Lendava",
-    "nas": "Dolina pri Lendavi",
-    "ul": "Glavna ulica",
-    "hst": "17",
-    "enota": 10,
-    "okraji": null
-  },
-  {
-    "zap_st": null,
+    "zap_st": 2,
     "st": null,
     "ime": "Ferenc",
     "pri": "Horváth",
@@ -25200,6 +25185,21 @@
     "nas": "Gornji Lakoš",
     "ul": "Glavna ulica",
     "hst": "9",
+    "enota": 10,
+    "okraji": null
+  },
+  {
+    "zap_st": 3,
+    "st": null,
+    "ime": "Mihael",
+    "pri": "Kasaš",
+    "dat_roj": "1983-01-08T00:00:00Z",
+    "pokl": null,
+    "del": "Direktor občinske uprave",
+    "obc": "Lendava",
+    "nas": "Dolina pri Lendavi",
+    "ul": "Glavna ulica",
+    "hst": "17",
     "enota": 10,
     "okraji": null
   }
