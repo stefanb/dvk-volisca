@@ -64,12 +64,12 @@
 1,10,"Borut","Werber","1966-10-17","visokošolski predavatelj","Domžale","Domžale","Ljubljanska cesta","84",1
 3,11,"Peter","Kozjek","1970-04-12","nezaposlen","Tržič","Pristava","Mlaka","9",1
 19,12,"Marija","Rogar","1983-02-27","asistent z doktoratom","Kranjska Gora","Rateče","Rateče","23",1
-8,14,"Marija (Mija)","Aleš","1965-12-18","prokurist v družinskem podjetju","Kranj","Breg ob Savi","Breg ob Savi","48",1
+8,14,"Mija (Marija)","Aleš","1965-12-18","prokurist v družinskem podjetju","Kranj","Breg ob Savi","Breg ob Savi","48",1
 15,15,"Nataša","Jenkole","1968-06-21","administrator","Kranj","Kranj","Staretova ulica","6A",1
 4,19,"Klemen","Belhar","1973-10-31","svetovalec","Tržič","Tržič","Cankarjeva cesta","20",1
 2,2,"Matija","Horvat","1980-03-05","vodja oddelka","Kranj","Kranj","Zoisova ulica","44",1
 16,16,"Stanislav","Žagar","1957-10-19","upokojenec","Medvode","Medvode","Cesta v Žlebe","23",1
-14,17,"Janez (Jani)","Černe","1982-12-05","podžupan mestne občine Kranj","Kranj","Kranj","Jenkova ulica","4",1
+14,17,"Jani (Janez)","Černe","1982-12-05","podžupan mestne občine Kranj","Kranj","Kranj","Jenkova ulica","4",1
 12,18,"Alenka","Bratušek","1970-03-31","poslanka Državnega zbora","Kranj","Kranj","Prisojna ulica","1",1
 5,21,"Mia","Gričar Seferi","1976-03-09","usklajevalna dela","Tržič","Tržič","Preska","4",1
 17,20,"Bojan","Pivk","1964-03-19","skladiščnik","Kranj","Kokrica","Galetova ulica","2",1
@@ -183,7 +183,7 @@
 18,9,"Dolores","Primožič","1989-04-23","študentka","Kranj","Kokrica","Cesta na Brdo","17",1
 1,10,"Gabrijel","Leskovec","1962-10-28","tehnični sodelavec","Ljubljana","Ljubljana","Ulica 28. maja","63",1
 3,11,"Katarina","Bošnjak","1981-03-23","nezaposlena","Radovljica","Begunje na Gorenjskem","Begunje na Gorenjskem","33D",1
-19,12,"Francisco Estanislao (Franc)","Medic","1958-03-29","poslovno svetovanje","Idrija","Idrija","Ulica Otona Župančiča","48",1
+19,12,"Franc (Francisco Estanislao)","Medic","1958-03-29","poslovno svetovanje","Idrija","Idrija","Ulica Otona Župančiča","48",1
 8,14,"Jurij","Kavčič","1960-04-17","kmetovalec","Cerkno","Cerkno","Gozdarska pot","2",1
 15,15,"Andrej","Poglajen","2000-06-05","študent","Idrija","Idrija","Triglavska ulica","13",1
 16,16,"Monika","Rožanc","1996-08-25","organizator mednarodnih prevozov","Šentjur","Rakitovec","Rakitovec","10C",1
@@ -211,7 +211,7 @@
 18,16,"Iztok","Mrak","1962-07-07","delo v turizmu","Tolmin","Kneža","Kneža","76",2
 3,13,"Sabina","Erjavec","1975-04-14","Učiteljica v oddelku podaljšanega bivanja na OŠ","Komen","Gorjansko","Gorjansko","86",2
 20,3,"Sabrina","Simonovich","1972-03-15","brezposelna","Piran","Nova vas nad Dragonjo","Nova vas nad Dragonjo","27",2
-9,4,"Danijel (Dani)","Bešič Loredan","1973-05-18","Zdravnik specialist ortopedske kirurgije","Izola","Izola","Kajuhova ulica","5",2
+9,4,"Dani (Danijel)","Bešič Loredan","1973-05-18","Zdravnik specialist ortopedske kirurgije","Izola","Izola","Kajuhova ulica","5",2
 6,6,"Nina","Ukmar","1974-12-24","direktorica","Sežana","Sežana","Brkinčeva ulica","16",2
 13,7,"Anja","Pečič","1985-04-05","manager","Koper","Grinjan","Grinjan","5D",2
 4,8,"Andrej","Korenika","1982-01-23","Osebni bančnik","Piran","Lucija","Šolska ulica","8",2
@@ -230,7 +230,7 @@
 11,21,"Zlatka","Olah","1961-11-12","aktivistka","Piran","Piran","Goriška ulica","1",2
 8,1,"Milena","Bužan","1965-02-18","delo na socialnem področju","Koper","Koper","Puntarska ulica","7",2
 20,3,"Damjan","Bertok","1975-08-05","Vodja službe","Izola","Malija","Malija","74",2
-9,4,"Robert (Robi)","Janev","1969-07-17","Samostojni strokovni svetovalec za šport","Izola","Jagodje","Pod vinogradi","4",2
+9,4,"Robi (Robert)","Janev","1969-07-17","Samostojni strokovni svetovalec za šport","Izola","Jagodje","Pod vinogradi","4",2
 6,6,"Alan","Medveš","1978-09-27","specialist za analitiko in projekte","Koper","Koper","Grajska pot","5",2
 13,7,"Rene","Ristovski","1999-06-03","študent","Izola","Jagodje","Na terasah","10",2
 4,8,"Sandi","Čurin","1967-02-04","Sekretar","Piran","Nova vas nad Dragonjo","Nova vas nad Dragonjo","1D",2
@@ -340,7 +340,7 @@
 16,19,"Ana","Jug","1949-07-28","upokojenka","Nova Gorica","Rožna Dolina","Vipavska cesta","104",2
 8,1,"Darinka","Kozinc","1953-10-09","upokojenka","Nova Gorica","Solkan","Med ogradami","37",2
 20,3,"Jadranka","Kocbek Mervič","1977-09-18","Receptorka","Nova Gorica","Solkan","Pod vinogradi","3",2
-9,4,"Matej (Arči)","Arčon","1972-11-04","Skrbnik ključnih strank","Nova Gorica","Nova Gorica","Gortanova ulica","30",2
+9,4,"Arči (Matej)","Arčon","1972-11-04","Skrbnik ključnih strank","Nova Gorica","Nova Gorica","Gortanova ulica","30",2
 5,11,"Mima","Zadnek","1975-11-06","Strokovna sodelavka na terenu za področje fizioterapije in farmacevtike","Nova Gorica","Nova Gorica","Ulica XXX. divizije","13B",2
 11,21,"Dona","Olah","1980-07-15","vodja izmene","Piran","Piran","Goriška ulica","1",2
 19,2,"Mitja","Ličen","1969-02-10","Strojevodja","Ajdovščina","Ajdovščina","Ulica Milana Klemenčiča","4",2
@@ -373,180 +373,180 @@
 7,18,"Dejana","Baša","1964-04-09","Brezposelna","Nova Gorica","Prvačina","Prvačina","145",2
 16,19,"Mojca","Milone","1968-05-17","Učitelj","Nova Gorica","Trnovo","Trnovo","1N",2
 15,20,"Irena","Ličen","1965-11-16","Brez zaposlitve","Ajdovščina","Ajdovščina","Slejkoti","1",2
-,1,"Darinka","Podobnik","1952-11-18","upokojenka","Vrhnika","Vrhnika","Pot v Močilnik","8",3
-,3,"Bojan","Durič","1966-08-02","javni uslužbenec","Cerknica","Rakek","Vrtna ulica","9",3
-,4,"Domen","Petan","1985-12-03","direktor podjetja","Cerknica","Cerknica","Cesta na Jezero","14",3
-,6,"Peter","Terčič","1983-03-22","učitelj športa","Logatec","Kalce","Kalce","30N",3
-,7,"Igor","Dekleva","1979-01-19","direktor","Cerknica","Cerknica","Ulica za mlinom","7",3
-,8,"Alenka","Jevšnik","1965-08-14","vzgojiteljica predšolskih otrok","Kamnik","Kamnik","Kovinarska cesta","10B",3
-,9,"Rok (Rok Petravić)","Petravić","1986-07-10","pravnik - davčni svetovalec","Izola","Izola","Ulica Elvire Vatovec","11",3
-,10,"Gregor","Žigon","1976-10-04","aktivni iskalec zaposlitve","Logatec","Logatec","Pavšičeva ulica","36",3
-,11,"Andrej","Plevnik","1964-10-07","poslovni trener, coach","Logatec","Logatec","Cesta 5. maja","29",3
-,12,"Iva","Dimic","1972-10-28","Poslanka državnega zbora","Cerknica","Dolenja vas","Dolenja vas","97",3
-,13,"Mojca","Pungerčar","1998-03-19","študent","Ljubljana","Ljubljana","Ulica Angelce Ocepkove","9",3
-,14,"Berto","Menard","1954-06-05","župan Občine Logatec","Logatec","Logatec","Tržaška cesta","14A",3
-,15,"Zoran","Mojškerc","1978-01-31","koordinator","Logatec","Logatec","Šolska pot","6",3
-,16,"Saša","Otoničar","1978-11-23","Svetovalka generalnega sekretarja","Cerknica","Cerknica","Sinja gorica","7",3
-,17,"Armida","Bavec","1967-08-21","vodja sektorja na ministrstvu","Loška dolina","Markovec","Markovec","21A",3
-,18,"Angela","Menart","1954-01-15","direktorica družinskega podjetja","Logatec","Logatec","Klanec","9A",3
-,19,"Žiga","Valetič","1973-04-29","grafični oblikovalec, pisatelj","Brezovica","Brezovica pri Ljubljani","Malovaška ulica","21",3
-,2,"Norma Marija","Brščič","1994-10-06","samostojni podjetnik","Ljubljana","Ljubljana","Valvasorjeva ulica","10",3
-,20,"Karmen","Peternelj","1956-01-19","upokojenka","Brezovica","Notranje Gorice","Vrstna ulica","55",3
-,1,"Primož","Hainz","1947-02-04","upokojenec","Piran","Portorož","Senčna pot","19",3
-,3,"Eva","Šimunić Cvetkovski","1980-09-24","kontrola kakovosti","Vrhnika","Drenov Grič","Drenov Grič","195",3
-,4,"Bojan","Čebela","1955-03-28","župan","Borovnica","Zabočevo","Zabočevo","11",3
-,6,"Marko","Močnik","1984-04-05","vzgojitelj v vrtcu","Vrhnika","Verd","Verd","96",3
-,7,"Maja","Markov","1984-04-02","komercialist","Postojna","Postojna","Tomšičeva ulica","45",3
-,8,"Jerca","Korče","1990-02-27","poslanka v državnem zboru","Idrija","Idrija","Mrakova ulica","25",3
-,9,"Zdenka","Petoš","1956-03-16","upokojenka","Vrhnika","Vrhnika","Robova cesta","38",3
-,10,"Anton","Može","1953-04-08","poslovni sekretar","Divača","Senožeče","Senožeče","102M",3
-,11,"Tomaž","Grom","1964-02-29","poslovni informatik, lesni dekor.","Vrhnika","Vrhnika","Tržaška cesta","35",3
-,12,"Janez","Ovsec","1958-06-18","Pomočnik direktorja proizvodnje","Logatec","Logatec","Partizanska ulica","6",3
-,14,"Nejc","Škof","1991-07-08","samostojni podjetnik","Piran","Parecag","Parecag","301",3
-,15,"Domen","Cukjati","1976-10-11","informatik analitik","Log-Dragomer","Dragomer","Ljubljanska cesta","16",3
-,17,"Bojan","Perić","1982-04-30","podsekretar na ministrstvu za finance","Log-Dragomer","Log pri Brezovici","Rimska cesta","5",3
-,18,"Jakob","Klaić","1996-01-15","strokovni sodelavec v državnem zboru","Ruše","Log","Log","195",3
-,19,"Jernej","Fefer","1965-01-19","svetovalec","Vrhnika","Vrhnika","Na Klisu","14",3
-,20,"Andreja","Novak","1971-01-22","upokojenka","Brezovica","Brezovica pri Ljubljani","Brežna pot","11",3
-,13,"Ira","Mešiček","1996-09-02","študent","Brezovica","Plešivica","Plešivica","30",3
-,16,"Janja","Mišič","1969-04-28","Obračunovalec plač","Vrhnika","Verd","Verd","204",3
-,2,"Tjaša","Lefkovski","1994-12-26","delo v proizvodnji","Logatec","Logatec","Cesta 5. maja","9",3
-,3,"Matjaž","Gorjup","1986-10-28","voznik mestnega avtobusa","Velike Lašče","Velike Lašče","Javorškova ulica","15",3
-,4,"Igor","Papič","1966-05-24","univerzitetni profesor","Ljubljana","Ljubljana","Poklukarjeva ulica","84",3
-,6,"Iva","Padar","1957-07-21","operativna upravnica - nosilka projektov","Ljubljana","Ljubljana","Ilirska ulica","5",3
-,9,"Dragomira","Rejc","1950-03-23","upokojenka","Ljubljana","Ljubljana","Puterlejeva ulica","21",3
-,10,"Martina","Fukuhara Štirn","1971-11-10","samozaposlena v kulturi","Ljubljana","Ljubljana","Porentova ulica","1",3
-,11,"Miran","Gorše","1957-08-26","IT arhitekt","Ljubljana","Ljubljana","Černetova ulica","7",3
-,12,"Marko","Gruden","1996-09-06","Strokovni sodelavec v poslanski skupini","Velike Lašče","Ulaka","Ulaka","14",3
-,14,"Janez","Cimperman","1951-06-01","župan Občine Ig","Ig","Kot","Kot","35",3
-,15,"Alenka","Jeraj","1973-02-23","poslanka DZ RS","Ig","Ig","Na Pungart","11",3
-,17,"Janez","Kastelic","1961-06-09","direktor KPLB","Ig","Tomišelj","Tomišelj","35C",3
-,19,"Anja","Završnik","1987-05-21","veterinarka","Mozirje","Brezje","Brezje","43",3
-,1,"Zlatko","Božič","1947-02-26","upokojenec","Ljubljana","Ljubljana","Ulica bratov Učakar","120",3
-,13,"Jasmin","Feratović","1996-09-18","sekretar stranke","Ljubljana","Ljubljana","Rakarska ulica","4",3
-,16,"Jože","Kovač","1953-01-04","upokojenec","Ljubljana","Ljubljana","Devinska ulica","1C",3
-,8,"Marko","Lovše","1973-03-24","sekretar","Ljubljana","Ljubljana","Ižanska cesta","206D",3
-,18,"Peter Jožef","Česnik","1945-01-11","upokojenec","Ljubljana","Ljubljana","Veselova ulica","13",3
-,7,"Rok","Bohinc","1976-02-28","komercialist","Vodice","Vodice","Kamniška cesta","53F",3
-,3,"Alenka","Viceljo","1960-04-23","samostojna umetnica","Piran","Lucija","Obala","93",3
-,4,"Mojca","Šetinc Pašek","1972-03-09","novinarka-komentatorka in urednica na televiziji","Škofljica","Pijava Gorica","Vrtna ulica","5",3
-,6,"Ištvan Išt","Huzjan","1981-06-01","samozaposlen v kulturi","Ljubljana","Ljubljana","Cesta v Mestni log","3",3
-,7,"Kristina","Čibarić","1999-12-15","komercialist","Piran","Lucija","Fazanska ulica","2",3
-,9,"Melita","Biserkova Kuhelj","1967-09-29","direktorica","Brezovica","Brezovica pri Ljubljani","Ulica Ivana Selana","41",3
-,10,"Natalija","Tripković","1975-09-30","državna uradnica","Ljubljana","Ljubljana","Savska cesta","8A",3
-,11,"Sonja","Novakovič Jelen","1973-08-25","svetovalka","Brezovica","Rakitna","Rakitna","25C",3
-,12,"Peter","Kolenc","1966-02-20","Načrtovalec aplikacij za poslovne sisteme","Ljubljana","Ljubljana","Ob dolenjski železnici","86",3
-,14,"Monika","Gregorčič","1969-03-05","poslanka državnega zbora","Ljubljana","Ljubljana","Smrekarjeva ulica","7",3
-,15,"Mojca","Gregorič","1974-08-29","podsekretarka na Ministrstvu za gospodarski razvoj in tehnologijo","Ljubljana","Ljubljana","Komanova ulica","11",3
-,17,"Dominika","Švarc Pipan","1978-07-09","pravna svetovalka","Ljubljana","Ljubljana","Barjanska cesta","64",3
-,18,"Božidar","Jezernik","1951-10-09","redni profesor","Ljubljana","Ljubljana","Pod hrasti","12",3
-,19,"Jaka","Zevnik","1980-03-24","vodja projektov","Ljubljana","Ljubljana","Cesta dveh cesarjev","30",3
-,8,"Domen","Jere","1986-03-25","strokovni sodelavec v skupni občinski upravi","Ljubljana","Ljubljana","Krivec","1",3
-,2,"Anita","Ogrin Ločniškar","1966-12-18","javni uslužbenec","Medvode","Zbilje","Zbilje","88",3
-,3,"Sanja","Milošević Grujović","1977-01-23","brezposelna","Ljubljana","Ljubljana","Ulica Koroškega bataljona","13",3
-,4,"Lucija","Tacer","1997-02-11","študentka","Ljubljana","Ljubljana","Poljanska cesta","19",3
-,6,"Milan","Jakopovič","1972-07-18","varuh oseb z motnjo v duševnem razvoju","Ljubljana","Ljubljana","Kotnikova ulica","21",3
-,9,"Janez","Waland","1977-12-22","strokovni sodelavec","Radovljica","Lesce","Alpska cesta","32",3
-,11,"Milan","Povše","1966-02-27","vzdrževalec strojev in naprav","Logatec","Logatec","Tržaška cesta","138",3
-,12,"Boris","Kham","1950-04-23","Upokojenec","Ljubljana","Ljubljana","Tržaška cesta","22",3
-,14,"Monika","Zupanc Kovač","1969-07-27","arhitekturno projektiranje","Ljubljana","Ljubljana","Gregorčičeva ulica","13",3
-,15,"Aleš","Hojs","1961-12-12","minister","Ljubljana","Ljubljana","Jamnikarjeva ulica","75",3
-,17,"Jonas","Žnidaršič","1962-01-30","igralec, voditelj","Ljubljana","Ljubljana","Vrhovci, cesta XXII","13",3
-,19,"Alja","Miklavčič","1991-08-20","grafična oblikovalka","Ljubljana","Ljubljana","Lepi pot","15A",3
-,2,"Bernard","Brščič","1973-08-23","ekonomist","Ljubljana","Ljubljana","Chengdujska cesta","2",3
-,10,"Violeta","Bulc","1964-01-24","samozaposlena","Ljubljana","Ljubljana","Ulica na Grad","6",3
-,20,"Samir","Hvalec","1965-08-09","samostojni podjetnik","Ljubljana","Ljubljana","Rožičeva ulica","4",3
-,7,"Nik","Popovič","2000-04-17","direktor","Koper","Bošamarin","Bošamarin","62",3
-,1,"Janez","Artač","1941-12-30","upokojenec","Ljubljana","Ljubljana","Za progo","17A",3
-,13,"Zala","Rebernak","1992-05-01","konservator-restavrator likovnih del","Ljubljana","Ljubljana","Ulica Marije Hvaličeve","13",3
-,16,"Simo","Marić","1975-03-15","prodajalec","Ig","Ig","Zagorica","3",3
-,3,"Nevenka","Hribar","1963-06-09","gospodinja","Vrhnika","Vrhnika","Dobovičnikova ulica","74",3
-,4,"Ksenija","Pišljar","1975-10-04","pomočnica ravnateljice v osnovni šoli in učiteljica","Ljubljana","Ljubljana","Ulica Vladimirja Trampuža","8",3
-,6,"Brina Minca","Herlec","1998-03-06","študentka","Ljubljana","Ljubljana","Papirniški trg","7",3
-,7,"Tanja","Pogačnik","1975-11-11","poslovodja","Brezovica","Vnanje Gorice","Vnanje Gorice","11",3
-,9,"Janez","Tomc","1972-03-05","vodja kontrolnega organa","Ljubljana","Ljubljana","Trinkova ulica","58",3
-,10,"Doroteja","Novak Gosarič","1959-11-08","MZ-Sektor za zdravila in medicinske pripomočke","Dobrova-Polhov Gradec","Babna Gora","Babna Gora","49A",3
-,11,"Mateja","Plevnik","1970-09-25","direktor, veterinarka","Logatec","Logatec","Cesta 5. maja","29",3
-,12,"Mojca","Sojar","1964-07-15","Organizacija srečanj in potovanj","Ljubljana","Ljubljana","Cesta Dolomitskega odreda","44",3
-,15,"Anže","Logar","1976-05-15","minister","Ljubljana","Ljubljana","Parmova ulica","40",3
-,17,"Gregor","Židan","1965-10-05","poslanec","Ljubljana","Ljubljana","Ižanska cesta","170",3
-,18,"Tjaša","Zorc Rupnik","1967-07-02","literarna urednica in direktorica založbe","Vrhnika","Bevke","Bevke","93A",3
-,19,"Nina","Lesjak","1985-12-12","grafična oblikovalka","Nazarje","Prihova","Prihova","53",3
-,20,"Darko","Fekete","1963-12-02","terapevt","Maribor","Maribor","Regentova ulica","6",3
-,1,"Marija","Horvat","1953-04-21","upokojenka","Ljubljana","Ljubljana","Cesta na Brdo","117",3
-,14,"Alojz","Kovšca","1965-09-13","predsednik državnega sveta RS","Grosuplje","Velika Račna","Velika Račna","48",3
-,1,"Marija Ana","Radiković","1944-07-22","upokojenka","Ljubljana","Ljubljana","Tbilisijska ulica","56",3
-,3,"Tomaž","Avsenik","1964-01-13","samostojni podjetnik","Ljubljana","Ljubljana","Bernekerjeva ulica","41",3
-,6,"Luka","Mesec","1987-07-01","poslanec","Ljubljana","Ljubljana","Njegoševa cesta","6J",3
-,8,"Klemen","Gliha","1975-07-07","strokovni sodelavec","Ljubljana","Ljubljana","Cankarjeva cesta","7",3
-,9,"Blaž","Peternel","1975-10-26","vodja raziskav in razvoja","Maribor","Maribor","Pasteurjeva ulica","8",3
-,11,"Tarra","Stermšek Kristan","1998-05-27","dijakinja","Ljubljana","Ljubljana","Njegoševa cesta","6H",3
-,12,"Stanislava (Slava)","Sosič","1959-10-27","Lastnik in vodja trgovine","Ljubljana","Ljubljana","Ciril-Metodov trg","13",3
-,14,"Andrej","Magajna","1952-05-04","upokojenec","Ljubljana","Ljubljana","Mihov štradon","13",3
-,15,"Marko","Posavec","1969-06-25","podjetnik","Ljubljana","Ljubljana","Hrenova ulica","24",3
-,17,"Marko","Koprivc","1978-12-14","poslanec","Ljubljana","Ljubljana","Poljanski nasip","30",3
-,19,"Črt","Batagelj","1980-12-20","samozaposlen v kulturi, producent","Ljubljana","Ljubljana","Kapiteljska ulica","9",3
-,2,"Boštjan","Zupančič","1947-05-13","upokojenec","Ljubljana","Ljubljana","Jeranova ulica","5",3
-,4,"Robert","Golob","1967-01-23","direktor","Nova Gorica","Kromberk","Pod Škabrijelom","72",3
-,13,"Gorazd","Knific","1976-07-04","kustos z magisterijem-muzejski svetovalec","Ljubljana","Ljubljana","Jesenkova ulica","2",3
-,16,"Janja","Hostnik","1983-05-27","promotor","Šmarje pri Jelšah","Strtenica","Strtenica","1",3
-,18,"Karmen","Velikonja","1959-03-24","tržna inšpektorica","Nova Gorica","Nova Gorica","Ulica XXX. divizije","19C",3
-,3,"Andrej","Bohinc","1974-05-23","direktor","Ljubljana","Ljubljana","Kogojeva ulica","6",3
-,6,"Asta","Vrečko","1984-08-13","raziskovalka in kuratorka","Ljubljana","Ljubljana","Linhartova cesta","3",3
-,8,"Katja","Damij","1971-05-06","direktorica","Ljubljana","Ljubljana","Šarhova ulica","22",3
-,9,"Roman","Šmidovnik","1964-11-27","direktor podjetja","Ljubljana","Ljubljana","Frankopanska ulica","21",3
-,11,"Barbra","Jermann","1961-06-26","urednica","Ljubljana","Ljubljana","Runkova ulica","2",3
-,12,"Mateja","Drobnič","1964-02-25","Finančna sodelavka","Ljubljana","Ljubljana","Peričeva ulica","7",3
-,14,"Sara","Iseinoski","1997-09-11","svetovalec na MGRT","Rogaška Slatina","Zgornja Kostrivnica","Zgornja Kostrivnica","22",3
-,15,"Mojca","Škrinjar","1955-11-30","poslanka DZ RS","Ljubljana","Ljubljana","Podjunska ulica","16",3
-,17,"Blaž","Zgaga","1973-09-26","samostojni novinar","Medvode","Medvode","Škofjeloška cesta","23",3
-,19,"Urška","Zgojznik","1980-08-01","vodja promocijskih aktivnosti","Polzela","Polzela","Glavni trg","45",3
-,10,"Ivan","Gale","1980-06-18","pravnik","Ljubljana","Ljubljana","Rakuševa ulica","18",3
-,20,"Damjan","Gregorič","1980-09-22","regresoterapevt, hipnoterapevt","Ljubljana","Ljubljana","Gunceljska cesta","29",3
-,1,"Miran","Juras","1972-06-06","gastronom","Celje","Celje","Kraigherjeva ulica","9",3
-,3,"Roman","Fileš","1978-02-19","vodja projektov","Ljubljana","Ljubljana","Arkova ulica","15",3
-,4,"Lenart","Žavbi","1999-09-25","študent","Ljubljana","Ljubljana","Streliška ulica","37A",3
-,6,"Dan","Juvan","1987-12-24","organizator in strokovni sodelavec","Ljubljana","Ljubljana","Dergomaška ulica","37",3
-,7,"Anže","Lemež","1994-07-30","ekonomist","Ljubljana","Ljubljana","Jakopičeva ulica","2",3
-,8,"Zdravko","Selič","1956-12-25","finančni načrtovalec","Ljubljana","Ljubljana","Černigojeva ulica","22",3
-,9,"Žiga","Štrukelj","2000-04-02","študent, mladi kmet","Ljubljana","Ljubljana","Podutiška cesta","39",3
-,11,"Darko","Begić","1975-08-01","podčastnik","Vrhnika","Vrhnika","Poštna ulica","3A",3
-,12,"Marcela","Uršič","1961-06-16","Specialistka za upravljanje nepremičnin","Ljubljana","Ljubljana","Ulica Marije Hvaličeve","42",3
-,14,"Špela","Jovanovič-Gaberšek","1984-03-08","vodja kabineta ministra, RS MP","Škofljica","Škofljica","Ob potoku","24",3
-,15,"Davorin","Kopše","1963-11-08","upokojenec","Ljubljana","Ljubljana","Runkova ulica","2",3
-,17,"Tanja","Fajon","1971-05-09","evropska poslanka","Ljubljana","Ljubljana","Novo Polje, cesta VII","31",3
-,18,"Maša","Kociper","1972-07-17","poslanka državnega zbora","Ljubljana","Ljubljana","Ob pristanu","8",3
-,19,"Saša","Fras","1975-05-18","skrbnik ključnih kupcev","Kobilje","Kobilje","Kobilje","223",3
-,2,"Drago","Babnik","1947-07-12","upokojenec","Ljubljana","Ljubljana","Herbersteinova ulica","39",3
-,13,"Ratko","Stojiljković","1980-04-21","nezaposlen","Ljubljana","Ljubljana","Hafnerjeva ulica","4A",3
-,16,"Dušan","Dolar","1954-04-11","upokojenec","Zagorje ob Savi","Zagorje ob Savi","Cesta 9. avgusta","24",3
-,3,"Andrej","Žerovc","1975-02-15","samostojni podjetnik","Kranj","Kranj","Ulica Angelce Hlebce","5B",3
-,4,"Urška","Klakočar Zupančič","1977-06-19","direktorica","Ljubljana","Ljubljana","Tacenska cesta","125A",3
-,6,"Arne Jakob","Zakrajšek","1995-05-20","doktorski študent","Ljubljana","Ljubljana","Brilejeva ulica","3",3
-,7,"Daliborka","Grabovac","1976-10-11","samostojni podjetnik","Ljubljana","Ljubljana","Ledarska ulica","7",3
-,8,"Urška","Cankar Bošnjak","1979-04-19","direktorica","Vodice","Vodice","Pod borovci","26",3
-,9,"Nataša","Zakotnik Šmidovnik","1963-07-13","poslovna direktorica","Ljubljana","Ljubljana","Frankopanska ulica","21",3
-,10,"Ljubo","Vošnjak","1959-11-04","upokojenec","Ljubljana","Ljubljana","Škerljeva ulica","5",3
-,11,"Boštjan","Korelc","1974-11-22","nezaposlen","Vrhnika","Verd","Verd","157",3
-,12,"Gašper","Čižman","1995-07-09","študent","Ljubljana","Ljubljana","Savlje","103",3
-,15,"Ksenija","Sever","1947-07-24","upokojenka, prokurist","Ljubljana","Ljubljana","Pestotnikova ulica","3",3
-,17,"Petra","Doles","1996-04-26","administratorka","Ljubljana","Ljubljana","Prešernova cesta","6",3
-,19,"Nenad","Đorđević","1963-09-24","podjetnik","Ljubljana","Ljubljana","Brilejeva ulica","12",3
-,18,"Mateja","Logar","1970-02-07","uradnica","Ljubljana","Ljubljana","Pločanska ulica","10",3
-,20,"Tanja","Nosan","1964-08-02","računovodstvo","Ljubljana","Ljubljana","Prušnikova ulica","84",3
-,3,"Marko","Gubanc","1978-06-07","voznik - skladiščnik","Vodice","Polje pri Vodicah","Polje pri Vodicah","26",3
-,4,"Alenka","Sivka","1960-01-11","novinarka","Medvode","Medvode","Klanska ulica","11",3
-,6,"Alenka","Pirjevec","1945-07-05","upokojenka","Ljubljana","Ljubljana","Ulica Ivice Pirjevčeve","36",3
-,7,"Vito","Klavora","1983-07-15","strokovni sodelavec","Medvode","Medvode","Cesta na Senico","4M",3
-,8,"Andreja","Zabret","1969-03-05","poslanka v državnem zboru","Domžale","Škrjančevo","Škrjančevo","100",3
-,9,"Dejan","Krajačić","1976-09-29","prodajalec","Medvode","Medvode","Škofjeloška cesta","11",3
-,10,"Polonca","Štefanič","1979-10-23","docentka na biotehniški fakulteti","Ljubljana","Ljubljana","Rašiška ulica","1",3
-,11,"Jure","Pogačnik","1968-07-26","direktor","Ljubljana","Ljubljana","Martina Krpana ulica","28",3
-,12,"Jože","Podgoršek","1974-03-17","minister","Vodice","Polje pri Vodicah","Polje pri Vodicah","28A",3
-,14,"Dragan","Djukić","1955-11-01","upokojenec","Medvode","Medvode","Cesta na Svetje","3",3
-,15,"Leon","Merjasec","1969-02-25","poslanec DZ RS","Medvode","Spodnje Pirniče","Spodnje Pirniče","60A",3
-,17,"Alenka","Žavbi Kunaver","1973-10-29","prokuristka","Medvode","Zbilje","Zbilje","61B",3
-,19,"Gregor","Gregorčič","1966-03-18","projektant","Ljubljana","Ljubljana","Pavšičeva ulica","6",3
+18,1,"Darinka","Podobnik","1952-11-18","upokojenka","Vrhnika","Vrhnika","Pot v Močilnik","8",3
+9,3,"Bojan","Durič","1966-08-02","javni uslužbenec","Cerknica","Rakek","Vrtna ulica","9",3
+10,4,"Domen","Petan","1985-12-03","direktor podjetja","Cerknica","Cerknica","Cesta na Jezero","14",3
+19,6,"Peter","Terčič","1983-03-22","učitelj športa","Logatec","Kalce","Kalce","30N",3
+3,7,"Igor","Dekleva","1979-01-19","direktor","Cerknica","Cerknica","Ulica za mlinom","7",3
+16,8,"Alenka","Jevšnik","1965-08-14","vzgojiteljica predšolskih otrok","Kamnik","Kamnik","Kovinarska cesta","10B",3
+4,9,"Rok Petravić (Rok)","Petravić","1986-07-10","pravnik - davčni svetovalec","Izola","Izola","Ulica Elvire Vatovec","11",3
+15,10,"Gregor","Žigon","1976-10-04","aktivni iskalec zaposlitve","Logatec","Logatec","Pavšičeva ulica","36",3
+12,11,"Andrej","Plevnik","1964-10-07","poslovni trener, coach","Logatec","Logatec","Cesta 5. maja","29",3
+11,12,"Iva","Dimic","1972-10-28","Poslanka državnega zbora","Cerknica","Dolenja vas","Dolenja vas","97",3
+8,13,"Mojca","Pungerčar","1998-03-19","študent","Ljubljana","Ljubljana","Ulica Angelce Ocepkove","9",3
+6,14,"Berto","Menard","1954-06-05","župan Občine Logatec","Logatec","Logatec","Tržaška cesta","14A",3
+14,15,"Zoran","Mojškerc","1978-01-31","koordinator","Logatec","Logatec","Šolska pot","6",3
+5,16,"Saša","Otoničar","1978-11-23","Svetovalka generalnega sekretarja","Cerknica","Cerknica","Sinja gorica","7",3
+1,17,"Armida","Bavec","1967-08-21","vodja sektorja na ministrstvu","Loška dolina","Markovec","Markovec","21A",3
+2,18,"Angela","Menart","1954-01-15","direktorica družinskega podjetja","Logatec","Logatec","Klanec","9A",3
+13,19,"Žiga","Valetič","1973-04-29","grafični oblikovalec, pisatelj","Brezovica","Brezovica pri Ljubljani","Malovaška ulica","21",3
+7,2,"Norma Marija","Brščič","1994-10-06","samostojni podjetnik","Ljubljana","Ljubljana","Valvasorjeva ulica","10",3
+17,20,"Karmen","Peternelj","1956-01-19","upokojenka","Brezovica","Notranje Gorice","Vrstna ulica","55",3
+18,1,"Primož","Hainz","1947-02-04","upokojenec","Piran","Portorož","Senčna pot","19",3
+9,3,"Eva","Šimunić Cvetkovski","1980-09-24","kontrola kakovosti","Vrhnika","Drenov Grič","Drenov Grič","195",3
+10,4,"Bojan","Čebela","1955-03-28","župan","Borovnica","Zabočevo","Zabočevo","11",3
+19,6,"Marko","Močnik","1984-04-05","vzgojitelj v vrtcu","Vrhnika","Verd","Verd","96",3
+3,7,"Maja","Markov","1984-04-02","komercialist","Postojna","Postojna","Tomšičeva ulica","45",3
+16,8,"Jerca","Korče","1990-02-27","poslanka v državnem zboru","Idrija","Idrija","Mrakova ulica","25",3
+4,9,"Zdenka","Petoš","1956-03-16","upokojenka","Vrhnika","Vrhnika","Robova cesta","38",3
+15,10,"Anton","Može","1953-04-08","poslovni sekretar","Divača","Senožeče","Senožeče","102M",3
+12,11,"Tomaž","Grom","1964-02-29","poslovni informatik, lesni dekor.","Vrhnika","Vrhnika","Tržaška cesta","35",3
+11,12,"Janez","Ovsec","1958-06-18","Pomočnik direktorja proizvodnje","Logatec","Logatec","Partizanska ulica","6",3
+6,14,"Nejc","Škof","1991-07-08","samostojni podjetnik","Piran","Parecag","Parecag","301",3
+14,15,"Domen","Cukjati","1976-10-11","informatik analitik","Log-Dragomer","Dragomer","Ljubljanska cesta","16",3
+1,17,"Bojan","Perić","1982-04-30","podsekretar na ministrstvu za finance","Log-Dragomer","Log pri Brezovici","Rimska cesta","5",3
+2,18,"Jakob","Klaić","1996-01-15","strokovni sodelavec v državnem zboru","Ruše","Log","Log","195",3
+13,19,"Jernej","Fefer","1965-01-19","svetovalec","Vrhnika","Vrhnika","Na Klisu","14",3
+17,20,"Andreja","Novak","1971-01-22","upokojenka","Brezovica","Brezovica pri Ljubljani","Brežna pot","11",3
+8,13,"Ira","Mešiček","1996-09-02","študent","Brezovica","Plešivica","Plešivica","30",3
+5,16,"Janja","Mišič","1969-04-28","Obračunovalec plač","Vrhnika","Verd","Verd","204",3
+7,2,"Tjaša","Lefkovski","1994-12-26","delo v proizvodnji","Logatec","Logatec","Cesta 5. maja","9",3
+9,3,"Matjaž","Gorjup","1986-10-28","voznik mestnega avtobusa","Velike Lašče","Velike Lašče","Javorškova ulica","15",3
+10,4,"Igor","Papič","1966-05-24","univerzitetni profesor","Ljubljana","Ljubljana","Poklukarjeva ulica","84",3
+19,6,"Iva","Padar","1957-07-21","operativna upravnica - nosilka projektov","Ljubljana","Ljubljana","Ilirska ulica","5",3
+4,9,"Dragomira","Rejc","1950-03-23","upokojenka","Ljubljana","Ljubljana","Puterlejeva ulica","21",3
+15,10,"Martina","Fukuhara Štirn","1971-11-10","samozaposlena v kulturi","Ljubljana","Ljubljana","Porentova ulica","1",3
+12,11,"Miran","Gorše","1957-08-26","IT arhitekt","Ljubljana","Ljubljana","Černetova ulica","7",3
+11,12,"Marko","Gruden","1996-09-06","Strokovni sodelavec v poslanski skupini","Velike Lašče","Ulaka","Ulaka","14",3
+6,14,"Janez","Cimperman","1951-06-01","župan Občine Ig","Ig","Kot","Kot","35",3
+14,15,"Alenka","Jeraj","1973-02-23","poslanka DZ RS","Ig","Ig","Na Pungart","11",3
+1,17,"Janez","Kastelic","1961-06-09","direktor KPLB","Ig","Tomišelj","Tomišelj","35C",3
+13,19,"Anja","Završnik","1987-05-21","veterinarka","Mozirje","Brezje","Brezje","43",3
+18,1,"Zlatko","Božič","1947-02-26","upokojenec","Ljubljana","Ljubljana","Ulica bratov Učakar","120",3
+8,13,"Jasmin","Feratović","1996-09-18","sekretar stranke","Ljubljana","Ljubljana","Rakarska ulica","4",3
+5,16,"Jože","Kovač","1953-01-04","upokojenec","Ljubljana","Ljubljana","Devinska ulica","1C",3
+16,8,"Marko","Lovše","1973-03-24","sekretar","Ljubljana","Ljubljana","Ižanska cesta","206D",3
+2,18,"Peter Jožef","Česnik","1945-01-11","upokojenec","Ljubljana","Ljubljana","Veselova ulica","13",3
+3,7,"Rok","Bohinc","1976-02-28","komercialist","Vodice","Vodice","Kamniška cesta","53F",3
+9,3,"Alenka","Viceljo","1960-04-23","samostojna umetnica","Piran","Lucija","Obala","93",3
+10,4,"Mojca","Šetinc Pašek","1972-03-09","novinarka-komentatorka in urednica na televiziji","Škofljica","Pijava Gorica","Vrtna ulica","5",3
+19,6,"Ištvan Išt","Huzjan","1981-06-01","samozaposlen v kulturi","Ljubljana","Ljubljana","Cesta v Mestni log","3",3
+3,7,"Kristina","Čibarić","1999-12-15","komercialist","Piran","Lucija","Fazanska ulica","2",3
+4,9,"Melita","Biserkova Kuhelj","1967-09-29","direktorica","Brezovica","Brezovica pri Ljubljani","Ulica Ivana Selana","41",3
+15,10,"Natalija","Tripković","1975-09-30","državna uradnica","Ljubljana","Ljubljana","Savska cesta","8A",3
+12,11,"Sonja","Novakovič Jelen","1973-08-25","svetovalka","Brezovica","Rakitna","Rakitna","25C",3
+11,12,"Peter","Kolenc","1966-02-20","Načrtovalec aplikacij za poslovne sisteme","Ljubljana","Ljubljana","Ob dolenjski železnici","86",3
+6,14,"Monika","Gregorčič","1969-03-05","poslanka državnega zbora","Ljubljana","Ljubljana","Smrekarjeva ulica","7",3
+14,15,"Mojca","Gregorič","1974-08-29","podsekretarka na Ministrstvu za gospodarski razvoj in tehnologijo","Ljubljana","Ljubljana","Komanova ulica","11",3
+1,17,"Dominika","Švarc Pipan","1978-07-09","pravna svetovalka","Ljubljana","Ljubljana","Barjanska cesta","64",3
+2,18,"Božidar","Jezernik","1951-10-09","redni profesor","Ljubljana","Ljubljana","Pod hrasti","12",3
+13,19,"Jaka","Zevnik","1980-03-24","vodja projektov","Ljubljana","Ljubljana","Cesta dveh cesarjev","30",3
+16,8,"Domen","Jere","1986-03-25","strokovni sodelavec v skupni občinski upravi","Ljubljana","Ljubljana","Krivec","1",3
+7,2,"Anita","Ogrin Ločniškar","1966-12-18","javni uslužbenec","Medvode","Zbilje","Zbilje","88",3
+9,3,"Sanja","Milošević Grujović","1977-01-23","brezposelna","Ljubljana","Ljubljana","Ulica Koroškega bataljona","13",3
+10,4,"Lucija","Tacer","1997-02-11","študentka","Ljubljana","Ljubljana","Poljanska cesta","19",3
+19,6,"Milan","Jakopovič","1972-07-18","varuh oseb z motnjo v duševnem razvoju","Ljubljana","Ljubljana","Kotnikova ulica","21",3
+4,9,"Janez","Waland","1977-12-22","strokovni sodelavec","Radovljica","Lesce","Alpska cesta","32",3
+12,11,"Milan","Povše","1966-02-27","vzdrževalec strojev in naprav","Logatec","Logatec","Tržaška cesta","138",3
+11,12,"Boris","Kham","1950-04-23","Upokojenec","Ljubljana","Ljubljana","Tržaška cesta","22",3
+6,14,"Monika","Zupanc Kovač","1969-07-27","arhitekturno projektiranje","Ljubljana","Ljubljana","Gregorčičeva ulica","13",3
+14,15,"Aleš","Hojs","1961-12-12","minister","Ljubljana","Ljubljana","Jamnikarjeva ulica","75",3
+1,17,"Jonas","Žnidaršič","1962-01-30","igralec, voditelj","Ljubljana","Ljubljana","Vrhovci, cesta XXII","13",3
+13,19,"Alja","Miklavčič","1991-08-20","grafična oblikovalka","Ljubljana","Ljubljana","Lepi pot","15A",3
+7,2,"Bernard","Brščič","1973-08-23","ekonomist","Ljubljana","Ljubljana","Chengdujska cesta","2",3
+15,10,"Violeta","Bulc","1964-01-24","samozaposlena","Ljubljana","Ljubljana","Ulica na Grad","6",3
+17,20,"Samir","Hvalec","1965-08-09","samostojni podjetnik","Ljubljana","Ljubljana","Rožičeva ulica","4",3
+3,7,"Nik","Popovič","2000-04-17","direktor","Koper","Bošamarin","Bošamarin","62",3
+18,1,"Janez","Artač","1941-12-30","upokojenec","Ljubljana","Ljubljana","Za progo","17A",3
+8,13,"Zala","Rebernak","1992-05-01","konservator-restavrator likovnih del","Ljubljana","Ljubljana","Ulica Marije Hvaličeve","13",3
+5,16,"Simo","Marić","1975-03-15","prodajalec","Ig","Ig","Zagorica","3",3
+9,3,"Nevenka","Hribar","1963-06-09","gospodinja","Vrhnika","Vrhnika","Dobovičnikova ulica","74",3
+10,4,"Ksenija","Pišljar","1975-10-04","pomočnica ravnateljice v osnovni šoli in učiteljica","Ljubljana","Ljubljana","Ulica Vladimirja Trampuža","8",3
+19,6,"Brina Minca","Herlec","1998-03-06","študentka","Ljubljana","Ljubljana","Papirniški trg","7",3
+3,7,"Tanja","Pogačnik","1975-11-11","poslovodja","Brezovica","Vnanje Gorice","Vnanje Gorice","11",3
+4,9,"Janez","Tomc","1972-03-05","vodja kontrolnega organa","Ljubljana","Ljubljana","Trinkova ulica","58",3
+15,10,"Doroteja","Novak Gosarič","1959-11-08","MZ-Sektor za zdravila in medicinske pripomočke","Dobrova-Polhov Gradec","Babna Gora","Babna Gora","49A",3
+12,11,"Mateja","Plevnik","1970-09-25","direktor, veterinarka","Logatec","Logatec","Cesta 5. maja","29",3
+11,12,"Mojca","Sojar","1964-07-15","Organizacija srečanj in potovanj","Ljubljana","Ljubljana","Cesta Dolomitskega odreda","44",3
+14,15,"Anže","Logar","1976-05-15","minister","Ljubljana","Ljubljana","Parmova ulica","40",3
+1,17,"Gregor","Židan","1965-10-05","poslanec","Ljubljana","Ljubljana","Ižanska cesta","170",3
+2,18,"Tjaša","Zorc Rupnik","1967-07-02","literarna urednica in direktorica založbe","Vrhnika","Bevke","Bevke","93A",3
+13,19,"Nina","Lesjak","1985-12-12","grafična oblikovalka","Nazarje","Prihova","Prihova","53",3
+17,20,"Darko","Fekete","1963-12-02","terapevt","Maribor","Maribor","Regentova ulica","6",3
+18,1,"Marija","Horvat","1953-04-21","upokojenka","Ljubljana","Ljubljana","Cesta na Brdo","117",3
+6,14,"Alojz","Kovšca","1965-09-13","predsednik državnega sveta RS","Grosuplje","Velika Račna","Velika Račna","48",3
+18,1,"Marija Ana","Radiković","1944-07-22","upokojenka","Ljubljana","Ljubljana","Tbilisijska ulica","56",3
+9,3,"Tomaž","Avsenik","1964-01-13","samostojni podjetnik","Ljubljana","Ljubljana","Bernekerjeva ulica","41",3
+19,6,"Luka","Mesec","1987-07-01","poslanec","Ljubljana","Ljubljana","Njegoševa cesta","6J",3
+16,8,"Klemen","Gliha","1975-07-07","strokovni sodelavec","Ljubljana","Ljubljana","Cankarjeva cesta","7",3
+4,9,"Blaž","Peternel","1975-10-26","vodja raziskav in razvoja","Maribor","Maribor","Pasteurjeva ulica","8",3
+12,11,"Tarra","Stermšek Kristan","1998-05-27","dijakinja","Ljubljana","Ljubljana","Njegoševa cesta","6H",3
+11,12,"Slava (Stanislava)","Sosič","1959-10-27","Lastnik in vodja trgovine","Ljubljana","Ljubljana","Ciril-Metodov trg","13",3
+6,14,"Andrej","Magajna","1952-05-04","upokojenec","Ljubljana","Ljubljana","Mihov štradon","13",3
+14,15,"Marko","Posavec","1969-06-25","podjetnik","Ljubljana","Ljubljana","Hrenova ulica","24",3
+1,17,"Marko","Koprivc","1978-12-14","poslanec","Ljubljana","Ljubljana","Poljanski nasip","30",3
+13,19,"Črt","Batagelj","1980-12-20","samozaposlen v kulturi, producent","Ljubljana","Ljubljana","Kapiteljska ulica","9",3
+7,2,"Boštjan","Zupančič","1947-05-13","upokojenec","Ljubljana","Ljubljana","Jeranova ulica","5",3
+10,4,"Robert","Golob","1967-01-23","direktor","Nova Gorica","Kromberk","Pod Škabrijelom","72",3
+8,13,"Gorazd","Knific","1976-07-04","kustos z magisterijem-muzejski svetovalec","Ljubljana","Ljubljana","Jesenkova ulica","2",3
+5,16,"Janja","Hostnik","1983-05-27","promotor","Šmarje pri Jelšah","Strtenica","Strtenica","1",3
+2,18,"Karmen","Velikonja","1959-03-24","tržna inšpektorica","Nova Gorica","Nova Gorica","Ulica XXX. divizije","19C",3
+9,3,"Andrej","Bohinc","1974-05-23","direktor","Ljubljana","Ljubljana","Kogojeva ulica","6",3
+19,6,"Asta","Vrečko","1984-08-13","raziskovalka in kuratorka","Ljubljana","Ljubljana","Linhartova cesta","3",3
+16,8,"Katja","Damij","1971-05-06","direktorica","Ljubljana","Ljubljana","Šarhova ulica","22",3
+4,9,"Roman","Šmidovnik","1964-11-27","direktor podjetja","Ljubljana","Ljubljana","Frankopanska ulica","21",3
+12,11,"Barbra","Jermann","1961-06-26","urednica","Ljubljana","Ljubljana","Runkova ulica","2",3
+11,12,"Mateja","Drobnič","1964-02-25","Finančna sodelavka","Ljubljana","Ljubljana","Peričeva ulica","7",3
+6,14,"Sara","Iseinoski","1997-09-11","svetovalec na MGRT","Rogaška Slatina","Zgornja Kostrivnica","Zgornja Kostrivnica","22",3
+14,15,"Mojca","Škrinjar","1955-11-30","poslanka DZ RS","Ljubljana","Ljubljana","Podjunska ulica","16",3
+1,17,"Blaž","Zgaga","1973-09-26","samostojni novinar","Medvode","Medvode","Škofjeloška cesta","23",3
+13,19,"Urška","Zgojznik","1980-08-01","vodja promocijskih aktivnosti","Polzela","Polzela","Glavni trg","45",3
+15,10,"Ivan","Gale","1980-06-18","pravnik","Ljubljana","Ljubljana","Rakuševa ulica","18",3
+17,20,"Damjan","Gregorič","1980-09-22","regresoterapevt, hipnoterapevt","Ljubljana","Ljubljana","Gunceljska cesta","29",3
+18,1,"Miran","Juras","1972-06-06","gastronom","Celje","Celje","Kraigherjeva ulica","9",3
+9,3,"Roman","Fileš","1978-02-19","vodja projektov","Ljubljana","Ljubljana","Arkova ulica","15",3
+10,4,"Lenart","Žavbi","1999-09-25","študent","Ljubljana","Ljubljana","Streliška ulica","37A",3
+19,6,"Dan","Juvan","1987-12-24","organizator in strokovni sodelavec","Ljubljana","Ljubljana","Dergomaška ulica","37",3
+3,7,"Anže","Lemež","1994-07-30","ekonomist","Ljubljana","Ljubljana","Jakopičeva ulica","2",3
+16,8,"Zdravko","Selič","1956-12-25","finančni načrtovalec","Ljubljana","Ljubljana","Černigojeva ulica","22",3
+4,9,"Žiga","Štrukelj","2000-04-02","študent, mladi kmet","Ljubljana","Ljubljana","Podutiška cesta","39",3
+12,11,"Darko","Begić","1975-08-01","podčastnik","Vrhnika","Vrhnika","Poštna ulica","3A",3
+11,12,"Marcela","Uršič","1961-06-16","Specialistka za upravljanje nepremičnin","Ljubljana","Ljubljana","Ulica Marije Hvaličeve","42",3
+6,14,"Špela","Jovanovič-Gaberšek","1984-03-08","vodja kabineta ministra, RS MP","Škofljica","Škofljica","Ob potoku","24",3
+14,15,"Davorin","Kopše","1963-11-08","upokojenec","Ljubljana","Ljubljana","Runkova ulica","2",3
+1,17,"Tanja","Fajon","1971-05-09","evropska poslanka","Ljubljana","Ljubljana","Novo Polje, cesta VII","31",3
+2,18,"Maša","Kociper","1972-07-17","poslanka državnega zbora","Ljubljana","Ljubljana","Ob pristanu","8",3
+13,19,"Saša","Fras","1975-05-18","skrbnik ključnih kupcev","Kobilje","Kobilje","Kobilje","223",3
+7,2,"Drago","Babnik","1947-07-12","upokojenec","Ljubljana","Ljubljana","Herbersteinova ulica","39",3
+8,13,"Ratko","Stojiljković","1980-04-21","nezaposlen","Ljubljana","Ljubljana","Hafnerjeva ulica","4A",3
+5,16,"Dušan","Dolar","1954-04-11","upokojenec","Zagorje ob Savi","Zagorje ob Savi","Cesta 9. avgusta","24",3
+9,3,"Andrej","Žerovc","1975-02-15","samostojni podjetnik","Kranj","Kranj","Ulica Angelce Hlebce","5B",3
+10,4,"Urška","Klakočar Zupančič","1977-06-19","direktorica","Ljubljana","Ljubljana","Tacenska cesta","125A",3
+19,6,"Arne Jakob","Zakrajšek","1995-05-20","doktorski študent","Ljubljana","Ljubljana","Brilejeva ulica","3",3
+3,7,"Daliborka","Grabovac","1976-10-11","samostojni podjetnik","Ljubljana","Ljubljana","Ledarska ulica","7",3
+16,8,"Urška","Cankar Bošnjak","1979-04-19","direktorica","Vodice","Vodice","Pod borovci","26",3
+4,9,"Nataša","Zakotnik Šmidovnik","1963-07-13","poslovna direktorica","Ljubljana","Ljubljana","Frankopanska ulica","21",3
+15,10,"Ljubo","Vošnjak","1959-11-04","upokojenec","Ljubljana","Ljubljana","Škerljeva ulica","5",3
+12,11,"Boštjan","Korelc","1974-11-22","nezaposlen","Vrhnika","Verd","Verd","157",3
+11,12,"Gašper","Čižman","1995-07-09","študent","Ljubljana","Ljubljana","Savlje","103",3
+14,15,"Ksenija","Sever","1947-07-24","upokojenka, prokurist","Ljubljana","Ljubljana","Pestotnikova ulica","3",3
+1,17,"Petra","Doles","1996-04-26","administratorka","Ljubljana","Ljubljana","Prešernova cesta","6",3
+13,19,"Nenad","Đorđević","1963-09-24","podjetnik","Ljubljana","Ljubljana","Brilejeva ulica","12",3
+2,18,"Mateja","Logar","1970-02-07","uradnica","Ljubljana","Ljubljana","Pločanska ulica","10",3
+17,20,"Tanja","Nosan","1964-08-02","računovodstvo","Ljubljana","Ljubljana","Prušnikova ulica","84",3
+9,3,"Marko","Gubanc","1978-06-07","voznik - skladiščnik","Vodice","Polje pri Vodicah","Polje pri Vodicah","26",3
+10,4,"Alenka","Sivka","1960-01-11","novinarka","Medvode","Medvode","Klanska ulica","11",3
+19,6,"Alenka","Pirjevec","1945-07-05","upokojenka","Ljubljana","Ljubljana","Ulica Ivice Pirjevčeve","36",3
+3,7,"Vito","Klavora","1983-07-15","strokovni sodelavec","Medvode","Medvode","Cesta na Senico","4M",3
+16,8,"Andreja","Zabret","1969-03-05","poslanka v državnem zboru","Domžale","Škrjančevo","Škrjančevo","100",3
+4,9,"Dejan","Krajačić","1976-09-29","prodajalec","Medvode","Medvode","Škofjeloška cesta","11",3
+15,10,"Polonca","Štefanič","1979-10-23","docentka na biotehniški fakulteti","Ljubljana","Ljubljana","Rašiška ulica","1",3
+12,11,"Jure","Pogačnik","1968-07-26","direktor","Ljubljana","Ljubljana","Martina Krpana ulica","28",3
+11,12,"Jože","Podgoršek","1974-03-17","minister","Vodice","Polje pri Vodicah","Polje pri Vodicah","28A",3
+6,14,"Dragan","Djukić","1955-11-01","upokojenec","Medvode","Medvode","Cesta na Svetje","3",3
+14,15,"Leon","Merjasec","1969-02-25","poslanec DZ RS","Medvode","Spodnje Pirniče","Spodnje Pirniče","60A",3
+1,17,"Alenka","Žavbi Kunaver","1973-10-29","prokuristka","Medvode","Zbilje","Zbilje","61B",3
+13,19,"Gregor","Gregorčič","1966-03-18","projektant","Ljubljana","Ljubljana","Pavšičeva ulica","6",3
 ,1,"Matjaž","Juvančič","1968-02-21","član uprave","Litija","Zgornji Hotič","Zgornji Hotič","9A",4
 ,2,"Tatjana","Ristevska","1972-05-14","razvoj vzorcev za telekomunikacije","Ljubljana","Ljubljana","Puhova ulica","8",4
 ,3,"Polonca","Trček","1976-12-04","samostojna podjetnica","Kočevje","Kočevje","Kajuhovo naselje","34",4
@@ -925,7 +925,7 @@
 17,17,"Bojan","Krajačič","1973-01-09","direktor komunalnega podjetja","Metlika","Metlika","Ulica pod kostanji","9",6
 6,18,"Andrija","Brčinović","1964-06-02","brusilec","Žirovnica","Moste","Moste","22C",6
 1,19,"Marko","Puh","1968-02-18","vzdrževalec","Semič","Semič","Stara gora","58",6
-19,13,"Jože","Pirh","1986-07-07","invalidski upokojenec","Novo mesto","Novo mesto","Ulica Slavka Gruma","108",6
+19,13,"Jože","Pirh","1986-07-07","invalidsko upokojen","Novo mesto","Novo mesto","Ulica Slavka Gruma","108",6
 3,7,"Timotej","Cizej","1987-08-22","tehnični vodja projektov v gradbeništvu","Zagorje ob Savi","Zagorje ob Savi","Cesta zmage","18",6
 15,11,"Polona","Kambič","1967-01-29","županja","Semič","Semič","Mladica","40",6
 16,20,"Igor Jožef","Bahč","1966-05-11","zavarovalniško zastopništvo","Krško","Krško","Stermeckijeva ulica","17",6
@@ -934,7 +934,7 @@
 11,4,"Simona","Pirnat Skeledžija","1975-03-23","sodelavec za strateške iniciative","Ljubljana","Srednje Gameljne","Srednje Gameljne","33M",6
 3,7,"Zdenka","Pavlin Kapla","1967-01-05","administrator","Ljubljana","Ljubljana","Šmartinska cesta","58A",6
 12,8,"Žiga","Papež","1993-08-05","prokurist","Novo mesto","Ratež","Ratež","44A",6
-13,9,"Simona","Volf","1976-10-10","vodja za področje izobraževanja, tržne dejavnosti in receptorske službe","Novo mesto","Novo mesto","Ulica Slavka Gruma","16",6
+13,9,"Simona","Volf","1976-10-10","vodja za področja izobraževanja, tržne dejavnosti in receptorske službe","Novo mesto","Novo mesto","Ulica Slavka Gruma","16",6
 2,10,"Bojan","Mikec","1959-03-28","samostojni podjetnik","Novo mesto","Novo mesto","Jurčičeva ulica","3",6
 18,12,"Vida","Čadonič Špelič","1959-07-16","direktorica občinske uprave","Novo mesto","Novo mesto","Ulica talcev","14",6
 4,14,"Zvonko","Lah","1958-01-21","upokojenec","Mirna Peč","Hrastje pri Mirni Peči","Hrastje pri Mirni Peči","12",6
@@ -949,10 +949,10 @@
 15,11,"Katja","Čelič","1981-11-20","iskalka zaposlitve","Krško","Podbočje","Podbočje","81",6
 10,1,"Adolf","Zupan","1953-10-21","upokojenec","Novo mesto","Novo mesto","V Ragov log","3",6
 8,3,"Mateja","Tomič","1980-01-28","samostojna podjetnica","Trebnje","Trebnje","Gubčeva cesta","43",6
-11,4,"Jožica","Derganc","1965-03-12","vzgojitelj predšolskih otrok  pomočnik vzg.","Novo mesto","Novo mesto","Dilančeva ulica","6",6
+11,4,"Jožica","Derganc","1965-03-12","vzgojitelj predšolskih otrok - pomočnik vzgojitelja","Novo mesto","Novo mesto","Dilančeva ulica","6",6
 12,8,"Anja","Jordan","1980-01-03","spletno oglaševanje","Žužemberk","Žužemberk","Stranska vas","55",6
 13,9,"Urška","Ban","1975-03-14","državna sekretarka","Novo mesto","Novo mesto","Šegova ulica","25",6
-2,10,"Andrej","Kastrevec","1968-10-19","FURS","Novo mesto","Novo mesto","Regrča vas","69",6
+2,10,"Andrej","Kastrevec","1968-10-19","uslužbenec FURS","Novo mesto","Novo mesto","Regrča vas","69",6
 18,12,"Mark Boris","Andrijanič","1983-07-04","minister","Ljubljana","Ljubljana","Dalmatinova ulica","7",6
 4,14,"Marjanca","Trščinar Antić","1961-08-21","samostojna podjetnica","Novo mesto","Stopiče","Stopiče","35",6
 9,15,"Bojan","Kekec","1965-05-04","direktor Komunale Novo mesto","Novo mesto","Novo mesto","Muhaber","69",6
@@ -964,7 +964,7 @@
 19,13,"Karmen","Brecelj","1976-04-11","muzejski tehnik - fotograf","Log-Dragomer","Log pri Brezovici","Cesta borcev","2B",6
 10,1,"Stanko","Peruš","1949-11-27","upokojenec","Trebnje","Trebnje","Cankarjeva ulica","31",6
 8,3,"Ratko","Kosanović","1977-09-09","vodja oddelka","Mokronog-Trebelno","Mokronog","Stari trg","26",6
-11,4,"Leon","Lobe","1976-09-25","višji svetovalec -pedagog","Trebnje","Studenec","Studenec","42",6
+11,4,"Leon","Lobe","1976-09-25","višji svetovalec - pedagog","Trebnje","Studenec","Studenec","42",6
 7,6,"Marko","Tratar","1974-05-20","šahist, šahovski novinar","Ljubljana","Ljubljana","Proletarska cesta","2",6
 12,8,"Gregor","Kaplan","1974-02-12","uradnik","Trebnje","Trebnje","Dolenjska ulica","2",6
 13,9,"Andrej","Ule","1969-04-12","administrator, prokurist","Trebnje","Trebnje","Prešernova ulica","26",6
@@ -1025,7 +1025,7 @@
 17,17,"Ana","Jelančić","1959-03-08","upokojenka","Sevnica","Sevnica","Ribniki","12",6
 6,18,"Nataša","Gazvoda","1959-05-02","upokojenka","Jesenice","Jesenice","Cesta Toneta Tomšiča","59",6
 1,19,"Ana","Markelj","1986-07-19","samostojna podjetnica","Hrastnik","Podkraj","Podkraj","83",6
-14,2,"Jernej","Kos","1972-03-13","trženje, vodenja in izvajanje DDD storitev","Sevnica","Sevnica","Kvedrova cesta","11",6
+14,2,"Jernej","Kos","1972-03-13","trženje, vodenje in izvajanje DDD storitev","Sevnica","Sevnica","Kvedrova cesta","11",6
 12,8,"Nives","Matjan","1966-07-28","zdravstveni administrator","Kamnik","Kamnik","Ljubljanska cesta","21K",6
 15,11,"Natalija","Potočnik","1980-01-05","raziskovalka ekonomskega področja","Radeče","Radeče","Vodovodna ulica","1",6
 19,13,"Jasmina","Klančar","1983-01-04","kulturni management","Ljubljana","Ljubljana","Verovškova ulica","38",6
@@ -1059,11 +1059,11 @@
 4,14,"Lijana","Lovše","1961-04-05","podžupanja Občine Litija","Litija","Zgornji Log","Zgornji Log","17",6
 9,15,"Boris","Doblekar","1970-07-04","poslanec DZ RS","Litija","Litija","Grbinska cesta","34B",6
 17,17,"Janja","Bregar","1980-03-23","strokovna sodelavka v poslanski skupini v Državnem zboru","Litija","Litija","Maistrova ulica","10",6
-6,18,"Edvard","Oražem","1969-11-10","vodja služne za zdravja, varnosti in okolja","Postojna","Postojna","Log","15",6
+6,18,"Edvard","Oražem","1969-11-10","vodja službe zdravja, varnosti in okolja","Postojna","Postojna","Log","15",6
 1,19,"Erna","Šekli","1953-09-06","upokojenka","Litija","Moravče pri Gabrovki","Moravče pri Gabrovki","117",6
 10,1,"Drago","Kocbek","1961-05-18","upokojenec","Radenci","Radenci","Kapelska cesta","28",6
 8,3,"Alen","Turanović","1983-01-22","varnostnik","Zagorje ob Savi","Kisovec","Trg Pohorskega bataljona","7",6
-11,4,"Gašper (Gapi)","Ovnik","1982-06-05","učitelj športa","Zagorje ob Savi","Zagorje ob Savi","Fakinova ulica","5",6
+11,4,"Gapi (Gašper)","Ovnik","1982-06-05","učitelj športa","Zagorje ob Savi","Zagorje ob Savi","Fakinova ulica","5",6
 7,6,"Primož","Siter","1979-08-18","poslanec","Trbovlje","Trbovlje","Vodenska cesta","23",6
 3,7,"Maša","Kerin","1999-01-05","poslovodja","Hrastnik","Hrastnik","Novi log","12",6
 12,8,"Roman","Kukovič","1956-11-11","upokojenec","Trbovlje","Trbovlje","Pod Ostrim vrhom","32A",6
@@ -1073,7 +1073,7 @@
 18,12,"Drago","Kočar","1977-05-26","univerzitetni (visokošolski) učitelj","Trbovlje","Trbovlje","Ulica španskih borcev","9",6
 4,14,"Gregor","Pajić","1968-02-07","direktor komerciale","Hrastnik","Hrastnik","Trg Franca Kozarja","7",6
 9,15,"Patricija","Gorenc","1984-08-19","strokovni sodelavec 2TDK, d.o.o.","Trbovlje","Trbovlje","Opekarna","2A",6
-5,16,"Bojan","Kovačič","1956-12-07","projektni menedžer","Trbovlje","Trbovlje","Vreskovo","65A",6
+5,16,"Bojan","Kovačič","1956-12-07","vodja projektov","Trbovlje","Trbovlje","Vreskovo","65A",6
 17,17,"Soniboj","Knežak","1962-05-13","poslanec","Hrastnik","Hrastnik","Trg Franca Kozarja","16B",6
 6,18,"Mirzet","Lukavačkić","1987-04-25","gradnja in vzdrževanje naprav","Trbovlje","Trbovlje","Kešetovo","7",6
 1,19,"Nermin","Bajramović","1976-10-31","predmetni učitelj matematike","Hrastnik","Hrastnik","Novi log","19C",6
@@ -1081,7 +1081,7 @@
 14,2,"Marija Ana","Anžlovar","1945-03-05","upokojenka","Ljubljana","Ljubljana","Brodarjev trg","7",6
 10,1,"Štefan","Misja","1951-12-08","upokojenec","Črnomelj","Črnomelj","Kajuhova ulica","2",6
 8,3,"Petra","Vrtačnik","1988-04-27","brezposelna","Zagorje ob Savi","Zagorje ob Savi","Cesta 9. avgusta","8E",6
-11,4,"Teodor (Teo)","Uranič","1971-01-23","vodja oddelka za prodajo","Trbovlje","Sveta Planina","Sveta Planina","26",6
+11,4,"Teo (Teodor)","Uranič","1971-01-23","vodja oddelka za prodajo","Trbovlje","Sveta Planina","Sveta Planina","26",6
 7,6,"Eva","Koprivšek Petkovšek","1991-05-01","orkesterska glasbenica","Zagorje ob Savi","Izlake","Medijske Toplice","29",6
 3,7,"Aleksander","Radanović","1992-01-18","samostojni podjetnik","Ankaran","Ankaran","Razgledna pot","16A",6
 12,8,"Rudi","Medved","1959-12-28","poslanec v Državnem zboru RS","Zagorje ob Savi","Zagorje ob Savi","Podvine","40",6
@@ -1203,7 +1203,7 @@
 12,2,"Helena","Kveder","1994-04-03","Administrativni delavec","Ruše","Ruše","Ulica Ruške čete","2A",7
 17,10,"Silvester","Lipošek","1963-12-18","Univerzitetni predavatelj","Miklavž na Dravskem polju","Miklavž na Dravskem polju","Cesta v Rogozo","15",7
 16,3,"Katja","Kokot","1982-02-04","Veterinarka","Duplek","Jablance","Jablance","30",7
-2,4,"Leonida (Lea)","Polajnar","1971-06-01","Direktorica Območne obrtno-podjetniške zbornice Maribor","Maribor","Maribor","Ulica Veljka Vlahovića","25",7
+2,4,"Lea (Leonida)","Polajnar","1971-06-01","Direktorica Območne obrtno-podjetniške zbornice Maribor","Maribor","Maribor","Ulica Veljka Vlahovića","25",7
 7,6,"Matic","Komel","1998-04-09","Glasbenik","Maribor","Maribor","Koroška cesta","31",7
 15,8,"Dejan","Stanko","1974-10-27","Koordinator","Maribor","Maribor","Dominkuševa ulica","12",7
 14,9,"Danilo","Burnač","1963-03-27","Direktor gospodarske družbe Eldom d.o.o.","Maribor","Dogoše","Svenškova ulica","25",7
@@ -1258,7 +1258,7 @@
 14,9,"Boris","Ploj","1970-04-05","Sprevodnik","Miklavž na Dravskem polju","Dravski Dvor","Cesta v Hotinje","6",7
 17,10,"Alenka","Orbović","1974-02-23","Bančnica","Maribor","Maribor","Antoličičeva ulica","10",7
 3,11,"Valentin","Lorenčič","1994-07-11","Nezaposlen","Maribor","Maribor","Tomšičeva ulica","26",7
-6,12,"Magdalena (dr. Alenka)","Šverc","1967-08-02","Svetovalka v kabinetu ministra","Maribor","Maribor","Gregorčičeva ulica","29A",7
+6,12,"dr. Alenka (Magdalena)","Šverc","1967-08-02","Svetovalka v kabinetu ministra","Maribor","Maribor","Gregorčičeva ulica","29A",7
 10,14,"Helena","Kujundžić Lukaček","1966-09-19","Svetovalka gen.dir.ZRSZ","Maribor","Maribor","Lackova cesta","90",7
 5,15,"Bernarda","Mandres","1959-11-17","Komerciala","Selnica ob Dravi","Selnica ob Dravi","Janževa cesta","3",7
 20,17,"Emilija","Stojmenova Duh","1985-12-25","Izredna profesorica na Fakulteti za elektrotehniko","Maribor","Maribor","Sernčeva ulica","16",7
@@ -1286,6 +1286,7 @@
 ,3,"Kornelija","Jaklovič Činč","1975-12-15","vzgojiteljica","Lendava","Trimlini","Trimlini","64A",8
 ,4,"Dejan","Süč","1989-11-20","koordinator in organizator v knjižnici","Lendava","Gaberje","Glavna ulica","33",8
 ,6,"Marko","Sraka","1987-06-11","arheolog","Beltinci","Lipovci","Lipovci","64",8
+,7,"Marina","Vida","1969-11-18","pomožni kmetijski delavec","Lendava","Lendava","Rudarska ulica","2",8
 ,8,"Tomaž","Gregorec","1980-09-12","svetovalec v pravosodju","Moravske Toplice","Bogojina","Bogojina","170B",8
 ,9,"Jožef","Horvat","1988-06-26","delo v skladišču","Lendava","Lendava","Ulica Vladimira Nazorja","14",8
 ,10,"Matej","Vučko","1984-10-06","prodajni svetovalec","Moravske Toplice","Moravske Toplice","Dolga ulica","168",8
@@ -1303,6 +1304,7 @@
 ,3,"Anita","Bratinščak Hanželič","1984-03-01","pomočnica v kuhinji","Ljutomer","Jeruzalem","Jeruzalem","25",8
 ,4,"Damjan","Rajh","1969-02-21","direktor","Ormož","Ivanjkovci","Ivanjkovci","75",8
 ,6,"Ivan","Babič","1963-11-29","direktor","Ormož","Pušenci","Pušenci","13C",8
+,7,"Boris","Rošker","1947-10-05","upokojenec","Maribor","Maribor","Beraničeva ulica","24",8
 ,8,"Aljaž","Kovačič","1989-06-07","poslanec državnega zbora","Ormož","Ormož","Skolibrova ulica","8",8
 ,9,"Aleksandra","Pivec","1972-03-26","svetovalka uprave za razvoj","Ptuj","Ptuj","Meglova pot","1",8
 ,10,"Bogomir","Luci","1961-10-20","kmetovalec","Ormož","Jastrebci","Jastrebci","15",8
@@ -1322,6 +1324,7 @@
 ,1,"Jasminka","Dukić","1960-09-05","zdravnica","Ljutomer","Ljutomer","Razlagova ulica","32",8
 ,4,"Sara","Žibrat","1992-05-16","prevajalka","Ljutomer","Ljutomer","Viktorja Kukovca ulica","1",8
 ,6,"Janez","Brumen","1958-12-08","bolničar negovalec","Ljutomer","Stročja vas","Stročja vas","16B",8
+,7,"Olga","Ivančič","1969-01-28","kozmetik maser","Križevci","Križevci pri Ljutomeru","Križevci pri Ljutomeru","30A",8
 ,8,"Bojana","Gošnjak","1965-11-23","računovodja","Ljutomer","Ljutomer","Vrazova ulica","8",8
 ,9,"Marko","Vargazon","1990-03-29","kmetovalec","Ljutomer","Cven","Cven","14",8
 ,11,"Bojan","Lipovec","1978-02-20","podjetnik","Ljutomer","Zgornji Kamenščak","Zgornji Kamenščak","14",8
@@ -1342,7 +1345,7 @@
 ,10,"Mitja","Županek","1973-03-04","aktivni iskalec zaposlitve","Murska Sobota","Murska Sobota","Ulica Štefana Kovača","17",8
 ,11,"Roman","Plohl","1957-03-27","podjetnik","Puconci","Pečarovci","Pečarovci","120",8
 ,12,"Ivan","Horvat","1959-05-13","pomočnik direktorja","Tišina","Petanjci","Petanjci","40C",8
-,14,"Franc (Feri)","Küčan","1959-04-05","kmetovalec","Moravske Toplice","Tešanovci","Tešanovci","60",8
+,14,"Feri (Franc)","Küčan","1959-04-05","kmetovalec","Moravske Toplice","Tešanovci","Tešanovci","60",8
 ,15,"Bojan","Petrijan","1967-12-09","vodja oddelka","Murska Sobota","Kupšinci","Kupšinci","21B",8
 ,17,"Damijan","Zrim","1993-05-12","asistent evropske poslanke","Kuzma","Dolič","Dolič","54",8
 ,18,"Denis","Vrečič","1988-05-22","prodaja v podjetju","Puconci","Dankovci","Dankovci","34B",8
@@ -1353,6 +1356,7 @@
 ,13,"Igor","Brlek","1967-05-30","samostojni svetovalec","Ljubljana","Ljubljana","Ob železnici","14",8
 ,16,"Valerija","Markuš","1984-12-04","receptor","Šentilj","Selnica ob Muri","Selnica ob Muri","52A",8
 ,21,"Franc","Friškič","1957-02-24","upokojenec","Murska Sobota","Krog","Plečnikova ulica","11B",8
+,7,"David","Fujs","1995-01-30","mizar","Grad","Kruplivnik","Kruplivnik","58",8
 ,3,"Karin","Abramušić","1968-05-21","samostojna odvetnica","Lendava","Lendavske Gorice","Lendavske Gorice","241C",8
 ,4,"Tine","Novak","1988-04-15","podjetniški svetovalec","Murska Sobota","Černelavci","Ledavska ulica","31",8
 ,6,"Lara","Štrokaj","1997-03-20","študentka","Murska Sobota","Murska Sobota","Lendavska ulica","25A",8
@@ -1366,6 +1370,7 @@
 ,17,"Dejan","Židan","1967-10-16","poslanec državnega zbora","Murska Sobota","Murska Sobota","Ulica Prekmurske čete","9",8
 ,18,"Olga","Belec","1968-07-16","svetovalka predsednice stranke","Murska Sobota","Murska Sobota","Mirna ulica","9",8
 ,19,"Romeo","Varga","1966-10-18","koordinator projektov","Murska Sobota","Murska Sobota","Prešernova ulica","70",8
+,7,"Lea","Fujs","1994-08-26","kmetovalka","Beltinci","Dokležovje","Trate","4",8
 ,1,"Silva","Vračko","1958-06-30","učiteljica","Apače","Novi Vrh","Novi Vrh","1B",8
 ,4,"Vera","Granfol","1963-11-01","učiteljica","Gornja Radgona","Gornja Radgona","Lackova ulica","23",8
 ,6,"Marijana","Koren Ban","1957-11-18","upokojenka","Murska Sobota","Černelavci","Dolga ulica","54",8
@@ -1381,6 +1386,7 @@
 ,18,"Valerija","Frangež","1969-12-07","višja svetovalka","Radenci","Turjanci","Turjanci","32",8
 ,20,"Zdenko","Čuš","1981-07-31","izdelovalec reklam",,"Dobl - Zwaring, Republika Avstrija","Zwaring","12",8
 ,2,"Cvetka","Zaplotnik","1952-04-28","upokojenka","Ljubljana","Ljubljana","Cesta v Gorice","27",8
+,7,"Alenka","Kološa","1982-08-17","ekonomist","Tišina","Sodišinci","Sodišinci","41",8
 ,21,"Metka","Rotman","1988-04-16","vodja gostinskega obrata","Cerkvenjak","Župetinci","Župetinci","13",8
 ,13,"Nina","Kodrič","1977-12-30","svetovalka za podporne aktivnosti","Ljubljana","Ljubljana","Dergomaška ulica","23",8
 ,1,"Franc","Belšak","1951-09-14","upokojenec","Lenart","Lenart v Slov. goricah","Ulica heroja Lacka","50",8
@@ -1412,11 +1418,12 @@
 ,16,"Zvonko","Zinrajh","1954-05-17","upokojenec","Maribor","Maribor","Nasipna ulica","67A",8
 ,17,"Samo","Dvoršak","1969-05-29","izvršni direktor","Pesnica","Pesnica pri Mariboru","Pesnica pri Mariboru","34B",8
 ,20,"Marinka","Dajčman","1970-02-22","gospodinja","Šentilj","Selnica ob Muri","Selnica ob Muri","55B",8
+,7,"Niko","Forjan","2004-02-10","dijak","Tišina","Sodišinci","Sodišinci","41",8
 ,19,"Mihael","Jazbinšek","1941-11-04","upokojenec","Ljubljana","Ljubljana","Česnikova ulica","8",8
 ,2,"Marija","Behek","1954-03-23","upokojenka","Medvode","Medvode","Škofjeloška cesta","19",8
 ,1,"Nada","Pukšič","1953-08-07","upokojenka","Destrnik","Dolič","Dolič","23",8
 ,3,"Slavko","Moharič","1966-08-19","tehnični svetovalec","Trnovska vas","Biš","Biš","15A",8
-,4,"Ljudmila (Milica)","Grabar","1965-02-06","samostojna podjetnica","Ptuj","Podvinci","Podvinci","103A",8
+,4,"Milica (Ljudmila)","Grabar","1965-02-06","samostojna podjetnica","Ptuj","Podvinci","Podvinci","103A",8
 ,6,"Rok","Leban","1987-08-17","svetovalec v prodaji","Maribor","Maribor","Župančičeva ulica","23",8
 ,8,"Terezija","Vidovič","1954-06-30","upokojenka","Ptuj","Ptuj","Ulica 5. prekomorske","21",8
 ,9,"Branko","Goričan","1957-10-12","samostojni podjetnik","Destrnik","Placar","Placar","11B",8
@@ -1449,7 +1456,7 @@
 ,20,"Jelena","Novak","1975-04-11","učiteljica","Ptuj","Ptuj","Kvedrova ulica","1",8
 ,1,"Albert Peter","Fras","1943-04-21","upokojenec","Ljubljana","Ljubljana","Gabrščkova ulica","75",8
 ,3,"Martina","Haring","1984-10-09","strokovna sodelavka","Ptuj","Ptuj","Ribiška pot","5A",8
-,4,"Bernardka (Bernarda)","Jurič","1973-03-24","vodja enote","Kidričevo","Pleterje","Pleterje","76",8
+,4,"Bernarda (Bernardka)","Jurič","1973-03-24","vodja enote","Kidričevo","Pleterje","Pleterje","76",8
 ,6,"Lina","Habjanič","1986-02-26","dietetičarka v prim. zdrav. dejavnosti","Ptuj","Ptuj","Kajuhova ulica","3",8
 ,8,"Gorazd","Ladinek","1976-01-14","direktor","Ptuj","Ptuj","Reševa ulica","21",8
 ,9,"Izidor","Štajnberger","1967-05-17","kmetovalec","Žetale","Žetale","Žetale","94",8
