@@ -45,6 +45,7 @@ jobs:
         ls -la .
         ls -la */*
         git status
+        git config --global --add safe.directory /home/runner/work/dvk-volisca
 
     # Git commit + push, see https://github.com/github-actions-x/commit
     - name: Publish volišča changes to git
