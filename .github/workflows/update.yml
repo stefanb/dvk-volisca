@@ -19,7 +19,7 @@ on:
   workflow_dispatch:
 
 env:
-  GIT_CEILING_DIRECTORIES: /home/runner/work/dvk-volisca
+  GIT_CEILING_DIRECTORIES: /github/workspace
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   # This workflow contains a single job called "build"
