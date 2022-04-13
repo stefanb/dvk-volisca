@@ -44,7 +44,6 @@ jobs:
         ls -la ..
         ls -la .
         ls -la */*
-        ls -la /github/workspace
         git status
 
     # Git commit + push, see https://github.com/github-actions-x/commit
