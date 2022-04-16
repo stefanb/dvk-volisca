@@ -1,0 +1,97 @@
+DZ22PV_ID,OVK,OVK_DUP,OVK_ime,OB_MID,OB_ID,obmocje,sedez,sedez_naslov,sedez_posta,lat,lon
+1,1001,1,Jesenice,,,"Občine Jesenice, Kranjska gora in Žirovnica",Upravna enota Jesenice,Cesta železarjev 6 A,4270 Jesenice,46.43201,14.06227
+2,1002,2,Radovljica 1,,,Občini Bled in Gorje,Občina Bled,Cesta svobode 13,4260 Bled,46.36874,14.10961
+3,1002,2,Radovljica 1,11026559,4,Del občine Bohinj (v skladu z ZDVEDZ),Dom Joža Ažmana,Triglavska 16,4264 Bohinjska Bistrica,46.27255,13.95612
+4,1003,1,Radovljica 2,,,Občina Radovljica,Občina Radovljica,Gorenjska cesta 19,4240 Radovljica,46.34381,14.17157
+5,1004,1,Kranj 1,,,Del mestne občine Kranj (v skladu z ZDVEDZ),Mestna občina Kranj,Slovenski trg 1,4000 Kranj,46.24328,14.35576
+6,1005,1,Kranj 2,,,"Del mestne občine Kranj, ki obsega območje naselij: Breg ob Savi, Čepulje, Jama, Jamnik, Javornik, del Kranj, Lavtarski Vrh, Mavčiče, Meja, Nemilje, Njivica, Planica, Podblica, Podreča, Praše, Pševo, Rakovica, Spodnja Besnica, Spodnje Bitnje, Srednje Bitnje, Sveti Jošt nad Kranjem, Šutna, Zabukovje, Zgornja Besnica, Zgornje Bitnje, Žabnica in del naselja Kranj (v skladu z ZDVEDZ) ",Šmartinski dom Stražišče,Škofjeloška cesta 18,4000 Kranj,46.23162,14.34640
+7,1006,1,Kranj 3,,,"Občine Naklo, Cerklje na Gorenjskem, Šenčur, Jezersko, Preddvor in del mestne občine Kranj, ki obsega območje naselij: Babni Vrt, Čadovlje, Golnik, Goriče, Hrastje, Letenice, Pangršica, Povlje, Srednja vas – Goriče, Tenetiše, Trstenik, Zalog, Žablje",Mestna občina Kranj,Slovenski trg 1,4000 Kranj,46.24328,14.35576
+8,1007,1,Tržič,,,Občina Tržič,Društvo upokojencev Tržič,Trg svobode 18,4290 Tržič,46.36354,14.30900
+9,1008,1,Škofja Loka 1,,,Občina Škofja Loka,Občina Škofja Loka,Mestni trg 15,4220 Škofja Loka,46.16478,14.30709
+10,1009,2,Škofja Loka 2,146,146,Občina Železniki,Občina Železniki,Česnjica 48,4228 Železniki,46.22618,14.17506
+11,1009,2,Škofja Loka 2,,,Občini Gorenja vas - Poljane in Žiri,Občina Gorenja vas - Poljane,Poljanska cesta 87,4224 Gorenja vas,46.10561,14.13852
+12,1010,1,Kamnik,,,Občini Kamnik in Komenda,Občina Kamnik,Glavni trg 24,1241 Kamnik,46.22635,14.61196
+13,1011,1,Idrija,,,Občini Cerkno in Idrija,Upravna enota Idrija (sejna soba),Študentovska ulica 2,5280 Idrija,46.00126,14.02100
+14,2001,1,Tolmin,,,"Občine Bovec, Kobarid in Tolmin ",Upravna enota Tolmin,Tumov drevored 4,5220 Tolmin,46.18309,13.73136
+15,2002,1,Piran,,,Občina Piran,Upravna enota Piran,Obala 114 a,6320 Portorož - Portorose,45.50289,13.60365
+16,2003,1,Izola,,,Občina Izola,Upravna enota Izola,Cesta v Pregavor 3 a,6310 Izola - Isola,45.52994,13.66681
+17,2004,1,Koper 1,,,"Del mestne občine Koper, ki obsega območje naselij: del naselja Koper (v skladu z ZDVEDZ) in naselje Šalara ",Upravna enota Koper (dvojezično volišče),Piranska cesta 2,6000 Koper - Capodistria,45.54399,13.72619
+18,2005,1,Koper 2,,,Občina Ankaran in del mestne občine Koper (v skladu z  ZDVEDZ),Upravna enota Koper (dvojezično volišče),Piranska cesta 2,6000 Koper - Capodistria,45.54399,13.72619
+19,2006,1,Sežana,,,"Občine Divača, Hrpelje - Kozina, Komen in Sežana",Stara stavba Občine Sežana,Partizanska cesta 4,6210 Sežana,45.70966,13.87440
+20,2007,1,Ilirska Bistrica,,,Občina Ilirska Bistrica,Dom na Vidmu,Gregorčičeva cesta 2,6250 Ilirska Bistrica,45.56723,14.24332
+21,2008,1,Postojna,,,Občini Pivka in Postojna,Kulturni dom Postojna (avla),Gregorčičev drevored 2 a,6230 Postojna,45.77497,14.21490
+22,2009,1,Nova Gorica 1,,,"Občine Miren-Kostanjevica, Kanal, Brda, del občine Renče - Vogrsko (v skladu z ZDVEDZ), del mestne občine Nova Gorica (v skladu z ZDVEDZ)",Upravna enota Nova Gorica,Trg Edvarda Kardelja 1,5000 Nova Gorica,45.95725,13.64883
+23,2010,1,Nova Gorica 2,,,"Občina Šempeter - Vrtojba, del občine Renče - Vogrsko in del mestne občine Nova Gorica (v skladu z ZDVEDZ)",Upravna enota Nova Gorica,Trg Edvarda Kardelja 1,5000 Nova Gorica,45.95725,13.64883
+24,2011,1,Ajdovščina,,,Občini Ajdovščina in Vipava,Upravna enota Ajdovščina,Vipavska cesta 11b,5270 Ajdovščina,45.88536,13.91133
+25,3001,2,Logatec,,,"Občine Bloke, Logatec in Loška dolina",Upravni center Logatec,Tržaška cesta 50A,1370 Logatec,45.91768,14.22264
+26,3001,2,Logatec,13,13,Občina Cerknica,Upravna enota Cerknica,Cesta 4. maja 24,1380 Cerknica,45.79326,14.36661
+27,3002,1,Vrhnika,,,"Občine Borovnica, Log - Dragomer in Vrhnika",Upravna enota Vrhnika,Stara Vrhnika 1d,1360 Vrhnika,45.97379,14.28999
+28,3003,1,Ljubljana-Vič Rudnik 1,,,"Občini Velike Lašče in Ig, del občine Brezovica, del občine Škofljica in del mestne občine Ljubljana (v skladu z ZDVEDZ)",Gospodarsko razstavišče (Marmorna dvorana),Dunajska cesta 18,1000 Ljubljana,46.06188,14.50819
+29,3004,1,Ljubljana-Vič Rudnik 2,,,Del mestne občine Ljubljana in del občine Škofljica (v skladu z ZDVEDZ),Gospodarsko razstavišče (Marmorna dvorana),Dunajska cesta 18,1000 Ljubljana,46.06188,14.50819
+30,3005,1,Ljubljana-Vič Rudnik 3,,,Del mestne občine Ljubljana (v skladu z ZDVEDZ),Gospodarsko razstavišče (Marmorna dvorana),Dunajska cesta 18,1000 Ljubljana,46.06188,14.50819
+31,3006,1,Ljubljana-Vič Rudnik 4,,,"Občini Dobrova - Polhov Gradec in Horjul, del občine Brezovica ter del mestne občine Ljubljana (v skladu z ZDVEDZ)",Gospodarsko razstavišče (Marmorna dvorana),Dunajska cesta 18,1000 Ljubljana,46.06188,14.50819
+32,3007,1,Ljubljana-Center,,,Del mestne občine Ljubljana (v skladu z ZDVEDZ),Gospodarsko razstavišče (Marmorna dvorana),Dunajska cesta 18,1000 Ljubljana,46.06188,14.50819
+33,3008,1,Ljubljana-Šiška 1,,,Del mestne občine Ljubljana (v skladu z ZDVEDZ),Gospodarsko razstavišče (Marmorna dvorana),Dunajska cesta 18,1000 Ljubljana,46.06188,14.50819
+34,3009,1,Ljubljana-Šiška 2,,,Del mestne občine Ljubljana (v skladu z ZDVEDZ),Gospodarsko razstavišče (Marmorna dvorana),Dunajska cesta 18,1000 Ljubljana,46.06188,14.50819
+35,3010,1,Ljubljana-Šiška 3,,,Del mestne občine Ljubljana (v skladu z ZDVEDZ),Gospodarsko razstavišče (Marmorna dvorana),Dunajska cesta 18,1000 Ljubljana,46.06188,14.50819
+36,3011,1,Ljubljana-Šiška 4,,,Občini Medvode in Vodice ter del mestne občine Ljubljana (v skladu z ZDVEDZ),Gospodarsko razstavišče (Marmorna dvorana),Dunajska cesta 18,1000 Ljubljana,46.06188,14.50819
+37,4001,1,Kočevje,,,"Občine Kočevje, Kostel in Osilnica",Občina Kočevje,Ljubljanska cesta 26,1330 Kočevje,45.64292,14.85571
+38,4002,1,Ribnica-Dobrepolje,,,"Občine Loški Potok, Ribnica, Sodražica in Dobrepolje",Upravna enota Ribnica,Gorenjska cesta 9,1310 Ribnica,45.74110,14.72529
+39,4003,1,Grosuplje,,,Občina Grosuplje,Družbeni dom Grosuplje,Taborska cesta 1,1290 Grosuplje,45.95713,14.65332
+40,4004,1,Ivančna Gorica,,,Del občine Ivančna Gorica (v skladu z ZDVEDZ),Kulturni dom Ivančna Gorica,Sokolska ulica 4,1295 Ivančna Gorica,45.93863,14.80448
+41,4005,1,Ljubljana-Moste Polje 1,,,Del mestne občine Ljubljana in del občine Dol pri Ljubljani (v skladu z ZDVEDZ),Gospodarsko razstavišče (Marmorna dvorana),Dunajska cesta 18,1000 Ljubljana,46.06188,14.50819
+42,4006,1,Ljubljana-Moste Polje 2,,,Del mestne občine Ljubljana (v skladu z ZDVEDZ),Gospodarsko razstavišče (Marmorna dvorana),Dunajska cesta 18,1000 Ljubljana,46.06188,14.50819
+43,4007,1,Ljubljana-Moste Polje 3,,,Del mestne občine Ljubljana (v skladu z ZDVEDZ),Gospodarsko razstavišče (Marmorna dvorana),Dunajska cesta 18,1000 Ljubljana,46.06188,14.50819
+44,4008,1,Ljubljana-Bežigrad 1,,,Del občine Dol pri Ljubljani in del mestne občine Ljubljana (v skladu z ZDVEDZ),Gospodarsko razstavišče (Marmorna dvorana),Dunajska cesta 18,1000 Ljubljana,46.06188,14.50819
+45,4009,1,Ljubljana-Bežigrad 2,,,Del mestne občine Ljubljana (v skladu z ZDVEDZ),Gospodarsko razstavišče (Marmorna dvorana),Dunajska cesta 18,1000 Ljubljana,46.06188,14.50819
+46,4010,1,Domžale 1,,,Občini Lukovica in Moravče ter del občine Domžale (v skladu z ZDVEDZ),Društvo Lipa Domžale,Ljubljanska 58,1230 Domžale,46.13807,14.59107
+47,4011,1,Domžale 2,,,Občini Mengeš in Trzin ter del občine Domžale (v skladu z določbami ZDVEDZ),Društvo Lipa Domžale,Ljubljanska 58,1230 Domžale,46.13807,14.59107
+48,5001,1,Šentjur,,,Občini Dobje in Šentjur,Občina Šentjur,Mestni trg 10,3230 Šentjur,46.21700,15.39382
+49,5002,1,Celje 1,,,"Občine Dobrna, Štore, Vojnik in del mestne občine Celje (v skladu z ZDVEDZ)",Upravna enota Celje,Ljubljanska cesta 1,3000Celje,46.22946,15.26095
+50,5003,1,Celje 2,,,Del mestne občine Celje (v skladu z ZDVEDZ),Upravna enota Celje,Ljubljanska cesta 1,3000 Celje,46.22946,15.26095
+51,5004,1,Žalec 1,,,Občina Polzela in del mestne občine Velenje (v skladu z ZDVEDZ),Upravna enota Žalec,Ulica Savinjske čete 5,3310 Žalec,46.25040,15.16420
+52,5005,1,Žalec 2,,,"Občine Braslovče, Prebold, Tabor in Vransko ter del občine Žalec (v skladu z ZDVDZ) ",Upravna enota Žalec,Ulica Savinjske čete 5,3310 Žalec,46.25040,15.16420
+53,5006,1,Mozirje,,,"Občine Gornji Grad, Ljubno, Luče, Mozirje, Nazarje, Rečica ob Savinji in Solčava",Upravni center Mozirje,Šmihelska cesta 2,3330 Mozirje,46.34061,14.96573
+54,5007,1,Velenje 1,,,Del mestne občine Velenje (v skladu z ZDVEDZ),Upravna enota Velenje,Rudarska 6a,3320 Velenje,46.35921,15.11371
+55,5008,1,Velenje 2,,,Občini Šmartno ob Paki in Šoštanj ter del mestne občine Velenje (v skladu z ZDVEDZ),Upravne enota Velenje,Rudarska cesta 6a,3320 Velenje,46.35921,15.11371
+56,5009,1,Slovenj Gradec,,,Občini Mislinja in mestna občina Slovenj Gradec,Upravna enota Slovenj Gradec,Meškova ulica 21,2380 Slovenj Gradec,46.51049,15.08133
+57,5010,1,Ravne na Koroškem,,,"Občine Črna na Koroškem, Mežica, Prevalje in Ravne na Koroškem",Občina Ravne na Koroškem,Gačnikova pot 5,2390 Ravne na Koroškem,46.54376,14.96258
+58,5011,2,Radlje,"101, 141","101, 141",Občini Radlje ob Dravi in Vuzenica,Upravna enota Radlje ob Dravi,Mariborska cesta 7,2360 Radlje ob Dravi,46.61470,15.22463
+59,5011,2,Radlje,,,"Občine Dravograd, Muta, Podvelka in Ribnica na Pohorju",Upravna enota Dravograd,Meža 10,2370 Dravograd,46.58657,15.02490
+60,6001,2,Črnomelj,17,17,Občina Črnomelj,Upravna enota Črnomelj,Zadružna cesta 16,8340 Črnomelj,45.57968,15.19598
+61,6001,2,Črnomelj,,,Občini Metlika in Semič,Upravna enota Metlika,Naselje Borisa Kidriča 14,8330 Metlika,45.64570,15.31706
+62,6002,1,Novo mesto 1,,,"Občine Dolenjske Toplice, Mirna Peč, Šentjernej, Šmarješke Toplice, Žužemberk in del mestne občine Novo mesto (v skladu z ZDVEDZ)",Upravna enota Novo mesto,Defranceschijeva ulica 1,8000 Novo mesto,45.80394,15.16475
+63,6003,1,Novo mesto 2,,,Občina Straža in del mestne občine Novo mesto (v skladu z ZDVEDZ),Upravna enota Novo mesto,Defranceschijeva ulica 1,8000 Novo mesto,45.80394,15.16475
+64,6004,1,Trebnje,,,"Občine Mokronog - Trebelno, Šentrupert, Mirna in Trebnje",Občina Trebnje,Goliev trg 5,8210 Trebnje,45.90797,15.00779
+65,6005,1,Brežice,,,Občina Brežice,Upravna enota Brežice,Cesta prvih borcev 24a,8250 Brežice,45.90437,15.59279
+66,6006,1,Krško,,,Občini Kostanjevica na Krki in Krško,Občina Krško,Cesta krških žrtev 14,8270 Krško,45.96645,15.48502
+67,6007,1,Sevnica,,,Občini Sevnica in Škocjan,Občina Sevnica,Glavni trg 19 a,8290 Sevnica,46.00569,15.31557
+68,6008,2,Laško,99,99,Občina Radeče,Kulturni dom,Gledališka pot 2,1433 Radeče,46.06562,15.18232
+69,6008,2,Laško,57,57,Občina Laško,Občina Laško (energetsko svetovalna pisarna),Mestna ulica 2,3270 Laško,46.15396,15.23537
+70,6009,1,Litija,,,"Občini Litija in Šmartno pri Litiji ter del občine Ivančna Gorica, ki obsega območja naselij: Pusti Javor, Radanja vas, Sela pri Sobračah, Sobrače, Vrh pri Sobračah",Občina Litija,Jerebova ulica 14,1270 Litija,46.05732,14.83097
+71,6010,2,Hrastnik-Trbovlje,34,34,Občina Hrastnik,Upravna zgradba Hrastnik,Pot Vitka Pavliča 5,1430 Hrastnik,46.14593,15.08162
+72,6010,2,Hrastnik-Trbovlje,129,129,Občina Trbovlje,Upravna zgradba Trbovlje,Mestni trg 4,1420 Trbovlje,46.15626,15.05407
+73,6011,1,Zagorje,,,Občina Zagorje ob Savi,Weinbergerjeva hiša,Cesta 9. avgusta 4,1410 Zagorje ob Savi,46.13440,14.99534
+74,7001,1,Šmarje pri Jelšah,,,"Občine Bistrica ob Sotli, Kozje, Podčetrtek, Rogaška Slatina, Rogatec in Šmarje pri Jelšah",Kulturni dom Šmarje pri Jelšah,Aškerčev trg 20,3240 Šmarje pri Jelšah,46.22820,15.51830
+75,7002,1,Slovenska Bistrica,,,"Občine Poljčane, Makole, Oplotnica in del občine Slovenska Bistrica (v skladu z ZDVEDZ) ter del občine Zreče, ki obsega območje naselja Zlakova",Upravna enota Slovenska Bistrica,Kolodvorska 10,2310 Slovenska Bistrica,46.39193,15.57555
+76,7003,1,Slovenske Konjice,,,Občini Slovenske Konjice in Vitanje ter del občine Zreče (v skladu z ZDVEDZ),Občina Slovenske Konjice,Stari trg 29,3210 Slovenske Konjice,46.33709,15.42201
+77,7004,2,Ruše,178,178,Občina Selnica ob Dravi,Občina Selnica ob Dravi,Slovenski trg 4,2352 Selnica ob Dravi,46.55150,15.49303
+78,7004,2,Ruše,,,Občini Lovrenc na Pohorju in Ruše,Upravna enota Ruše,Kolodvorska ulica 9,2342 Ruše,46.53896,15.51013
+79,7005,1,Maribor 1,,,"Občina Rače - Fram, del občine Hoče - Slivnica in del mestne občine Maribor (v skladu z ZDVEDZ) ",Kulturni dom Kamnica,Vrbanska 97,2351 Kamnica,46.57321,15.61582
+80,7006,1,Maribor 2,,,"Občini Miklavž na Dravskem polju in Starše, del občine Hoče - Slivnica in del mestne občine Maribor (v skladu z ZDVEDZ) ",Kulturni dom Hoče,Pohorska cesta 15,2311 Hoče,46.49846,15.64682
+81,7007,1,Maribor 3,,,Občina Duplek in del mestne občine Maribor (v skladu z ZDVEDZ),Mestna četrt Brezje,Na trati 2,2000 Maribor,46.53586,15.68739
+82,7008,1,Maribor 4,,,Del mestne občine Maribor (v skladu z ZDVEDZ),Razstavni salon,Grajska ulica 7,2000 Maribor,46.56103,15.64815
+83,7009,1,Maribor 5,,,Del mestne občine Maribor (v skladu z ZDVEDZ),Mestni mladinski svet,Trg revolucije 9,2000 Maribor,46.55453,15.64554
+84,7010,1,Maribor 6,,,Del mestne občine Maribor (v skladu z ZDVEDZ),Javni zavod Gasilska brigada Maribor,Cesta proletarskih brigad 21,2000 Maribor,46.53994,15.64365
+85,7011,1,Maribor 7,,,Del mestne občine Maribor (v skladu z ZDVEDZ),Mestna četrt Tabor,Metelkova 63,2000 Maribor,46.54201,15.64353
+86,8001,1,Lendava,,,"Občine Črenšovci, Dobrovnik, Kobilje, Lendava, Odranci, Turnišče in Velika Polana",Dvojezična OŠ II Lendava,Ulica heroja Mohorja 1,9220 Lendava,46.56042,16.45456
+87,8002,1,Ormož,,,"Občine Ormož, Središče ob Dravi in Sveti Tomaž",Upravna enota Ormož,Ptujska cesta 6,2270 Ormož,46.40732,16.14730
+88,8003,1,Ljutomer,,,"Občine Ljutomer, Križevci, Razkrižje in Veržej",Dom kulture,Prešernova ulica 20,9240 Ljutomer,46.52061,16.19499
+89,8004,1,Murska Sobota 1,,,"Občine Puconci, Rogašovci, Šalovci, Tišina, Cankova, Gornji Petrovci, Grad, Hodoš, Kuzma, del občine Moravske Toplice in del mestne občine Murska Sobota (v skladu z ZDVEDZ)",Mestna občina Murska Sobota,Kardoševa ulica 2,9000 Murska Sobota,46.66250,16.16392
+90,8005,1,Murska Sobota 2,,,"Občina Beltinci, del mestne občine Murska Sobota in del občine Moravske Toplice (v skladu z ZDVEDZ) ",Mestna Občina Murska Sobota,Kardoševa ulica 2,9000 Murska Sobota,46.66250,16.16392
+91,8006,1,Gornja Radgona,,,"Občine Apače, Gornja Radgona, Radenci in Sveti Jurij ob Ščavnici",Upravna enota Gornja Radgona,Partizanska cesta 13,9250 Gornja Radgona,46.67750,15.99033
+92,8007,1,Lenart,,,"Občine Benedikt, Cerkvenjak, Lenart, Sveta Ana, Sveti Jurij v Slovenskih goricah in Sveta Trojica v Slovenskih goricah",Upravna enota Lenart,Trg osvoboditve 7,2230 Lenart v Slov. goricah,46.57594,15.83071
+93,8008,1,Pesnica,,,"Občine Pesnica, Kungota in Šentilj",Večnamenski KTPC Pesnica,Pesnica pri Mariboru 41,2211 Pesnica pri Mariboru,46.60859,15.67541
+94,8009,1,Ptuj 1,,,"Občine Destrnik, Dornava, Gorišnica, Juršinci, Markovci, Sveti Andraž v Slov. goricah in Trnovska vas ter del mestne občine Ptuj (v skladu z ZDVEDZ)",Upravna enota Ptuj,Slomškova 10,2250 Ptuj,46.42149,15.87190
+95,8010,1,Ptuj 2,,,Občina Hajdina in del mestne občine Ptuj (v skladu z ZDVEDZ),Upravna enota Ptuj,Slomškova 10,2250 Ptuj,46.42149,15.87190
+96,8011,1,Ptuj 3,,,"Občine Cirkulane, Kidričevo, Majšperk, Podlehnik, Videm, Zavrč in Žetale",Upravna enota Ptuj,Slomškova 10,2250 Ptuj,46.42149,15.87190
