@@ -8,6 +8,6 @@ ogr2ogr -f "GeoJSON" volisca-omnia-dz2022-tocke.geojson volisca-omnia-dz2022-geo
 	-oo Y_POSSIBLE_NAMES=lat \
 	-oo KEEP_GEOM_COLUMNS=NO \
 	-lco RFC7946=YES -lco WRITE_BBOX=YES \
-	-nln VDV-GURS-RPE-DVK-Predcasno-tocke
+	-nln VDV-GURS-RPE-DVK-OMNIA-tocke
 
 echo "  done."

@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"name": "VDV-GURS-RPE-DVK-Predcasno-tocke",
+"name": "VDV-GURS-RPE-DVK-OMNIA-tocke",
 "bbox": [ 13.6036500, 45.5028900, 16.4545600, 46.6775000 ],                                                                        
 "features": [
 { "type": "Feature", "properties": { "OMNIA_ST": "1", "OVK": "1001", "NAZIV": "OVK JESENICE", "Objekt": "UE Jesenice", "Naslov": "Cesta železarjev 6 a", "Pošta": "4270 Jesenice", "Kraj": "Jesenice" }, "bbox": [ 14.06227, 46.43201, 14.06227, 46.43201 ], "geometry": { "type": "Point", "coordinates": [ 14.06227, 46.43201 ] } },
