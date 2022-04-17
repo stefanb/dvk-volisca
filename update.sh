@@ -28,7 +28,7 @@ jq -r 'map({zap_st: .zap_st, st: .st, ime: .ime, priimek: .pri, datum_rojstva: .
 curl -s "${VolitveBASEURL}/data/zgod_udel.json"  | jq > volitve/zgod_udel.json
 
 # Iz navodil medijem:
-# https://www.dvk-rs.si/volitve-in-referendumi/drzavni-zbor-rs/volitve-drzavnega-zbora-rs/volitve-v-dz-2022/#accordion-1731-body-5
+# https://www.dvk-rs.si/volitve-in-referendumi/drzavni-zbor-rs/volitve-drzavnega-zbora-rs/volitve-v-dz-2022/#accordion-1731-body-6
 curl -s "${VolitveBASEURL}/data/udelezba.json"            | jq > volitve/udelezba.json
 curl -s "${VolitveBASEURL}/data/rezultati.json"           | jq > volitve/rezultati.json
 curl -s "${VolitveBASEURL}/data/kandidati_rezultati.json" | jq > volitve/kandidati_rezultati.json
