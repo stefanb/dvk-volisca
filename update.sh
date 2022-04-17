@@ -27,4 +27,22 @@ curl -s "${VolitveBASEURL}/data/kandidati.json"  | jq > volitve/kandidati.json
 jq -r 'map({zap_st: .zap_st, st: .st, ime: .ime, priimek: .pri, datum_rojstva: .dat_roj[0:10], delo: .del , obcina: .obc , naselje: .nas , ulica: .ul , hisna_st: .hst , enota: .enota, okraj_1: .okraji[0], okraj_2: .okraji[1] }) | (.[0] | to_entries | map(.key)), (.[] | [.[]]) | @csv' volitve/kandidati.json > volitve/kandidati.csv
 curl -s "${VolitveBASEURL}/data/zgod_udel.json"  | jq > volitve/zgod_udel.json
 
+# Iz navodil medijem:
+# https://www.dvk-rs.si/volitve-in-referendumi/drzavni-zbor-rs/volitve-drzavnega-zbora-rs/volitve-v-dz-2022/#accordion-1731-body-5
+curl -s "${VolitveBASEURL}/data/udelezba.json"            | jq > volitve/udelezba.json
+curl -s "${VolitveBASEURL}/data/rezultati.json"           | jq > volitve/rezultati.json
+curl -s "${VolitveBASEURL}/data/kandidati_rezultati.json" | jq > volitve/kandidati_rezultati.json
 
+
+for VE in {1..8}
+do
+    VETEMP="0${VE}"
+    VEPAD="${VETEMP: -2}" #pad left with 0s to max 2 chars
+    for VO in {1..11}
+    do
+        VOTEMP="0${VO}"
+        VOPAD="${VOTEMP: -2}"
+        echo "Scraping VE:${VEPAD} VO:${VOPAD}..."
+        curl -s "${VolitveBASEURL}/data/volisca_${VEPAD}_${VOPAD}.json" | jq > volitve/volisca_${VEPAD}_${VOPAD}.json
+    done
+done
