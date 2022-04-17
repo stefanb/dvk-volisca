@@ -1,0 +1,829 @@
+{
+  "en_st": 2,
+  "en_naz": "Postojna",
+  "st": 1,
+  "naz": "Tolmin",
+  "vol": [
+    {
+      "st": 6,
+      "naz": "\"BAR \"\"KANINSKE LEGENDE\"\", DVOR 43, BOVEC\"",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 69,
+      "naz": "BIVŠA GOSTILNA V BAČI PRI MODREJU 30",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 81,
+      "naz": "BIVŠA GOSTILNA V KLAVŽAH 21",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 66,
+      "naz": "ČAKALNICA NA ŽELEZNIŠKI POSTAJI, POSTAJA 10",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 9,
+      "naz": "ČEZSOČA 94, STARA MLEKARNA ",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 72,
+      "naz": "DOM CIRILA KOSMAČA, SLAP OB IDRIJCI 28 A",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 93,
+      "naz": "DOM UPOKOJENCEV PETROVO BRDO, PETROVO BRDO 7",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 32,
+      "naz": "DREŽNICA 15 A - GASILSKI DOM",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 37,
+      "naz": "DRUŽBENI OBJEKT LADRA, LADRA 43",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 13,
+      "naz": "DRUŽBENI OBJEKT TRNOVO OB SOČI 26A",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 59,
+      "naz": "DRUŽBENI PROSTOR ČIGINJ 45 - V PRITLIČJU",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 86,
+      "naz": "DVORANA KS GRAHOVO OB BAČI 47 - V PRITLIČJU",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 84,
+      "naz": "DVORANA PODMELEC",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 39,
+      "naz": "GARAŽA LAST GASILSKEGA DRUŠTVA - VRSNO 37",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 63,
+      "naz": "GARAŽA SELA PRI VOLČAH 15 - (LAST JUG DRAGA)",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 71,
+      "naz": "GARAŽA TOLMINSKI LOM 11 A",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 15,
+      "naz": "GASILSKI DOM BREGINJ, BREGINJ 92",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 92,
+      "naz": "GASILSKI DOM PODBRDO, PODBRDO 8",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 79,
+      "naz": "GASILSKI DOM PONIKVE, PONIKVE 26",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 46,
+      "naz": "GLASBENA ŠOLA TOLMIN, VHOD IZ PREŠERNOVE ULICE",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 18,
+      "naz": "GOSTILNA KUZMA BORJANA 19",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 75,
+      "naz": "IZLETNIŠKA KMETIJA ŽEROVC, GORENJA TREBUŠA 40B",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 47,
+      "naz": "KNJIŽNICA CIRILA KOSMAČA TOLMIN, TUMOV DREVORED 6",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 23,
+      "naz": "KOBARID, GREGORČIČEVA UL. 20 - DOM A. MANFREDE",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 33,
+      "naz": "KOSEČ 7",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 89,
+      "naz": "KRAJEVNA SKUPNOST HUDAJUŽNA, HUDAJUŽNA 22 C",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 55,
+      "naz": "KRAJEVNA SKUPNOST POLJUBINJ 62 - V PRITLIČJU",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 56,
+      "naz": "KRAJEVNA SKUPNOST PRAPETNO",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 88,
+      "naz": "KRAJEVNA SKUPNOST RUT 29",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 90,
+      "naz": "KRAJEVNA SKUPNOST STRŽIŠČE 28",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 42,
+      "naz": "KRAJEVNA SKUPNOST VOLARJE, VOLARJE 33",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 73,
+      "naz": "KS DOLENJA TREBUŠA DOLENJA TREBUŠA 70",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 97,
+      "naz": "KUK 12",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 57,
+      "naz": "KULTURNA DVORANA LJUBINJ 12",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 24,
+      "naz": "KULTURNI DOM KOBARID, STRESOVA ULICA 2, KOBARID",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 76,
+      "naz": "KULTURNI DOM ŠENTVIŠKA GORA, ŠENTVIŠKA GORA 19",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 8,
+      "naz": "KULTURNI DOM, LOG POD MANGARTOM 54",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 38,
+      "naz": "LIBUŠNJE 4A-PIS. KONTEJNER (LAST KURINČIČ IVANA)",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 10,
+      "naz": "LOG ČEZSOŠKI 17",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 94,
+      "naz": "MLEKARNA BAČA PRI PODBRDU 12",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 44,
+      "naz": "MLEKARNA DOLJE 7 - V PRITLIČJU",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 34,
+      "naz": "MLEKARNA DREŽNIŠKE RAVNE - V PRITLIČJU",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 82,
+      "naz": "MLEKARNA LOGARŠČE 33",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 35,
+      "naz": "MLEKARNA MAGOZD 16- V PRITLIČJU",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 64,
+      "naz": "MLEKARNA MODREJCE 29 A",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 77,
+      "naz": "MLEKARNA PRAPETNO BRDO 35 - V PRITLIČJU",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 26,
+      "naz": "MLEKARNA SVINO 23 - V PRITLIČJU",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 50,
+      "naz": "MLEKARNA ŽABČE 30 - V PRITLIČJU",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 4,
+      "naz": "OSNOVNA ŠOLA BOVEC, TRG GOLOBARSKIH ŽRTEV 17",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 70,
+      "naz": "OSNOVNA ŠOLA KANALSKI LOM 19",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 61,
+      "naz": "OSNOVNA ŠOLA MOST NA SOČI, MOST NA SOČI 18A",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 36,
+      "naz": "OSNOVNA ŠOLA SMAST, SMAST 13",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 2,
+      "naz": "OSNOVNA ŠOLA SOČA, SOČA 28",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 11,
+      "naz": "OSNOVNA ŠOLA ŽAGA, ŽAGA 29",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 7,
+      "naz": "PLUŽNA 26A - GARAŽA, LAST MLEKUŽ SAMOTA",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 60,
+      "naz": "POSLOVNI PROSTOR ATUM KOZARŠČE 8",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 78,
+      "naz": "PROSTOR KS PEČINE 30",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 25,
+      "naz": "PROSTOR OB ŠPORTNEM IGRIŠČU, SUŽID",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 28,
+      "naz": "PROSTOR V BIVŠI OSNOVNI ŠOLI, LIVEK 11",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 3,
+      "naz": "PROSTOR V NEKDANJI TRGOVINI KAL-KORITNICA 54",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 87,
+      "naz": "PROSTORI BIVŠE TRGOVINE KORITNICA 50",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 67,
+      "naz": "PROSTORI KS IDRIJA PRI BAČI, IDRIJA PRI BAČI 51",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 27,
+      "naz": "PROSTORI KS IDRSKO, IDRSKO 22A",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 41,
+      "naz": "PROSTORI KS KAMNO, KAMNO 29 A",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 19,
+      "naz": "PROSTORI KS PODBELA 29",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 12,
+      "naz": "PROSTORI KS SRPENICA, SRPENICA 80",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 91,
+      "naz": "PROSTORI LOVSKE DRUŽINE PODBRDO, PODBRDO 39",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 48,
+      "naz": "RUTARJEVA UL.18 - VARSTVENO DELOVNI CENTER",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 54,
+      "naz": "SIRARNA ČADRG 9 - V PRITLIČJU",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 65,
+      "naz": "ST. HIŠA MODREJ 10 A - (LAST VOGRIČ ADRIJANE)",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 52,
+      "naz": "STANOV. HIŠA ZADLAZ-ČADRG 14 (LAST RUTAR SIMONA)",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 43,
+      "naz": "STANOVANJSKA HIŠA GABRJE 33 (LAST LEBAN MILENKE)",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 31,
+      "naz": "STANOVANJSKA HIŠA JEVŠČEK 4",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 40,
+      "naz": "STANOVANJSKA HIŠA KRN 8 (LAST MANFREDA LIDIJE)",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 58,
+      "naz": "STARA OSNOVNA ŠOLA VOLČE 25 - V PRITLIČJU",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 83,
+      "naz": "STARA ŠOLA TEMLJINE",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 74,
+      "naz": "STOPNIK 9",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 49,
+      "naz": "TOLMIN, BRUNOV DREVORED 23 - RDEČI KRIŽ",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 96,
+      "naz": "TRTNIK 6",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 1,
+      "naz": "TURISTIČNA PISARNA NA LOGU V TRENTI, TRENTA 41",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 30,
+      "naz": "V GARAŽI PERATI 11 (LAST ŠURM MARIJE)",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 53,
+      "naz": "VAŠKI DOM TOLMINSKE RAVNE",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 80,
+      "naz": "VEČNAMENSKI OBJEKT KNEŽA, KNEŽA 78 - V PRITLIČJU",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 14,
+      "naz": "VEČNAMENSKI OBJEKT LOGJE 4",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 16,
+      "naz": "VEČNAMENSKI OBJEKT SEDLO 29",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 22,
+      "naz": "VEČNAMENSKI OBJEKT STARO SELO 54",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 51,
+      "naz": "ZADLAZ ŽABČE 1",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 45,
+      "naz": "ZADRUŽNI DOM ZATOLMIN, ZATOLMIN 1",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 21,
+      "naz": "ZBIRALNICA MLEKA POTOKI 6",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 5,
+      "naz": "ZDRAVSTVENA POSTAJA BOVEC, KOT 85 ",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 20,
+      "naz": "ŽUPNIŠČE KRED 36",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 901,
+      "naz": "PREDČASNO GLASOVANJE",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    }
+  ],
+  "liste": [
+    {
+      "ime": "Darja",
+      "pri": "Lampret",
+      "st": 1,
+      "naz": "DeSUS - DEMOKRATIČNA STRANKA UPOKOJENCEV SLOVENIJE",
+      "knaz": "DeSUS",
+      "hcol": "8DBC15"
+    },
+    {
+      "ime": "Natalija",
+      "pri": "Pungerčar",
+      "st": 2,
+      "naz": "DOMOVINSKA LIGA - DOM",
+      "knaz": "DOM",
+      "hcol": "023463"
+    },
+    {
+      "ime": "Matej",
+      "pri": "Hosner",
+      "st": 3,
+      "naz": "Državljansko gibanje Resni.ca",
+      "knaz": "Resni.ca",
+      "hcol": "67359A"
+    },
+    {
+      "ime": "Uroš",
+      "pri": "Brežan",
+      "st": 4,
+      "naz": "GIBANJE SVOBODA",
+      "knaz": "SVOBODA",
+      "hcol": "005DA3"
+    },
+    {
+      "st": 5,
+      "naz": "Gibanje Zedinjena Slovenija - ZSi",
+      "knaz": "ZSi",
+      "hcol": "C6EFFA"
+    },
+    {
+      "ime": "Blaž",
+      "pri": "Jug",
+      "st": 6,
+      "naz": "LEVICA",
+      "knaz": "LEVICA",
+      "hcol": "FB4C48"
+    },
+    {
+      "ime": "Tadej",
+      "pri": "Mihalič",
+      "st": 7,
+      "naz": "Lista Borisa Popoviča - Digitalizirajmo Slovenijo",
+      "knaz": "L'BP",
+      "hcol": "0089CD"
+    },
+    {
+      "ime": "Erik",
+      "pri": "Pagon",
+      "st": 8,
+      "naz": "LISTA MARJANA ŠARCA - LMŠ",
+      "knaz": "LMŠ",
+      "hcol": "23A567"
+    },
+    {
+      "ime": "Robert",
+      "pri": "Kavčič",
+      "st": 9,
+      "naz": "NAŠA DEŽELA stranka dr. ALEKSANDRE PIVEC",
+      "knaz": "NAŠA DEŽELA",
+      "hcol": "126C00"
+    },
+    {
+      "ime": "Zlatko",
+      "pri": "Gombar",
+      "st": 10,
+      "naz": "NAŠA PRIHODNOST IN DOBRA DRŽAVA",
+      "knaz": "SNP-DD",
+      "hcol": "8DE0FD"
+    },
+    {
+      "ime": "David",
+      "pri": "Zorč",
+      "st": 11,
+      "naz": "NESTRANKARSKA LJUDSKA LISTA GIBANJA ZDRAVA DRUŽBA",
+      "knaz": "NESTRANKARSKA",
+      "hcol": "ADA702"
+    },
+    {
+      "ime": "Matej",
+      "pri": "Hrast",
+      "st": 12,
+      "naz": "NOVA SLOVENIJA - KRŠČANSKI DEMOKRATI",
+      "knaz": "NSi",
+      "hcol": "009AC7"
+    },
+    {
+      "ime": "Sabina",
+      "pri": "Erjavec",
+      "st": 13,
+      "naz": "PIRATSKA STRANKA SLOVENIJE",
+      "knaz": "Pirati",
+      "hcol": "000000"
+    },
+    {
+      "ime": "Marko",
+      "pri": "Matajurc",
+      "st": 14,
+      "naz": "POVEŽIMO SLOVENIJO (KONKRETNO, ZELENI, SLS, NLS, NS)",
+      "knaz": "POVEŽIMO",
+      "hcol": "E8AB02"
+    },
+    {
+      "ime": "Danijel",
+      "pri": "Krivec",
+      "st": 15,
+      "naz": "SLOVENSKA DEMOKRATSKA STRANKA - SDS",
+      "knaz": "SDS",
+      "hcol": "FFE53F"
+    },
+    {
+      "ime": "Iztok",
+      "pri": "Mrak",
+      "st": 16,
+      "naz": "SLOVENSKA NACIONALNA STRANKA - SNS",
+      "knaz": "SNS",
+      "hcol": "4D4D4D"
+    },
+    {
+      "ime": "Alen",
+      "pri": "Červ",
+      "st": 17,
+      "naz": "SOCIALNI DEMOKRATI - SD",
+      "knaz": "SD",
+      "hcol": "CB000D"
+    },
+    {
+      "ime": "Nika",
+      "pri": "Kravanja",
+      "st": 18,
+      "naz": "STRANKA ALENKE BRATUŠEK",
+      "knaz": "SAB",
+      "hcol": "F3808A"
+    },
+    {
+      "ime": "Saša",
+      "pri": "Hreščak",
+      "st": 19,
+      "naz": "VESNA - zelena stranka",
+      "knaz": "VESNA",
+      "hcol": "C9FFA1"
+    },
+    {
+      "ime": "Vida",
+      "pri": "Tekavčič",
+      "st": 20,
+      "naz": "ZA LJUDSTVO SLOVENIJE  - ZLS",
+      "knaz": "ZLS",
+      "hcol": "89AEDB"
+    },
+    {
+      "ime": "Jožef",
+      "pri": "Špes",
+      "st": 21,
+      "naz": "ZOS - ZAVEZNIŠTVO OSVOBODIMO SLOVENIJO (GIBANJE ZEDINJENA SLOVENIJA - ZSI IN STRANKA SLOVENSKEGA NARODA - SSN)",
+      "knaz": "ZOS",
+      "hcol": "129847"
+    }
+  ],
+  "nastavitve": {
+    "timestamp": "2022-04-11T11:30:11.8689776+02:00",
+    "datum": "2022-04-11T11:30:00+02:00",
+    "cas_udelezba": "19:00",
+    "has_udelezba": false,
+    "has_rezultat": false,
+    "is_final": false,
+    "has_kandidati_removed": false
+  }
+}

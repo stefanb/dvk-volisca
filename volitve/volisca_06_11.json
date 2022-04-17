@@ -1,0 +1,414 @@
+{
+  "en_st": 6,
+  "en_naz": "Novo mesto",
+  "st": 11,
+  "naz": "Zagorje",
+  "vol": [
+    {
+      "st": 1,
+      "naz": "DELAVSKI DOM I., CESTA 9. AVGUSTA 1, ZAGORJE",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 2,
+      "naz": "DELAVSKI DOM II., C.9.AVGUSTA 1, ZAGORJE",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 12,
+      "naz": "DOM KULTURE KISOVEC,TRG POHORSKEGA BATALJONA 24",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 13,
+      "naz": "FORTUNA - PIL D.O.O., NASELJE NA ŠAHTU 31, KISOVE",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 21,
+      "naz": "GOSTILNA ZALOKA, JESENOVO 31, ČEMŠENIK",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 18,
+      "naz": "GOSTINSKI LOKAL DRAŠLAR MARKA, OREHOVICA 18",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 19,
+      "naz": "GOSTIŠČE MAČEK, ŠENTGOTARD 22, TROJANE",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 25,
+      "naz": "HIŠA HRIBAR ZORANA, BREZNIK 1, IZLAKE",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 30,
+      "naz": "HIŠA KLANČIŠAR LEOPOLDA, KAL 8, ZAGORJE OB SAVI",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 22,
+      "naz": "HIŠA MAŽGON HILDE, JESENOVO 38C, ČEMŠENIK",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 28,
+      "naz": "HIŠA ROME JANEZA, BRIŠE 17, IZLAKE",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 16,
+      "naz": "HIŠA ZOREC DEJANA, SMUČIDOL 4, IZLAKE",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 34,
+      "naz": "HIŠA ZUPANC FRANČIŠKE, BOROVAK PRI PODKUMU 7",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 3,
+      "naz": "KOMUNALA ZAGORJE D.O.O., CESTA ZMAGE 57, ZAGORJE",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 8,
+      "naz": "OKREPČEVALNICA GASILČEK, KOTREDEŽ 12, ZAGORJE",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 15,
+      "naz": "OŠ IVAN KAVČIČ I., IZLAKE 4, IZLAKE",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 17,
+      "naz": "OŠ IVAN KAVČIČ II., IZLAKE 4, IZLAKE",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 23,
+      "naz": "OŠ MLINŠE, MLINŠE 14, IZLAKE",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 6,
+      "naz": "OŠ TONE OKROGAR, ŠOLSKA ULICA 1, ZAGORJE OB SAVI",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 20,
+      "naz": "PGD ČEMŠENIK, ČEMŠENIK 16, ČEMŠENIK",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 26,
+      "naz": "PGD KANDRŠE, KANDRŠE - DEL 6, VAČE",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 27,
+      "naz": "PGD KOLOVRAT, KOLOVRAT 19, IZLAKE",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 11,
+      "naz": "PGD LOKE, LOKE PRI ZAGORJU 37,KISOVEC",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 35,
+      "naz": "PGD PADEŽ, PADEŽ 1, PODKUM",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 33,
+      "naz": "PGD PODKUM, PODKUM 16, PODKUM",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 7,
+      "naz": "PGD RAVENSKA VAS, RAVENSKA VAS 3, ZAGORJE OB SAVI",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 29,
+      "naz": "PGD ŠENTLAMBERT, ŠENTLAMBERT 9, ZAGORJE OB SAVI",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 31,
+      "naz": "PGD TIRNA, TIRNA 16, SAVA",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 14,
+      "naz": "PGDČOLNIŠČE, ČOLNIŠČE 12, ZAGORJE OB SAVI",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 36,
+      "naz": "ŠPORTNO DRUŠTVO ŠKLENDROVEC, ID 1889-1019, PODKUM",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 9,
+      "naz": "VDC, CESTA 9.AVGUSTA 59C, ZAGORJE OB SAVI",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 4,
+      "naz": "VRTEC ZAGORJE, ENOTA MAJA, PEČARJEVA ULICA 4",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 901,
+      "naz": "PREDČASNO GLASOVANJE",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    }
+  ],
+  "liste": [
+    {
+      "ime": "Štefan",
+      "pri": "Misja",
+      "st": 1,
+      "naz": "DeSUS - DEMOKRATIČNA STRANKA UPOKOJENCEV SLOVENIJE",
+      "knaz": "DeSUS",
+      "hcol": "8DBC15"
+    },
+    {
+      "ime": "Marija Ana",
+      "pri": "Anžlovar",
+      "st": 2,
+      "naz": "DOMOVINSKA LIGA - DOM",
+      "knaz": "DOM",
+      "hcol": "023463"
+    },
+    {
+      "ime": "Petra",
+      "pri": "Vrtačnik",
+      "st": 3,
+      "naz": "Državljansko gibanje Resni.ca",
+      "knaz": "Resni.ca",
+      "hcol": "67359A"
+    },
+    {
+      "ime": "Teo (Teodor)",
+      "pri": "Uranič",
+      "st": 4,
+      "naz": "GIBANJE SVOBODA",
+      "knaz": "SVOBODA",
+      "hcol": "005DA3"
+    },
+    {
+      "st": 5,
+      "naz": "Gibanje Zedinjena Slovenija - ZSi",
+      "knaz": "ZSi",
+      "hcol": "C6EFFA"
+    },
+    {
+      "ime": "Eva",
+      "pri": "Koprivšek Petkovšek",
+      "st": 6,
+      "naz": "LEVICA",
+      "knaz": "LEVICA",
+      "hcol": "FB4C48"
+    },
+    {
+      "ime": "Aleksander",
+      "pri": "Radanović",
+      "st": 7,
+      "naz": "Lista Borisa Popoviča - Digitalizirajmo Slovenijo",
+      "knaz": "L'BP",
+      "hcol": "0089CD"
+    },
+    {
+      "ime": "Rudi",
+      "pri": "Medved",
+      "st": 8,
+      "naz": "LISTA MARJANA ŠARCA - LMŠ",
+      "knaz": "LMŠ",
+      "hcol": "23A567"
+    },
+    {
+      "ime": "Roman",
+      "pri": "Savšek",
+      "st": 9,
+      "naz": "NAŠA DEŽELA stranka dr. ALEKSANDRE PIVEC",
+      "knaz": "NAŠA DEŽELA",
+      "hcol": "126C00"
+    },
+    {
+      "ime": "Džurža",
+      "pri": "Rus",
+      "st": 10,
+      "naz": "NAŠA PRIHODNOST IN DOBRA DRŽAVA",
+      "knaz": "SNP-DD",
+      "hcol": "8DE0FD"
+    },
+    {
+      "ime": "Vinko",
+      "pri": "Sladoljev",
+      "st": 11,
+      "naz": "NESTRANKARSKA LJUDSKA LISTA GIBANJA ZDRAVA DRUŽBA",
+      "knaz": "NESTRANKARSKA",
+      "hcol": "ADA702"
+    },
+    {
+      "ime": "Aljaž",
+      "pri": "Jerin",
+      "st": 12,
+      "naz": "NOVA SLOVENIJA - KRŠČANSKI DEMOKRATI",
+      "knaz": "NSi",
+      "hcol": "009AC7"
+    },
+    {
+      "ime": "Karmen",
+      "pri": "Brecelj",
+      "st": 13,
+      "naz": "PIRATSKA STRANKA SLOVENIJE",
+      "knaz": "Pirati",
+      "hcol": "000000"
+    },
+    {
+      "ime": "Primož",
+      "pri": "Jelševar",
+      "st": 14,
+      "naz": "POVEŽIMO SLOVENIJO (KONKRETNO, ZELENI, SLS, NLS, NS)",
+      "knaz": "POVEŽIMO",
+      "hcol": "E8AB02"
+    },
+    {
+      "ime": "Alenka",
+      "pri": "Forte",
+      "st": 15,
+      "naz": "SLOVENSKA DEMOKRATSKA STRANKA - SDS",
+      "knaz": "SDS",
+      "hcol": "FFE53F"
+    },
+    {
+      "ime": "Srečko",
+      "pri": "Prijatelj",
+      "st": 16,
+      "naz": "SLOVENSKA NACIONALNA STRANKA - SNS",
+      "knaz": "SNS",
+      "hcol": "4D4D4D"
+    },
+    {
+      "ime": "Nataša",
+      "pri": "Češko",
+      "st": 17,
+      "naz": "SOCIALNI DEMOKRATI - SD",
+      "knaz": "SD",
+      "hcol": "CB000D"
+    },
+    {
+      "ime": "Rebeka",
+      "pri": "Ostrovršnik",
+      "st": 18,
+      "naz": "STRANKA ALENKE BRATUŠEK",
+      "knaz": "SAB",
+      "hcol": "F3808A"
+    },
+    {
+      "ime": "Vladimir",
+      "pri": "Poredoš",
+      "st": 19,
+      "naz": "VESNA - zelena stranka",
+      "knaz": "VESNA",
+      "hcol": "C9FFA1"
+    },
+    {
+      "ime": "Darja",
+      "pri": "Požun",
+      "st": 20,
+      "naz": "ZA LJUDSTVO SLOVENIJE  - ZLS",
+      "knaz": "ZLS",
+      "hcol": "89AEDB"
+    },
+    {
+      "st": 21,
+      "naz": "ZOS - ZAVEZNIŠTVO OSVOBODIMO SLOVENIJO (GIBANJE ZEDINJENA SLOVENIJA - ZSI IN STRANKA SLOVENSKEGA NARODA - SSN)",
+      "knaz": "ZOS",
+      "hcol": "129847"
+    }
+  ],
+  "nastavitve": {
+    "timestamp": "2022-04-11T11:30:11.8689776+02:00",
+    "datum": "2022-04-11T11:30:00+02:00",
+    "cas_udelezba": "19:00",
+    "has_udelezba": false,
+    "has_rezultat": false,
+    "is_final": false,
+    "has_kandidati_removed": false
+  }
+}

@@ -1,0 +1,451 @@
+{
+  "en_st": 1,
+  "en_naz": "Kranj",
+  "st": 1,
+  "naz": "Jesenice",
+  "vol": [
+    {
+      "st": 33,
+      "naz": "BLEJSKA DOBRAVA, JEDILNICA OŠ, BLEJSKA DOBRAVA 44",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 36,
+      "naz": "BREG, ELEKTRARNA MOSTE, MOSTE 41",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 39,
+      "naz": "BREZNICA,DOSLOVČE,VRBA,KULTURNA DVORANA,BREZNICA9",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 7,
+      "naz": "DOVJE, KULTURNI DOM, DOVJE 109",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 5,
+      "naz": "GOZD MARTULJEK, GASILSKI DOM, ZGORNJE RUTE 85",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 10,
+      "naz": "HRUŠICA 1,PROSTOVOLJNO GASILSKO DRUŠTVO,HRUŠICA13",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 11,
+      "naz": "HRUŠICA 2, KULTURNI DOM NA HRUŠICI, HRUŠICA 55 A ",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 28,
+      "naz": "JAVORNIK-KOR. BELA 1, OŠ KOROŠKA BELA, C.TALCEV 2",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 29,
+      "naz": "JAVORNIK-KOR. BELA 2, OŠ KOROŠKA BELA, C.TALCEV 2",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 31,
+      "naz": "JAVORNIK-KOR. BELA 4,DELAVSKI DOM,KIDRIČEVA 37/C",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 30,
+      "naz": "JAVORNIK-KOR.BELA 3,FRIZ.STUDIO ALMA,C.J.FINŽG.5B",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 27,
+      "naz": "JAVORNIŠKI ROVT, GASILSKI DOM JAVORNIŠKI ROVT",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 34,
+      "naz": "KOČNA, ORODIŠČE GASILSKEGA DRUŠTVA KOČNA",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 3,
+      "naz": "KRANJSKA GORA 1, OBČINA KR.GORA,KOLODVORSKA UL.1B",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 4,
+      "naz": "KRANJSKA GORA 2,OŠ KRANJSKA GORA,KOROŠKA ULICA 12",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 8,
+      "naz": "MOJSTRANA, OŠ 16.DECEMBER,ULICA ALOJZA RABIČA 7",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 35,
+      "naz": "MOSTE, TVD PARTIZAN, ŽIROVNICA 63",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 12,
+      "naz": "PLANINA POD GOLICO,KRAJEVNA SKUPNOST, PL.PODG.31",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 13,
+      "naz": "PLAVŠKI ROVT, HIŠA KLINAR ŠTEFAN, PLAVŠKI ROVT 14",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 14,
+      "naz": "PLAVŽ 1,DOM UPOK.DR.F.BERGELJA,PRITLIČJE STAVBE B",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 15,
+      "naz": "PLAVŽ 2,AVLA ZDRAV.DOMA JESENICE, CESTA M.TITA 78",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 16,
+      "naz": "PLAVŽ 3, PRITLIČJE OŠ TONE ČUFAR UČIL.1, JESENICE",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 17,
+      "naz": "PLAVŽ 4, JEKO D.O.O., CESTA MARŠALA TITA 51",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 19,
+      "naz": "PLAVŽ 5,VRTEC A.OCEPEK,JESEN.,C.CIRILA TAVČARJA3A",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 2,
+      "naz": "PODKOREN, KS PODKOREN, PODKOREN 15 ",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 26,
+      "naz": "PODMEŽAKLA 2, KRAJEVNA SKUPNOST,MENCINGERJEVA U.1",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 25,
+      "naz": "PODMEŽAKLA1,SEJNA SOBA ZŠ JESENICE,LEDARSKA UL.6A",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 1,
+      "naz": "RATEČE PLANICA, VRTEC RATEČE, RATEČE 18",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 20,
+      "naz": "SAVA 1, KRAJEVNA SKUPNOST SAVA, POD GOZDOM 2",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 21,
+      "naz": "SAVA 2, OŠ PREŽIHOV VORANC, C. TONETA TOMŠIČA 5",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 22,
+      "naz": "SAVA 3, BIVŠI ČAVS BAR, CESTA TONETA TOMŠIČA 70 A",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 23,
+      "naz": "SAVA 4, OŠ POLDE STRAŽIŠAR, UL. V.KEJŽARJA 35",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 24,
+      "naz": "SAVA 5, SREDNJA ŠOLA,ULICA BRATOV RUPAR 2, JESEN.",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 38,
+      "naz": "SELO, ZABREZNICA, OŠ ŽIROVNICA, ZABREZNICA 4",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 40,
+      "naz": "SMOKUČ, RODINE, JALNOVA ROJSTNA HIŠA, RODINE 10 ",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 9,
+      "naz": "ZGORNJA RADOVNA,POCARJEVA DOMAČIJA, ZG.RADOVNA 25",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 37,
+      "naz": "ŽIROVNICA, ČOPOVA ROJSTNA HIŠA, ŽIROVNICA 14",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 901,
+      "naz": "PREDČASNO GLASOVANJE",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    }
+  ],
+  "liste": [
+    {
+      "ime": "Vinko",
+      "pri": "Otovič",
+      "st": 1,
+      "naz": "DeSUS - DEMOKRATIČNA STRANKA UPOKOJENCEV SLOVENIJE",
+      "knaz": "DeSUS",
+      "hcol": "8DBC15"
+    },
+    {
+      "ime": "Žiga",
+      "pri": "Jereb",
+      "st": 2,
+      "naz": "DOMOVINSKA LIGA - DOM",
+      "knaz": "DOM",
+      "hcol": "023463"
+    },
+    {
+      "ime": "Zoran",
+      "pri": "Stevanović",
+      "st": 3,
+      "naz": "Državljansko gibanje Resni.ca",
+      "knaz": "Resni.ca",
+      "hcol": "67359A"
+    },
+    {
+      "ime": "Katarina",
+      "pri": "Štravs",
+      "st": 4,
+      "naz": "GIBANJE SVOBODA",
+      "knaz": "SVOBODA",
+      "hcol": "005DA3"
+    },
+    {
+      "st": 5,
+      "naz": "Gibanje Zedinjena Slovenija - ZSi",
+      "knaz": "ZSi",
+      "hcol": "C6EFFA"
+    },
+    {
+      "ime": "Dušan",
+      "pri": "Krnel",
+      "st": 6,
+      "naz": "LEVICA",
+      "knaz": "LEVICA",
+      "hcol": "FB4C48"
+    },
+    {
+      "ime": "Grega",
+      "pri": "Šebjanič",
+      "st": 7,
+      "naz": "Lista Borisa Popoviča - Digitalizirajmo Slovenijo",
+      "knaz": "L'BP",
+      "hcol": "0089CD"
+    },
+    {
+      "ime": "Mirjam",
+      "pri": "Noč",
+      "st": 8,
+      "naz": "LISTA MARJANA ŠARCA - LMŠ",
+      "knaz": "LMŠ",
+      "hcol": "23A567"
+    },
+    {
+      "ime": "Boštjan",
+      "pri": "Noč",
+      "st": 9,
+      "naz": "NAŠA DEŽELA stranka dr. ALEKSANDRE PIVEC",
+      "knaz": "NAŠA DEŽELA",
+      "hcol": "126C00"
+    },
+    {
+      "ime": "Alma",
+      "pri": "Rekić",
+      "st": 10,
+      "naz": "NAŠA PRIHODNOST IN DOBRA DRŽAVA",
+      "knaz": "SNP-DD",
+      "hcol": "8DE0FD"
+    },
+    {
+      "ime": "Mojca",
+      "pri": "Vene",
+      "st": 11,
+      "naz": "NESTRANKARSKA LJUDSKA LISTA GIBANJA ZDRAVA DRUŽBA",
+      "knaz": "NESTRANKARSKA",
+      "hcol": "ADA702"
+    },
+    {
+      "ime": "Boris",
+      "pri": "Kitek",
+      "st": 12,
+      "naz": "NOVA SLOVENIJA - KRŠČANSKI DEMOKRATI",
+      "knaz": "NSi",
+      "hcol": "009AC7"
+    },
+    {
+      "ime": "Haris",
+      "pri": "Hatić",
+      "st": 13,
+      "naz": "PIRATSKA STRANKA SLOVENIJE",
+      "knaz": "Pirati",
+      "hcol": "000000"
+    },
+    {
+      "ime": "Miha",
+      "pri": "Rebolj",
+      "st": 14,
+      "naz": "POVEŽIMO SLOVENIJO (KONKRETNO, ZELENI, SLS, NLS, NS)",
+      "knaz": "POVEŽIMO",
+      "hcol": "E8AB02"
+    },
+    {
+      "ime": "Irena",
+      "pri": "Pfeifer",
+      "st": 15,
+      "naz": "SLOVENSKA DEMOKRATSKA STRANKA - SDS",
+      "knaz": "SDS",
+      "hcol": "FFE53F"
+    },
+    {
+      "ime": "Alenka",
+      "pri": "Gabrovec",
+      "st": 16,
+      "naz": "SLOVENSKA NACIONALNA STRANKA - SNS",
+      "knaz": "SNS",
+      "hcol": "4D4D4D"
+    },
+    {
+      "ime": "mag. Vera",
+      "pri": "Djurić Drozdek",
+      "st": 17,
+      "naz": "SOCIALNI DEMOKRATI - SD",
+      "knaz": "SD",
+      "hcol": "CB000D"
+    },
+    {
+      "ime": "Alenka",
+      "pri": "Pavlič",
+      "st": 18,
+      "naz": "STRANKA ALENKE BRATUŠEK",
+      "knaz": "SAB",
+      "hcol": "F3808A"
+    },
+    {
+      "ime": "Tina",
+      "pri": "Robič",
+      "st": 19,
+      "naz": "VESNA - zelena stranka",
+      "knaz": "VESNA",
+      "hcol": "C9FFA1"
+    },
+    {
+      "ime": "Tomaž",
+      "pri": "Jelenc",
+      "st": 20,
+      "naz": "ZA LJUDSTVO SLOVENIJE  - ZLS",
+      "knaz": "ZLS",
+      "hcol": "89AEDB"
+    },
+    {
+      "ime": "Klemen",
+      "pri": "Piber",
+      "st": 21,
+      "naz": "ZOS - ZAVEZNIŠTVO OSVOBODIMO SLOVENIJO (GIBANJE ZEDINJENA SLOVENIJA - ZSI IN STRANKA SLOVENSKEGA NARODA - SSN)",
+      "knaz": "ZOS",
+      "hcol": "129847"
+    }
+  ],
+  "nastavitve": {
+    "timestamp": "2022-04-11T11:30:11.8689776+02:00",
+    "datum": "2022-04-11T11:30:00+02:00",
+    "cas_udelezba": "19:00",
+    "has_udelezba": false,
+    "has_rezultat": false,
+    "is_final": false,
+    "has_kandidati_removed": false
+  }
+}

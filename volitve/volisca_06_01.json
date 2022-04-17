@@ -1,0 +1,610 @@
+{
+  "en_st": 6,
+  "en_naz": "Novo mesto",
+  "st": 1,
+  "naz": "Črnomelj",
+  "vol": [
+    {
+      "st": 80,
+      "naz": "\"ČRNOMELJ- BIVŠA TRGOVINA \"\"NINA\"\", PREČNA ULICA 4 \"",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 11,
+      "naz": "ADLEŠIČI - KULTURNI DOM",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 45,
+      "naz": "BOJANCI - VEČNAMENSKI DOM",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 47,
+      "naz": "BOŽAKOVO - DOM KRAJANOV",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 16,
+      "naz": "BUTORAJ - GASILSKI DOM",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 69,
+      "naz": "CEROVEC PRI ČREŠNJEVCU - GASILSKI DOM",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 68,
+      "naz": "ČRMOŠNJICE-V PROST. PGD ČRMOŠNJICE, ČRMOŠNJICE 24",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 7,
+      "naz": "ČRNOMELJ - DOM OBRTNIKOV, ULICA 21.OKTOBRA 10",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 1,
+      "naz": "ČRNOMELJ - OŠ LOKA, KIDRIČEVA ULICA 18",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 4,
+      "naz": "ČRNOMELJ - OŠ MIRANA JARCA, UL. OTONA ŽUPANČIČA 8",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 10,
+      "naz": "ČRNOMELJ - OTROŠKI VRTEC, ČARDAK 1",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 2,
+      "naz": "ČRNOMELJ-V PROS. ŠD NOG. ŠOLE BK, PRI STADIONU 2 ",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 38,
+      "naz": "DESINEC - PRI SEDLAR STANKU, DESINEC 1A",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 17,
+      "naz": "DOBLIČE - GASILSKI DOM",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 53,
+      "naz": "DOLNJA LOKVICA - GASILSKI DOM",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 67,
+      "naz": "DOLNJI SUHOR PRI METLIKI - GASILSKI DOM",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 20,
+      "naz": "DRAGATUŠ - OSNOVNA ŠOLA, DRAGATUŠ 48",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 49,
+      "naz": "DRAŠIČI - GASILSKI DOM",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 31,
+      "naz": "GORENJI RADENCI - CŠOD RADENCI, GORENJI RADENCI 1",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 50,
+      "naz": "GRABROVEC - GASILSKI DOM",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 51,
+      "naz": "GRADAC - GASILSKI DOM",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 24,
+      "naz": "GRIBLJE- V PROSTORIH PODR. OŠ GRIBLJE, GRIBLJE 38",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 39,
+      "naz": "HRAST PRI VINICI - GASILSKI DOM",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 18,
+      "naz": "KANIŽARICA 15A -V GOSTILNI IN PICERIJI PRI DELIČU",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 62,
+      "naz": "KRASINEC - GASILSKI DOM",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 48,
+      "naz": "KRIVOGLAVICE - GASILSKI DOM",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 26,
+      "naz": "LOKVE - GOSTILNA ŽVAB, LOKVE 9A",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 23,
+      "naz": "MALI NERAJEC - PRI PANJAN FRANCU, MALI NERAJEC 8",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 36,
+      "naz": "MAVRLEN - GASILSKI DOM",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 55,
+      "naz": "METLIKA - GD METLIKA",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 59,
+      "naz": "METLIKA - OBRTNI DOM OOZ, PARTIZANSKI TRG 5 ",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 58,
+      "naz": "METLIKA - OTROŠKI VRTEC, ŽUPANČIČEVA CESTA 1 ",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 54,
+      "naz": "METLIKA-MLAD. CENTER, KUD PLAC, CBE 43, METLIKA",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 56,
+      "naz": "METLIKA-STATUS D.O.O., UL. BELOKRANJSKEGA ODR. 19",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 72,
+      "naz": "NESTOPLJA VAS-PRI PEČAVAR MARTINU,NESTOPLJA VAS1",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 74,
+      "naz": "OSOJNIK - PRI KONDA ROBERTU, OSOJNIK ŠT. 15",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 35,
+      "naz": "OTOVEC - GASILSKI DOM",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 27,
+      "naz": "PETROVA VAS - GASILSKI DOM",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 61,
+      "naz": "PODZEMELJ - V PROSTORIH PGD, PODZEMELJ 16B",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 40,
+      "naz": "PRELOKA - GASILSKI DOM",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 64,
+      "naz": "RADOVICA - OSNOVNA ŠOLA",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 34,
+      "naz": "RODINE - GASILSKI DOM",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 65,
+      "naz": "ROSALNICE - GASILSKI DOM",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 75,
+      "naz": "ROŽNI DOL - GASILSKI DOM",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 52,
+      "naz": "SELA PRI JUGORJU - GASILSKI DOM",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 73,
+      "naz": "SEMIČ - KULTURNI CENTER SEMIČ, PROSVETNA ULICA 4",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 71,
+      "naz": "SEMIČ, SPODNJE GORENJCE 32 - GASILSKI DOM",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 29,
+      "naz": "SINJI VRH - V PROSTORIH KS, SINJI VRH 1A",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 66,
+      "naz": "SLAMNA VAS - DOM GASILCEV IN KRAJANOV",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 41,
+      "naz": "STARA LIPA -PRI TOMEC JOŽETU, STARA LIPA 1A",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 32,
+      "naz": "STARI TRG OB KOLPI-VRTEC OŠ,STARI TRG OB KOLPI 7",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 76,
+      "naz": "STRANSKA VAS PRI SEMIČU - GASILSKI DOM",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 77,
+      "naz": "ŠTREKLJEVEC - GASILSKI DOM",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 22,
+      "naz": "TANČA GORA - GASILSKI DOM",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 37,
+      "naz": "TRIBUČE - GASILSKI DOM",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 43,
+      "naz": "VINICA - DOM KRAJANOV VINICA, VINICA 44",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 6,
+      "naz": "VRANOVIČI - GASILSKI DOM",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 33,
+      "naz": "ZAGOZDAC - STAVBA BIVŠE OŠ",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 44,
+      "naz": "ZILJE - GASILSKI DOM",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 15,
+      "naz": "ŽUNIČI - GASILSKI DOM",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 901,
+      "naz": "PREDČASNO GLASOVANJE",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    }
+  ],
+  "liste": [
+    {
+      "ime": "Silvo",
+      "pri": "Grdešič",
+      "st": 1,
+      "naz": "DeSUS - DEMOKRATIČNA STRANKA UPOKOJENCEV SLOVENIJE",
+      "knaz": "DeSUS",
+      "hcol": "8DBC15"
+    },
+    {
+      "ime": "Petra",
+      "pri": "Strmole",
+      "st": 2,
+      "naz": "DOMOVINSKA LIGA - DOM",
+      "knaz": "DOM",
+      "hcol": "023463"
+    },
+    {
+      "ime": "Pavel",
+      "pri": "Šuštarič",
+      "st": 3,
+      "naz": "Državljansko gibanje Resni.ca",
+      "knaz": "Resni.ca",
+      "hcol": "67359A"
+    },
+    {
+      "ime": "Jana",
+      "pri": "Jerman",
+      "st": 4,
+      "naz": "GIBANJE SVOBODA",
+      "knaz": "SVOBODA",
+      "hcol": "005DA3"
+    },
+    {
+      "st": 5,
+      "naz": "Gibanje Zedinjena Slovenija - ZSi",
+      "knaz": "ZSi",
+      "hcol": "C6EFFA"
+    },
+    {
+      "ime": "Jožica",
+      "pri": "Fortun Tomažič",
+      "st": 6,
+      "naz": "LEVICA",
+      "knaz": "LEVICA",
+      "hcol": "FB4C48"
+    },
+    {
+      "ime": "Timotej",
+      "pri": "Cizej",
+      "st": 7,
+      "naz": "Lista Borisa Popoviča - Digitalizirajmo Slovenijo",
+      "knaz": "L'BP",
+      "hcol": "0089CD"
+    },
+    {
+      "ime": "Vesna",
+      "pri": "Fabjan",
+      "st": 8,
+      "naz": "LISTA MARJANA ŠARCA - LMŠ",
+      "knaz": "LMŠ",
+      "hcol": "23A567"
+    },
+    {
+      "ime": "Dušan",
+      "pri": "Pavlič",
+      "st": 9,
+      "naz": "NAŠA DEŽELA stranka dr. ALEKSANDRE PIVEC",
+      "knaz": "NAŠA DEŽELA",
+      "hcol": "126C00"
+    },
+    {
+      "ime": "Marjana",
+      "pri": "Čegovnik",
+      "st": 10,
+      "naz": "NAŠA PRIHODNOST IN DOBRA DRŽAVA",
+      "knaz": "SNP-DD",
+      "hcol": "8DE0FD"
+    },
+    {
+      "ime": "Polona",
+      "pri": "Kambič",
+      "st": 11,
+      "naz": "NESTRANKARSKA LJUDSKA LISTA GIBANJA ZDRAVA DRUŽBA",
+      "knaz": "NESTRANKARSKA",
+      "hcol": "ADA702"
+    },
+    {
+      "ime": "Nataša",
+      "pri": "Hudelja",
+      "st": 12,
+      "naz": "NOVA SLOVENIJA - KRŠČANSKI DEMOKRATI",
+      "knaz": "NSi",
+      "hcol": "009AC7"
+    },
+    {
+      "ime": "Jože",
+      "pri": "Pirh",
+      "st": 13,
+      "naz": "PIRATSKA STRANKA SLOVENIJE",
+      "knaz": "Pirati",
+      "hcol": "000000"
+    },
+    {
+      "ime": "Boris",
+      "pri": "Grabrijan",
+      "st": 14,
+      "naz": "POVEŽIMO SLOVENIJO (KONKRETNO, ZELENI, SLS, NLS, NS)",
+      "knaz": "POVEŽIMO",
+      "hcol": "E8AB02"
+    },
+    {
+      "ime": "mag. Maja",
+      "pri": "Kocjan",
+      "st": 15,
+      "naz": "SLOVENSKA DEMOKRATSKA STRANKA - SDS",
+      "knaz": "SDS",
+      "hcol": "FFE53F"
+    },
+    {
+      "ime": "Sabina",
+      "pri": "Barič",
+      "st": 16,
+      "naz": "SLOVENSKA NACIONALNA STRANKA - SNS",
+      "knaz": "SNS",
+      "hcol": "4D4D4D"
+    },
+    {
+      "ime": "mag. Bojan",
+      "pri": "Krajačič",
+      "st": 17,
+      "naz": "SOCIALNI DEMOKRATI - SD",
+      "knaz": "SD",
+      "hcol": "CB000D"
+    },
+    {
+      "ime": "Andrija",
+      "pri": "Brčinović",
+      "st": 18,
+      "naz": "STRANKA ALENKE BRATUŠEK",
+      "knaz": "SAB",
+      "hcol": "F3808A"
+    },
+    {
+      "ime": "Marko",
+      "pri": "Puh",
+      "st": 19,
+      "naz": "VESNA - zelena stranka",
+      "knaz": "VESNA",
+      "hcol": "C9FFA1"
+    },
+    {
+      "ime": "Igor Jožef",
+      "pri": "Bahč",
+      "st": 20,
+      "naz": "ZA LJUDSTVO SLOVENIJE  - ZLS",
+      "knaz": "ZLS",
+      "hcol": "89AEDB"
+    },
+    {
+      "st": 21,
+      "naz": "ZOS - ZAVEZNIŠTVO OSVOBODIMO SLOVENIJO (GIBANJE ZEDINJENA SLOVENIJA - ZSI IN STRANKA SLOVENSKEGA NARODA - SSN)",
+      "knaz": "ZOS",
+      "hcol": "129847"
+    }
+  ],
+  "nastavitve": {
+    "timestamp": "2022-04-11T11:30:11.8689776+02:00",
+    "datum": "2022-04-11T11:30:00+02:00",
+    "cas_udelezba": "19:00",
+    "has_udelezba": false,
+    "has_rezultat": false,
+    "is_final": false,
+    "has_kandidati_removed": false
+  }
+}
