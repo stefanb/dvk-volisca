@@ -17,7 +17,7 @@ ogr2ogr -f "GeoJSON" volisca-predcasno-dz2022-tocke.geojson volisca-predcasno-dz
 	-oo X_POSSIBLE_NAMES=lon \
 	-oo Y_POSSIBLE_NAMES=lat \
 	-oo KEEP_GEOM_COLUMNS=NO \
-	-lco RFC7946=YES -lco WRITE_BBOX=YES \
+	-lco RFC7946=YES \
 	-nln VDV-GURS-RPE-DVK-Predcasno-tocke
 
 echo "  done."
