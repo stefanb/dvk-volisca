@@ -15,8 +15,10 @@ jq -r '(.[0] | to_entries | map(.key)), (.[] | [.[]]) | @csv' dvk/pg_volisca.csv
 
 RpeApiBaseURL="https://dvk-rpe.transmedia-design.me/api"
 mkdir -p dvk-rpe-api
-curl -s "${RpeApiBaseURL}/polling_stations/?cid=1"   | jq > dvk-rpe-api/volisca-redna.csv.json
-curl -s "${RpeApiBaseURL}/polling_stations/?cid=2"   | jq > dvk-rpe-api/volisca-predcasna.csv.json
+curl -s "${RpeApiBaseURL}/polling_stations/?cid=1"   | jq > dvk-rpe-api/volisca-redna.json
+jq -r '(.[0] | to_entries | map(.key)), (.[] | [.[]]) | @csv' dvk-rpe-api/volisca-redna.json > dvk-rpe-api/volisca-redna.csv
+curl -s "${RpeApiBaseURL}/polling_stations/?cid=2"   | jq > dvk-rpe-api/volisca-predcasna.json
+jq -r '(.[0] | to_entries | map(.key)), (.[] | [.[]]) | @csv' dvk-rpe-api/volisca-predcasna.json > dvk-rpe-api/volisca-predcasna.csv
 
 VolitveBASEURL="https://volitve.dvk-rs.si"
 mkdir -p volitve
