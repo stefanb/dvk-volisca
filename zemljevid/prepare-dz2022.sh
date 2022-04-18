@@ -37,4 +37,23 @@ ogr2ogr volisca-predcasno-dz2022-poligoni.geojson VDV-GURS-RPE.geojson -dialect 
     GROUP BY dvk.name, dvk.sedez_naslov, dvk.sedez_posta"\
  -nln VDV-GURS-RPE-DVK-Predcasno -overwrite
 
+
+ogr2ogr volisca-redno-dz2022.geojson VDV-GURS-RPE.geojson -dialect sqlite \
+ -sql "SELECT ST_Union(geometry),
+		TRIM(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(VDV_UIME, '.', '. '), ',', ', '), ' U.', ' Ulica '), ' C.', ' Cesta '), ' Ul.', ' Ulica '), ' u.', ' ulica '), ' ul.', ' ulica '), ' c.', ' cesta '), ' d. o. o.', ' d.o.o.'), ' d. d.', ' d.d.'), ' s. p.', ' s.p.'), '. ,', '.,'), '   ', ' '), '  ', ' ')) as 'name',
+		IFNULL(VDV_DJ, '') as 'name_alt',
+		SUM(POV_KM2) as 'pov_km2',
+		COUNT(sifra) as 'sifre_count',
+		GROUP_CONCAT(sifra, ', ') as sifre_volisc
+	FROM (
+		SELECT N8 as sifra, VDV_UIME, VDV_DJ, POV_KM2, geometry
+		FROM 'VDV'
+		WHERE ENOTA = 'VD'
+		ORDER BY sifra
+	)
+	GROUP BY LOWER(name)
+	ORDER BY sifre_volisc"\
+ -lco RFC7946=YES -lco WRITE_BBOX=YES \
+ -nln VDV-GURS-RPE-Regular -overwrite
+
 echo "  done."
