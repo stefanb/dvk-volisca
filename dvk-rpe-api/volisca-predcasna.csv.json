@@ -1,0 +1,866 @@
+[
+  {
+    "d34_mid": null,
+    "d34_uime": "Upravni center Mozirje (sejna soba Občine Mozirje)",
+    "n8": 5006,
+    "address": "Šmihelska cesta 2, 3330 Mozirje",
+    "description": "",
+    "latitude": "46.3406173",
+    "longitude": "14.9656081"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Upravna enota Velenje (učilnica v II.nadstropju)",
+    "n8": 5007,
+    "address": "Rudarska 6a, 3320 Velenje ",
+    "description": "",
+    "latitude": "46.3592008",
+    "longitude": "15.1136985"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Sedež OVK (učilnica, 2. nadstropje)",
+    "n8": 5008,
+    "address": "Rudarska cesta 6a, 3320 Velenje",
+    "description": "",
+    "latitude": "46.3592008",
+    "longitude": "15.1136985"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Upravna enota Slovenj Gradec",
+    "n8": 5009,
+    "address": "Meškova ulica 21, 2380 Slovenj Gradec",
+    "description": "",
+    "latitude": "46.5104498",
+    "longitude": "15.0813811"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Občina Ravne na Koroškem",
+    "n8": 5010,
+    "address": "Gačnikova pot 5, 2390 Ravne na Koroškem",
+    "description": "",
+    "latitude": "46.5437646",
+    "longitude": "14.9625755"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Upravna enota Radlje ob Dravi",
+    "n8": 5011,
+    "address": "Mariborska cesta 7, 2360 Radlje ob Dravi",
+    "description": "",
+    "latitude": "46.6146927",
+    "longitude": "15.2246171"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "UE Dravograd",
+    "n8": 5011,
+    "address": "Meža 10, 2370 Dravograd",
+    "description": "",
+    "latitude": "46.5865739",
+    "longitude": "15.0248973"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Upravna enota Metlika",
+    "n8": 6001,
+    "address": "Naselje Borisa Kidriča 14, 8330 Metlika ",
+    "description": "",
+    "latitude": "45.6457365",
+    "longitude": "15.3171453"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Dom Joža Ažmana",
+    "n8": 1002,
+    "address": "Triglavska 16, 4264 Bohinjska Bistrica",
+    "description": "",
+    "latitude": "46.27263079999999",
+    "longitude": "13.9560425"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Občina Bled (poročna dvorana)",
+    "n8": 1002,
+    "address": " Cesta svobode 13, 4260 Bled ",
+    "description": "",
+    "latitude": "46.3687079",
+    "longitude": "14.1095897"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Občina Radovljica (mala sejna soba) ",
+    "n8": 1003,
+    "address": "Gorenjska cesta 19, 4240 Radovljica",
+    "description": "",
+    "latitude": "46.3438093",
+    "longitude": "14.1715796"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Mestna občina Kranj ",
+    "n8": 1004,
+    "address": "Slovenski trg 1, 4000 Kranj",
+    "description": "",
+    "latitude": "46.243268",
+    "longitude": "14.3557455"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Šmartinski dom Stražišče",
+    "n8": 1005,
+    "address": "Škofjeloška cesta 18, 4000 Kranj",
+    "description": "",
+    "latitude": "46.2316283",
+    "longitude": "14.3463998"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Mestna občina Kranj",
+    "n8": 1006,
+    "address": "Slovenski trg 1, 4000 Kranj",
+    "description": "",
+    "latitude": "46.243268",
+    "longitude": "14.3557455"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Društvo upokojencev Tržič",
+    "n8": 1007,
+    "address": "Trg svobode 18, 4290 Tržič",
+    "description": "",
+    "latitude": "46.3635438",
+    "longitude": "14.3089991"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Občina Škofja Loka",
+    "n8": 1008,
+    "address": "Mestni trg 15, 4220 Škofja Loka ",
+    "description": "",
+    "latitude": "46.1647809",
+    "longitude": "14.3070954"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Občina Železniki,",
+    "n8": 1009,
+    "address": "Česnjica 48, 4228 Železniki",
+    "description": "",
+    "latitude": "46.2261866",
+    "longitude": "14.1750681"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Občina Gorenja vas - Poljane",
+    "n8": 1009,
+    "address": "Poljanska cesta 87, 4224 Gorenja vas",
+    "description": "",
+    "latitude": "46.1056606",
+    "longitude": "14.1385055"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Občina Kamnik",
+    "n8": 1010,
+    "address": "Glavni trg 24, 1240 Kamnik",
+    "description": "",
+    "latitude": "46.2263678",
+    "longitude": "14.6122718"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Upravna enota Idrija (sejna soba) ",
+    "n8": 1011,
+    "address": "Študentovska ulica 2, 5280 Idrija",
+    "description": "",
+    "latitude": "46.00128240000001",
+    "longitude": "14.021122"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Upravna enota Tolmin",
+    "n8": 2001,
+    "address": "Tumov drevored 4, 5220 Tolmin",
+    "description": "",
+    "latitude": "46.1830584",
+    "longitude": "13.7313528"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "UE Piran",
+    "n8": 2002,
+    "address": "Obala 114 a, 6320 Portorož - Portorose",
+    "description": "",
+    "latitude": "45.502888",
+    "longitude": "13.6036542"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Okrajna volilna komisija",
+    "n8": 2003,
+    "address": "Cesta v Pregavor 3 a, 6310 Izola - Isola",
+    "description": "",
+    "latitude": "45.5299253",
+    "longitude": "13.6669793"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Upravna enota Koper",
+    "n8": 2004,
+    "address": "Piranska cesta 2, 6000 Koper - Capodistria",
+    "description": "",
+    "latitude": "45.5442863",
+    "longitude": "13.7259823"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Upravna enota Koper",
+    "n8": 2005,
+    "address": "Piranska cesta 2, 6000 Koper - Capodistria ",
+    "description": "",
+    "latitude": "45.5442863",
+    "longitude": "13.7259823"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Stara stavba Občine Sežana",
+    "n8": 2006,
+    "address": "Partizanska cesta 4, 6210 Sežana",
+    "description": "",
+    "latitude": "45.7098424",
+    "longitude": "13.8740761"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Dom na Vidmu",
+    "n8": 2007,
+    "address": "Gregorčičeva cesta 2, 6250 Ilirska Bistrica",
+    "description": "",
+    "latitude": "45.5673205",
+    "longitude": "14.2433943"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Kulturni dom Postojna (avla) ",
+    "n8": 2008,
+    "address": "Gregorčičev drevored 2 a, 6230 Postojna ",
+    "description": "",
+    "latitude": "45.774956",
+    "longitude": "14.2149413"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Sedež OVK",
+    "n8": 2009,
+    "address": "Trg Edvarda Kardelja 1, 5000 Nova Gorica",
+    "description": "",
+    "latitude": "45.9572629",
+    "longitude": "13.6488414"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Upravna enota Nova Gorica",
+    "n8": 2010,
+    "address": "Trg Edvarda Kardelja 1, 5000 Nova Gorica",
+    "description": "",
+    "latitude": "45.9572629",
+    "longitude": "13.6488414"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Upravna enota Ajdovščina",
+    "n8": 2011,
+    "address": "Vipavska cesta 11b, 5270 Ajdovščina",
+    "description": "",
+    "latitude": "45.8854392",
+    "longitude": "13.9115639"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Upravni center Logatec (mala sejna soba) ",
+    "n8": 3001,
+    "address": "Tržaška cesta 50A, 1370 Logatec",
+    "description": "",
+    "latitude": "45.9177454",
+    "longitude": "14.2226931"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "UE Cerknica ",
+    "n8": 3001,
+    "address": "Cesta 4. maja 24, 1380 Cerknica",
+    "description": "",
+    "latitude": "45.793266",
+    "longitude": "14.3666196"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Upravna enota Vrhnika",
+    "n8": 3002,
+    "address": "Stara Vrhnika 1d, 1360 Vrhnika",
+    "description": "",
+    "latitude": "45.9737838",
+    "longitude": "14.2898717"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Gospodarsko razstavišče (Marmorna dvorana) ",
+    "n8": 3003,
+    "address": "Dunajska cesta 18, 1000 Ljubljana ",
+    "description": "",
+    "latitude": "46.0611219",
+    "longitude": "14.5078957"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Gospodarsko razstavišče (Marmorna dvorana) ",
+    "n8": 3004,
+    "address": "Dunajska cesta 18, 1000 Ljubljana ",
+    "description": "",
+    "latitude": "46.0611219",
+    "longitude": "14.5078957"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Gospodarsko razstavišče (Marmorna dvorana) ",
+    "n8": 3005,
+    "address": "Dunajska cesta 18, 1000 Ljubljana ",
+    "description": "",
+    "latitude": "46.0611219",
+    "longitude": "14.5078957"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Gospodarsko razstavišče (Marmorna dvorana) ",
+    "n8": 3006,
+    "address": "Dunajska cesta 18, 1000 Ljubljana ",
+    "description": "",
+    "latitude": "46.0611219",
+    "longitude": "14.5078957"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Gospodarsko razstavišče (Marmorna dvorana) ",
+    "n8": 3007,
+    "address": "Dunajska cesta 18, 1000 Ljubljana ",
+    "description": "",
+    "latitude": "46.0611219",
+    "longitude": "14.5078957"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Gospodarsko razstavišče (Marmorna dvorana) ",
+    "n8": 3008,
+    "address": "Dunajska cesta 18, 1000 Ljubljana ",
+    "description": "",
+    "latitude": "46.0611219",
+    "longitude": "14.5078957"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Gospodarsko razstavišče (Marmorna dvorana) ",
+    "n8": 3009,
+    "address": "Dunajska cesta 18, 1000 Ljubljana ",
+    "description": "",
+    "latitude": "46.0611219",
+    "longitude": "14.5078957"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Gospodarsko razstavišče (Marmorna dvorana) ",
+    "n8": 3010,
+    "address": "Dunajska cesta 18, 1000 Ljubljana ",
+    "description": "",
+    "latitude": "46.0611219",
+    "longitude": "14.5078957"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Gospodarsko razstavišče (Marmorna dvorana) ",
+    "n8": 3011,
+    "address": "Dunajska cesta 18, 1000 Ljubljana ",
+    "description": "",
+    "latitude": "46.0611219",
+    "longitude": "14.5078957"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Občina Kočevje",
+    "n8": 4001,
+    "address": "Ljubljanska cesta 26, 1330 Kočevje ",
+    "description": "",
+    "latitude": "45.6429164",
+    "longitude": "14.8557432"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "UE Ribnica",
+    "n8": 4002,
+    "address": "Gorenjska cesta 9, 1310 Ribnica",
+    "description": "",
+    "latitude": "45.7411193",
+    "longitude": "14.7252816"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Družbeni dom Grosuplje",
+    "n8": 4003,
+    "address": "Taborska cesta 1, 1290 Grosuplje",
+    "description": "",
+    "latitude": "45.9571274",
+    "longitude": "14.6533203"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Kulturni dom Ivančna Gorica",
+    "n8": 4004,
+    "address": "Sokolska ulica 4, 1295 Ivančna Gorica",
+    "description": "",
+    "latitude": "45.9387023",
+    "longitude": "14.8044599"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Gospodarsko razstavišče (Marmorna dvorana) ",
+    "n8": 4005,
+    "address": "Dunajska cesta 18, 1000 Ljubljana ",
+    "description": "",
+    "latitude": "46.0611219",
+    "longitude": "14.5078957"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Gospodarsko razstavišče (Marmorna dvorana) ",
+    "n8": 4006,
+    "address": "Dunajska cesta 18, 1000 Ljubljana ",
+    "description": "",
+    "latitude": "46.0611219",
+    "longitude": "14.5078957"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Gospodarsko razstavišče (Marmorna dvorana) ",
+    "n8": 4007,
+    "address": "Dunajska cesta 18, 1000 Ljubljana ",
+    "description": "",
+    "latitude": "46.0611219",
+    "longitude": "14.5078957"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Gospodarsko razstavišče (Marmorna dvorana) ",
+    "n8": 4008,
+    "address": "Dunajska cesta 18, 1000 Ljubljana ",
+    "description": "",
+    "latitude": "46.0611219",
+    "longitude": "14.5078957"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Gospodarsko razstavišče (Marmorna dvorana) ",
+    "n8": 4009,
+    "address": "Dunajska cesta 18, 1000 Ljubljana ",
+    "description": "",
+    "latitude": "46.0611219",
+    "longitude": "14.5078957"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Društvo Lipa Domžale",
+    "n8": 4010,
+    "address": "Ljubljanska 58, 1230 Domžale",
+    "description": "",
+    "latitude": "46.1380262",
+    "longitude": "14.5910958"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Društvo Lipa Domžale",
+    "n8": 4011,
+    "address": "Ljubljanska 58, 1230 Domžale",
+    "description": "",
+    "latitude": "46.1380262",
+    "longitude": "14.5910958"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Občina Šentjur (sejna soba, pritličje občinske stavbe)",
+    "n8": 5001,
+    "address": "Mestni trg 10, 3230 Šentjur ",
+    "description": "",
+    "latitude": "46.2169736",
+    "longitude": "15.3939029"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "UE Celje",
+    "n8": 5002,
+    "address": "Ljubljanska cesta 1, 3000Celje",
+    "description": "",
+    "latitude": "46.2294595",
+    "longitude": "15.2609484"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "UE Celje",
+    "n8": 5003,
+    "address": "Ljubljanska cesta 1, 3000 Celje",
+    "description": "",
+    "latitude": "46.2294595",
+    "longitude": "15.2609484"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "UE Žalec ",
+    "n8": 5004,
+    "address": "Ulica Savinjske čete 5, 3310 Žalec",
+    "description": "",
+    "latitude": "46.250406",
+    "longitude": "15.1641877"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "UE Žalec",
+    "n8": 5005,
+    "address": "Ulica Savinjske čete 5, 3310 Žalec",
+    "description": "",
+    "latitude": "46.250406",
+    "longitude": "15.1641877"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Upravna enota Črnomelj",
+    "n8": 6001,
+    "address": "Zadružna cesta 16, 8340 Črnomelj",
+    "description": "",
+    "latitude": "45.5793511",
+    "longitude": "15.1959748"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Upravna enota Novo mesto",
+    "n8": 6002,
+    "address": "Defranceschijeva ulica 1, 8000 Novo mesto",
+    "description": "",
+    "latitude": "45.8039406",
+    "longitude": "15.1647527"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Upravna enota Novo mesto",
+    "n8": 6003,
+    "address": "Defranceschijeva ulica 1, 8000 Novo mesto",
+    "description": "",
+    "latitude": "45.8039406",
+    "longitude": "15.1647527"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Občina Trebnje (sejna soba)",
+    "n8": 6004,
+    "address": "Goliev trg 5, 8210 Trebnje ",
+    "description": "",
+    "latitude": "45.9080153",
+    "longitude": "15.0077466"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Upravna enota Brežice ",
+    "n8": 6005,
+    "address": "Cesta prvih borcev 24a, 8250 Brežice",
+    "description": "",
+    "latitude": "45.9043876",
+    "longitude": "15.5928268"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Občina Krško",
+    "n8": 6006,
+    "address": "Cesta krških žrtev 14, 8270 Krško",
+    "description": "",
+    "latitude": "45.9665566",
+    "longitude": "15.4849063"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Občina Sevnica",
+    "n8": 6007,
+    "address": "Glavni trg 19 a, 8290 Sevnica",
+    "description": "",
+    "latitude": "46.00572409999999",
+    "longitude": "15.3155368"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Občina Laško (Energetsko svetovalna pisarna)",
+    "n8": 6008,
+    "address": "Mestna ulica 2, 3270 Laško",
+    "description": "",
+    "latitude": "46.1537623",
+    "longitude": "15.2352672"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Kulturni dom",
+    "n8": 6008,
+    "address": "Gledališka pot 2, 1433 Radeče",
+    "description": "",
+    "latitude": "46.0656821",
+    "longitude": "15.1822528"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Občina Litija",
+    "n8": 6009,
+    "address": "Jerebova ulica 14, 1270 Litija",
+    "description": "",
+    "latitude": "46.0573173",
+    "longitude": "14.8312543"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Upravna zgradba",
+    "n8": 6010,
+    "address": "Pot Vitka Pavliča 5, 1430 Hrastnik ",
+    "description": "",
+    "latitude": "46.1459334",
+    "longitude": "15.0816062"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Upravna zgradba Trbovlje",
+    "n8": 6010,
+    "address": "Mestni trg 4, 1420 Trbovlje",
+    "description": "",
+    "latitude": "46.1562802",
+    "longitude": "15.0540445"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Weinbergerjeva hiša",
+    "n8": 6011,
+    "address": "Cesta 9. avgusta 4, 1410 Zagorje ob Savi",
+    "description": "",
+    "latitude": "46.1344034",
+    "longitude": "14.9952794"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Kulturni dom Šmarje pri Jelšah",
+    "n8": 7001,
+    "address": "Aškerčev trg 20, 3240 Šmarje pri Jelšah",
+    "description": "",
+    "latitude": "46.2282002",
+    "longitude": "15.518307"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Sprejemna pisarna za osebe s posebnimi potrebami ",
+    "n8": 7002,
+    "address": "Kolodvorska 10, 2310 Slovenska Bistrica",
+    "description": "",
+    "latitude": "46.3919326",
+    "longitude": "15.5755427"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Občina Slovenske Konjice (sejna soba)",
+    "n8": 7003,
+    "address": "Stari trg 29, 3210 Slovenske Konjice",
+    "description": "",
+    "latitude": "46.3371712",
+    "longitude": "15.4221431"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Občina Selnica ob Dravi",
+    "n8": 7004,
+    "address": "Slovenski trg 4, 2352 Selnica ob Dravi ",
+    "description": "",
+    "latitude": "46.55150080000001",
+    "longitude": "15.4928736"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Upravna enota Ruše",
+    "n8": 7004,
+    "address": "Kolodvorska ulica 9, 2342 Ruše",
+    "description": "",
+    "latitude": "46.5389767",
+    "longitude": "15.5101474"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Kulturni dom Kamnica",
+    "n8": 7005,
+    "address": "Vrbanska 97, 2351 Kamnica",
+    "description": "",
+    "latitude": "46.5732436",
+    "longitude": "15.6153915"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "KD Hoče",
+    "n8": 7006,
+    "address": "Pohorska cesta 15, 2311 Hoče",
+    "description": "",
+    "latitude": "46.4984827",
+    "longitude": "15.646824"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "MČ Brezje",
+    "n8": 7007,
+    "address": "Na trati 2, 2000 Maribor ",
+    "description": "",
+    "latitude": "46.5359413",
+    "longitude": "15.687387"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Razstavni salon",
+    "n8": 7008,
+    "address": "Grajska ulica 7, 2000 Maribor",
+    "description": "",
+    "latitude": "46.5610717",
+    "longitude": "15.6481454"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Mestni mladinski svet",
+    "n8": 7009,
+    "address": "Trg revolucije 9, 2000 Maribor",
+    "description": "",
+    "latitude": "46.5545412",
+    "longitude": "15.6455169"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "JZ Gasilske brigade",
+    "n8": 7010,
+    "address": "Cesta proletarskih brigad 21, 2000 Maribor",
+    "description": "",
+    "latitude": "46.5398936",
+    "longitude": "15.6437489"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "MČ Tabor",
+    "n8": 7011,
+    "address": "Metelkova 63, 2000 Maribor",
+    "description": "",
+    "latitude": "46.5420232",
+    "longitude": "15.6435372"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Upravna enota Lendava",
+    "n8": 8001,
+    "address": "Trg ljudske pravice 5, 9220 Lendava",
+    "description": "",
+    "latitude": "46.56168659999999",
+    "longitude": "16.455478"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "OVK, 8VE, 2 VO (UE Ormož) ",
+    "n8": 8002,
+    "address": "Ptujska cesta 6, 2270 Ormož",
+    "description": "",
+    "latitude": "46.4073676",
+    "longitude": "16.1472849"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Doma kulture",
+    "n8": 8003,
+    "address": "Prešernova ulica 20, 9240 Ljutomer",
+    "description": "",
+    "latitude": "46.5206036",
+    "longitude": "16.1950794"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Mestna občina Murska Sobota (avla sejne dvorane)",
+    "n8": 8004,
+    "address": "Kardoševa ulica 2, 9000 Murska Sobota",
+    "description": "",
+    "latitude": "46.6627224",
+    "longitude": "16.1639805"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Mestna Občina Murska Sobota (avla velike sejne dvorane) ",
+    "n8": 8005,
+    "address": "Kardoševa ulica 2, 9000 Murska Sobota",
+    "description": "",
+    "latitude": "46.6627224",
+    "longitude": "16.1639805"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "UE Gornja Radgona",
+    "n8": 8006,
+    "address": "Partizanska cesta 13, 9250 Gornja Radgona",
+    "description": "",
+    "latitude": "46.6775582",
+    "longitude": "15.9903463"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Upravna enota Lenart (avla)",
+    "n8": 8007,
+    "address": "Trg osvoboditve 7, 2230 Lenart v Slov. goricah",
+    "description": "",
+    "latitude": "46.5759634",
+    "longitude": "15.83071"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Večnamenski KTPC Pesnica",
+    "n8": 8008,
+    "address": "Pesnica pri Mariboru 41, 2211 Pesnica",
+    "description": "",
+    "latitude": "46.6084884",
+    "longitude": "15.6754652"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Upravna enota Ptuj",
+    "n8": 8009,
+    "address": "Slomškova 10, 2250 Ptuj",
+    "description": "",
+    "latitude": "46.4214918",
+    "longitude": "15.8719051"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Upravna enota Ptuj",
+    "n8": 8010,
+    "address": "Slomškova 10, 2250 Ptuj",
+    "description": "",
+    "latitude": "46.4214918",
+    "longitude": "15.8719051"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Upravna enota Ptuj",
+    "n8": 8011,
+    "address": "Slomškova 10, 2250 Ptuj",
+    "description": "",
+    "latitude": "46.4214918",
+    "longitude": "15.8719051"
+  },
+  {
+    "d34_mid": null,
+    "d34_uime": "Upravna enota Jesenice (konferenčna soba št. 227) ",
+    "n8": 1001,
+    "address": " Cesta železarjev 6 A, 4270 Jesenice",
+    "description": "",
+    "latitude": "46.4320606",
+    "longitude": "14.0623146"
+  }
+]
