@@ -7,11 +7,11 @@ mkdir -p dvk
 curl -s "${BASEURL}/notifications.json" | jq > dvk/notifications.json
 curl -s "${BASEURL}/settings.json"      | jq > dvk/settings.json
 
-curl -s "${BASEURL}/volisca.csv.json"   | jq > dvk/volisca.csv.json
-jq -r '(.[0] | to_entries | map(.key)), (.[] | [.[]]) | @csv' dvk/volisca.csv.json > dvk/volisca.csv
+# curl -s "${BASEURL}/volisca.csv.json"   | jq > dvk/volisca.csv.json
+# jq -r '(.[0] | to_entries | map(.key)), (.[] | [.[]]) | @csv' dvk/volisca.csv.json > dvk/volisca.csv
 
-curl -s "${BASEURL}/pg_volisca.csv.json"   | jq > dvk/pg_volisca.csv.json
-jq -r '(.[0] | to_entries | map(.key)), (.[] | [.[]]) | @csv' dvk/pg_volisca.csv.json > dvk/pg_volisca.csv
+# curl -s "${BASEURL}/pg_volisca.csv.json"   | jq > dvk/pg_volisca.csv.json
+# jq -r '(.[0] | to_entries | map(.key)), (.[] | [.[]]) | @csv' dvk/pg_volisca.csv.json > dvk/pg_volisca.csv
 
 RpeApiBaseURL="https://dvk-rpe.transmedia-design.me/api"
 mkdir -p dvk-rpe-api
