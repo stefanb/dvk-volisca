@@ -131,8 +131,17 @@
     "n8": 202005,
     "address": "Senčna pot 8A, 6320 Portorož",
     "description": "",
-    "latitude": "45.5151792",
-    "longitude": "13.5832032"
+    "latitude": "45.51466142297907",
+    "longitude": "13.595840714420616"
+  },
+  {
+    "d34_mid": 19228045,
+    "d34_uime": "Prosotri bivše gostilne Škafar",
+    "n8": 801024,
+    "address": "Mostje 39, 9220 Lendava",
+    "description": "",
+    "latitude": "46.59977475",
+    "longitude": "16.4242561"
   },
   {
     "d34_mid": 16923826,
@@ -4608,24 +4617,6 @@
     "longitude": "13.9622119"
   },
   {
-    "d34_mid": 17028618,
-    "d34_uime": "Osnovna šola Lucija I",
-    "n8": 202001,
-    "address": "Fazan 1 6320 Portorož",
-    "description": "",
-    "latitude": "45.5142898",
-    "longitude": "13.5908455"
-  },
-  {
-    "d34_mid": 17029185,
-    "d34_uime": "Osnovna šola Lucija II",
-    "n8": 202002,
-    "address": "Fazan 1 6320 Portorož.",
-    "description": "",
-    "latitude": "45.5142898",
-    "longitude": "13.5908455"
-  },
-  {
     "d34_mid": 17028626,
     "d34_uime": "Center za starejše občane Lucija I",
     "n8": 202003,
@@ -4660,15 +4651,6 @@
     "description": "",
     "latitude": "45.54721",
     "longitude": "13.7311768"
-  },
-  {
-    "d34_mid": 17029444,
-    "d34_uime": "Krajevna skupnost Strunjan",
-    "n8": 202008,
-    "address": "8,Župančičeva ulica 6330 Piran",
-    "description": "",
-    "latitude": "45.5270954",
-    "longitude": "13.5688357"
   },
   {
     "d34_mid": 17029215,
@@ -5002,6 +4984,33 @@
     "description": "",
     "latitude": "45.54423430000001",
     "longitude": "13.711548"
+  },
+  {
+    "d34_mid": 17029185,
+    "d34_uime": "Osnovna šola Lucija II",
+    "n8": 202002,
+    "address": "Fazan 1, 6320 Portorož",
+    "description": "",
+    "latitude": "45.50661115065898",
+    "longitude": "13.607184127587592"
+  },
+  {
+    "d34_mid": 17028618,
+    "d34_uime": "Osnovna šola Lucija I",
+    "n8": 202001,
+    "address": "Fazan 1, 6320 Portorož",
+    "description": "",
+    "latitude": "45.50664122688062",
+    "longitude": "13.607516721481067"
+  },
+  {
+    "d34_mid": 17029444,
+    "d34_uime": "Zdravstveni dom Piran",
+    "n8": 202008,
+    "address": "Cesta solinarjev 1, 6320 Lucija",
+    "description": "",
+    "latitude": "45.504644488351694",
+    "longitude": "13.602717686539298"
   },
   {
     "d34_mid": 17028987,
@@ -22642,15 +22651,6 @@
     "description": "",
     "latitude": "46.4587158",
     "longitude": "16.1558376"
-  },
-  {
-    "d34_mid": 19228045,
-    "d34_uime": "Prosotri bivše gostilne Škafar",
-    "n8": 801024,
-    "address": "Mostje 39, 9220 Lendava",
-    "description": "",
-    "latitude": "46.59977475",
-    "longitude": "16.4242561"
   },
   {
     "d34_mid": 20877600,
