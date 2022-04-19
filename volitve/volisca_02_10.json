@@ -1,0 +1,430 @@
+{
+  "en_st": 2,
+  "en_naz": "Postojna",
+  "st": 10,
+  "naz": "Nova Gorica 2",
+  "vol": [
+    {
+      "st": 1,
+      "naz": "BUKOVICA - OSNOVNA ŠOLA - BUKOVICA 65",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 28,
+      "naz": "CENTER STAREJŠIH ŠEMPETER-CESTA PREKO. BRIGAD 62A",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 4,
+      "naz": "GORIŠKA KNJIŽNICA FRANCETA BEVKA,TRG E.KARDELJA 4",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 12,
+      "naz": "GORIŠKI CENTER- VDC NOVA GORICA, SEDEJEVA UL. 10",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 3,
+      "naz": "KMETIJSKO-GOZDARSKI ZAVOD - ŠOLA - PRI HRASTU 18",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 17,
+      "naz": "KRAJEVNA SKUPNOST NOVA GORICA - ERJAVČEVA ULICA 4",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 24,
+      "naz": "KRAJEVNA SKUPNOST SOLKAN, TRG JOŽETA SREBRNIČA 7",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 20,
+      "naz": "KROMBERK-PODJETJE MEGATERM, CESTA 25. JUNIJA 1G",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 2,
+      "naz": "KS KROMBERK-LOKE, ULICA VINKA VODOPIVCA 72",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 23,
+      "naz": "KULTURNI DOM STARA GORA - STARA GORA 14",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 14,
+      "naz": "MEDPODJETNIŠKI IZOBRAŽEVALNI CENTER,CANKARJEVA 8A",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 15,
+      "naz": "MEDPODJETNIŠKI IZOBRAŽEVALNI CENTER,CANKARJEVA 8A",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 29,
+      "naz": "OBČINSKA UPRAVA-CORONINIJEV DVOREC,TRG I. ROBA 3A",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 6,
+      "naz": "OSNOVNA ŠOLA KOZARA - KIDRIČEVA ULICA 35",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 11,
+      "naz": "OSNOVNA ŠOLA LEDINE - CANKARJEVA ULICA 23",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 13,
+      "naz": "OSNOVNA ŠOLA LEDINE - CANKARJEVA ULICA 23",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 8,
+      "naz": "OSNOVNA ŠOLA MILOJKE ŠTRUKELJ, DELPINOVA ULICA 7",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 25,
+      "naz": "OSNOVNA ŠOLA SOLKAN - ŠOLSKA ULICA 25",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 27,
+      "naz": "OSNOVNA ŠOLA SOLKAN, ŠOLSKA ULICA 25",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 32,
+      "naz": "OSNOVNA ŠOLA VOGRSKO, VOGRSKO 99",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 34,
+      "naz": "OSNOVNA ŠOLA VRTOJBA, ULICA 9. SEPTEMBRA 132A",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 7,
+      "naz": "OŠ FRANA ERJAVCA, KIDRIČEVA ULICA 36",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 5,
+      "naz": "SEJNA DVORANA MONG, TRG EDVARDA KARDELJA 1",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 10,
+      "naz": "SEJNA DVORANA MONG, TRG EDVARDA KARDELJA 1",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 18,
+      "naz": "SREDNJA EKONOMSKA IN TRGOVSKA ŠOLA- ERJAVČEVA 8",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 19,
+      "naz": "SREDNJA EKONOMSKA IN TRGOVSKA ŠOLA, ERJAVČEVA 8",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 30,
+      "naz": "ŠEMPETER-OŠ IVANA ROBA, UL. ANDREJA GABRŠČKA 1",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 31,
+      "naz": "ULICA IVANA SULIČA 12/A, ŠEMPETER",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 22,
+      "naz": "UNIVERZA V NOVI GORICI, VIPAVSKA C. 13, R. DOLINA",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 26,
+      "naz": "VRTEC JULKE PAVLETIČ, ULICA L.SLOKARJA 8, SOLKAN",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 33,
+      "naz": "VRTOJBA- MLADINSKI CENTER, ULICA 9. SEPTEMBRA 72",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 16,
+      "naz": "ZAKLONIŠČE PRISTAVA, ULICA P. TOMAŽIČA 11",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 21,
+      "naz": "ZAVOD ZA GOZDOVE, VIPAVSKA C.57, ROŽNA DOLINA",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 9,
+      "naz": "ZVEZA KULTURNIH DRUŠTEV,UL. GRADNIKOVE BRIGADE 25",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 901,
+      "naz": "PREDČASNO GLASOVANJE",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    }
+  ],
+  "liste": [
+    {
+      "ime": "mag. Darinka",
+      "pri": "Kozinc",
+      "st": 1,
+      "naz": "DeSUS - DEMOKRATIČNA STRANKA UPOKOJENCEV SLOVENIJE",
+      "knaz": "DeSUS",
+      "hcol": "8DBC15"
+    },
+    {
+      "ime": "Marvin",
+      "pri": "Šulin",
+      "st": 2,
+      "naz": "DOMOVINSKA LIGA - DOM",
+      "knaz": "DOM",
+      "hcol": "023463"
+    },
+    {
+      "ime": "Jadranka",
+      "pri": "Kocbek Mervič",
+      "st": 3,
+      "naz": "Državljansko gibanje Resni.ca",
+      "knaz": "Resni.ca",
+      "hcol": "67359A"
+    },
+    {
+      "ime": "Matej",
+      "pri": "Arčon",
+      "st": 4,
+      "naz": "GIBANJE SVOBODA",
+      "knaz": "SVOBODA",
+      "hcol": "005DA3"
+    },
+    {
+      "st": 5,
+      "naz": "Gibanje Zedinjena Slovenija - ZSi",
+      "knaz": "ZSi",
+      "hcol": "C6EFFA"
+    },
+    {
+      "ime": "Marko",
+      "pri": "Rusjan",
+      "st": 6,
+      "naz": "LEVICA",
+      "knaz": "LEVICA",
+      "hcol": "FB4C48"
+    },
+    {
+      "ime": "Predrag",
+      "pri": "Bodiroža",
+      "st": 7,
+      "naz": "Lista Borisa Popoviča - Digitalizirajmo Slovenijo",
+      "knaz": "L'BP",
+      "hcol": "0089CD"
+    },
+    {
+      "ime": "Maja",
+      "pri": "Pangos",
+      "st": 8,
+      "naz": "LISTA MARJANA ŠARCA - LMŠ",
+      "knaz": "LMŠ",
+      "hcol": "23A567"
+    },
+    {
+      "ime": "Silvan",
+      "pri": "Saksida",
+      "st": 9,
+      "naz": "NAŠA DEŽELA stranka dr. ALEKSANDRE PIVEC",
+      "knaz": "NAŠA DEŽELA",
+      "hcol": "126C00"
+    },
+    {
+      "ime": "Peter",
+      "pri": "Golob",
+      "st": 10,
+      "naz": "NAŠA PRIHODNOST IN DOBRA DRŽAVA",
+      "knaz": "SNP-DD",
+      "hcol": "8DE0FD"
+    },
+    {
+      "ime": "Mima",
+      "pri": "Zadnek",
+      "st": 11,
+      "naz": "NESTRANKARSKA LJUDSKA LISTA GIBANJA ZDRAVA DRUŽBA",
+      "knaz": "NESTRANKARSKA",
+      "hcol": "ADA702"
+    },
+    {
+      "ime": "Erika",
+      "pri": "Podgornik Rijavec",
+      "st": 12,
+      "naz": "NOVA SLOVENIJA - KRŠČANSKI DEMOKRATI",
+      "knaz": "NSi",
+      "hcol": "009AC7"
+    },
+    {
+      "ime": "Sabina",
+      "pri": "Erjavec",
+      "st": 13,
+      "naz": "PIRATSKA STRANKA SLOVENIJE",
+      "knaz": "Pirati",
+      "hcol": "000000"
+    },
+    {
+      "ime": "Vasja",
+      "pri": "Medvešček",
+      "st": 14,
+      "naz": "POVEŽIMO SLOVENIJO (KONKRETNO, ZELENI, SLS, NLS, NS)",
+      "knaz": "POVEŽIMO",
+      "hcol": "E8AB02"
+    },
+    {
+      "ime": "mag. Tomaž",
+      "pri": "Slokar",
+      "st": 15,
+      "naz": "SLOVENSKA DEMOKRATSKA STRANKA - SDS",
+      "knaz": "SDS",
+      "hcol": "FFE53F"
+    },
+    {
+      "ime": "Leonida",
+      "pri": "Gregorič",
+      "st": 16,
+      "naz": "SLOVENSKA NACIONALNA STRANKA - SNS",
+      "knaz": "SNS",
+      "hcol": "4D4D4D"
+    },
+    {
+      "ime": "Matjaž",
+      "pri": "Nemec",
+      "st": 17,
+      "naz": "SOCIALNI DEMOKRATI - SD",
+      "knaz": "SD",
+      "hcol": "CB000D"
+    },
+    {
+      "ime": "Andrej",
+      "pri": "Šušmelj",
+      "st": 18,
+      "naz": "STRANKA ALENKE BRATUŠEK",
+      "knaz": "SAB",
+      "hcol": "F3808A"
+    },
+    {
+      "ime": "Manuela",
+      "pri": "Korečič",
+      "st": 19,
+      "naz": "VESNA - zelena stranka",
+      "knaz": "VESNA",
+      "hcol": "C9FFA1"
+    },
+    {
+      "ime": "Borut",
+      "pri": "Loboda",
+      "st": 20,
+      "naz": "ZA LJUDSTVO SLOVENIJE  - ZLS",
+      "knaz": "ZLS",
+      "hcol": "89AEDB"
+    },
+    {
+      "ime": "Dona",
+      "pri": "Olah",
+      "st": 21,
+      "naz": "ZOS - ZAVEZNIŠTVO OSVOBODIMO SLOVENIJO (GIBANJE ZEDINJENA SLOVENIJA - ZSI IN STRANKA SLOVENSKEGA NARODA - SSN)",
+      "knaz": "ZOS",
+      "hcol": "129847"
+    }
+  ],
+  "nastavitve": {
+    "timestamp": "2022-04-19T13:23:42.6575185+02:00",
+    "datum": "2022-04-19T13:20:00+02:00",
+    "cas_udelezba": "19:00",
+    "has_udelezba": false,
+    "has_rezultat": false,
+    "is_final": false,
+    "has_kandidati_removed": false
+  }
+}
