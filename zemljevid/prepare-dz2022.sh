@@ -38,6 +38,24 @@ ogr2ogr volisca-predcasno-dz2022-poligoni.geojson VDV-GURS-RPE.geojson -dialect 
  -nln VDV-GURS-RPE-DVK-Predcasno -overwrite
 
 
+rm volisca-predcasno-dz2022-tocke.geojson
+ogr2ogr -f "GeoJSON" volisca-predcasno-dz2022-tocke.geojson ../dvk-rpe-api/volisca-predcasna.csv \
+	-a_srs 'EPSG:4326' \
+	-oo X_POSSIBLE_NAMES=longitude \
+	-oo Y_POSSIBLE_NAMES=latitude \
+	-oo KEEP_GEOM_COLUMNS=NO \
+	-lco RFC7946=YES \
+	-nln DVK-API-predcasno-tocke
+
+rm volisca-redno-dz2022-tocke.geojson
+ogr2ogr -f "GeoJSON" volisca-redno-dz2022-tocke.geojson ../dvk-rpe-api/volisca-redna.csv \
+	-a_srs 'EPSG:4326' \
+	-oo X_POSSIBLE_NAMES=longitude \
+	-oo Y_POSSIBLE_NAMES=latitude \
+	-oo KEEP_GEOM_COLUMNS=NO \
+	-lco RFC7946=YES \
+	-nln DVK-API-redno-tocke
+
 ogr2ogr volisca-redno-dz2022.geojson VDV-GURS-RPE.geojson -dialect sqlite \
  -sql "SELECT ST_Union(geometry),
 		TRIM(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(VDV_UIME, '.', '. '), ',', ', '), ' U.', ' Ulica '), ' C.', ' Cesta '), ' Ul.', ' Ulica '), ' u.', ' ulica '), ' ul.', ' ulica '), ' c.', ' cesta '), ' d. o. o.', ' d.o.o.'), ' d. d.', ' d.d.'), ' s. p.', ' s.p.'), '. ,', '.,'), '   ', ' '), '  ', ' ')) as 'name',
