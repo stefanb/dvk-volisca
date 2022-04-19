@@ -1,11 +1,17 @@
 {
-  "timestamp": "2022-03-28T11:00:05.7861599+02:00",
+  "timestamp": "2021-07-05T09:45:05.7861599+02:00",
   "obvestila": [
     {
-      "header": "Seznam list kandidatov ",
-      "content": "Objavljeni so seznami potrjenih list kandidatov in seznami kandidatov, o katerih se glasuje v posameznih volilnih okrajih, ki smo jih doslej prejeli od volilnih komisij volilnih enot. Seznami se bodo sproti še dopolnjevali (do izteka roka za preverjanje zakonitosti vloženih list). ",
-      "date": "28. marec 2022",
-      "time": "14:30"
+      "header": "Prvi podatki o volilni udeležbi",
+      "content": "Prvi podatki o volilni udeležbi bodo znani v nedeljo 24. aprila, predvidoma po 12. uri, glede na stanje na voliščih ob 11. uri. Drugi podatki o volilni udeležbi bodo znani po 17. uri, glede na stanje na voliščih ob 16. uri. Tretji podatki o volilni udeležbi bodo znani po 19.30 uri, glede na stanje na voliščih ob 19. uri.",
+      "date": "19. april 2022",
+      "time": "14:00"
+    },
+    {
+      "header": "Prvi delni izidi glasovanja",
+      "content": "Prvi delni izidi glasovanja bodo predvidoma znani v nedeljo 24. aprila po 19:30 uri.",
+      "date": "19. april 2022",
+      "time": "14:00"
     }
   ]
 }
