@@ -38,8 +38,8 @@ ogr2ogr volisca-predcasno-dz2022-poligoni.geojson VDV-GURS-RPE.geojson -dialect 
  -nln VDV-GURS-RPE-DVK-Predcasno -overwrite
 
 
-rm volisca-predcasno-dz2022-tocke.geojson
-ogr2ogr -f "GeoJSON" volisca-predcasno-dz2022-tocke.geojson ../dvk-rpe-api/volisca-predcasna.csv \
+rm volisca-predcasno-dz2022-tocke-dvk-api.geojson
+ogr2ogr -f "GeoJSON" volisca-predcasno-dz2022-tocke-dvk-api.geojson ../dvk-rpe-api/volisca-predcasna.csv \
 	-a_srs 'EPSG:4326' \
 	-oo X_POSSIBLE_NAMES=longitude \
 	-oo Y_POSSIBLE_NAMES=latitude \
@@ -47,8 +47,8 @@ ogr2ogr -f "GeoJSON" volisca-predcasno-dz2022-tocke.geojson ../dvk-rpe-api/volis
 	-lco RFC7946=YES \
 	-nln DVK-API-predcasno-tocke
 
-rm volisca-redno-dz2022-tocke.geojson
-ogr2ogr -f "GeoJSON" volisca-redno-dz2022-tocke.geojson ../dvk-rpe-api/volisca-redna.csv \
+rm volisca-redno-dz2022-tocke-dvk-api.geojson
+ogr2ogr -f "GeoJSON" volisca-redno-dz2022-tocke-dvk-api.geojson ../dvk-rpe-api/volisca-redna.csv \
 	-a_srs 'EPSG:4326' \
 	-oo X_POSSIBLE_NAMES=longitude \
 	-oo Y_POSSIBLE_NAMES=latitude \
