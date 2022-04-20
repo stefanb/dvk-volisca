@@ -1,0 +1,330 @@
+{
+  "en_st": 3,
+  "en_naz": "Ljubljana Center",
+  "st": 9,
+  "naz": "Ljubljana Šiška 2",
+  "vol": [
+    {
+      "st": 19,
+      "naz": "DOM STAREJŠIH OBČANOV DRAVLJE, KUNAVERJEVA UL.15",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 21,
+      "naz": "GD PODUTIK, DOLNIŠKA C.18",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 22,
+      "naz": "GD PODUTIK, DOLNIŠKA C.18",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 23,
+      "naz": "GD PODUTIK, DOLNIŠKA C.18",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 17,
+      "naz": "OŠ DRAVLJE, KLOPČIČEVA UL.1",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 18,
+      "naz": "OŠ DRAVLJE, KLOPČIČEVA UL.1",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 10,
+      "naz": "OŠ HINKA SMREKARJA, GORAZDOVA UL. 16",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 11,
+      "naz": "OŠ HINKA SMREKARJA, GORAZDOVA UL. 16",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 12,
+      "naz": "OŠ HINKA SMREKARJA, GORAZDOVA UL. 16",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 9,
+      "naz": "OŠ HINKA SMREKARJA, GORAZDOVA UL.16",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 3,
+      "naz": "OŠ KOSEZE, LEDARSKA UL. 23",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 4,
+      "naz": "OŠ KOSEZE, LEDARSKA UL. 23",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 5,
+      "naz": "OŠ KOSEZE, LEDARSKA UL. 23",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 6,
+      "naz": "OŠ KOSEZE, LEDARSKA UL. 23",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 7,
+      "naz": "OŠ KOSEZE, LEDARSKA UL. 23",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 8,
+      "naz": "OŠ KOSEZE, LEDARSKA UL. 23",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 1,
+      "naz": "OŠ VALENTINA VODNIKA, ADAMIČEVA UL.16",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 2,
+      "naz": "OŠ VALENTINA VODNIKA, ADAMIČEVA UL.16",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 14,
+      "naz": "OŠ VALENTINA VODNIKA, ADAMIČEVA UL.16",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 16,
+      "naz": "OŠ VALENTINA VODNIKA, ADAMIČEVA UL.16",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 901,
+      "naz": "PREDČASNO GLASOVANJE",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    }
+  ],
+  "liste": [
+    {
+      "ime": "Marija",
+      "pri": "Horvat",
+      "st": 1,
+      "naz": "DeSUS - DEMOKRATIČNA STRANKA UPOKOJENCEV SLOVENIJE",
+      "knaz": "DeSUS",
+      "hcol": "8DBC15"
+    },
+    {
+      "ime": "Drago",
+      "pri": "Babnik",
+      "st": 2,
+      "naz": "DOMOVINSKA LIGA - DOM",
+      "knaz": "DOM",
+      "hcol": "023463"
+    },
+    {
+      "ime": "Roman",
+      "pri": "Fileš",
+      "st": 3,
+      "naz": "Državljansko gibanje Resni.ca",
+      "knaz": "Resni.ca",
+      "hcol": "67359A"
+    },
+    {
+      "ime": "Lenart",
+      "pri": "Žavbi",
+      "st": 4,
+      "naz": "GIBANJE SVOBODA",
+      "knaz": "SVOBODA",
+      "hcol": "005DA3"
+    },
+    {
+      "st": 5,
+      "naz": "Gibanje Zedinjena Slovenija - ZSi",
+      "knaz": "ZSi",
+      "hcol": "C6EFFA"
+    },
+    {
+      "ime": "Dan",
+      "pri": "Juvan",
+      "st": 6,
+      "naz": "LEVICA",
+      "knaz": "LEVICA",
+      "hcol": "FB4C48"
+    },
+    {
+      "ime": "Anže",
+      "pri": "Lemež",
+      "st": 7,
+      "naz": "Lista Borisa Popoviča - Digitalizirajmo Slovenijo",
+      "knaz": "L'BP",
+      "hcol": "0089CD"
+    },
+    {
+      "ime": "Zdravko",
+      "pri": "Selič",
+      "st": 8,
+      "naz": "LISTA MARJANA ŠARCA - LMŠ",
+      "knaz": "LMŠ",
+      "hcol": "23A567"
+    },
+    {
+      "ime": "Žiga",
+      "pri": "Štrukelj",
+      "st": 9,
+      "naz": "NAŠA DEŽELA stranka dr. ALEKSANDRE PIVEC",
+      "knaz": "NAŠA DEŽELA",
+      "hcol": "126C00"
+    },
+    {
+      "ime": "Ivan",
+      "pri": "Gale",
+      "st": 10,
+      "naz": "NAŠA PRIHODNOST IN DOBRA DRŽAVA",
+      "knaz": "SNP-DD",
+      "hcol": "8DE0FD"
+    },
+    {
+      "ime": "Darko",
+      "pri": "Begić",
+      "st": 11,
+      "naz": "NESTRANKARSKA LJUDSKA LISTA GIBANJA ZDRAVA DRUŽBA",
+      "knaz": "NESTRANKARSKA",
+      "hcol": "ADA702"
+    },
+    {
+      "ime": "Marcela",
+      "pri": "Uršič",
+      "st": 12,
+      "naz": "NOVA SLOVENIJA - KRŠČANSKI DEMOKRATI",
+      "knaz": "NSi",
+      "hcol": "009AC7"
+    },
+    {
+      "ime": "Ratko",
+      "pri": "Stojiljković",
+      "st": 13,
+      "naz": "PIRATSKA STRANKA SLOVENIJE",
+      "knaz": "Pirati",
+      "hcol": "000000"
+    },
+    {
+      "ime": "Špela",
+      "pri": "Jovanovič-Gaberšek",
+      "st": 14,
+      "naz": "POVEŽIMO SLOVENIJO (KONKRETNO, ZELENI, SLS, NLS, NS)",
+      "knaz": "POVEŽIMO",
+      "hcol": "E8AB02"
+    },
+    {
+      "ime": "Davorin",
+      "pri": "Kopše",
+      "st": 15,
+      "naz": "SLOVENSKA DEMOKRATSKA STRANKA - SDS",
+      "knaz": "SDS",
+      "hcol": "FFE53F"
+    },
+    {
+      "ime": "Dušan",
+      "pri": "Dolar",
+      "st": 16,
+      "naz": "SLOVENSKA NACIONALNA STRANKA - SNS",
+      "knaz": "SNS",
+      "hcol": "4D4D4D"
+    },
+    {
+      "ime": "Tanja",
+      "pri": "Fajon",
+      "st": 17,
+      "naz": "SOCIALNI DEMOKRATI - SD",
+      "knaz": "SD",
+      "hcol": "CB000D"
+    },
+    {
+      "ime": "Maša",
+      "pri": "Kociper",
+      "st": 18,
+      "naz": "STRANKA ALENKE BRATUŠEK",
+      "knaz": "SAB",
+      "hcol": "F3808A"
+    },
+    {
+      "ime": "Saša",
+      "pri": "Fras",
+      "st": 19,
+      "naz": "VESNA - zelena stranka",
+      "knaz": "VESNA",
+      "hcol": "C9FFA1"
+    },
+    {
+      "ime": "Damjan",
+      "pri": "Gregorič",
+      "st": 20,
+      "naz": "ZA LJUDSTVO SLOVENIJE  - ZLS",
+      "knaz": "ZLS",
+      "hcol": "89AEDB"
+    },
+    {
+      "st": 21,
+      "naz": "ZOS - ZAVEZNIŠTVO OSVOBODIMO SLOVENIJO (GIBANJE ZEDINJENA SLOVENIJA - ZSI IN STRANKA SLOVENSKEGA NARODA - SSN)",
+      "knaz": "ZOS",
+      "hcol": "129847"
+    }
+  ],
+  "nastavitve": {
+    "timestamp": "2022-04-19T13:23:42.6575185+02:00",
+    "datum": "2022-04-19T13:20:00+02:00",
+    "cas_udelezba": "19:00",
+    "has_udelezba": false,
+    "has_rezultat": false,
+    "is_final": false,
+    "has_kandidati_removed": false
+  }
+}

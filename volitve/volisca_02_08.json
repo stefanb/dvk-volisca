@@ -1,0 +1,486 @@
+{
+  "en_st": 2,
+  "en_naz": "Postojna",
+  "st": 8,
+  "naz": "Postojna",
+  "vol": [
+    {
+      "st": 20,
+      "naz": "\"GOSTILNA \"\"BRNE\"\"\"",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 23,
+      "naz": "\"O.Š. \"\"A. GLOBOČNIKA\"\", POSTOJNA\"",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 24,
+      "naz": "\"O.Š.\"\"A. GLOBOČNIKA\"\", POSTOJNA\"",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 25,
+      "naz": "\"O.Š.\"\"A. GLOBOČNIKA\"\", POSTOJNA\"",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 17,
+      "naz": "AVLA KNJIŽNICE B. ZUPANČIČA POSTOJNA",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 18,
+      "naz": "AVLA KULTURNEGA DOMA POSTOJNA,GREGORČIČEV DREV.2A",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 19,
+      "naz": "AVLA KULTURNEGA DOMA POSTOJNA,GREGORČIČEV DREV.2A",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 37,
+      "naz": "DOM KRAJANOV BOLK",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 44,
+      "naz": "DOM KRAJANOV KOČE",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 27,
+      "naz": "DOM UPOKOJENCEV POSTOJNA",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 5,
+      "naz": "GASILSKI DOM PALČJE",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 36,
+      "naz": "GASILSKI DOM RAZDRTO",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 7,
+      "naz": "GASILSKI DOM ZAGORJE",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 39,
+      "naz": "GOSTILNA ČERNAČ, RAKITNIK 39",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 15,
+      "naz": "GOSTILNA MIRANDA, SELCE",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 12,
+      "naz": "HIŠA BIŠČAK ANTON, BUJE",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 43,
+      "naz": "HIŠA ČIČ, ZAGON 3A",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 11,
+      "naz": "HIŠA DOLGAN VOLČE",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 10,
+      "naz": "HIŠA POŽAR, ČEPNO 15",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 13,
+      "naz": "HIŠA VOLK BRIGITA, SUHORJE 7",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 33,
+      "naz": "KULT. DOM, ŠMIHEL POD NANOSOM",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 31,
+      "naz": "KULTURNI DOM BUKOVJE",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 38,
+      "naz": "KULTURNI DOM HRAŠČE",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 6,
+      "naz": "KULTURNI DOM JURŠČE",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 32,
+      "naz": "KULTURNI DOM LANDOL",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 29,
+      "naz": "KULTURNI DOM MIROSLAVA VILHARJA PLANINA",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 42,
+      "naz": "KULTURNI DOM OREHEK",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 30,
+      "naz": "KULTURNI DOM STUDENO",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 35,
+      "naz": "KULTURNI DOM VELIKO UBELJSKO",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 41,
+      "naz": "KULTURNI DOM, SLAVINA 31",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 9,
+      "naz": "O.Š. DOLNJA KOŠANA 61",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 34,
+      "naz": "O.Š. HRUŠEVJE",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 1,
+      "naz": "OSNOVNA ŠOLA PIVKA",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 2,
+      "naz": "OSNOVNA ŠOLA PIVKA",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 3,
+      "naz": "OSNOVNA ŠOLA PIVKA",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 8,
+      "naz": "OSNOVNA ŠOLA ŠMIHEL",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 40,
+      "naz": "OŠ PRESTRANEK",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 28,
+      "naz": "PODJETNIŠKI INKUBATOR, VELIKI OTOK 44B",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 16,
+      "naz": "SREDNJA GOZDARSKA IN LESARSKA ŠOLA POSTOJNA",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 14,
+      "naz": "STARA  O.Š., KAL 90",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 21,
+      "naz": "ŽELEZNIČARSKI DOM, VOLARIČEVA 8",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 22,
+      "naz": "ŽELEZNIČARSKI DOM, VOLARIČEVA 8",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 901,
+      "naz": "PREDČASNO GLASOVANJE",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    }
+  ],
+  "liste": [
+    {
+      "ime": "mag. Evgen",
+      "pri": "Primožič",
+      "st": 1,
+      "naz": "DeSUS - DEMOKRATIČNA STRANKA UPOKOJENCEV SLOVENIJE",
+      "knaz": "DeSUS",
+      "hcol": "8DBC15"
+    },
+    {
+      "ime": "Suzana",
+      "pri": "Šulin",
+      "st": 2,
+      "naz": "DOMOVINSKA LIGA - DOM",
+      "knaz": "DOM",
+      "hcol": "023463"
+    },
+    {
+      "ime": "Aleksander",
+      "pri": "Ževart",
+      "st": 3,
+      "naz": "Državljansko gibanje Resni.ca",
+      "knaz": "Resni.ca",
+      "hcol": "67359A"
+    },
+    {
+      "ime": "Aleksander",
+      "pri": "Prosen Kralj",
+      "st": 4,
+      "naz": "GIBANJE SVOBODA",
+      "knaz": "SVOBODA",
+      "hcol": "005DA3"
+    },
+    {
+      "st": 5,
+      "naz": "Gibanje Zedinjena Slovenija - ZSi",
+      "knaz": "ZSi",
+      "hcol": "C6EFFA"
+    },
+    {
+      "ime": "Tina",
+      "pri": "Žigon",
+      "st": 6,
+      "naz": "LEVICA",
+      "knaz": "LEVICA",
+      "hcol": "FB4C48"
+    },
+    {
+      "ime": "Valentina",
+      "pri": "Žnidaršič",
+      "st": 7,
+      "naz": "Lista Borisa Popoviča - Digitalizirajmo Slovenijo",
+      "knaz": "L'BP",
+      "hcol": "0089CD"
+    },
+    {
+      "ime": "Robert",
+      "pri": "Pavšič",
+      "st": 8,
+      "naz": "LISTA MARJANA ŠARCA - LMŠ",
+      "knaz": "LMŠ",
+      "hcol": "23A567"
+    },
+    {
+      "ime": "Aleš",
+      "pri": "Sedmak",
+      "st": 9,
+      "naz": "NAŠA DEŽELA stranka dr. ALEKSANDRE PIVEC",
+      "knaz": "NAŠA DEŽELA",
+      "hcol": "126C00"
+    },
+    {
+      "ime": "mag. Petra",
+      "pri": "Bremec",
+      "st": 10,
+      "naz": "NAŠA PRIHODNOST IN DOBRA DRŽAVA",
+      "knaz": "SNP-DD",
+      "hcol": "8DE0FD"
+    },
+    {
+      "ime": "Katarina",
+      "pri": "Temkova",
+      "st": 11,
+      "naz": "NESTRANKARSKA LJUDSKA LISTA GIBANJA ZDRAVA DRUŽBA",
+      "knaz": "NESTRANKARSKA",
+      "hcol": "ADA702"
+    },
+    {
+      "ime": "Aljaž",
+      "pri": "Plevnik",
+      "st": 12,
+      "naz": "NOVA SLOVENIJA - KRŠČANSKI DEMOKRATI",
+      "knaz": "NSi",
+      "hcol": "009AC7"
+    },
+    {
+      "ime": "Nevio",
+      "pri": "Miklavčič",
+      "st": 13,
+      "naz": "PIRATSKA STRANKA SLOVENIJE",
+      "knaz": "Pirati",
+      "hcol": "000000"
+    },
+    {
+      "ime": "dr. Nada",
+      "pri": "Pavšer",
+      "st": 14,
+      "naz": "POVEŽIMO SLOVENIJO (KONKRETNO, ZELENI, SLS, NLS, NS)",
+      "knaz": "POVEŽIMO",
+      "hcol": "E8AB02"
+    },
+    {
+      "ime": "Zvonko",
+      "pri": "Černač",
+      "st": 15,
+      "naz": "SLOVENSKA DEMOKRATSKA STRANKA - SDS",
+      "knaz": "SDS",
+      "hcol": "FFE53F"
+    },
+    {
+      "ime": "Tjaša",
+      "pri": "Margon",
+      "st": 16,
+      "naz": "SLOVENSKA NACIONALNA STRANKA - SNS",
+      "knaz": "SNS",
+      "hcol": "4D4D4D"
+    },
+    {
+      "ime": "Patrik",
+      "pri": "Bole",
+      "st": 17,
+      "naz": "SOCIALNI DEMOKRATI - SD",
+      "knaz": "SD",
+      "hcol": "CB000D"
+    },
+    {
+      "ime": "Jerko",
+      "pri": "Čehovin",
+      "st": 18,
+      "naz": "STRANKA ALENKE BRATUŠEK",
+      "knaz": "SAB",
+      "hcol": "F3808A"
+    },
+    {
+      "ime": "Nace",
+      "pri": "Peric",
+      "st": 19,
+      "naz": "VESNA - zelena stranka",
+      "knaz": "VESNA",
+      "hcol": "C9FFA1"
+    },
+    {
+      "ime": "Stanko",
+      "pri": "Fišer",
+      "st": 20,
+      "naz": "ZA LJUDSTVO SLOVENIJE  - ZLS",
+      "knaz": "ZLS",
+      "hcol": "89AEDB"
+    },
+    {
+      "ime": "Blažo",
+      "pri": "Ždrnja",
+      "st": 21,
+      "naz": "ZOS - ZAVEZNIŠTVO OSVOBODIMO SLOVENIJO (GIBANJE ZEDINJENA SLOVENIJA - ZSI IN STRANKA SLOVENSKEGA NARODA - SSN)",
+      "knaz": "ZOS",
+      "hcol": "129847"
+    }
+  ],
+  "nastavitve": {
+    "timestamp": "2022-04-19T13:23:42.6575185+02:00",
+    "datum": "2022-04-19T13:20:00+02:00",
+    "cas_udelezba": "19:00",
+    "has_udelezba": false,
+    "has_rezultat": false,
+    "is_final": false,
+    "has_kandidati_removed": false
+  }
+}
