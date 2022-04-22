@@ -12,15 +12,15 @@
       "prestetih_glasov": null
     },
     {
-      "st": 8,
-      "naz": "DOM KRAJANOV V HRAŠAH",
+      "st": 4,
+      "naz": "DOM KRAJANOV MOŠE, MOŠE, SMLEDNIK",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
-      "st": 4,
-      "naz": "DOM KRAJANOV V MOŠAH",
+      "st": 8,
+      "naz": "DOM KRAJANOV V HRAŠAH",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -89,13 +89,6 @@
       "prestetih_glasov": null
     },
     {
-      "st": 19,
-      "naz": "MIZARSTVO TERAŽ, ŽLEBE 9, MEDVODE",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
       "st": 10,
       "naz": "OBČINA MEDVODE, C. KOMANDANTA STANETA 12, MEDVODE",
       "udel": null,
@@ -138,8 +131,29 @@
       "prestetih_glasov": null
     },
     {
+      "st": 19,
+      "naz": "OSNOVNA ŠOLA PRESKA, PREŠKA CESTA 22, MEDVODE ",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
       "st": 20,
       "naz": "OSNOVNA ŠOLA PRESKA, PREŠKA CESTA 22, MEDVODE",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 30,
+      "naz": "OSNOVNA ŠOLA ŠMARTNO, CESTA V GAMELJNE 7",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 31,
+      "naz": "OSNOVNA ŠOLA ŠMARTNO, CESTA V GAMELJNE 7",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -210,20 +224,6 @@
     {
       "st": 15,
       "naz": "PODRUŽNIČNA OSNOVNA ŠOLA TOPOL",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 30,
-      "naz": "PRODAJALNA RAŠICA, ZGORNJE GAMELJNE 68,LJ-ŠMARTNO",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 31,
-      "naz": "PRODAJALNA RAŠICA, ZGORNJE GAMELJNE 68,LJ-ŠMARTNO",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -424,8 +424,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-19T13:23:42.6575185+02:00",
-    "datum": "2022-04-19T13:20:00+02:00",
+    "timestamp": "2022-04-22T07:23:08.9829016+02:00",
+    "datum": "2022-04-22T07:20:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": false,
     "has_rezultat": false,

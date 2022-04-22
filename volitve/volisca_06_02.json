@@ -26,13 +26,6 @@
       "prestetih_glasov": null
     },
     {
-      "st": 17,
-      "naz": "DOBRAVA PRI ŠKOCJANU 59 - GASILSKI DOM",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
       "st": 2,
       "naz": "DOL.TOPLICE,SOKOLSKI TRG 4-KULTURNO KONGR. CENTER",
       "udel": null,
@@ -49,13 +42,6 @@
     {
       "st": 37,
       "naz": "DOLENJA STARA VAS 43 - GASILSKI DOM",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 21,
-      "naz": "DOLENJE DOLE 24B - GASILSKI DOM",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -117,13 +103,6 @@
       "prestetih_glasov": null
     },
     {
-      "st": 35,
-      "naz": "GORENJA BREZOVICA 54 - TRGOVINA KAPLJA",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
       "st": 40,
       "naz": "GORENJA GOMILA 5 - TAJČMAN MARIJA",
       "udel": null,
@@ -147,13 +126,6 @@
     {
       "st": 16,
       "naz": "GORENJI GLOBODOL 38 - GASILSKI DOM",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 23,
-      "naz": "GRMOVLJE 28 - GASILSKI DOM",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -202,7 +174,14 @@
     },
     {
       "st": 13,
-      "naz": "MIRNA PEČ, TRG 2 - KULTURNI DOM",
+      "naz": "MIRNA PEČ, TRG 8 - MUZEJ L. SLAKA IN T. PAVČKA",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 46,
+      "naz": "MRŠEČA VAS 1 - MIZARSTVO CVELBAR",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -265,7 +244,7 @@
     },
     {
       "st": 45,
-      "naz": "ROJE 10 - VODATEH D.O.O.",
+      "naz": "ROJE 12 - ANDREJ TURK",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -313,15 +292,8 @@
       "prestetih_glasov": null
     },
     {
-      "st": 30,
-      "naz": "ŠKOCJAN 35 - DVORANA METELKOVEGA DOMA",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
       "st": 8,
-      "naz": "ŠMARJETA 66 - OBČINA",
+      "naz": "ŠMARJETA 66 - DVORANA KULTURNEGA DOMA",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -334,15 +306,8 @@
       "prestetih_glasov": null
     },
     {
-      "st": 27,
-      "naz": "TOMAŽJA VAS 35 - GASILSKI DOM",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
       "st": 29,
-      "naz": "URŠNA SELA, GASILSKA POT 5 - GASILSKI DOM",
+      "naz": "URŠNA SELA, VAŠKA CESTA 4 - ZADRUŽNI DOM",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -356,7 +321,7 @@
     },
     {
       "st": 52,
-      "naz": "VELIKO LIPJE - GASILSKI DOM",
+      "naz": "VELIKO LIPJE - DOM KRAJANOV",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -369,15 +334,8 @@
       "prestetih_glasov": null
     },
     {
-      "st": 28,
-      "naz": "ZAGRAD 36 - GASILSKI DOM",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 46,
-      "naz": "ZAMEŠKO 3 - OKREPČEVALNICA ZAKRAKOVC",
+      "st": 35,
+      "naz": "VRH PRI ŠENTJERNEJU 5 - KARLOVČEK D.O.O.",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -578,8 +536,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-19T13:23:42.6575185+02:00",
-    "datum": "2022-04-19T13:20:00+02:00",
+    "timestamp": "2022-04-22T07:23:08.9829016+02:00",
+    "datum": "2022-04-22T07:20:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": false,
     "has_rezultat": false,

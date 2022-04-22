@@ -5,13 +5,6 @@
   "naz": "Ljubljana Vič - Rudnik 4",
   "vol": [
     {
-      "st": 11,
-      "naz": "BIVŠA OŠ ŽAŽAR, ŽAŽAR 23",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
       "st": 29,
       "naz": "BTF - ODD. ZA LESARSTVO, ROŽNA DOLINA C. VIII/34",
       "udel": null,
@@ -26,15 +19,15 @@
       "prestetih_glasov": null
     },
     {
-      "st": 22,
-      "naz": "DOM KRAJANOV ČRNI VRH 37A, 1355 POLHOV GRADEC",
+      "st": 16,
+      "naz": "DOM IVANA CANKARJA V ŠENTJOŠTU,ŠENTJOŠT 13,HORJUL",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
-      "st": 16,
-      "naz": "DOM V ŠENTJOŠTU, ŠENTJOŠT 13,1354 HORJUL",
+      "st": 22,
+      "naz": "DOM KRAJANOV ČRNI VRH 37A, 1355 POLHOV GRADEC",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -56,6 +49,13 @@
     {
       "st": 10,
       "naz": "GASILSKI DOM VRZDENEC",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 11,
+      "naz": "GASILSKI DOM ŽAŽAR, ŽAŽAR 24",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -111,7 +111,7 @@
     },
     {
       "st": 21,
-      "naz": "GD ZALOG-SETNIK, SMOLNIK 15,1355 POLHOV GRADEC",
+      "naz": "GD ZALOG-SETNIK, SETNIK 5 B,1355 POLHOV GRADEC",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -368,8 +368,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-19T13:23:42.6575185+02:00",
-    "datum": "2022-04-19T13:20:00+02:00",
+    "timestamp": "2022-04-22T07:23:08.9829016+02:00",
+    "datum": "2022-04-22T07:20:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": false,
     "has_rezultat": false,

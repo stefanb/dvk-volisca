@@ -20,7 +20,7 @@
     },
     {
       "st": 16,
-      "naz": "DOM PODGRAD, PODGRAJSKA C.5",
+      "naz": "DOM PODGRAD, PODGRAJSKA C.6E",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -97,14 +97,14 @@
     },
     {
       "st": 29,
-      "naz": "OŠ POLJE, POLJE 358, 1000 LJUBLJANA",
+      "naz": "OŠ POLJE, ZALOŠKA 189, 1000 LJUBLJANA",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 30,
-      "naz": "OŠ POLJE, POLJE 358, LJUBLJANA",
+      "naz": "OŠ POLJE, ZALOŠKA 189, 1000 LJUBLJANA",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -166,6 +166,13 @@
       "prestetih_glasov": null
     },
     {
+      "st": 22,
+      "naz": "OŠ ZGORNJI KAŠELJ, KAŠELJSKA CESTA 119A",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
       "st": 18,
       "naz": "OŠ ZGORNJI KAŠELJ, KAŠELJSKA CESTA 119A",
       "udel": null,
@@ -174,13 +181,6 @@
     },
     {
       "st": 19,
-      "naz": "OŠ ZGORNJI KAŠELJ, KAŠELJSKA CESTA 119A",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 22,
       "naz": "OŠ ZGORNJI KAŠELJ, KAŠELJSKA CESTA 119A",
       "udel": null,
       "rez": null,
@@ -208,15 +208,15 @@
       "prestetih_glasov": null
     },
     {
-      "st": 28,
-      "naz": "PROSTORI MOL (POLJE), POLJE 12, LJUBLJANA",
+      "st": 33,
+      "naz": "PROSTORI MOL (POLJE), ZALOŠKA CESTA 160,LJUBLJANA",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
-      "st": 33,
-      "naz": "PROSTORI MOL, POLJE 12",
+      "st": 28,
+      "naz": "PROSTORI MOL (POLJE), ZALOŠKA CESTA 160,LJUBLJANA",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -417,8 +417,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-19T13:23:42.6575185+02:00",
-    "datum": "2022-04-19T13:20:00+02:00",
+    "timestamp": "2022-04-22T07:23:08.9829016+02:00",
+    "datum": "2022-04-22T07:20:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": false,
     "has_rezultat": false,

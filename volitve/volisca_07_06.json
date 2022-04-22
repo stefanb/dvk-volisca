@@ -6,7 +6,7 @@
   "vol": [
     {
       "st": 26,
-      "naz": "BIFE VAUHNIK, UL. Z. KARER 4",
+      "naz": "BELL CENTER, PTUJSKA CESTA 13",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -89,13 +89,6 @@
       "prestetih_glasov": null
     },
     {
-      "st": 22,
-      "naz": "KS DOBROVCE, KIDRIČEVA 55",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
       "st": 21,
       "naz": "KS DRAVSKI DVOR, KIDRIČEVA CESTA 9",
       "udel": null,
@@ -152,13 +145,6 @@
       "prestetih_glasov": null
     },
     {
-      "st": 19,
-      "naz": "MIHI BAR, BOHOVA 37",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
       "st": 1,
       "naz": "OŠ M. KONŠAK, PREKMURSKA 67",
       "udel": null,
@@ -181,7 +167,7 @@
     },
     {
       "st": 6,
-      "naz": "PROSTORI KS, LOKA 16 C",
+      "naz": "ŠD LOKA - ROŠNJA, LOKA 23A",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -189,6 +175,20 @@
     {
       "st": 20,
       "naz": "TRUCK-STOP, MIKLAVŠKA CESTA 82",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 19,
+      "naz": "VEČNAMENSKI OBJEKT BOHOVA, BOHOVA 2A",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 22,
+      "naz": "VRTEC CICIBAN - DOBROVCE, KIDRIČEVA CESTA 55",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -377,8 +377,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-19T13:23:42.6575185+02:00",
-    "datum": "2022-04-19T13:20:00+02:00",
+    "timestamp": "2022-04-22T07:23:08.9829016+02:00",
+    "datum": "2022-04-22T07:20:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": false,
     "has_rezultat": false,

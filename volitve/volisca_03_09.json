@@ -117,20 +117,6 @@
       "prestetih_glasov": null
     },
     {
-      "st": 1,
-      "naz": "OŠ VALENTINA VODNIKA, ADAMIČEVA UL.16",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 2,
-      "naz": "OŠ VALENTINA VODNIKA, ADAMIČEVA UL.16",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
       "st": 14,
       "naz": "OŠ VALENTINA VODNIKA, ADAMIČEVA UL.16",
       "udel": null,
@@ -139,6 +125,20 @@
     },
     {
       "st": 16,
+      "naz": "OŠ VALENTINA VODNIKA, ADAMIČEVA UL.16",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 1,
+      "naz": "OŠ VALENTINA VODNIKA, ADAMIČEVA UL.16",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 2,
       "naz": "OŠ VALENTINA VODNIKA, ADAMIČEVA UL.16",
       "udel": null,
       "rez": null,
@@ -319,8 +319,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-19T13:23:42.6575185+02:00",
-    "datum": "2022-04-19T13:20:00+02:00",
+    "timestamp": "2022-04-22T07:23:08.9829016+02:00",
+    "datum": "2022-04-22T07:20:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": false,
     "has_rezultat": false,

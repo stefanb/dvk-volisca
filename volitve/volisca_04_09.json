@@ -12,13 +12,6 @@
       "prestetih_glasov": null
     },
     {
-      "st": 15,
-      "naz": "DRUŽBENI CENTER BEŽIGRAD, LINHARTOVA 13,LJUBLJANA",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
       "st": 5,
       "naz": "KNJIŽNICA BEŽIGRAD, EINSPIELERJEVA ULICA 1",
       "udel": null,
@@ -27,14 +20,14 @@
     },
     {
       "st": 22,
-      "naz": "OKREPČEVALNICA STARI VICE,ŠIFRERJEVA 3, LJUBLJANA",
+      "naz": "OBJEKT - OKREPČEVALNICA, ŠIFRERJEVA 3, LJUBLJANA",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 23,
-      "naz": "OKREPČEVALNICA STARI VICE,ŠIFRERJEVA 3, LJUBLJANA",
+      "naz": "OBJEKT - OKREPČEVALNICA, ŠIFRERJEVA 3, LJUBLJANA",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -82,6 +75,13 @@
       "prestetih_glasov": null
     },
     {
+      "st": 15,
+      "naz": "OŠ MIRANA JARCA, IPAVČEVA UL. 1",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
       "st": 8,
       "naz": "OŠ MIRANA JARCA, IPAVČEVA UL. 1",
       "udel": null,
@@ -124,14 +124,14 @@
       "prestetih_glasov": null
     },
     {
-      "st": 12,
+      "st": 14,
       "naz": "OŠ VITA KRAIGHERJA, TRG 9. MAJA 1",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
-      "st": 14,
+      "st": 12,
       "naz": "OŠ VITA KRAIGHERJA, TRG 9. MAJA 1",
       "udel": null,
       "rez": null,
@@ -340,8 +340,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-19T13:23:42.6575185+02:00",
-    "datum": "2022-04-19T13:20:00+02:00",
+    "timestamp": "2022-04-22T07:23:08.9829016+02:00",
+    "datum": "2022-04-22T07:20:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": false,
     "has_rezultat": false,

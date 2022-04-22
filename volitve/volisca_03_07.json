@@ -5,20 +5,6 @@
   "naz": "Ljubljana Center",
   "vol": [
     {
-      "st": 13,
-      "naz": "CENTER JANEZA LEVCA LJUBLJANA, KARLOVŠKA 18, LJ.",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 14,
-      "naz": "CENTER JANEZA LEVCA LJUBLJANA, KARLOVŠKA 18, LJ.",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
       "st": 9,
       "naz": "DOM UPOKOJENCEV POLJANE, ULICA JANEZA PAVLA II. 4",
       "udel": null,
@@ -63,6 +49,20 @@
     {
       "st": 10,
       "naz": "OŠ POLJANE, ZEMLJEMERSKA UL. 7, LJUBLJANA",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 13,
+      "naz": "OŠ PRULE, PRULE 13, LJ., PROSTOR GALERIJA",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 14,
+      "naz": "OŠ PRULE, PRULE 13, LJ., PROSTOR GALERIJA",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -312,8 +312,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-19T13:23:42.6575185+02:00",
-    "datum": "2022-04-19T13:20:00+02:00",
+    "timestamp": "2022-04-22T07:23:08.9829016+02:00",
+    "datum": "2022-04-22T07:20:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": false,
     "has_rezultat": false,

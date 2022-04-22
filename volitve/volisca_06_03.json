@@ -12,6 +12,13 @@
       "prestetih_glasov": null
     },
     {
+      "st": 8,
+      "naz": "DOM KRAJANOV KS GOTNA VAS, JEDINŠČICA 58",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
       "st": 26,
       "naz": "DRGANJA SELA - MLADINSKI DOM",
       "udel": null,
@@ -21,13 +28,6 @@
     {
       "st": 6,
       "naz": "GORENJE KAMENCE 9 - JANEZ MIKLIČ",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 7,
-      "naz": "GORENJE KAMENJE 1A - ZDRAVKO KUKMAN",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -48,28 +48,14 @@
     },
     {
       "st": 29,
-      "naz": "NA ŽAGO 4, KULTURNI DOM STRAŽA",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 15,
-      "naz": "NM, KANDIJSKA CESTA 61A - DAMJAN DOLENC",
+      "naz": "NA ŽAGO 4 - KULTURNI DOM STRAŽA",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 22,
-      "naz": "NM, ŠENTJERNEJSKA CESTA 6 - ZADR.NAKUP.CENTER",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 8,
-      "naz": "NM, ULICA IVANA ROBA 5,PICERIJA IN GOST. ŠTANGELJ",
+      "naz": "NM, ŠENTJERNEJSKA C. 10-DOM KRAJANOV KS ŽABJA VAS",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -83,7 +69,7 @@
     },
     {
       "st": 24,
-      "naz": "NOVO MESTO, BRŠLJIN 31 - OKREPČEVALNICA GEDŽO",
+      "naz": "NOVO MESTO, BRŠLJIN 37 - GOSTILNA GEDŽO",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -98,6 +84,13 @@
     {
       "st": 13,
       "naz": "NOVO MESTO, DOLENJE KAMENCE - GASILSKI DOM",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 1,
+      "naz": "NOVO MESTO, KANDIJSKA CESTA 5 - \"VAGON\"",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -132,7 +125,7 @@
     },
     {
       "st": 20,
-      "naz": "NOVO MESTO, SEIDLOVA CESTA 9 -GIMNAZIJA NOVO MEST",
+      "naz": "NOVO MESTO, SEIDLOVA CESTA 9-GIMNAZIJA NOVO MESTO",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -140,13 +133,6 @@
     {
       "st": 4,
       "naz": "NOVO MESTO, ŠEGOVA ULICA 22 - VRTEC",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 1,
-      "naz": "NOVO MESTO, ŠMIHELSKA CESTA 1, PORODNIŠNICA-AVLA",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -173,6 +159,13 @@
       "prestetih_glasov": null
     },
     {
+      "st": 12,
+      "naz": "NOVOMEŠKA CESTA 1 - GASILSKI DOM",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
       "st": 27,
       "naz": "OTOČEC, ŠENTPETER - GASILSKI DOM",
       "udel": null,
@@ -182,13 +175,6 @@
     {
       "st": 28,
       "naz": "PAHA 3 - MATJAŽEVA DOMAČIJA",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 34,
-      "naz": "POTOK 2 - GOSTILNA POD SMREKCO",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -210,13 +196,6 @@
     {
       "st": 33,
       "naz": "RUMANJA VAS - MLADINSKI DOM",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 12,
-      "naz": "STRAŽA, NOVOMEŠKA CESTA 1 - GASILSKI DOM",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -410,8 +389,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-19T13:23:42.6575185+02:00",
-    "datum": "2022-04-19T13:20:00+02:00",
+    "timestamp": "2022-04-22T07:23:08.9829016+02:00",
+    "datum": "2022-04-22T07:20:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": false,
     "has_rezultat": false,

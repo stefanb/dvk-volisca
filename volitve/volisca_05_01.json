@@ -12,13 +12,6 @@
       "prestetih_glasov": null
     },
     {
-      "st": 26,
-      "naz": "ČEPIN, VODUCE 42A, GORICA PRI SLIVNICI",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
       "st": 27,
       "naz": "DOM GABERNICA",
       "udel": null,
@@ -96,15 +89,15 @@
       "prestetih_glasov": null
     },
     {
-      "st": 38,
-      "naz": "JAKOPIN, GROBELNO 154, GROBELNO",
+      "st": 34,
+      "naz": "KOVAČ-REBERŠAK, VRBNO 16, ŠENTJUR",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
-      "st": 34,
-      "naz": "KOVAČ-REBERŠAK, VRBNO 16, ŠENTJUR",
+      "st": 26,
+      "naz": "KRAJNC, VODUCE 22A, GORICA PRI SLIVNICI",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -132,7 +125,14 @@
     },
     {
       "st": 20,
-      "naz": "LAVBIČ, LUTRJE 16, PONIKVA",
+      "naz": "LAVBIČ, PONIKVA 29, PONIKVA",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 6,
+      "naz": "LENIČ, RAZBOR 30A, DRAMLJE",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -210,13 +210,6 @@
     {
       "st": 29,
       "naz": "SEJNA DVORANA OBČINE ŠENTJUR,MESTNI TRG10,ŠENTJUR",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 6,
-      "naz": "SLOMŠEK, RAZBOR 22 A, DRAMLJE",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -410,8 +403,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-19T13:23:42.6575185+02:00",
-    "datum": "2022-04-19T13:20:00+02:00",
+    "timestamp": "2022-04-22T07:23:08.9829016+02:00",
+    "datum": "2022-04-22T07:20:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": false,
     "has_rezultat": false,

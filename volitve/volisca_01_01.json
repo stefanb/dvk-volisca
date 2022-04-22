@@ -5,28 +5,28 @@
   "naz": "Jesenice",
   "vol": [
     {
-      "st": 33,
-      "naz": "BLEJSKA DOBRAVA, JEDILNICA OŠ, BLEJSKA DOBRAVA 44",
+      "st": 30,
+      "naz": "BL. DOBRAVA-PODRUŽNIČNA ŠOLA, BLEJSKA DOBRAVA 44",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
-      "st": 36,
+      "st": 33,
       "naz": "BREG, ELEKTRARNA MOSTE, MOSTE 41",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
-      "st": 39,
-      "naz": "BREZNICA,DOSLOVČE,VRBA,KULTURNA DVORANA,BREZNICA9",
+      "st": 36,
+      "naz": "BREZNICA,DOSLOVČE,VRBA,OBČINA ŽIROVNICA,BREZNICA3",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
-      "st": 7,
+      "st": 6,
       "naz": "DOVJE, KULTURNI DOM, DOVJE 109",
       "udel": null,
       "rez": null,
@@ -40,57 +40,64 @@
       "prestetih_glasov": null
     },
     {
-      "st": 10,
+      "st": 8,
+      "naz": "HIŠA TNP, ZGORNJA RADOVNA 21",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 9,
       "naz": "HRUŠICA 1,PROSTOVOLJNO GASILSKO DRUŠTVO,HRUŠICA13",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
-      "st": 11,
+      "st": 10,
       "naz": "HRUŠICA 2, KULTURNI DOM NA HRUŠICI, HRUŠICA 55 A ",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
-      "st": 28,
+      "st": 26,
       "naz": "JAVORNIK-KOR. BELA 1, OŠ KOROŠKA BELA, C.TALCEV 2",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
-      "st": 29,
+      "st": 27,
       "naz": "JAVORNIK-KOR. BELA 2, OŠ KOROŠKA BELA, C.TALCEV 2",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
+      "st": 29,
+      "naz": "JAVORNIK-KOR. BELA 4,DELAVSKI DOM,KIDRIČEVA 37 C",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 28,
+      "naz": "JAVORNIK-KOR.BELA 3,DELAVSKI DOM,KIDRIČEVA 37 C",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 25,
+      "naz": "JAVORNIŠKI ROVT, GASILSKI DOM JAVORNIŠKI ROVT 17",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
       "st": 31,
-      "naz": "JAVORNIK-KOR. BELA 4,DELAVSKI DOM,KIDRIČEVA 37/C",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 30,
-      "naz": "JAVORNIK-KOR.BELA 3,FRIZ.STUDIO ALMA,C.J.FINŽG.5B",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 27,
-      "naz": "JAVORNIŠKI ROVT, GASILSKI DOM JAVORNIŠKI ROVT",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 34,
-      "naz": "KOČNA, ORODIŠČE GASILSKEGA DRUŠTVA KOČNA",
+      "naz": "KOČNA, ORODIŠČE KOČNA",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -110,63 +117,63 @@
       "prestetih_glasov": null
     },
     {
-      "st": 8,
+      "st": 7,
       "naz": "MOJSTRANA, OŠ 16.DECEMBER,ULICA ALOJZA RABIČA 7",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
-      "st": 35,
+      "st": 32,
       "naz": "MOSTE, TVD PARTIZAN, ŽIROVNICA 63",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
-      "st": 12,
+      "st": 11,
       "naz": "PLANINA POD GOLICO,KRAJEVNA SKUPNOST, PL.PODG.31",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
-      "st": 13,
+      "st": 12,
       "naz": "PLAVŠKI ROVT, HIŠA KLINAR ŠTEFAN, PLAVŠKI ROVT 14",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
-      "st": 14,
-      "naz": "PLAVŽ 1,DOM UPOK.DR.F.BERGELJA,PRITLIČJE STAVBE B",
+      "st": 13,
+      "naz": "PLAVŽ 1,DOM UPOK.DR.F.BERGLJA,PRITLIČJE STAVBE C",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
-      "st": 15,
+      "st": 14,
       "naz": "PLAVŽ 2,AVLA ZDRAV.DOMA JESENICE, CESTA M.TITA 78",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
-      "st": 16,
+      "st": 15,
       "naz": "PLAVŽ 3, PRITLIČJE OŠ TONE ČUFAR UČIL.1, JESENICE",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
-      "st": 17,
+      "st": 16,
       "naz": "PLAVŽ 4, JEKO D.O.O., CESTA MARŠALA TITA 51",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
-      "st": 19,
+      "st": 17,
       "naz": "PLAVŽ 5,VRTEC A.OCEPEK,JESEN.,C.CIRILA TAVČARJA3A",
       "udel": null,
       "rez": null,
@@ -180,14 +187,14 @@
       "prestetih_glasov": null
     },
     {
-      "st": 26,
+      "st": 24,
       "naz": "PODMEŽAKLA 2, KRAJEVNA SKUPNOST,MENCINGERJEVA U.1",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
-      "st": 25,
+      "st": 23,
       "naz": "PODMEŽAKLA1,SEJNA SOBA ZŠ JESENICE,LEDARSKA UL.6A",
       "udel": null,
       "rez": null,
@@ -201,63 +208,56 @@
       "prestetih_glasov": null
     },
     {
-      "st": 20,
+      "st": 18,
       "naz": "SAVA 1, KRAJEVNA SKUPNOST SAVA, POD GOZDOM 2",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
-      "st": 21,
+      "st": 19,
       "naz": "SAVA 2, OŠ PREŽIHOV VORANC, C. TONETA TOMŠIČA 5",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
-      "st": 22,
-      "naz": "SAVA 3, BIVŠI ČAVS BAR, CESTA TONETA TOMŠIČA 70 A",
+      "st": 20,
+      "naz": "SAVA 3, OŠ PREŽIHOV VORANC, C.TONETA TOMŠIČA 5",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
-      "st": 23,
+      "st": 21,
       "naz": "SAVA 4, OŠ POLDE STRAŽIŠAR, UL. V.KEJŽARJA 35",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
-      "st": 24,
-      "naz": "SAVA 5, SREDNJA ŠOLA,ULICA BRATOV RUPAR 2, JESEN.",
+      "st": 22,
+      "naz": "SAVA 5, SREDNJA ŠOLA JESENICE,UL. BRATOV RUPAR 2",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
-      "st": 38,
+      "st": 35,
       "naz": "SELO, ZABREZNICA, OŠ ŽIROVNICA, ZABREZNICA 4",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
-      "st": 40,
-      "naz": "SMOKUČ, RODINE, JALNOVA ROJSTNA HIŠA, RODINE 10 ",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 9,
-      "naz": "ZGORNJA RADOVNA,POCARJEVA DOMAČIJA, ZG.RADOVNA 25",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
       "st": 37,
+      "naz": "SMOKUČ, RODINE, GASILSKI DOM SMOKUČ, SMOKUČ 46",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 34,
       "naz": "ŽIROVNICA, ČOPOVA ROJSTNA HIŠA, ŽIROVNICA 14",
       "udel": null,
       "rez": null,
@@ -440,8 +440,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-19T13:23:42.6575185+02:00",
-    "datum": "2022-04-19T13:20:00+02:00",
+    "timestamp": "2022-04-22T07:23:08.9829016+02:00",
+    "datum": "2022-04-22T07:20:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": false,
     "has_rezultat": false,

@@ -12,15 +12,8 @@
       "prestetih_glasov": null
     },
     {
-      "st": 7,
-      "naz": "GASILSKI DOM SELA PRI KAMNIKU",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
       "st": 6,
-      "naz": "GASILSKI DOM SREDNJA VAS",
+      "naz": "GASILSKI DOM SREDNJA VAS, SR. VAS PRI KAMNIKU 23",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -103,29 +96,22 @@
       "prestetih_glasov": null
     },
     {
-      "st": 29,
-      "naz": "OBČINA KOMENDA, GLAVARJEVA CESTA 104",
+      "st": 10,
+      "naz": "OSNOVNA ŠOLA FRANA ALBREHTA, PODRUŽ. VRANJA PEČ",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 8,
-      "naz": "OSNOVNA ŠOLA F. ALBREHTA, PODRUŽNICA NEVLJE",
+      "naz": "OSNOVNA ŠOLA FRANA ALBREHTA, PODRUŽNICA NEVLJE",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 17,
-      "naz": "OSNOVNA ŠOLA F.ALBREHTA, PODRUŽNICA TUNJICE",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 10,
-      "naz": "OSNOVNA ŠOLA F.ALBREHTA, PODRUŽNICA VRANJA PEČ",
+      "naz": "OSNOVNA ŠOLA FRANA ALBREHTA, PODRUŽNICA TUNJICE",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -139,7 +125,14 @@
     },
     {
       "st": 28,
-      "naz": "OSNOVNA ŠOLA KOMENDA-MOSTE",
+      "naz": "OSNOVNA ŠOLA KOMENDA MOSTE, MOSTE 40",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 18,
+      "naz": "OSNOVNA ŠOLA MARIJE VERE",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -147,13 +140,6 @@
     {
       "st": 19,
       "naz": "OSNOVNA ŠOLA MARIJE VERE",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 18,
-      "naz": "OSNOVNA ŠOLA MARIJE VERE, LJUBLJANSKA C. 16A",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -168,6 +154,20 @@
     {
       "st": 13,
       "naz": "OSNOVNA ŠOLA STRANJE, PODRUŽNICA GOZD",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 29,
+      "naz": "OŠ KOMENDA MOSTE, GLAVARJEVA CESTA 37, KOMENDA",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 7,
+      "naz": "PODRUŽNIČNA ŠOLA SELA PRI KAMNIKU",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -363,8 +363,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-19T13:23:42.6575185+02:00",
-    "datum": "2022-04-19T13:20:00+02:00",
+    "timestamp": "2022-04-22T07:23:08.9829016+02:00",
+    "datum": "2022-04-22T07:20:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": false,
     "has_rezultat": false,

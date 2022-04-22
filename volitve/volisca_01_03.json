@@ -5,13 +5,6 @@
   "naz": "Radovljica 2",
   "vol": [
     {
-      "st": 24,
-      "naz": "\"KMETIJA AVSENEK \"\"PR MAROFAR\"\", VRBNJE 1,RADOVLJICA\"",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
       "st": 20,
       "naz": "AVLA OBČINE RADOVLJICA,GORENJSKA C.19, RADOVLJICA",
       "udel": null,
@@ -42,13 +35,6 @@
     {
       "st": 14,
       "naz": "DOM ŠD LJUBNO, LJUBNO 114",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 22,
-      "naz": "DOM UPOKOJENCEV, LJUBLJANSKA C. 4, RADOVLJICA",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -124,8 +110,29 @@
       "prestetih_glasov": null
     },
     {
+      "st": 22,
+      "naz": "OŠ A. T. LINHARTA, KRANJSKA CESTA 27, RADOVLJICA",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
       "st": 13,
       "naz": "OŠ F.S. FINŽGARJA LESCE, BEGUNJSKA CESTA 7, LESCE",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 24,
+      "naz": "PLEZALNI CENTER V VRBNJAH",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 2,
+      "naz": "POSLOVNI PROSTOR \"NO LIMIT\", ZAPUŽE 2A",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -140,13 +147,6 @@
     {
       "st": 19,
       "naz": "SREDNJA GOST.IN TUR.ŠOLA RADOVLJICA,KRANJSKA C.24",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 2,
-      "naz": "STANOVANJSKA HIŠA GRILC, ZAPUŽE 1 A",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -167,7 +167,7 @@
     },
     {
       "st": 18,
-      "naz": "ŠPORTNI PARK POSLOVALNICA DOMINVEST-A RADOVLJICA",
+      "naz": "ŠPORTNI PARK RADOVLJICA, UL. STANETA ŽAGARJA 2B",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -363,8 +363,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-19T13:23:42.6575185+02:00",
-    "datum": "2022-04-19T13:20:00+02:00",
+    "timestamp": "2022-04-22T07:23:08.9829016+02:00",
+    "datum": "2022-04-22T07:20:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": false,
     "has_rezultat": false,

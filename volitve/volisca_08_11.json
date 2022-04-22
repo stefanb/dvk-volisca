@@ -19,15 +19,15 @@
       "prestetih_glasov": null
     },
     {
-      "st": 43,
-      "naz": "BEDENIK STANKO, DOKLECE 7A",
+      "st": 74,
+      "naz": "BAR ALBERT, ZAKL 38A, PODLEHNIK",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
-      "st": 74,
-      "naz": "BELOGLAVEC BOJAN, ROD.VRH 31",
+      "st": 43,
+      "naz": "BEDENIK STANKO, DOKLECE 7A",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -96,8 +96,8 @@
       "prestetih_glasov": null
     },
     {
-      "st": 4,
-      "naz": "EMERŠIČ IVAN, GRADIŠČA 79",
+      "st": 11,
+      "naz": "EMERŠIČ OLGA, SLATINA 31     ",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -105,13 +105,6 @@
     {
       "st": 59,
       "naz": "FRIC EDVARD, SKORIŠNJAK 25",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 8,
-      "naz": "GABROVEC PETER, PARADIŽ 87 A",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -208,6 +201,13 @@
       "prestetih_glasov": null
     },
     {
+      "st": 8,
+      "naz": "HERCOG JOŽEF, PARADIŽ 89B, CIRKULANE",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
       "st": 86,
       "naz": "HRNČIČ DARINKA, TURŠKI VRH 75",
       "udel": null,
@@ -215,8 +215,8 @@
       "prestetih_glasov": null
     },
     {
-      "st": 80,
-      "naz": "JELEN DARINKA, ZG.GRUŠK.35 ",
+      "st": 4,
+      "naz": "JURGEC MILAN, GRADIŠČA 29A",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -224,20 +224,6 @@
     {
       "st": 3,
       "naz": "KOKOL HERMAN, DOLANE 8",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 55,
-      "naz": "KOKOL JOŽEF, BELAVŠEK 23",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 9,
-      "naz": "KOKOT SILVA, POHORJE 17",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -259,13 +245,6 @@
     {
       "st": 82,
       "naz": "KOZEL ANGELA, ZG. GRUŠKOVJE 26",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 11,
-      "naz": "KRAJNC OLGA, SLATINA 31",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -362,13 +341,6 @@
       "prestetih_glasov": null
     },
     {
-      "st": 24,
-      "naz": "PISARNIŠKI KONTEJNER NASPROTI NAS. ŽUPEČJA VAS 45",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
       "st": 67,
       "naz": "POSLANČECEVA DOMAČIJA, VAREJA 12",
       "udel": null,
@@ -397,15 +369,15 @@
       "prestetih_glasov": null
     },
     {
-      "st": 54,
-      "naz": "PROSTORI TUR.DRUŠTVA KLOPOTEC,ZG.LESKOVEC 10 C",
+      "st": 9,
+      "naz": "PROSTORI RADIOKLUBA CIRKULANE, POHORJE 25A",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
-      "st": 50,
-      "naz": "PROSVETNA DVORANA ŽETALE",
+      "st": 54,
+      "naz": "PROSTORI TUR.DRUŠTVA KLOPOTEC,ZG.LESKOVEC 10 C",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -420,6 +392,13 @@
     {
       "st": 77,
       "naz": "SARDINŠEK VALERIJA, STRAJNA 28 (BIVŠE VEČERIČEVO)",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 55,
+      "naz": "SLAVKO MLAKAR, BELAVŠEK 36",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -488,8 +467,36 @@
       "prestetih_glasov": null
     },
     {
+      "st": 24,
+      "naz": "VAŠKI DOM ŽUPEČJA VAS, BRUNARICA PRI HŠ Ž.VAS 29",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 79,
+      "naz": "VAUPOTIČ DRAGO, STANOŠINA 27",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
       "st": 73,
       "naz": "VAUPOTIČ JOŽE, JABLOVEC 21",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 50,
+      "naz": "VEČNAMENSKA DVORANA ŽETALE, ŽETALE 1",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 80,
+      "naz": "VTKC PODLEHNIK, KONF. DVORANA, PODLEHNIK 9",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -511,13 +518,6 @@
     {
       "st": 87,
       "naz": "VUZEM IVAN, HRASTOVEC 129",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 79,
-      "naz": "ZUPANIČ MANICA, STANOŠINA 24 A",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -706,8 +706,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-19T13:23:42.6575185+02:00",
-    "datum": "2022-04-19T13:20:00+02:00",
+    "timestamp": "2022-04-22T07:23:08.9829016+02:00",
+    "datum": "2022-04-22T07:20:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": false,
     "has_rezultat": false,

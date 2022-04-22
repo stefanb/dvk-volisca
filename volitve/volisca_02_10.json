@@ -5,8 +5,15 @@
   "naz": "Nova Gorica 2",
   "vol": [
     {
+      "st": 16,
+      "naz": "BIVŠI MALOOBMEJNI PREHOD, ERJAVČEVA ULICA 53",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
       "st": 1,
-      "naz": "BUKOVICA - OSNOVNA ŠOLA - BUKOVICA 65",
+      "naz": "BUKOVICA - OSNOVNA ŠOLA - BUKOVICA 44",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -62,7 +69,7 @@
     },
     {
       "st": 2,
-      "naz": "KS KROMBERK-LOKE, ULICA VINKA VODOPIVCA 72",
+      "naz": "KS KROMBERK-LOKE, ULICA VINKA VODOPIVCA 90",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -103,14 +110,14 @@
       "prestetih_glasov": null
     },
     {
-      "st": 11,
+      "st": 13,
       "naz": "OSNOVNA ŠOLA LEDINE - CANKARJEVA ULICA 23",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
-      "st": 13,
+      "st": 11,
       "naz": "OSNOVNA ŠOLA LEDINE - CANKARJEVA ULICA 23",
       "udel": null,
       "rez": null,
@@ -222,22 +229,15 @@
       "prestetih_glasov": null
     },
     {
-      "st": 16,
-      "naz": "ZAKLONIŠČE PRISTAVA, ULICA P. TOMAŽIČA 11",
+      "st": 9,
+      "naz": "ZVEZA KULTURNIH DRUŠTEV,UL. GRADNIKOVE BRIGADE 25",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 21,
-      "naz": "ZAVOD ZA GOZDOVE, VIPAVSKA C.57, ROŽNA DOLINA",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 9,
-      "naz": "ZVEZA KULTURNIH DRUŠTEV,UL. GRADNIKOVE BRIGADE 25",
+      "naz": "ŽELVA D.O.O. - VDC, AJŠEVICA 42",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -419,8 +419,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-19T13:23:42.6575185+02:00",
-    "datum": "2022-04-19T13:20:00+02:00",
+    "timestamp": "2022-04-22T07:23:08.9829016+02:00",
+    "datum": "2022-04-22T07:20:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": false,
     "has_rezultat": false,

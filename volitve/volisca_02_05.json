@@ -6,7 +6,7 @@
   "vol": [
     {
       "st": 33,
-      "naz": "BABIČI - VAŠKA  DVORANA",
+      "naz": "BABIČI - GASILSKI DOM",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -20,20 +20,13 @@
     },
     {
       "st": 4,
-      "naz": "BERTOKI -SEDEŽ KS",
+      "naz": "BERTOKI- SEDEŽ KS",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 16,
-      "naz": "BEZOVICA - DVORANA",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 17,
       "naz": "BEZOVICA - DVORANA",
       "udel": null,
       "rez": null,
@@ -117,6 +110,13 @@
       "prestetih_glasov": null
     },
     {
+      "st": 21,
+      "naz": "GRAČIŠČE - KULTURNI DOM",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
       "st": 14,
       "naz": "HRASTOVLJE - VAŠKI DOM",
       "udel": null,
@@ -152,6 +152,13 @@
       "prestetih_glasov": null
     },
     {
+      "st": 17,
+      "naz": "LOKA - POMOŽNI OBJEKT",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
       "st": 34,
       "naz": "LOPAR - KULTURNI DOM",
       "udel": null,
@@ -173,36 +180,15 @@
       "prestetih_glasov": null
     },
     {
-      "st": 43,
-      "naz": "O.Š.  ŠKOFIJE",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 5,
-      "naz": "O.Š. PRADE",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 45,
-      "naz": "O.Š. ŠKOFIJE",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 46,
-      "naz": "O.Š. ŠKOFIJE",
+      "st": 36,
+      "naz": "NARODNI DOM POBEGI",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 10,
-      "naz": "OSP - KULTURNI DOM",
+      "naz": "OSP - DVORANA",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -229,13 +215,6 @@
       "prestetih_glasov": null
     },
     {
-      "st": 57,
-      "naz": "OŠ ELVIRE VATOVEC - PODRUŽNICA SV. ANTON",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
       "st": 38,
       "naz": "OŠ ELVIRE VATOVEC - PODRUŽNICA SV. ANTON",
       "udel": null,
@@ -243,8 +222,15 @@
       "prestetih_glasov": null
     },
     {
-      "st": 21,
-      "naz": "OŠ GRAČIŠČE",
+      "st": 57,
+      "naz": "OŠ ELVIRE VATOVEC - PODRUŽNICA SV. ANTON",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 5,
+      "naz": "OŠ PRADE",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -257,15 +243,8 @@
       "prestetih_glasov": null
     },
     {
-      "st": 36,
-      "naz": "POBEGI-ČEŽARJI - SEDEŽ KS",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
       "st": 37,
-      "naz": "POBEGI-ČEŽARJI - SEDEŽ KS",
+      "naz": "POBEGI - ČEŽARJI - SEDEŽ KS ",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -314,7 +293,7 @@
     },
     {
       "st": 55,
-      "naz": "RAKITOVEC - DOM KS",
+      "naz": "RAKITOVEC - SEDEŽ KS",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -322,27 +301,6 @@
     {
       "st": 8,
       "naz": "RIŽANA - VRTEC",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 39,
-      "naz": "SEDEŽ KS - MAREŽGANSKA 4",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 41,
-      "naz": "SEDEŽ KS, MAREŽGANSKA 4",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 42,
-      "naz": "SEDEŽ KS, MAREŽGANSKA 4",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -362,6 +320,41 @@
       "prestetih_glasov": null
     },
     {
+      "st": 41,
+      "naz": "SREDNJA TEHNIŠKA ŠOLA KOPER",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 42,
+      "naz": "SREDNJA TEHNIŠKA ŠOLA KOPER",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 43,
+      "naz": "ŠKOFIJE - DVORANA BURJA",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 45,
+      "naz": "ŠKOFIJE - DVORANA BURJA",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 46,
+      "naz": "ŠKOFIJE - DVORANA BURJA",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
       "st": 44,
       "naz": "ŠKOFIJE - VAŠKA HIŠA",
       "udel": null,
@@ -370,7 +363,7 @@
     },
     {
       "st": 25,
-      "naz": "TREBEŠE - ŠT. 20",
+      "naz": "TREBEŠE ŠT. 40 - LOVSKI DOM",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -392,6 +385,13 @@
     {
       "st": 53,
       "naz": "VANGANEL - SEDEŽ KS ",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 39,
+      "naz": "VANGANEL - ZADRUŽNI DOM - KONDOR",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -580,8 +580,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-19T13:23:42.6575185+02:00",
-    "datum": "2022-04-19T13:20:00+02:00",
+    "timestamp": "2022-04-22T07:23:08.9829016+02:00",
+    "datum": "2022-04-22T07:20:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": false,
     "has_rezultat": false,

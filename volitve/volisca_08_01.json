@@ -5,6 +5,13 @@
   "naz": "Lendava",
   "vol": [
     {
+      "st": 45,
+      "naz": "BENICA - V PROST. ZADRUŽNEGA DOMA V PINCE MAROFU",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
       "st": 3,
       "naz": "BREZOVICA - V PROSTORIH MEDGENERACIJSKEGA CENTRA",
       "udel": null,
@@ -47,15 +54,15 @@
       "prestetih_glasov": null
     },
     {
-      "st": 19,
-      "naz": "DOLGA VAS - VAŠKI DOM",
+      "st": 18,
+      "naz": "DOLG. GORICE-VEČNAMENSKI OBJEKT V LENDAV. GORICAH",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
-      "st": 18,
-      "naz": "DOLGOVAŠKE GORICE, V PROS. VAŠKEGA DOMA DOLGA VAS",
+      "st": 19,
+      "naz": "DOLGA VAS - VAŠKI DOM",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -118,7 +125,7 @@
     },
     {
       "st": 36,
-      "naz": "HOTIZA - STARA ŠOLA V HOTIZI",
+      "naz": "HOTIZA - ZADRUŽNI DOM V HOTIZI",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -139,7 +146,7 @@
     },
     {
       "st": 10,
-      "naz": "KOBILJE - CENTER ZA KULTURNE DEJAVNOSTI",
+      "naz": "KOBILJE - ŠPORTNO MEDGENERACIJSKI CENTER",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -160,7 +167,7 @@
     },
     {
       "st": 22,
-      "naz": "LENDAVA II - STARA DOŠ II, UL. SV. ŠTEFANA 21",
+      "naz": "LENDAVA II-CENTER ZA ZAŠČITO IN REŠEVANJE",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -174,21 +181,21 @@
     },
     {
       "st": 17,
-      "naz": "LENDAVSKE  GORICE-STARA DOŠ II,UL. SV. ŠTEFANA 21",
+      "naz": "LENDAVSKE GORICE - VEČNAMENSKI OBJEKT",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 2,
-      "naz": "MALA POLANA-V PROSTORIH MEDGENERACIJSKEGA CENTRA",
+      "naz": "MALA POLANA-MEDGENERACIJSKI CENTER (BUKOVJE)",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 24,
-      "naz": "MOSTJE - STARA ŠOLA V MOSTJU",
+      "naz": "MOSTJE - V PROSTORIH NK MOSTJE, MOSTJE 39",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -293,14 +300,14 @@
     },
     {
       "st": 43,
-      "naz": "TURNIŠČE I - OSNOVNA ŠOLA TURNIŠČE",
+      "naz": "TURNIŠČE I - VAŠKI DOM",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 47,
-      "naz": "TURNIŠČE II - VAŠKI DOM",
+      "naz": "TURNIŠČE II - OŠ TURNIŠČE",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -314,7 +321,7 @@
     },
     {
       "st": 27,
-      "naz": "ŽITKOVCI - VAŠKI DOM",
+      "naz": "ŽITKOVCI - VAŠKO GASILSKI DOM",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -503,8 +510,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-19T13:23:42.6575185+02:00",
-    "datum": "2022-04-19T13:20:00+02:00",
+    "timestamp": "2022-04-22T07:23:08.9829016+02:00",
+    "datum": "2022-04-22T07:20:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": false,
     "has_rezultat": false,

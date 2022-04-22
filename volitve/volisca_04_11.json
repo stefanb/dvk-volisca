@@ -61,20 +61,6 @@
       "prestetih_glasov": null
     },
     {
-      "st": 18,
-      "naz": "OSNOVNA ŠOLA MENGEŠ I, ŠOLSKA ULICA 11, MENGEŠ",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 19,
-      "naz": "OSNOVNA ŠOLA MENGEŠ II, ŠOLSKA ULICA 11, MENGEŠ",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
       "st": 4,
       "naz": "OSNOVNA ŠOLA ROJE, KETTEJEVA ULICA 15, DOMŽALE",
       "udel": null,
@@ -133,6 +119,20 @@
     {
       "st": 5,
       "naz": "SREDNJA ŠOLA DOMŽALE - GIMNAZIJA, CESTA TALCEV 12",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 18,
+      "naz": "ŠPORTNA DVORANA MENGEŠ I, ŠOLSKA ULICA 13, MENGEŠ",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 19,
+      "naz": "ŠPORTNA DVORANA MENGEŠ II, ŠOLSKA ULICA 13,MENGEŠ",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -354,8 +354,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-19T13:23:42.6575185+02:00",
-    "datum": "2022-04-19T13:20:00+02:00",
+    "timestamp": "2022-04-22T07:23:08.9829016+02:00",
+    "datum": "2022-04-22T07:20:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": false,
     "has_rezultat": false,

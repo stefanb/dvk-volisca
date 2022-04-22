@@ -75,13 +75,6 @@
       "prestetih_glasov": null
     },
     {
-      "st": 4,
-      "naz": "DOM KRAJANOV MČPTUJ,DVORIŠČNI OBJ.POTRČEVA C.34",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
       "st": 28,
       "naz": "DOM KRAJANOV SKORBA, SKORBA 36A",
       "udel": null,
@@ -104,7 +97,7 @@
     },
     {
       "st": 22,
-      "naz": "DRUŠTVO UPO. IVANA SPOLENJAKA, ZADRUŽNI TRG 12 A",
+      "naz": "DU IVAN RUDOLF BREG-PTUJ, ZADRUŽNI TRG 12 A",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -196,6 +189,13 @@
     {
       "st": 19,
       "naz": "VEČNAMENSKA DVORANA SPUHLJA, SPUHLJA 12 A",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 4,
+      "naz": "VRTEC PTUJ, ENOTA MAČICE, POTRČEVA CESTA 9 A",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -398,8 +398,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-19T13:23:42.6575185+02:00",
-    "datum": "2022-04-19T13:20:00+02:00",
+    "timestamp": "2022-04-22T07:23:08.9829016+02:00",
+    "datum": "2022-04-22T07:20:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": false,
     "has_rezultat": false,

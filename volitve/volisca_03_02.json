@@ -19,8 +19,22 @@
       "prestetih_glasov": null
     },
     {
+      "st": 28,
+      "naz": "DOM GASILCEV IN KRAJANOV PADEŽ,POKOJIŠČE IN ZAVRH",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
       "st": 6,
       "naz": "DOM KRAJANOV DOL-LAZE",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 18,
+      "naz": "DOM KRAJANOV DRAGOMER, NA GRIVI 5, DRAGOMER ",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -61,13 +75,6 @@
       "prestetih_glasov": null
     },
     {
-      "st": 7,
-      "naz": "GASILSKI DOM BREZOVICA PRI BOROVNICI",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
       "st": 20,
       "naz": "GASILSKI DOM DRENOV GRIČ",
       "udel": null,
@@ -76,7 +83,7 @@
     },
     {
       "st": 24,
-      "naz": "GASILSKI DOM LIGOJNA, MALA LIGOJNA 18",
+      "naz": "GASILSKI DOM LIGOJNA",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -118,14 +125,14 @@
     },
     {
       "st": 12,
-      "naz": "GASILSKI DOM VRHNIKA, JELOVŠKOVA CESTA",
+      "naz": "GASILSKI DOM VRHNIKA, JELOVŠKOVA ULICA 3",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
-      "st": 28,
-      "naz": "GOSTILNA NA POKOJIŠČU",
+      "st": 29,
+      "naz": "GD DRAGOMER-LUKOVICA, NA GRIVI 5, DRAGOMER",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -133,13 +140,6 @@
     {
       "st": 30,
       "naz": "GOSTILNA TURŠIČ, VOLJČEVA CESTA 3",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 26,
-      "naz": "KS BLATNA BREZOVICA (OB BIVŠI TRGOVINI)",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -166,13 +166,6 @@
       "prestetih_glasov": null
     },
     {
-      "st": 18,
-      "naz": "OBČINA LOG-DRAGOMER",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
       "st": 2,
       "naz": "OSNOVNA ŠOLA BOROVNICA",
       "udel": null,
@@ -181,7 +174,7 @@
     },
     {
       "st": 10,
-      "naz": "OSNOVNA ŠOLA IVAN CANKAR, LOŠCA 1",
+      "naz": "OSNOVNA ŠOLA IVANA CANKARJA, LOŠCA 1",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -194,22 +187,29 @@
       "prestetih_glasov": null
     },
     {
-      "st": 29,
-      "naz": "OSNOVNA ŠOLA LOG DRAGOMER",
+      "st": 31,
+      "naz": "OŠ A.M. SLOMŠKA, POD HRUŠEVCO 33, VRHNIKA",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
-      "st": 31,
-      "naz": "OŠ ANTONA MARTINA SLOMŠKA,POD HRUŠEVCO 33,VRHNIKA",
+      "st": 26,
+      "naz": "PROSTORI KS BLATNA BREZOVICA (OB BIVŠI TRGOVINI)",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 7,
+      "naz": "ST.HIŠA J.KOROŠEC, BREZOVICA PRI BOROVNICI 10A",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 15,
-      "naz": "ŽUPNIJSKI VRTEC VRHNIKA, HRIB 2,  VRHNIKA",
+      "naz": "ŽUPNIJSKI VRTEC VRHNIKA, HRIB 2, VRHNIKA",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -389,8 +389,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-19T13:23:42.6575185+02:00",
-    "datum": "2022-04-19T13:20:00+02:00",
+    "timestamp": "2022-04-22T07:23:08.9829016+02:00",
+    "datum": "2022-04-22T07:20:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": false,
     "has_rezultat": false,

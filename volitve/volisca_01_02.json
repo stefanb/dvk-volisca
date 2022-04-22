@@ -96,13 +96,6 @@
       "prestetih_glasov": null
     },
     {
-      "st": 9,
-      "naz": "GORJANSKI DOM, ZG. GORJE 46, ZG. GORJE",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
       "st": 7,
       "naz": "GOSTILNA KUNAVC, KRNICA 21, ZG. GORJE",
       "udel": null,
@@ -166,15 +159,22 @@
       "prestetih_glasov": null
     },
     {
-      "st": 26,
-      "naz": "PRI ZDENKI PLATIŠA,PODJELJE 15 A,SR.VAS V BOHINJU",
+      "st": 9,
+      "naz": "OSNOVNA ŠOLA GORJE, ZG. GORJE 44A, ZG. GORJE",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 28,
-      "naz": "TRGOVINA STUDOR, STUDOR V BOHINJU 48, SR.VAS V B.",
+      "naz": "PRI MILANU TALERJU,STUDOR V BOHINJU 5A,SR.VAS V B",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 26,
+      "naz": "PRI ZDENKI PLATIŠA,PODJELJE 15 A,SR.VAS V BOHINJU",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -377,8 +377,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-19T13:23:42.6575185+02:00",
-    "datum": "2022-04-19T13:20:00+02:00",
+    "timestamp": "2022-04-22T07:23:08.9829016+02:00",
+    "datum": "2022-04-22T07:20:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": false,
     "has_rezultat": false,

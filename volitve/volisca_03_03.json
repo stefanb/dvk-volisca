@@ -5,22 +5,22 @@
   "naz": "Ljubljana Vič - Rudnik 1",
   "vol": [
     {
-      "st": 14,
-      "naz": "\"DRUŽABNI OBJEKT\"\"SENOŽETKA\"\", IŠKA LOKA\"",
+      "st": 30,
+      "naz": "\"SKEDENJ\"PIJAVA GORICA,GASILSKA ULICA, ŠKOFLJICA",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
-      "st": 30,
-      "naz": "\"OBJEKT\"\"SKEDENJ\"\" PIJAVA GORICA, PIJAVA GORICA\"",
+      "st": 41,
+      "naz": "DOM KRAJANOV VNANJE GORICE, NOVA POT 5, BREZOVICA",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 10,
-      "naz": "DOM KRAJANOV VNANJE GORICE, NOVA POT 5",
+      "naz": "DOM KRAJANOV VNANJE GORICE, NOVA POT 5, BREZOVICA",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -28,6 +28,13 @@
     {
       "st": 32,
       "naz": "DRUŠTVENI PROSTORI GRADIŠČE, GRADIŠČE, ŠKOFLJICA",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 14,
+      "naz": "DRUŽABNI OBJEKT\"SENOŽETKA\", IŠKA LOKA",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -110,20 +117,6 @@
       "prestetih_glasov": null
     },
     {
-      "st": 18,
-      "naz": "MOBILNO VOLIŠČE NA IGRIŠČU BREST",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 19,
-      "naz": "MOBILNO VOLIŠČE NA IGRIŠČU TOMIŠELJ",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
       "st": 12,
       "naz": "NOVI GASILSKI DOM IG, GASILSKA ULICA 39",
       "udel": null,
@@ -196,6 +189,20 @@
     {
       "st": 13,
       "naz": "PGD KOT, 1292 IG",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 18,
+      "naz": "PODRUŽNIČNA OŠ TOMIŠELJ, TOMIŠELJ 30, IG",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 19,
+      "naz": "PODRUŽNIČNA OŠ TOMIŠELJ, TOMIŠELJ 30, IG",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -396,8 +403,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-19T13:23:42.6575185+02:00",
-    "datum": "2022-04-19T13:20:00+02:00",
+    "timestamp": "2022-04-22T07:23:08.9829016+02:00",
+    "datum": "2022-04-22T07:20:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": false,
     "has_rezultat": false,

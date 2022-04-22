@@ -5,13 +5,6 @@
   "naz": "Slovenske Konjice",
   "vol": [
     {
-      "st": 32,
-      "naz": "\"\"MOBILNO VOLIŠČE PRI SLAPERNIKU\"\" PAKA, VITANJE\"",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
       "st": 30,
       "naz": "BRODEJ JOŽE, BREZEN 55, VITANJE",
       "udel": null,
@@ -19,8 +12,15 @@
       "prestetih_glasov": null
     },
     {
+      "st": 32,
+      "naz": "CENTER NOORDUNG, NA VASI 18, VITANJE",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
       "st": 39,
-      "naz": "CENTER ŠOLSKIH IN OBŠOLSKIH DEJAVNOSTI GORENJE, Z",
+      "naz": "CENTER ŠOLSKIH IN OBŠOLSKIH DEJAV. GORENJE, ZREČE",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -160,7 +160,7 @@
     },
     {
       "st": 31,
-      "naz": "KOVŠE ŠTEFAN, PAKA 40, VITANJE",
+      "naz": "KOVŠE \"PRI VOLAVCU\", PAKA 40, VITANJE",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -174,7 +174,7 @@
     },
     {
       "st": 28,
-      "naz": "KUŠAR ALOJZ, STENICA 44, VITANJE",
+      "naz": "KUŠAR ZDENKO, STENICA 44, VITANJE",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -265,7 +265,7 @@
     },
     {
       "st": 3,
-      "naz": "ZOBOZDRAVSTVENI ZAVOD VERTAČNIK (ČAKALNICA)",
+      "naz": "ZZ VERTAČNIK,DOBRAVA PRI KONJICAH 3B,SLOV.KONJICE",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -447,8 +447,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-19T13:23:42.6575185+02:00",
-    "datum": "2022-04-19T13:20:00+02:00",
+    "timestamp": "2022-04-22T07:23:08.9829016+02:00",
+    "datum": "2022-04-22T07:20:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": false,
     "has_rezultat": false,

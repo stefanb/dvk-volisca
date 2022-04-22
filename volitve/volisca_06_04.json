@@ -27,7 +27,7 @@
     },
     {
       "st": 36,
-      "naz": "DOM STAREJŠIH OBČANOV TREBNJE",
+      "naz": "DOM STAREJŠIH OBČANOV, STARI TRG 63, TREBNJE",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -70,13 +70,6 @@
     {
       "st": 22,
       "naz": "GASILNI DOM LOG",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 7,
-      "naz": "GASILNI DOM LUKOVEK",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -153,7 +146,7 @@
     },
     {
       "st": 37,
-      "naz": "GOSTILNA MEGLIČ, OBRTNIŠKA ULICA 2",
+      "naz": "GOSTILNA MEGLIČ, OBRTNIŠKA 2, TREBNJE",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -208,22 +201,15 @@
       "prestetih_glasov": null
     },
     {
-      "st": 27,
-      "naz": "KULTURNI DOM ŠENTRUPERT I.",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 28,
-      "naz": "KULTURNI DOM ŠENTRUPERT II.",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
       "st": 39,
       "naz": "KULTURNI DOM VELIKA LOKA",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 7,
+      "naz": "NOVI GASILSKI DOM LUKOVEK",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -238,6 +224,20 @@
     {
       "st": 13,
       "naz": "OSNOVNA ŠOLA MIRNA II.",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 27,
+      "naz": "OŠ DR. PAVLA LUNAČKA ŠENTRUPERT, ŠENTRUPERT I",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 28,
+      "naz": "OŠ DR. PAVLA LUNAČKA ŠENTRUPERT, ŠENTRUPERT II",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -473,8 +473,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-19T13:23:42.6575185+02:00",
-    "datum": "2022-04-19T13:20:00+02:00",
+    "timestamp": "2022-04-22T07:23:08.9829016+02:00",
+    "datum": "2022-04-22T07:20:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": false,
     "has_rezultat": false,

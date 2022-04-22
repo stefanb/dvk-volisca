@@ -19,14 +19,14 @@
       "prestetih_glasov": null
     },
     {
-      "st": 22,
+      "st": 23,
       "naz": "DOM KULTURE NAZARJE, SAVINJSKA CESTA 2",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
-      "st": 20,
+      "st": 21,
       "naz": "GASILSKI DOM LAČJA VAS, LAČJA VAS 8",
       "udel": null,
       "rez": null,
@@ -40,7 +40,7 @@
       "prestetih_glasov": null
     },
     {
-      "st": 19,
+      "st": 20,
       "naz": "GASILSKI DOM SPODNJE POBREŽJE, SPODNJE POBREŽJE 2",
       "udel": null,
       "rez": null,
@@ -138,7 +138,7 @@
       "prestetih_glasov": null
     },
     {
-      "st": 21,
+      "st": 22,
       "naz": "ŠOLA ŠMARTNO OB DRETI, ŠMARTNO OB DRETI 27",
       "udel": null,
       "rez": null,
@@ -152,8 +152,15 @@
       "prestetih_glasov": null
     },
     {
+      "st": 19,
+      "naz": "TEHNIČNO PREGLEDNI CENTER A.M. MIKLAVC",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
       "st": 13,
-      "naz": "UPRAV. C. MOZIRJE, SEJNA SOBA OBČINE, ŠMIHELSKA 2",
+      "naz": "UPRAV. C. MOZIRJE (SEJNA SOBA OBČINE), ŠMIHELSKA ",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -333,8 +340,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-19T13:23:42.6575185+02:00",
-    "datum": "2022-04-19T13:20:00+02:00",
+    "timestamp": "2022-04-22T07:23:08.9829016+02:00",
+    "datum": "2022-04-22T07:20:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": false,
     "has_rezultat": false,

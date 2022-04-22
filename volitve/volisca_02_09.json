@@ -5,13 +5,6 @@
   "naz": "Nova Gorica 1",
   "vol": [
     {
-      "st": 4,
-      "naz": "\"ŠPORTNO IGRIŠČE \"\"ČELO\"\", HRUŠEVLJE\"",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
       "st": 53,
       "naz": "AVTOBUSNA ČAKALNICA, BATE",
       "udel": null,
@@ -35,13 +28,6 @@
     {
       "st": 56,
       "naz": "BIVŠA OŠ, LOKVE 30",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 57,
-      "naz": "BIVŠA OŠ, OSEK 73",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -110,8 +96,8 @@
       "prestetih_glasov": null
     },
     {
-      "st": 28,
-      "naz": "GASILSKI DOM KANAL, GRADNIKOVA ULICA 13A, KANAL",
+      "st": 36,
+      "naz": "HIŠA DOBRE VOLJE (PRITLIČJE), MIREN 138",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -126,13 +112,6 @@
     {
       "st": 26,
       "naz": "INFORMACIJSKA TOČKA PRI JEZERU, KANALSKI VRH",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 9,
-      "naz": "KOJSKO 15",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -180,15 +159,15 @@
       "prestetih_glasov": null
     },
     {
-      "st": 63,
-      "naz": "KULTURNI DOM, ŠEMPAS 29",
+      "st": 35,
+      "naz": "KULTURNI DOM, KOSTANJEVICA NA KRASU 75",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
-      "st": 49,
-      "naz": "MARKET GREGORIČ, ZALOŠČE 34C",
+      "st": 63,
+      "naz": "KULTURNI DOM, ŠEMPAS 29",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -215,8 +194,22 @@
       "prestetih_glasov": null
     },
     {
+      "st": 49,
+      "naz": "OŠ DORNBERK, GREGORČIČEVA UL. 30A",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 28,
+      "naz": "OŠ KANAL - VOLIŠČE ŠT. 1, GRADNIKOVA UL. 25",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
       "st": 29,
-      "naz": "OŠ KANAL (VHOD V ŠD), GRADNIKOVA UL. 25",
+      "naz": "OŠ KANAL - VOLIŠČE ŠT. 2, GRADNIKOVA UL. 25",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -236,15 +229,15 @@
       "prestetih_glasov": null
     },
     {
-      "st": 24,
-      "naz": "PROSTOR TR DRUŠTVO GLOBOČAK, KAMBREŠKO 12",
+      "st": 22,
+      "naz": "PROSTOR PGD AVČE, AVČE 26",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
-      "st": 22,
-      "naz": "PROSTORI PGD AVČE, AVČE 26",
+      "st": 24,
+      "naz": "PROSTOR TR DRUŠTVO GLOBOČAK, KAMBREŠKO 12",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -271,15 +264,15 @@
       "prestetih_glasov": null
     },
     {
-      "st": 35,
-      "naz": "SEDEŽ KS, KOSTANJEVICA NA KRASU 75",
+      "st": 38,
+      "naz": "SEDEŽ KS, OPATJE SELO 14",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
-      "st": 38,
-      "naz": "SEDEŽ KS, OPATJE SELO 14",
+      "st": 57,
+      "naz": "SEDEŽ KS, OSEK 46F",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -294,13 +287,6 @@
     {
       "st": 64,
       "naz": "SEDEŽ KS, TRNOVO 39",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 36,
-      "naz": "SEDEŽ OBČINE, MIREN 137",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -341,6 +327,13 @@
       "prestetih_glasov": null
     },
     {
+      "st": 4,
+      "naz": "ŠPORTNO IGRIŠČE \"ČELO\", HRUŠEVLJE",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
       "st": 19,
       "naz": "ŠPORTNO REKREATIVNO DRUŠTVO LOŽICE, LOŽICE 8",
       "udel": null,
@@ -357,13 +350,6 @@
     {
       "st": 10,
       "naz": "VAŠKI DOM, VRHOVLJE PRI KOJSKEM 18",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 5,
-      "naz": "VAŠKI PROSTOR- ŽUPNIŠČE, VIPOLŽE 59",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -399,6 +385,20 @@
     {
       "st": 6,
       "naz": "VEČNAMENSKI PROSTOR, KOZANA 59",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 5,
+      "naz": "VILA VIPOLŽE, VIPOLŽE 29",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 9,
+      "naz": "VRTEC KOJSKO, KOJSKO 69",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -629,8 +629,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-19T13:23:42.6575185+02:00",
-    "datum": "2022-04-19T13:20:00+02:00",
+    "timestamp": "2022-04-22T07:23:08.9829016+02:00",
+    "datum": "2022-04-22T07:20:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": false,
     "has_rezultat": false,

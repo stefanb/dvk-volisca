@@ -117,6 +117,13 @@
       "prestetih_glasov": null
     },
     {
+      "st": 42,
+      "naz": "PRI CIMERMAN JANKU, ŠARDINJE 54A",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
       "st": 8,
       "naz": "PRI GORJAK ZORICA, STANOVNO 47",
       "udel": null,
@@ -126,13 +133,6 @@
     {
       "st": 18,
       "naz": "PRI JANEŽIČ AVGUSTU, VELIKI BREBROVNIK 41",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 2,
-      "naz": "PRI KOSEC ALOJZU, SVETINJE 11",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -161,13 +161,6 @@
     {
       "st": 5,
       "naz": "PRI PETEK NIVES, CEROVEC STANKA VRAZA 31",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 42,
-      "naz": "PRI STANKU PETEK, ŠARDINJE 16A",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -266,13 +259,6 @@
     {
       "st": 38,
       "naz": "V DOMU MEDOB.ZVEZE UPOKOJ. ORMOŽ,DR.HROVATA 8",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 21,
-      "naz": "V GASILSKEM DOMU SREDIŠČE OB DRAVI, TRG TALCEV 3",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -531,8 +517,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-19T13:23:42.6575185+02:00",
-    "datum": "2022-04-19T13:20:00+02:00",
+    "timestamp": "2022-04-22T07:23:08.9829016+02:00",
+    "datum": "2022-04-22T07:20:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": false,
     "has_rezultat": false,

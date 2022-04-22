@@ -5,8 +5,15 @@
   "naz": "Logatec",
   "vol": [
     {
-      "st": 41,
-      "naz": "BARAGA SEBASTIJAN, KOZARIŠČE 23",
+      "st": 20,
+      "naz": "ANA ŽNIDARŠIČ, BLOČICE 5",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 35,
+      "naz": "BRUNARICA NA OVINKU GREAREVEC 2A",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -103,6 +110,13 @@
       "prestetih_glasov": null
     },
     {
+      "st": 40,
+      "naz": "GOSTIŠČE MLAKAR, MARKOVEC 15A",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
       "st": 49,
       "naz": "KRAŠEVEC BOJAN, STUDENEC NA BLOKAH 12A",
       "udel": null,
@@ -180,22 +194,8 @@
       "prestetih_glasov": null
     },
     {
-      "st": 48,
-      "naz": "PAVLIČ JOŽE, RAVNIK 5",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
       "st": 7,
       "naz": "PISARNA KRAJEVNEGA URADA RAKEK",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 40,
-      "naz": "POSL. PROSTORI MARKOVEC 1B (DARIJA TIŠLER)",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -243,13 +243,6 @@
       "prestetih_glasov": null
     },
     {
-      "st": 35,
-      "naz": "PRENOČIŠČA ŽIGON",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
       "st": 1,
       "naz": "STAVBA OBČINE CERKNICA, CESTA 4.MAJA 53",
       "udel": null,
@@ -258,7 +251,7 @@
     },
     {
       "st": 2,
-      "naz": "STAVBA UPRAVNE ENOTE CERKNICA, CESTA.4.MAJA 24",
+      "naz": "STAVBA UPRAVNE ENOTE CERKNICA, CESTA 4. MAJA 24",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -266,13 +259,6 @@
     {
       "st": 23,
       "naz": "ŠOLA LOG, ZAPLANA",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 20,
-      "naz": "ŠTRITOF STANE, BLOČICE 32",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -292,6 +278,13 @@
       "prestetih_glasov": null
     },
     {
+      "st": 47,
+      "naz": "VEČNAMENSKI OBJEKT SVETA TROJICA",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
       "st": 43,
       "naz": "VEČNAMENSKI OBJEKT-BIVŠA POŠ BABNO POLJE",
       "udel": null,
@@ -306,28 +299,7 @@
       "prestetih_glasov": null
     },
     {
-      "st": 46,
-      "naz": "ZIDAR MITJA, SVETI DUH 3",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 47,
-      "naz": "ŽUPNIŠČE ŽUPNIJE SVETA TROJICA, SVETA TROJICA 4",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
       "st": 901,
-      "naz": "PREDČASNO GLASOVANJE",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 902,
       "naz": "PREDČASNO GLASOVANJE",
       "udel": null,
       "rez": null,
@@ -501,8 +473,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-19T13:23:42.6575185+02:00",
-    "datum": "2022-04-19T13:20:00+02:00",
+    "timestamp": "2022-04-22T07:23:08.9829016+02:00",
+    "datum": "2022-04-22T07:20:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": false,
     "has_rezultat": false,

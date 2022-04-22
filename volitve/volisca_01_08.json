@@ -12,15 +12,15 @@
       "prestetih_glasov": null
     },
     {
-      "st": 2,
-      "naz": "GASILSKI DOM VIRMAŠE, VIRMAŠE 14, ŠKOFJA LOKA",
+      "st": 6,
+      "naz": "GASILSKI DOM ŠKOFJA LOKA, STUDENEC 5",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
-      "st": 10,
-      "naz": "GORENJSKA PREDILNICA,KIDRIČEVA C. 75, ŠKOFJA LOKA",
+      "st": 2,
+      "naz": "GASILSKI DOM VIRMAŠE, VIRMAŠE 14, ŠKOFJA LOKA",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -89,6 +89,13 @@
       "prestetih_glasov": null
     },
     {
+      "st": 10,
+      "naz": "OŠ CVETKO GOLAR III., FRANKOVO NASELJE 51,ŠK.LOKA",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
       "st": 12,
       "naz": "OŠ IVANA GROHARJA, PODLUBNIK 1, ŠKOFJA LOKA",
       "udel": null,
@@ -98,6 +105,13 @@
     {
       "st": 4,
       "naz": "OŠ ŠKOFJA LOKA-MESTO, ŠOLSKA ULICA 1, ŠK. LOKA",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 5,
+      "naz": "PROSTORI DRUŠTVA UPOKOJENCEV,PARTIZANSKA C.1,Š.L.",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -132,7 +146,7 @@
     },
     {
       "st": 18,
-      "naz": "VDC KRANJ, ENOTA ŠKOFJA LOKA, STARA LOKA 31A",
+      "naz": "TRŽNICA ŠKOFJA LOKA, PARTIZANSKA CESTA 1, ŠK.LOKA",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -147,20 +161,6 @@
     {
       "st": 22,
       "naz": "ZADRUŽNI DOM ZMINEC, ZMINEC 35, ŠKOFJA LOKA",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 5,
-      "naz": "ZAVOD 0-BIVŠA VOJAŠNICA,PARTIZANSKA C.1A,ŠK.LOKA",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 6,
-      "naz": "ZDRAVSTVENI DOM, STARA CESTA 10, ŠKOFJA LOKA",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -342,8 +342,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-19T13:23:42.6575185+02:00",
-    "datum": "2022-04-19T13:20:00+02:00",
+    "timestamp": "2022-04-22T07:23:08.9829016+02:00",
+    "datum": "2022-04-22T07:20:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": false,
     "has_rezultat": false,

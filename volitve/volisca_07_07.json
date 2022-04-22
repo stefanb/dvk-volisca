@@ -40,20 +40,6 @@
       "prestetih_glasov": null
     },
     {
-      "st": 18,
-      "naz": "HIŠA DRUŽENJA, MELJSKA 37",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 21,
-      "naz": "KS PERNICA, PERNICA 8",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
       "st": 6,
       "naz": "KULTURNI DOM KORENA, ZG.KORENA 38",
       "udel": null,
@@ -68,6 +54,13 @@
       "prestetih_glasov": null
     },
     {
+      "st": 8,
+      "naz": "MČ BREZJE, NA TRATI 2",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
       "st": 2,
       "naz": "OBČINA DUPLEK, TRG SLOVENSKE OSAMOSVOJITVE 1",
       "udel": null,
@@ -77,13 +70,6 @@
     {
       "st": 3,
       "naz": "OSNOVNA ŠOLA DVORJANE, DVORJANE 15",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 8,
-      "naz": "OŠ DRAGA KOBALA, NA TRATI 4",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -140,6 +126,13 @@
     {
       "st": 5,
       "naz": "VEČNAMENSKI PROSTOR PRI IGRIŠČU ZIMICA 46C",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 18,
+      "naz": "WALDORFSKI VRTEC, WILSONOVA 18",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -321,8 +314,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-19T13:23:42.6575185+02:00",
-    "datum": "2022-04-19T13:20:00+02:00",
+    "timestamp": "2022-04-22T07:23:08.9829016+02:00",
+    "datum": "2022-04-22T07:20:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": false,
     "has_rezultat": false,

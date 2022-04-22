@@ -33,6 +33,13 @@
       "prestetih_glasov": null
     },
     {
+      "st": 10,
+      "naz": "GORNJA RADGONA - ANDY BAR (PRI MIČU-TISK)",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
       "st": 13,
       "naz": "GORNJA RADGONA - GASILSKI DOM",
       "udel": null,
@@ -42,13 +49,6 @@
     {
       "st": 12,
       "naz": "GORNJA RADGONA - KULTURNI DOM (KINODVORANA)",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 10,
-      "naz": "GORNJA RADGONA - PRI MIČU-TISK, LJUTOMERSKA C. 6",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -160,7 +160,7 @@
     },
     {
       "st": 6,
-      "naz": "SPODNJA ŠČAVNICA - DOM OBČANOV-PISARNA KS",
+      "naz": "SPODNJA ŠČAVNICA - DOM OBČANOV",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -188,7 +188,7 @@
     },
     {
       "st": 24,
-      "naz": "SVETI JURIJ OB ŠČAVNICI - SEDEŽ OBČINE",
+      "naz": "SVETI JURIJ OB ŠČAVNICI - BIVŠI PROSTORI OBČINE",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -384,8 +384,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-19T13:23:42.6575185+02:00",
-    "datum": "2022-04-19T13:20:00+02:00",
+    "timestamp": "2022-04-22T07:23:08.9829016+02:00",
+    "datum": "2022-04-22T07:20:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": false,
     "has_rezultat": false,

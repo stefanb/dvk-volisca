@@ -19,8 +19,57 @@
       "prestetih_glasov": null
     },
     {
+      "st": 42,
+      "naz": "DVORANA METELKOVEGA DOMA - ŠKOCJAN 35",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 44,
+      "naz": "GASILSKI DOM - DOBRAVA PRI ŠKOCJANU 59",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 41,
+      "naz": "GASILSKI DOM - DOLENJE DOLE 24B",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 43,
+      "naz": "GASILSKI DOM - GRMOVLJE 28",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 45,
+      "naz": "GASILSKI DOM - TOMAŽJA VAS 35",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 40,
+      "naz": "GASILSKI DOM - ZAGRAD 36",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
       "st": 15,
       "naz": "GASILSKI DOM BREG",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 16,
+      "naz": "GASILSKI DOM LOKA PRI ZIDANEM MOSTU",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -174,7 +223,7 @@
     },
     {
       "st": 38,
-      "naz": "PODGORJE OB SEVNIČNI 9 - KAROLINA ŽUPEVC",
+      "naz": "PODGORJE OB SEVNIČNI 17B, JANEZ PODLESNIK",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -196,13 +245,6 @@
     {
       "st": 13,
       "naz": "SEJNA SOBA OBČINE SEVNICA",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 16,
-      "naz": "TRUBARJEV DOM UPOKOJENCEV LOKA PRI ZIDANEM MOSTU",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -452,8 +494,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-19T13:23:42.6575185+02:00",
-    "datum": "2022-04-19T13:20:00+02:00",
+    "timestamp": "2022-04-22T07:23:08.9829016+02:00",
+    "datum": "2022-04-22T07:20:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": false,
     "has_rezultat": false,

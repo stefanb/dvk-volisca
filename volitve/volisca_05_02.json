@@ -26,6 +26,13 @@
       "prestetih_glasov": null
     },
     {
+      "st": 6,
+      "naz": "DVORANA KS TEHARJE, TEHARJE 14",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
       "st": 40,
       "naz": "GASILSKI DOM FRANKOLOVO,STRAŽICA 2",
       "udel": null,
@@ -62,14 +69,7 @@
     },
     {
       "st": 24,
-      "naz": "GASILSKI DOM PROŽINSKA VAS",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 45,
-      "naz": "GASILSKI DOM SOCKA",
+      "naz": "GASILSKI DOM PROŽINSKA VAS,PROŽINSKA VAS 33,ŠTORE",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -83,7 +83,7 @@
     },
     {
       "st": 30,
-      "naz": "GOBEC DRAGO, ŠENTJANŽ",
+      "naz": "GOBEC DRAGO, ŠENTJANŽ NAD ŠTORAMI 26",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -110,13 +110,6 @@
       "prestetih_glasov": null
     },
     {
-      "st": 44,
-      "naz": "IZLETNIŠKA KMETIJA PRI MARKU, NOVA CERKEV 23",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
       "st": 38,
       "naz": "KARO JANEZ, LINDEK 7 ",
       "udel": null,
@@ -132,7 +125,7 @@
     },
     {
       "st": 36,
-      "naz": "KRAČUN MARTIN, BEZENŠKOVO BUKOVJE 9 ",
+      "naz": "KRAČUN MARTIN, BEZENŠKOVO BUKOVJE 9 A",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -153,7 +146,7 @@
     },
     {
       "st": 29,
-      "naz": "KULTURNI DOM ŠTORE, CESTA XIV. DIVIZIJE 15, ŠTORE",
+      "naz": "KULTURNI DOM ŠTORE, CESTA XIV. DIVIZIJE 29, ŠTORE",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -173,6 +166,13 @@
       "prestetih_glasov": null
     },
     {
+      "st": 64,
+      "naz": "OSNOVNA ŠOLA DOBRNA",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
       "st": 1,
       "naz": "OSNOVNA ŠOLA HUDINJA",
       "udel": null,
@@ -181,7 +181,7 @@
     },
     {
       "st": 25,
-      "naz": "OSNOVNA ŠOLA KOMPOLE 31",
+      "naz": "OSNOVNA ŠOLA KOMPOLE, KOMPOLE 92,ŠTORE",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -189,6 +189,13 @@
     {
       "st": 7,
       "naz": "OSNOVNA ŠOLA LAVA",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 45,
+      "naz": "OSNOVNA ŠOLA SOCKA, SOCKA 70",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -223,14 +230,7 @@
     },
     {
       "st": 5,
-      "naz": "OSTROŽNIK - HORVAT KARINA, BUKOVŽLAK 51",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 6,
-      "naz": "SEDEŽ KS TEHARJE, TEHARJE 56",
+      "naz": "OSTROŽNIK - HORVAT KARINA, BUKOVŽLAK 51 A",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -250,13 +250,6 @@
       "prestetih_glasov": null
     },
     {
-      "st": 64,
-      "naz": "ŠPEGEL JOŽE, STRMEC 1",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
       "st": 21,
       "naz": "ŠPORTNO DRUŠTVO ZAČRET",
       "udel": null,
@@ -264,15 +257,15 @@
       "prestetih_glasov": null
     },
     {
-      "st": 27,
-      "naz": "ŠUHEL DANIEL, PEČOVJE 23",
+      "st": 26,
+      "naz": "ŠUHEL PAVEL, LAŠKA VAS 41, ŠTORE",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
-      "st": 26,
-      "naz": "ŠUHEL PAVEL, LAŠKA VAS 41",
+      "st": 44,
+      "naz": "VEČNAMENSKA DVORANA POŠ NOVA CERKEV,NOVA CERKEV41",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -287,6 +280,13 @@
     {
       "st": 58,
       "naz": "ZDRAVSTVENI DOM DOBRNA",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 27,
+      "naz": "ZLATKO CMOK, PEČOVJE 4A, ŠTORE",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -466,8 +466,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-19T13:23:42.6575185+02:00",
-    "datum": "2022-04-19T13:20:00+02:00",
+    "timestamp": "2022-04-22T07:23:08.9829016+02:00",
+    "datum": "2022-04-22T07:20:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": false,
     "has_rezultat": false,

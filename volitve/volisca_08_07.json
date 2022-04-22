@@ -54,20 +54,6 @@
       "prestetih_glasov": null
     },
     {
-      "st": 8,
-      "naz": "KULTURNI DOM, JUROVSKI DOL 1",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 9,
-      "naz": "KULTURNI DOM, JUROVSKI DOL 1",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
       "st": 28,
       "naz": "KULTURNI DOM, SELCE 11",
       "udel": null,
@@ -82,6 +68,13 @@
       "prestetih_glasov": null
     },
     {
+      "st": 10,
+      "naz": "LOVSKI DOM JUROVSKI DOL, MALNA 10",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
       "st": 16,
       "naz": "LOVSKI DOM LENART, SP. PORČIČ 22",
       "udel": null,
@@ -90,7 +83,21 @@
     },
     {
       "st": 4,
-      "naz": "OSNOVNA ŠOLA, CERKVENJAK 34",
+      "naz": "OSNOVNA ŠOLA, CERKVENJAK 24",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 8,
+      "naz": "OSNOVNA ŠOLA, JUROVSKI DOL 13",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 9,
+      "naz": "OSNOVNA ŠOLA, JUROVSKI DOL 13",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -175,13 +182,6 @@
     {
       "st": 7,
       "naz": "SMOLINCI 88, PLOJ",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 10,
-      "naz": "SP. GASTERAJ 35, ROKAVEC",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -384,8 +384,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-19T13:23:42.6575185+02:00",
-    "datum": "2022-04-19T13:20:00+02:00",
+    "timestamp": "2022-04-22T07:23:08.9829016+02:00",
+    "datum": "2022-04-22T07:20:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": false,
     "has_rezultat": false,

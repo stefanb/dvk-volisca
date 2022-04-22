@@ -5,20 +5,6 @@
   "naz": "Ribnica - Dobrepolje",
   "vol": [
     {
-      "st": 4,
-      "naz": "\"GOSTILNA \"\"PRI KAPCU\"\", TRAVNIK 74\"",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 16,
-      "naz": "&GT;&GT;OBORA&LT;&LT; ANDOLJŠEK ALOJZ, OTAVICE 31 B",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
       "st": 44,
       "naz": "A MI GO, D.O.O., VINICE 8",
       "udel": null,
@@ -28,6 +14,13 @@
     {
       "st": 23,
       "naz": "DOM DRUŠTVA VETER BREG, BREG 17",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 47,
+      "naz": "DOM KRAJANOV PODPRESKA-V PROST.PGD, PODPRESKA 3 A",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -82,8 +75,22 @@
       "prestetih_glasov": null
     },
     {
+      "st": 53,
+      "naz": "GASILSKI DOM HOČEVJE, HOČEVJE 19",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
       "st": 21,
       "naz": "GASILSKI DOM JURJEVICA, JURJEVICA 37 A",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 56,
+      "naz": "GASILSKI DOM KOMPOLJE, KOMPOLJE 60",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -125,7 +132,7 @@
     },
     {
       "st": 31,
-      "naz": "GASILSKI DOM RAKITNICA, RAKITNICA 64",
+      "naz": "GASILSKI DOM RAKITNICA, RAKITNICA 6A",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -153,7 +160,7 @@
     },
     {
       "st": 35,
-      "naz": "GASILSKI DOM SV. GREGOR 17",
+      "naz": "GASILSKI DOM SVETI GREGOR, SVETI GREGOR 17",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -161,6 +168,13 @@
     {
       "st": 49,
       "naz": "GASILSKI DOM TRAVA, TRAVA 14",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 54,
+      "naz": "GASILSKI DOM ZAGORICA, ZAGORICA 36A",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -194,8 +208,8 @@
       "prestetih_glasov": null
     },
     {
-      "st": 13,
-      "naz": "GOSTILNA ANDOLJŠEK,HROVAČA 30",
+      "st": 4,
+      "naz": "GOSTILNA \"PRI KAPCU\", TRAVNIK 74",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -203,6 +217,13 @@
     {
       "st": 34,
       "naz": "GOSTILNA MATJAK, ORTNEK 2, 1316 ORTNEK",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 13,
+      "naz": "GOSTILNA PRI ANDOLJŠKU,HROVAČA 30",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -222,22 +243,22 @@
       "prestetih_glasov": null
     },
     {
+      "st": 52,
+      "naz": "JAKLIČEV DOM DOBREPOLJE, VIDEM 34",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
       "st": 48,
-      "naz": "LOVSKI DOM DRAGA, HIŠA ŠT. 33A",
+      "naz": "LOVSKI DOM DRAGA, DRAGA 33A",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
-      "st": 2,
-      "naz": "OBČINA LOŠKI POTOK, HRIB 17",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 45,
-      "naz": "OSNOVNA ŠOLA DOLENJA VAS, ŠOLSKA ULICA 9",
+      "st": 16,
+      "naz": "OBORA - ANDOLJŠEK ALOJZ, OTAVICE 31 B",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -250,8 +271,29 @@
       "prestetih_glasov": null
     },
     {
+      "st": 9,
+      "naz": "OSNOVNA ŠOLA FRANCETA PREŠERNA RIBNICA,ŠOLSKA UL ",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
       "st": 26,
       "naz": "OSNOVNA ŠOLA SUŠJE, SUŠJE 2",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 45,
+      "naz": "OŠ DR.F. PREŠERNA-PODRUŽ. DOLENJA VAS, ŠOLSKA UL ",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 58,
+      "naz": "OŠ STRUGE, LIPA 16",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -266,13 +308,6 @@
     {
       "st": 22,
       "naz": "PRI GORNIK IVANKI, KOT 11",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 41,
-      "naz": "PRI JANEŽ VERI, GLOBEL 9",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -299,15 +334,22 @@
       "prestetih_glasov": null
     },
     {
-      "st": 47,
-      "naz": "PROSTORI PGD PODPRESKA, PODPRESKA 3 A",
+      "st": 41,
+      "naz": "PRI MIRKU ORAŽMU, GLOBEL 8",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 57,
+      "naz": "PRIZMA PONIKVE POSEBNI SOC. VAR. ZAVOD, PONIKVE 7",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 8,
-      "naz": "ROKODELSKI CENTER RIBNICA (RCR-A), CESTA NA UGAR ",
+      "naz": "ROKODELSKI CENTER RIBNICA (RCR-A) CESTA NA UGAR 6",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -334,13 +376,6 @@
       "prestetih_glasov": null
     },
     {
-      "st": 9,
-      "naz": "ŠPORTNI CENTER RIBNICA (ŠCR-B), MAJNIKOVA 2",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
       "st": 12,
       "naz": "TURISTIČNO DRUŠTVO RIBNICA, GALLUSOVO NABREŽJE 10",
       "udel": null,
@@ -350,6 +385,20 @@
     {
       "st": 43,
       "naz": "TURISTIČNO ŠPORTNO DRUŠTVO GORA, PETRINCI 10 A",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 55,
+      "naz": "VAŠKI PROSTOR PREDSTRUGE, PREDSTRUGE 60",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 2,
+      "naz": "VEČNAMENSKI OBJEKT HRIB, HRIB 19A, LOŠKI POTOK",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -529,8 +578,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-19T13:23:42.6575185+02:00",
-    "datum": "2022-04-19T13:20:00+02:00",
+    "timestamp": "2022-04-22T07:23:08.9829016+02:00",
+    "datum": "2022-04-22T07:20:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": false,
     "has_rezultat": false,

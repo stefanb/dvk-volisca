@@ -5,8 +5,8 @@
   "naz": "Šmarje pri Jelšah",
   "vol": [
     {
-      "st": 16,
-      "naz": "ANDERLIČ STANISLAV, PLAT 1",
+      "st": 14,
+      "naz": "ALEŠ TADINA (POSL. PROSTORI), SPODNJI GABERNIK 35",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -19,7 +19,7 @@
       "prestetih_glasov": null
     },
     {
-      "st": 35,
+      "st": 34,
       "naz": "DOM KRAJANOV IN GASILCEV S. GORA, SLADKA GORA 3C",
       "udel": null,
       "rez": null,
@@ -96,21 +96,21 @@
       "prestetih_glasov": null
     },
     {
-      "st": 36,
+      "st": 35,
       "naz": "GASILSKI DOM SVETI ŠTEFAN, SVETI ŠTEFAN 51",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
-      "st": 43,
+      "st": 42,
       "naz": "GASILSKI DOM ŠMARJE PRI JELŠAH, OBRTNIŠKA ULICA 4",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
-      "st": 42,
+      "st": 41,
       "naz": "GASILSKI DOM ZIBIKA, ZIBIKA 4A",
       "udel": null,
       "rez": null,
@@ -124,14 +124,14 @@
       "prestetih_glasov": null
     },
     {
-      "st": 38,
+      "st": 37,
       "naz": "GASILSKO KULTURNI DOM ŠENTVID,ŠENTVID 30 ",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
-      "st": 37,
+      "st": 36,
       "naz": "GOLEŽ STANISLAV, RAKOVEC 8",
       "udel": null,
       "rez": null,
@@ -140,13 +140,6 @@
     {
       "st": 20,
       "naz": "GOLUB ZVONIMIR ( PRI GOLOBU) SP. NEGONJE 18 ",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 24,
-      "naz": "GOSTIŠČE GUTER, KIDRIČEVA ULICA 60",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -166,14 +159,14 @@
       "prestetih_glasov": null
     },
     {
-      "st": 14,
-      "naz": "JAGODIČ JANEZ, PODTURN 12",
+      "st": 24,
+      "naz": "JAGODIČ BOŠTJAN S.P.,STEKLARSKA UL.1B,ROG.SLATINA",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
-      "st": 39,
+      "st": 38,
       "naz": "KINCEL MARIJA, BIFE,  GROBELNO-DEL 21",
       "udel": null,
       "rez": null,
@@ -208,7 +201,7 @@
       "prestetih_glasov": null
     },
     {
-      "st": 40,
+      "st": 39,
       "naz": "KULTURNI DOM ŠMARJE PRI J.,AŠKERČEV TRG 20",
       "udel": null,
       "rez": null,
@@ -223,7 +216,7 @@
     },
     {
       "st": 30,
-      "naz": "NINA ŠKET, SPODNJE MESTINJE 6A",
+      "naz": "MARJAN PETAUER, DOL PRI PRISTAVI 2B",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -251,7 +244,7 @@
     },
     {
       "st": 15,
-      "naz": "RUSL JOŽE, BRESTOVEC 1",
+      "naz": "RUSL JOŽEF, BRESTOVEC 1, ROGAŠKA SLATINA",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -259,13 +252,6 @@
     {
       "st": 3,
       "naz": "SEJNA SOBA OBČINE KOZJE, KOZJE 37",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 34,
-      "naz": "STIPLOŠEK ANTON, STRANJE 23B",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -292,7 +278,7 @@
       "prestetih_glasov": null
     },
     {
-      "st": 41,
+      "st": 40,
       "naz": "VEČNAMENSKI DOM NA TINSKEM, 3223 LOKA PRI ŽUSMU",
       "udel": null,
       "rez": null,
@@ -482,8 +468,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-19T13:23:42.6575185+02:00",
-    "datum": "2022-04-19T13:20:00+02:00",
+    "timestamp": "2022-04-22T07:23:08.9829016+02:00",
+    "datum": "2022-04-22T07:20:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": false,
     "has_rezultat": false,

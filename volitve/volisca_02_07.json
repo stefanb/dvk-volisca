@@ -5,20 +5,6 @@
   "naz": "Ilirska Bistrica",
   "vol": [
     {
-      "st": 13,
-      "naz": "\"GOSTILNA \"\"SABRINA\"\" SUŠAK\"",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 31,
-      "naz": "AVTOBUSNA POSTAJA  PRELOŽE",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
       "st": 11,
       "naz": "BAR KOČANIJA, TRPČANE",
       "udel": null,
@@ -103,15 +89,15 @@
       "prestetih_glasov": null
     },
     {
-      "st": 5,
-      "naz": "GASILSKI DOM TRNOVO",
+      "st": 7,
+      "naz": "GASILSKI DOM VRBOVO",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
-      "st": 7,
-      "naz": "GASILSKI DOM VRBOVO",
+      "st": 13,
+      "naz": "GOSTILNA \"SABRINA\" SUŠAK",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -146,7 +132,7 @@
     },
     {
       "st": 37,
-      "naz": "JANEŽEVO BRDO 8",
+      "naz": "JANEŽEVO BRDO 12",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -174,7 +160,7 @@
     },
     {
       "st": 45,
-      "naz": "MEREČE 3",
+      "naz": "MEREČE 22",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -243,6 +229,13 @@
       "prestetih_glasov": null
     },
     {
+      "st": 5,
+      "naz": "PREDAVALNICA-VHOD BIVŠI TRANSPORT, ŠERCERJEVA 17",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
       "st": 39,
       "naz": "PREM 1",
       "udel": null,
@@ -293,7 +286,14 @@
     },
     {
       "st": 44,
-      "naz": "TOPOLC 8A",
+      "naz": "TOPOLC, GOSTILNA KAMBRA, TOPOLC 8A",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 31,
+      "naz": "VAŠKA BRUNARICA PRELOŽE",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -349,7 +349,7 @@
     },
     {
       "st": 8,
-      "naz": "VRBICA 32",
+      "naz": "VAŠKI DOM, VRBICA 24",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -531,8 +531,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-19T13:23:42.6575185+02:00",
-    "datum": "2022-04-19T13:20:00+02:00",
+    "timestamp": "2022-04-22T07:23:08.9829016+02:00",
+    "datum": "2022-04-22T07:20:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": false,
     "has_rezultat": false,

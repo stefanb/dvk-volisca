@@ -19,13 +19,6 @@
       "prestetih_glasov": null
     },
     {
-      "st": 2,
-      "naz": "JAMNIK, PLAČ 34 A",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
       "st": 13,
       "naz": "JANUŠ JOŽE, SELNICA OB MURI 102 I",
       "udel": null,
@@ -54,6 +47,13 @@
       "prestetih_glasov": null
     },
     {
+      "st": 27,
+      "naz": "KS PERNICA, PERNICA 8",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
       "st": 9,
       "naz": "KULTURNA DVORANA JAKOB, SP. JAKOBSKI DOL 2",
       "udel": null,
@@ -75,8 +75,22 @@
       "prestetih_glasov": null
     },
     {
+      "st": 15,
+      "naz": "LOVSKI DOM, VRANJI VRH 7",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
       "st": 26,
       "naz": "MULEC, ROČICA 40",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 6,
+      "naz": "OSNOVNA ŠOLA JARENINA, JARENINSKI DOL 26",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -89,8 +103,8 @@
       "prestetih_glasov": null
     },
     {
-      "st": 15,
-      "naz": "POHOREC,VRANJI VRH 8 A",
+      "st": 5,
+      "naz": "PODRUŽNICA OŠ KUNGOTA, GRADIŠKA 219",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -110,20 +124,6 @@
       "prestetih_glasov": null
     },
     {
-      "st": 6,
-      "naz": "STARA ŠOLA V JARENINI, JARENINSKI DOL 15",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 11,
-      "naz": "ŠTP, PESNICA PRI MARIBORU 20A",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
       "st": 10,
       "naz": "VEČNAMENSKI KTPC PESNICA, PESNICA PRI MARIBORU 41",
       "udel": null,
@@ -131,8 +131,8 @@
       "prestetih_glasov": null
     },
     {
-      "st": 5,
-      "naz": "VS SP. KUNGOTA, ROŠPOH 143",
+      "st": 11,
+      "naz": "VEČNAMENSKI KTPC PESNICA, PESNICA PRI MARIBORU 41",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -335,8 +335,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-19T13:23:42.6575185+02:00",
-    "datum": "2022-04-19T13:20:00+02:00",
+    "timestamp": "2022-04-22T07:23:08.9829016+02:00",
+    "datum": "2022-04-22T07:20:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": false,
     "has_rezultat": false,

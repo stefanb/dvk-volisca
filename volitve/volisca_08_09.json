@@ -5,6 +5,13 @@
   "naz": "Ptuj 1",
   "vol": [
     {
+      "st": 73,
+      "naz": "ARNUŠ DANILO, PACINJE 2",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
       "st": 12,
       "naz": "BENKO ALOJZ, LOČIČ 23",
       "udel": null,
@@ -13,14 +20,7 @@
     },
     {
       "st": 14,
-      "naz": "BRUMEN FRANC TRNOVSKI VRH 14",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 34,
-      "naz": "BRUNARICA GD MEZGOVCI OB PESNICI",
+      "naz": "BRUMEN ELIZABETA, TRNOVSKI VRH 14",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -68,6 +68,13 @@
       "prestetih_glasov": null
     },
     {
+      "st": 81,
+      "naz": "DOM KRAJANOV GRAJENA, GRAJENA 46",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
       "st": 71,
       "naz": "DOM KRAJANOV GRAJENA,GRAJENA 46",
       "udel": null,
@@ -105,20 +112,6 @@
     {
       "st": 46,
       "naz": "DOM VAŠČANOV TIBOLCI, TIBOLCI 23 A",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 81,
-      "naz": "ETNOGRAFSKO DRUŠTVO JEŽEVKA, MESTNI VRH 24",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 25,
-      "naz": "FRAS MILAN, PLACAR 24A",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -215,13 +208,6 @@
       "prestetih_glasov": null
     },
     {
-      "st": 73,
-      "naz": "GASILSKI DOM PACINJE, PACINJE 5",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
       "st": 74,
       "naz": "GASILSKI DOM PODVINCI, PODVINCI 13A",
       "udel": null,
@@ -229,8 +215,8 @@
       "prestetih_glasov": null
     },
     {
-      "st": 76,
-      "naz": "GASILSKI DOM SOBETINCI, SOBETINCI 37",
+      "st": 75,
+      "naz": "GASILSKI DOM PRVENCI, PRVENCI 9A",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -273,6 +259,13 @@
     {
       "st": 15,
       "naz": "GD DESTRNIK, DESTRNIK 9",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 34,
+      "naz": "GD MEZGOVCI OB PESNICI, MEZGOVCI OB PESNICI 38",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -327,20 +320,6 @@
       "prestetih_glasov": null
     },
     {
-      "st": 2,
-      "naz": "KOSTANJEVEC JANEZ, GIBINA 26",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 75,
-      "naz": "KULTURNI DOM PRVENCI, PRVENCI 9A",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
       "st": 53,
       "naz": "KVAR MILAN GRLINCI 9",
       "udel": null,
@@ -350,13 +329,6 @@
     {
       "st": 17,
       "naz": "LACKO FRANC, DRSTELJA 21",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 80,
-      "naz": "LAZAR SONJA, STRELCI 5A",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -467,6 +439,20 @@
       "prestetih_glasov": null
     },
     {
+      "st": 80,
+      "naz": "VAŠKI OBJEKT - BRUNARICA STRELCI",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 76,
+      "naz": "VAŠKO GASILSKI DOM SOBETINCI,  SOBETINCI 37",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
       "st": 48,
       "naz": "VAŠKO GASILSKI DOM ZAMUŠANI, ZAMUŠANI 31A",
       "udel": null,
@@ -489,6 +475,13 @@
     },
     {
       "st": 1,
+      "naz": "VEČNAMENSKA DVORANA VITOMARCI, VITOMARCI 48A",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 2,
       "naz": "VEČNAMENSKA DVORANA VITOMARCI, VITOMARCI 48A",
       "udel": null,
       "rez": null,
@@ -699,8 +692,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-19T13:23:42.6575185+02:00",
-    "datum": "2022-04-19T13:20:00+02:00",
+    "timestamp": "2022-04-22T07:23:08.9829016+02:00",
+    "datum": "2022-04-22T07:20:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": false,
     "has_rezultat": false,

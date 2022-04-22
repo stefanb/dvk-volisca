@@ -5,13 +5,6 @@
   "naz": "Črnomelj",
   "vol": [
     {
-      "st": 80,
-      "naz": "\"ČRNOMELJ- BIVŠA TRGOVINA \"\"NINA\"\", PREČNA ULICA 4 \"",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
       "st": 11,
       "naz": "ADLEŠIČI - KULTURNI DOM",
       "udel": null,
@@ -82,6 +75,13 @@
       "prestetih_glasov": null
     },
     {
+      "st": 80,
+      "naz": "ČRNOMELJ- BIVŠA TRGOVINA \"NINA\", PREČNA ULICA 4 ",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
       "st": 2,
       "naz": "ČRNOMELJ-V PROS. ŠD NOG. ŠOLE BK, PRI STADIONU 2 ",
       "udel": null,
@@ -132,7 +132,7 @@
     },
     {
       "st": 31,
-      "naz": "GORENJI RADENCI - CŠOD RADENCI, GORENJI RADENCI 1",
+      "naz": "GORENJI RADENCI - GASILSKI DOM",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -188,7 +188,7 @@
     },
     {
       "st": 26,
-      "naz": "LOKVE - GOSTILNA ŽVAB, LOKVE 9A",
+      "naz": "LOKVE - TRGOVINA VIZIR, LOKVE 10B",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -230,7 +230,7 @@
     },
     {
       "st": 54,
-      "naz": "METLIKA-MLAD. CENTER, KUD PLAC, CBE 43, METLIKA",
+      "naz": "METLIKA- MLADINSKI CENTER, CBE 43",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -599,8 +599,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-19T13:23:42.6575185+02:00",
-    "datum": "2022-04-19T13:20:00+02:00",
+    "timestamp": "2022-04-22T07:23:08.9829016+02:00",
+    "datum": "2022-04-22T07:20:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": false,
     "has_rezultat": false,

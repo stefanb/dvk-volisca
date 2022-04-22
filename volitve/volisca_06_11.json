@@ -26,13 +26,6 @@
       "prestetih_glasov": null
     },
     {
-      "st": 13,
-      "naz": "FORTUNA - PIL D.O.O., NASELJE NA ŠAHTU 31, KISOVE",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
       "st": 21,
       "naz": "GOSTILNA ZALOKA, JESENOVO 31, ČEMŠENIK",
       "udel": null,
@@ -61,13 +54,6 @@
       "prestetih_glasov": null
     },
     {
-      "st": 30,
-      "naz": "HIŠA KLANČIŠAR LEOPOLDA, KAL 8, ZAGORJE OB SAVI",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
       "st": 22,
       "naz": "HIŠA MAŽGON HILDE, JESENOVO 38C, ČEMŠENIK",
       "udel": null,
@@ -77,6 +63,13 @@
     {
       "st": 28,
       "naz": "HIŠA ROME JANEZA, BRIŠE 17, IZLAKE",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 30,
+      "naz": "HIŠA VOZELJ RADA, KAL 3, ZAGORJE OB SAVI",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -98,6 +91,13 @@
     {
       "st": 3,
       "naz": "KOMUNALA ZAGORJE D.O.O., CESTA ZMAGE 57, ZAGORJE",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 13,
+      "naz": "NK SVOBODA KISOVEC, NASELJE NA ŠAHTU 37, KISOVEC",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -403,8 +403,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-19T13:23:42.6575185+02:00",
-    "datum": "2022-04-19T13:20:00+02:00",
+    "timestamp": "2022-04-22T07:23:08.9829016+02:00",
+    "datum": "2022-04-22T07:20:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": false,
     "has_rezultat": false,

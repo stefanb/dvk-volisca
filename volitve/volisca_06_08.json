@@ -5,29 +5,22 @@
   "naz": "Laško",
   "vol": [
     {
-      "st": 35,
+      "st": 32,
       "naz": " KS VRHOVO, VRHOVO 43A, RADEČE",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
-      "st": 22,
+      "st": 19,
       "naz": "ANTON VRESK, POLANA 21, JURKLOŠTER",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
-      "st": 21,
+      "st": 18,
       "naz": "BIFE RACMAN, MRZLO POLJE 8A, JURKLOŠTER",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 30,
-      "naz": "BISTRO KRIŽIŠČE, OBREŽJE 5, RADEČE",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -40,22 +33,22 @@
       "prestetih_glasov": null
     },
     {
-      "st": 26,
+      "st": 23,
       "naz": "DOM KULTURE RADEČE, GLEDALIŠKA POT 2, RADEČE",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
-      "st": 33,
-      "naz": "GASILSKI DOM JAGNJENICA, JAGNJENICA 14, RADEČE",
+      "st": 30,
+      "naz": "GASILSKI DOM, JAGNJENICA 14, RADEČE",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
-      "st": 13,
-      "naz": "GASILSKI DOM ŠENTRUPERT,ŠENTRUPERT 93E,ŠENTRUPERT",
+      "st": 10,
+      "naz": "GASILSKI DOM, ŠENTRUPERT 93E, ŠENTRUPERT",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -68,36 +61,29 @@
       "prestetih_glasov": null
     },
     {
-      "st": 25,
+      "st": 22,
       "naz": "GASILSKI DOM, ZIDANI MOST 12, ZIDANI MOST",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
-      "st": 31,
+      "st": 28,
       "naz": "GOSTILNA STRNAD, HOTEMEŽ 6, RADEČE",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
-      "st": 18,
+      "st": 15,
       "naz": "KAREL VEBER, BRODNICE 12, RIMSKE TOPLICE",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
-      "st": 20,
-      "naz": "KARTUZIJSKA PRISTAVA, JURKLOŠTER 25, JURKLOŠTER",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 27,
-      "naz": "KNJIŽNICA RADEČE UL. OF 2, RADEČE",
+      "st": 24,
+      "naz": "KNJIŽNICA RADEČE, UL. OF 2, RADEČE",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -117,21 +103,14 @@
       "prestetih_glasov": null
     },
     {
-      "st": 15,
+      "st": 12,
       "naz": "KULTURNI DOM,TROBNI DOL 38A,ŠENTRUPERT",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
-      "st": 11,
-      "naz": "MARJAN DEŽELAK, VELIKE GORELCE 15, LAŠKO",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 19,
+      "st": 16,
       "naz": "MATEVŽ DEŽELAK, LOŽE 1, RIMSKE TOPLICE",
       "udel": null,
       "rez": null,
@@ -152,50 +131,57 @@
       "prestetih_glasov": null
     },
     {
-      "st": 16,
+      "st": 13,
       "naz": "OŠ ANTON AŠKERC, AŠKERČEVA CESTA 1,RIMSKE TOPLICE",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
-      "st": 17,
-      "naz": "OŠ LAŽIŠE, LAZIŠE 27, RIMSKE TOPLICE",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 24,
-      "naz": "OŠ ZIDANI MOST, ZIDANI MOST 34, ZIDANI MOST",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 34,
+      "st": 31,
       "naz": "PGD SVIBNO, SVIBNO 18A, RADEČE",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
-      "st": 32,
+      "st": 29,
       "naz": "PLAZNIK LEOPOLD,  JELOVO 7, RADEČE",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
-      "st": 28,
+      "st": 17,
+      "naz": "PODRUŽNIČNA ŠOLA, JURKLOŠTER 23, JURKLOŠTER",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 20,
+      "naz": "PODRUŽNIČNA ŠOLA, SEDRAŽ 21, LAŠKO",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 21,
+      "naz": "PODRUŽNIČNA ŠOLA, ZIDANI MOST 34, ZIDANI MOST",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 25,
       "naz": "PROSTOR DRUŠTVA INVALIDOV, TITOVA UL. 107, RADEČE",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
-      "st": 12,
-      "naz": "RUDOLF LAPORNIK, VELIKE GRAHOVŠE 12, LAŠKO",
+      "st": 27,
+      "naz": "RIBIČ RADO, OBREŽJE 21, RADEČE",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -208,15 +194,15 @@
       "prestetih_glasov": null
     },
     {
-      "st": 14,
+      "st": 11,
       "naz": "STRELSKI DOM, MALA BREZA 37C, ŠENTRUPERT",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
-      "st": 23,
-      "naz": "STRELSKI DOM, SEDRAŽ 22, LAŠKO",
+      "st": 14,
+      "naz": "ŠOLA LAŽIŠE, LAZIŠE 27, RIMSKE TOPLICE",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -229,7 +215,7 @@
       "prestetih_glasov": null
     },
     {
-      "st": 29,
+      "st": 26,
       "naz": "VRTEC RADEČE, KOLENOV GRABEN 6, RADEČE",
       "udel": null,
       "rez": null,
@@ -237,14 +223,7 @@
     },
     {
       "st": 4,
-      "naz": "ZASTOR, SPODNJA REČICA 87, (BIVŠI SALON PARON)",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 10,
-      "naz": "ZDENKO LAPORNIK, ŽIGON 6, LAŠKO",
+      "naz": "ZASTOR D.O.O., SPODNJA REČICA 87, LAŠKO",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -424,8 +403,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-19T13:23:42.6575185+02:00",
-    "datum": "2022-04-19T13:20:00+02:00",
+    "timestamp": "2022-04-22T07:23:08.9829016+02:00",
+    "datum": "2022-04-22T07:20:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": false,
     "has_rezultat": false,

@@ -5,20 +5,6 @@
   "naz": "Koper 1",
   "vol": [
     {
-      "st": 20,
-      "naz": "DIJAŠKI IN ŠTUDENTSKI DOM KOPER - CANKARJEVA 5",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 21,
-      "naz": "DIJAŠKI IN ŠTUDENTSKI DOM KOPER - CANKARJEVA 5",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
       "st": 15,
       "naz": "DNEVNI CENTER BARČICA - PRISOJE 1 ",
       "udel": null,
@@ -49,6 +35,13 @@
     {
       "st": 25,
       "naz": "ITALIJANSKA ŠOLA - GIMNAZIJSKI TRG 7 ",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 27,
+      "naz": "OBALNI DOM UPOKOJENCEV KOPER - KROŽNA CESTA 5",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -96,13 +89,6 @@
       "prestetih_glasov": null
     },
     {
-      "st": 26,
-      "naz": "OŠ DUŠAN BORDON - ROZMANOVA 21A ",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
       "st": 5,
       "naz": "OŠ DUŠAN BORDON - ROZMANOVA 21A",
       "udel": null,
@@ -117,8 +103,8 @@
       "prestetih_glasov": null
     },
     {
-      "st": 16,
-      "naz": "PRENOČIŠČA - PRISOJE 9",
+      "st": 26,
+      "naz": "OŠ DUŠAN BORDON - ROZMANOVA 21A ",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -145,6 +131,20 @@
       "prestetih_glasov": null
     },
     {
+      "st": 20,
+      "naz": "SEPŠ - MARTINČEV TRG 3",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 21,
+      "naz": "SEPŠ - MARTINČEV TRG 3",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
       "st": 22,
       "naz": "SEPŠ - MARTINČEV TRG 3",
       "udel": null,
@@ -154,6 +154,13 @@
     {
       "st": 23,
       "naz": "SEPŠ - MARTINČEV TRG 3",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 16,
+      "naz": "ŠTUDENTSKI DOM - PRISOJE 9",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -363,8 +370,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-19T13:23:42.6575185+02:00",
-    "datum": "2022-04-19T13:20:00+02:00",
+    "timestamp": "2022-04-22T07:23:08.9829016+02:00",
+    "datum": "2022-04-22T07:20:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": false,
     "has_rezultat": false,

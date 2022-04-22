@@ -26,13 +26,6 @@
       "prestetih_glasov": null
     },
     {
-      "st": 7,
-      "naz": "HOTEL KELTIKA, CESTA V JAGODJE 1",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
       "st": 13,
       "naz": "KORTE - ZADRUŽNI DOM - TD ŠPARŽIN",
       "udel": null,
@@ -61,6 +54,13 @@
       "prestetih_glasov": null
     },
     {
+      "st": 14,
+      "naz": "MEDGENERACIJSKI CENTER IZOLA",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
       "st": 5,
       "naz": "MESTNA KNJIŽNICA IZOLA",
       "udel": null,
@@ -70,6 +70,13 @@
     {
       "st": 6,
       "naz": "OSNOVNA ŠOLA LIVADE",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 7,
+      "naz": "OSNOVNA ŠOLA LIVADE - PRIZIDEK ŠOLE",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -90,7 +97,7 @@
     },
     {
       "st": 3,
-      "naz": "ŠPORTNA DVORANA, KRAŠKA 1",
+      "naz": "ŠPORTNA DVORANA, KRAŠKA 1A",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -272,8 +279,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-19T13:23:42.6575185+02:00",
-    "datum": "2022-04-19T13:20:00+02:00",
+    "timestamp": "2022-04-22T07:23:08.9829016+02:00",
+    "datum": "2022-04-22T07:20:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": false,
     "has_rezultat": false,

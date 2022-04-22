@@ -26,15 +26,22 @@
       "prestetih_glasov": null
     },
     {
-      "st": 49,
-      "naz": "BOSLJIVA LOKA 15A, PROSTORI PRI TRGOVINI ANA",
+      "st": 27,
+      "naz": "BIVŠA GOSTILNA RADAR, KOČEVSKA CESTA 6",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
-      "st": 27,
-      "naz": "GASILSKI DOM DOLGA VAS, KOČEVSKA 30",
+      "st": 49,
+      "naz": "BOSLJIVA LOKA 15A, PROSTORI PRI BIVŠI TRGOVINI AN",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 20,
+      "naz": "CVIŠLERJI - PROSTORI VAŠKEGA DOMA",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -131,20 +138,6 @@
       "prestetih_glasov": null
     },
     {
-      "st": 18,
-      "naz": "OSNOVNA ŠOLA ŽELJNE, ŽELJNE 21",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 36,
-      "naz": "PISARNIŠKI KONTEJNER, BOROVEC PRI KOČ. REKI 16",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
       "st": 1,
       "naz": "POLOM, PROSTORI VAŠKEGA DOMA",
       "udel": null,
@@ -167,14 +160,14 @@
     },
     {
       "st": 10,
-      "naz": "PROSTORI KS KOČEVJE, TRG SVETEGA JERNEJA 2",
+      "naz": "PROSTORI KS KOČEVJE MESTO, TRG SVETEGA JERNEJA 2",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 29,
-      "naz": "PROSVETNI DOM, ČRNI POTOK 1",
+      "naz": "PROSVETNI DOM, ČRNI POTOK PRI KOČEVJU 1",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -194,8 +187,8 @@
       "prestetih_glasov": null
     },
     {
-      "st": 31,
-      "naz": "SPODNJI LOG, V HIŠI ŠTEVILKA 7",
+      "st": 17,
+      "naz": "ŠALKA VAS 50 B-GASILNI DOM",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -210,13 +203,6 @@
     {
       "st": 14,
       "naz": "TRATA XIV 6A-PROSTORI PODJETNIŠKEGA INKUBATORJA",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
-      "st": 17,
-      "naz": "TRDNJAVA 3-TURISTIČNI KOMPLEKS JEZERO",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -259,6 +245,13 @@
     {
       "st": 40,
       "naz": "VRH PRI FARI 1-LUKČEVA DOMAČIJA",
+      "udel": null,
+      "rez": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 18,
+      "naz": "ŽELJNE - VAŠKI DOM, ŽELJNE 12 B",
       "udel": null,
       "rez": null,
       "prestetih_glasov": null
@@ -438,8 +431,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-19T13:23:42.6575185+02:00",
-    "datum": "2022-04-19T13:20:00+02:00",
+    "timestamp": "2022-04-22T07:23:08.9829016+02:00",
+    "datum": "2022-04-22T07:20:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": false,
     "has_rezultat": false,
