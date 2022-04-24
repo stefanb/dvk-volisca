@@ -1969,22 +1969,22 @@
           {
             "st": 1,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 2,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 3,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.4615
           },
           {
             "st": 5,
@@ -1993,78 +1993,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0769
           },
           {
             "st": 7,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0769
           },
           {
             "st": 9,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 10,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 11,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 12,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 13,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 14,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.3077
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0769
           },
           {
             "st": 17,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 18,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 19,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 20,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 21,
@@ -2072,11 +2072,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
+        "glas": 13,
+        "velj": 13,
         "nev": 0
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 47,
@@ -3913,30 +3913,30 @@
       "naz": "VAŠKI DOM MLAKA",
       "udel": {
         "upr": 519,
-        "gl": 270,
-        "prc": 0.5202
+        "gl": 349,
+        "prc": 0.6724
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0058
           },
           {
             "st": 2,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 17,
+            "prc": 0.0493
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 118,
+            "prc": 0.342
           },
           {
             "st": 5,
@@ -3945,78 +3945,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0232
           },
           {
             "st": 7,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 10,
+            "prc": 0.029
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0029
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.0261
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0058
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 14,
+            "prc": 0.0406
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0058
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0145
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 85,
+            "prc": 0.2464
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.0261
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 47,
+            "prc": 0.1362
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.0261
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0058
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0145
           },
           {
             "st": 21,
@@ -4024,11 +4024,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 349,
+        "velj": 345,
+        "nev": 4
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 26,
@@ -4687,8 +4687,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T21:00:04.7907686+02:00",
-    "datum": "2022-04-24T21:00:00+02:00",
+    "timestamp": "2022-04-24T21:10:04.0241813+02:00",
+    "datum": "2022-04-24T21:10:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

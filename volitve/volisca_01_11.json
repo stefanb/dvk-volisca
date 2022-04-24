@@ -1717,30 +1717,30 @@
       "naz": "KULTURNI DOM V SP. IDRIJI, NA VASI 34",
       "udel": {
         "upr": 761,
-        "gl": 521,
-        "prc": 0.6846
+        "gl": 0,
+        "prc": 0
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 1,
-            "prc": 0.0019
+            "gl": 0,
+            "prc": null
           },
           {
             "st": 2,
             "gl": 0,
-            "prc": 0
+            "prc": null
           },
           {
             "st": 3,
-            "gl": 26,
-            "prc": 0.05
+            "gl": 0,
+            "prc": null
           },
           {
             "st": 4,
-            "gl": 179,
-            "prc": 0.3442
+            "gl": 0,
+            "prc": null
           },
           {
             "st": 5,
@@ -1749,90 +1749,90 @@
           },
           {
             "st": 6,
-            "gl": 18,
-            "prc": 0.0346
+            "gl": 0,
+            "prc": null
           },
           {
             "st": 7,
-            "gl": 4,
-            "prc": 0.0077
+            "gl": 0,
+            "prc": null
           },
           {
             "st": 8,
-            "gl": 31,
-            "prc": 0.0596
+            "gl": 0,
+            "prc": null
           },
           {
             "st": 9,
-            "gl": 5,
-            "prc": 0.0096
+            "gl": 0,
+            "prc": null
           },
           {
             "st": 10,
-            "gl": 3,
-            "prc": 0.0058
+            "gl": 0,
+            "prc": null
           },
           {
             "st": 11,
-            "gl": 5,
-            "prc": 0.0096
+            "gl": 0,
+            "prc": null
           },
           {
             "st": 12,
-            "gl": 51,
-            "prc": 0.0981
+            "gl": 0,
+            "prc": null
           },
           {
             "st": 13,
-            "gl": 13,
-            "prc": 0.025
+            "gl": 0,
+            "prc": null
           },
           {
             "st": 14,
-            "gl": 13,
-            "prc": 0.025
+            "gl": 0,
+            "prc": null
           },
           {
             "st": 15,
-            "gl": 113,
-            "prc": 0.2173
+            "gl": 0,
+            "prc": null
           },
           {
             "st": 16,
-            "gl": 6,
-            "prc": 0.0115
+            "gl": 0,
+            "prc": null
           },
           {
             "st": 17,
-            "gl": 38,
-            "prc": 0.0731
+            "gl": 0,
+            "prc": null
           },
           {
             "st": 18,
-            "gl": 7,
-            "prc": 0.0135
+            "gl": 0,
+            "prc": null
           },
           {
             "st": 19,
-            "gl": 6,
-            "prc": 0.0115
+            "gl": 0,
+            "prc": null
           },
           {
             "st": 20,
             "gl": 0,
-            "prc": 0
+            "prc": null
           },
           {
             "st": 21,
-            "gl": 1,
-            "prc": 0.0019
+            "gl": 0,
+            "prc": null
           }
         ],
-        "glas": 521,
-        "velj": 520,
-        "nev": 1
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
       },
-      "prestetih_glasov": 1
+      "prestetih_glasov": null
     },
     {
       "st": 28,
@@ -4877,6 +4877,7 @@
     {
       "ime": "Andrej",
       "pri": "Poglajen",
+      "man": true,
       "st": 15,
       "naz": "SLOVENSKA DEMOKRATSKA STRANKA - SDS",
       "knaz": "SDS",
@@ -4932,8 +4933,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T21:00:04.7907686+02:00",
-    "datum": "2022-04-24T21:00:00+02:00",
+    "timestamp": "2022-04-24T21:10:04.0241813+02:00",
+    "datum": "2022-04-24T21:10:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

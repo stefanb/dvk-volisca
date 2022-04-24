@@ -741,30 +741,30 @@
       "naz": "DREŽNICA 15 A - GASILSKI DOM",
       "udel": {
         "upr": 188,
-        "gl": 128,
-        "prc": 0.6809
+        "gl": 152,
+        "prc": 0.8085
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0066
           },
           {
             "st": 2,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0066
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0464
           },
           {
             "st": 5,
@@ -773,90 +773,90 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0132
           },
           {
             "st": 7,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 8,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0066
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0066
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0132
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 27,
+            "prc": 0.1788
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0066
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 30,
+            "prc": 0.1987
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 72,
+            "prc": 0.4768
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0066
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0199
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0132
           },
           {
             "st": 19,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 20,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 21,
             "gl": 0,
-            "prc": null
+            "prc": 0
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 152,
+        "velj": 151,
+        "nev": 1
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 37,
@@ -6952,11 +6952,11 @@
             "prc": 0
           }
         ],
-        "glas": 84,
+        "glas": 82,
         "velj": 80,
-        "nev": 4
+        "nev": 2
       },
-      "prestetih_glasov": 1
+      "prestetih_glasov": 0.9762
     },
     {
       "st": 12,
@@ -9037,30 +9037,30 @@
       "naz": "TOLMINSKI LOM 11B, GARAŽA - BIVŠI OBRAT",
       "udel": {
         "upr": 68,
-        "gl": 59,
-        "prc": 0.8676
+        "gl": 62,
+        "prc": 0.9118
       },
       "rez": {
         "rez": [
           {
             "st": 1,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 2,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0161
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0161
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 21,
+            "prc": 0.3387
           },
           {
             "st": 5,
@@ -9070,89 +9070,89 @@
           {
             "st": 6,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 7,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0161
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0161
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0161
           },
           {
             "st": 11,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0484
           },
           {
             "st": 13,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.129
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 23,
+            "prc": 0.371
           },
           {
             "st": 16,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0161
           },
           {
             "st": 18,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 19,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 20,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 21,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0161
           }
         ],
-        "glas": 0,
-        "velj": 0,
+        "glas": 62,
+        "velj": 62,
         "nev": 0
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 96,
@@ -9891,30 +9891,30 @@
       "naz": "VEČNAMENSKI OBJEKT SEDLO 29",
       "udel": {
         "upr": 94,
-        "gl": 44,
-        "prc": 0.4681
+        "gl": 53,
+        "prc": 0.5638
       },
       "rez": {
         "rez": [
           {
             "st": 1,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 2,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0377
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 11,
+            "prc": 0.2075
           },
           {
             "st": 5,
@@ -9924,89 +9924,89 @@
           {
             "st": 6,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 7,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0755
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0943
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0377
           },
           {
             "st": 11,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.1132
           },
           {
             "st": 13,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0755
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 12,
+            "prc": 0.2264
           },
           {
             "st": 16,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0566
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0189
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0189
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0189
           },
           {
             "st": 21,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0189
           }
         ],
-        "glas": 0,
-        "velj": 0,
+        "glas": 53,
+        "velj": 53,
         "nev": 0
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 22,
@@ -10789,8 +10789,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T21:00:04.7907686+02:00",
-    "datum": "2022-04-24T21:00:00+02:00",
+    "timestamp": "2022-04-24T21:10:04.0241813+02:00",
+    "datum": "2022-04-24T21:10:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

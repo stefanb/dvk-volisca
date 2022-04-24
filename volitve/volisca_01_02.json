@@ -1595,30 +1595,30 @@
       "naz": "GOSTILNA KUNAVC, KRNICA 21, ZG. GORJE",
       "udel": {
         "upr": 414,
-        "gl": 226,
-        "prc": 0.5459
+        "gl": 275,
+        "prc": 0.6643
       },
       "rez": {
         "rez": [
           {
             "st": 1,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 2,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0147
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 12,
+            "prc": 0.0441
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 55,
+            "prc": 0.2022
           },
           {
             "st": 5,
@@ -1627,90 +1627,90 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0184
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0294
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 13,
+            "prc": 0.0478
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 10,
+            "prc": 0.0368
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0184
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0221
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 22,
+            "prc": 0.0809
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0221
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 14,
+            "prc": 0.0515
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 73,
+            "prc": 0.2684
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0184
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 12,
+            "prc": 0.0441
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 11,
+            "prc": 0.0404
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.011
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0294
           },
           {
             "st": 21,
             "gl": 0,
-            "prc": null
+            "prc": 0
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 275,
+        "velj": 272,
+        "nev": 3
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 5,
@@ -3303,30 +3303,30 @@
       "naz": "ZADRUŽNI DOM RIBNO, IZLETNIŠKA UL.11, BLED",
       "udel": {
         "upr": 820,
-        "gl": 480,
-        "prc": 0.5854
+        "gl": 568,
+        "prc": 0.6927
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0018
           },
           {
             "st": 2,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0036
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 20,
+            "prc": 0.0355
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 181,
+            "prc": 0.3215
           },
           {
             "st": 5,
@@ -3335,90 +3335,90 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 19,
+            "prc": 0.0337
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0107
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 29,
+            "prc": 0.0515
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0107
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 17,
+            "prc": 0.0302
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 23,
+            "prc": 0.0409
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 16,
+            "prc": 0.0284
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 15,
+            "prc": 0.0266
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 10,
+            "prc": 0.0178
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 135,
+            "prc": 0.2398
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 15,
+            "prc": 0.0266
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 30,
+            "prc": 0.0533
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 20,
+            "prc": 0.0355
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 16,
+            "prc": 0.0284
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0036
           },
           {
             "st": 21,
             "gl": 0,
-            "prc": null
+            "prc": 0
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 568,
+        "velj": 563,
+        "nev": 5
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 901,
@@ -3712,8 +3712,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T21:00:04.7907686+02:00",
-    "datum": "2022-04-24T21:00:00+02:00",
+    "timestamp": "2022-04-24T21:10:04.0241813+02:00",
+    "datum": "2022-04-24T21:10:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,
