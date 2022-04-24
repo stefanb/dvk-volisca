@@ -1717,30 +1717,30 @@
       "naz": "OKREPČEVALNICA GASILČEK, KOTREDEŽ 12, ZAGORJE",
       "udel": {
         "upr": 530,
-        "gl": 380,
-        "prc": 0.717
+        "gl": 362,
+        "prc": 0.683
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0056
           },
           {
             "st": 2,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0224
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 105,
+            "prc": 0.2941
           },
           {
             "st": 5,
@@ -1749,78 +1749,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 14,
+            "prc": 0.0392
           },
           {
             "st": 7,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 23,
+            "prc": 0.0644
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0196
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0112
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.014
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 21,
+            "prc": 0.0588
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0028
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 35,
+            "prc": 0.098
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 64,
+            "prc": 0.1793
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.014
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 28,
+            "prc": 0.0784
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 11,
+            "prc": 0.0308
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 20,
+            "prc": 0.056
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0112
           },
           {
             "st": 21,
@@ -1828,11 +1828,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 362,
+        "velj": 357,
+        "nev": 5
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 15,
@@ -4199,8 +4199,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T22:35:06.9358622+02:00",
-    "datum": "2022-04-24T22:35:00+02:00",
+    "timestamp": "2022-04-24T22:40:09.9634997+02:00",
+    "datum": "2022-04-24T22:40:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

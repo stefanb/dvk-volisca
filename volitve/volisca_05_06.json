@@ -375,30 +375,30 @@
       "naz": "GASILSKI DOM LAČJA VAS, LAČJA VAS 8",
       "udel": {
         "upr": 423,
-        "gl": 219,
-        "prc": 0.5177
+        "gl": 286,
+        "prc": 0.6761
       },
       "rez": {
         "rez": [
           {
             "st": 1,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 2,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 15,
+            "prc": 0.0526
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 94,
+            "prc": 0.3298
           },
           {
             "st": 5,
@@ -407,78 +407,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0175
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0035
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0211
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.0316
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0035
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0105
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 31,
+            "prc": 0.1088
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0211
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.0316
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 71,
+            "prc": 0.2491
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0105
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 13,
+            "prc": 0.0456
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0175
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 11,
+            "prc": 0.0386
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.007
           },
           {
             "st": 21,
@@ -486,11 +486,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 286,
+        "velj": 285,
+        "nev": 1
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 6,
@@ -619,30 +619,30 @@
       "naz": "GASILSKI DOM SPODNJE POBREŽJE, SPODNJE POBREŽJE 2",
       "udel": {
         "upr": 225,
-        "gl": 143,
-        "prc": 0.6356
+        "gl": 167,
+        "prc": 0.7422
       },
       "rez": {
         "rez": [
           {
             "st": 1,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 2,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0485
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 33,
+            "prc": 0.2
           },
           {
             "st": 5,
@@ -651,78 +651,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0121
           },
           {
             "st": 7,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.0545
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0182
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0242
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0121
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 20,
+            "prc": 0.1212
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0121
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 11,
+            "prc": 0.0667
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 53,
+            "prc": 0.3212
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0303
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0364
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0364
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0061
           },
           {
             "st": 20,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 21,
@@ -730,11 +730,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 167,
+        "velj": 165,
+        "nev": 2
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 18,
@@ -2327,30 +2327,30 @@
       "naz": "ŠOLA ŠMARTNO OB DRETI, ŠMARTNO OB DRETI 27",
       "udel": {
         "upr": 571,
-        "gl": 333,
-        "prc": 0.5832
+        "gl": 415,
+        "prc": 0.7268
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0169
           },
           {
             "st": 2,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0024
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 18,
+            "prc": 0.0434
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 108,
+            "prc": 0.2602
           },
           {
             "st": 5,
@@ -2359,78 +2359,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 13,
+            "prc": 0.0313
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0072
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 13,
+            "prc": 0.0313
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0072
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0048
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0193
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 46,
+            "prc": 0.1108
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0169
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 22,
+            "prc": 0.053
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 118,
+            "prc": 0.2843
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 11,
+            "prc": 0.0265
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 11,
+            "prc": 0.0265
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0072
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 20,
+            "prc": 0.0482
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0024
           },
           {
             "st": 21,
@@ -2438,11 +2438,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
+        "glas": 415,
+        "velj": 415,
         "nev": 0
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 15,
@@ -3101,8 +3101,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T22:35:06.9358622+02:00",
-    "datum": "2022-04-24T22:35:00+02:00",
+    "timestamp": "2022-04-24T22:40:09.9634997+02:00",
+    "datum": "2022-04-24T22:40:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

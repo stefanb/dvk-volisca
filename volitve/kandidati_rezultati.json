@@ -1,12 +1,12 @@
 {
-  "datum": "2022-04-24T22:35:00Z",
+  "datum": "2022-04-24T22:40:00Z",
   "kandidati": [
     {
       "st": 1,
       "id": 1237,
       "naziv": "Vinko Otovič",
       "gl": 107,
-      "prc": 0.00751,
+      "prc": 0.007527,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -17,8 +17,8 @@
       "st": 2,
       "id": 1307,
       "naziv": "Žiga Jereb",
-      "gl": 95,
-      "prc": 0.003143,
+      "gl": 102,
+      "prc": 0.003198,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -30,8 +30,8 @@
       "st": 3,
       "id": 1301,
       "naziv": "Zoran Stevanović",
-      "gl": 797,
-      "prc": 0.055938,
+      "gl": 796,
+      "prc": 0.055993,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -42,8 +42,8 @@
       "st": 4,
       "id": 1684,
       "naziv": "Katarina Štravs",
-      "gl": 4897,
-      "prc": 0.343697,
+      "gl": 4881,
+      "prc": 0.343346,
       "man": true,
       "enota": 1,
       "okraji": [
@@ -54,8 +54,8 @@
       "st": 6,
       "id": 1707,
       "naziv": "Dušan Krnel",
-      "gl": 568,
-      "prc": 0.039865,
+      "gl": 565,
+      "prc": 0.039744,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -67,7 +67,7 @@
       "id": 2411,
       "naziv": "Grega Šebjanič",
       "gl": 72,
-      "prc": 0.005053,
+      "prc": 0.005065,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -78,8 +78,8 @@
       "st": 8,
       "id": 2009,
       "naziv": "Mirjam Noč",
-      "gl": 625,
-      "prc": 0.043866,
+      "gl": 623,
+      "prc": 0.043824,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -91,7 +91,7 @@
       "id": 1647,
       "naziv": "Boštjan Noč",
       "gl": 245,
-      "prc": 0.017195,
+      "prc": 0.017234,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -103,7 +103,7 @@
       "id": 2480,
       "naziv": "Alma Rekić",
       "gl": 545,
-      "prc": 0.038251,
+      "prc": 0.038337,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -115,7 +115,7 @@
       "id": 1336,
       "naziv": "Mojca Vene",
       "gl": 286,
-      "prc": 0.020073,
+      "prc": 0.020118,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -126,8 +126,8 @@
       "st": 12,
       "id": 1132,
       "naziv": "Boris Kitek",
-      "gl": 675,
-      "prc": 0.047375,
+      "gl": 674,
+      "prc": 0.047411,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -139,7 +139,7 @@
       "id": 1351,
       "naziv": "Haris Hatić",
       "gl": 623,
-      "prc": 0.018843,
+      "prc": 0.018862,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -151,8 +151,8 @@
       "st": 14,
       "id": 2179,
       "naziv": "Miha Rebolj",
-      "gl": 386,
-      "prc": 0.027092,
+      "gl": 385,
+      "prc": 0.027082,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -163,8 +163,8 @@
       "st": 15,
       "id": 2036,
       "naziv": "Irena Pfeifer",
-      "gl": 2744,
-      "prc": 0.192588,
+      "gl": 2742,
+      "prc": 0.192881,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -175,8 +175,8 @@
       "st": 16,
       "id": 1214,
       "naziv": "Alenka Gabrovec",
-      "gl": 181,
-      "prc": 0.012704,
+      "gl": 180,
+      "prc": 0.012662,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -187,8 +187,8 @@
       "st": 17,
       "id": 1326,
       "naziv": "mag. Vera Djurić Drozdek",
-      "gl": 860,
-      "prc": 0.060359,
+      "gl": 856,
+      "prc": 0.060214,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -199,8 +199,8 @@
       "st": 18,
       "id": 1673,
       "naziv": "Alenka Pavlič",
-      "gl": 843,
-      "prc": 0.035312,
+      "gl": 909,
+      "prc": 0.035338,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -213,7 +213,7 @@
       "id": 2209,
       "naziv": "Tina Robič",
       "gl": 184,
-      "prc": 0.012914,
+      "prc": 0.012943,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -225,7 +225,7 @@
       "id": 1280,
       "naziv": "Tomaž Jelenc",
       "gl": 107,
-      "prc": 0.00751,
+      "prc": 0.007527,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -237,7 +237,7 @@
       "id": 2477,
       "naziv": "Klemen Piber",
       "gl": 37,
-      "prc": 0.002597,
+      "prc": 0.002603,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -248,8 +248,8 @@
       "st": 1,
       "id": 1238,
       "naziv": "Gordana Ana Višnar Župančič",
-      "gl": 91,
-      "prc": 0.004671,
+      "gl": 94,
+      "prc": 0.004399,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -261,8 +261,8 @@
       "st": 2,
       "id": 1310,
       "naziv": "Klemen Lah",
-      "gl": 74,
-      "prc": 0.003799,
+      "gl": 77,
+      "prc": 0.003604,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -275,7 +275,7 @@
       "id": 1304,
       "naziv": "Mitja Žnidar",
       "gl": 285,
-      "prc": 0.028919,
+      "prc": 0.028905,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -286,8 +286,8 @@
       "st": 4,
       "id": 1686,
       "naziv": "Eva Knez",
-      "gl": 3101,
-      "prc": 0.314663,
+      "gl": 3103,
+      "prc": 0.314706,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -298,8 +298,8 @@
       "st": 6,
       "id": 1710,
       "naziv": "Milan Rejc",
-      "gl": 473,
-      "prc": 0.047996,
+      "gl": 474,
+      "prc": 0.048073,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -311,7 +311,7 @@
       "id": 2408,
       "naziv": "Tim Borse",
       "gl": 54,
-      "prc": 0.005479,
+      "prc": 0.005477,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -323,7 +323,7 @@
       "id": 2010,
       "naziv": "Boštjan Poklukar",
       "gl": 389,
-      "prc": 0.039472,
+      "prc": 0.039452,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -335,7 +335,7 @@
       "id": 1649,
       "naziv": "Mojca Papler",
       "gl": 127,
-      "prc": 0.012887,
+      "prc": 0.01288,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -347,7 +347,7 @@
       "id": 2481,
       "naziv": "Boris Grilc",
       "gl": 150,
-      "prc": 0.015221,
+      "prc": 0.015213,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -359,7 +359,7 @@
       "id": 1337,
       "naziv": "Franci Humerca",
       "gl": 291,
-      "prc": 0.029528,
+      "prc": 0.029513,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -370,8 +370,8 @@
       "st": 12,
       "id": 1133,
       "naziv": "Maja Fajdiga Komar",
-      "gl": 724,
-      "prc": 0.073465,
+      "gl": 725,
+      "prc": 0.073529,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -383,7 +383,7 @@
       "id": 1782,
       "naziv": "Jasmina Bejtović",
       "gl": 386,
-      "prc": 0.017725,
+      "prc": 0.017721,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -395,8 +395,8 @@
       "st": 14,
       "id": 2180,
       "naziv": "Mirko Jeršič",
-      "gl": 407,
-      "prc": 0.041299,
+      "gl": 408,
+      "prc": 0.041379,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -408,7 +408,7 @@
       "id": 2037,
       "naziv": "Bogomir Vnučec",
       "gl": 2166,
-      "prc": 0.219787,
+      "prc": 0.219675,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -419,8 +419,8 @@
       "st": 16,
       "id": 1216,
       "naziv": "Tomaž Grohar",
-      "gl": 286,
-      "prc": 0.014682,
+      "gl": 299,
+      "prc": 0.013994,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -433,7 +433,7 @@
       "id": 1327,
       "naziv": "Lev Pavlovski",
       "gl": 570,
-      "prc": 0.057839,
+      "prc": 0.057809,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -445,7 +445,7 @@
       "id": 1674,
       "naziv": "Nina Božič Odar",
       "gl": 349,
-      "prc": 0.035413,
+      "prc": 0.035396,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -457,7 +457,7 @@
       "id": 2211,
       "naziv": "Milena Dežman",
       "gl": 210,
-      "prc": 0.021309,
+      "prc": 0.021298,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -469,7 +469,7 @@
       "id": 1277,
       "naziv": "Andrej Bolčina",
       "gl": 115,
-      "prc": 0.011669,
+      "prc": 0.011663,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -480,8 +480,8 @@
       "st": 21,
       "id": 2469,
       "naziv": "Tina Remec",
-      "gl": 42,
-      "prc": 0.002156,
+      "gl": 44,
+      "prc": 0.002059,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -493,8 +493,8 @@
       "st": 3,
       "id": 1309,
       "naziv": "Tamara Krajnc Stepišnik",
-      "gl": 444,
-      "prc": 0.04613,
+      "gl": 508,
+      "prc": 0.044147,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -505,8 +505,8 @@
       "st": 4,
       "id": 1688,
       "naziv": "Alma Intihar",
-      "gl": 3241,
-      "prc": 0.336727,
+      "gl": 3986,
+      "prc": 0.346398,
       "man": true,
       "enota": 1,
       "okraji": [
@@ -517,8 +517,8 @@
       "st": 6,
       "id": 1712,
       "naziv": "Jan Podgornik",
-      "gl": 415,
-      "prc": 0.043117,
+      "gl": 540,
+      "prc": 0.046928,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -529,8 +529,8 @@
       "st": 7,
       "id": 2396,
       "naziv": "Andrej Boldin",
-      "gl": 47,
-      "prc": 0.004883,
+      "gl": 49,
+      "prc": 0.004258,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -541,8 +541,8 @@
       "st": 8,
       "id": 2011,
       "naziv": "Peter Podlesnik",
-      "gl": 466,
-      "prc": 0.048416,
+      "gl": 552,
+      "prc": 0.047971,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -553,8 +553,8 @@
       "st": 9,
       "id": 1652,
       "naziv": "Andrej Golčman",
-      "gl": 140,
-      "prc": 0.014545,
+      "gl": 171,
+      "prc": 0.014861,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -565,8 +565,8 @@
       "st": 10,
       "id": 2482,
       "naziv": "Maja Ilić Babić",
-      "gl": 158,
-      "prc": 0.016416,
+      "gl": 168,
+      "prc": 0.0146,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -577,8 +577,8 @@
       "st": 11,
       "id": 1338,
       "naziv": "Zvonko Stojnšek",
-      "gl": 334,
-      "prc": 0.034701,
+      "gl": 404,
+      "prc": 0.035109,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -589,8 +589,8 @@
       "st": 12,
       "id": 1134,
       "naziv": "mag. Cveto Uršič",
-      "gl": 688,
-      "prc": 0.071481,
+      "gl": 790,
+      "prc": 0.068654,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -601,8 +601,8 @@
       "st": 13,
       "id": 1781,
       "naziv": "Boštjan Tavčar",
-      "gl": 416,
-      "prc": 0.019089,
+      "gl": 445,
+      "prc": 0.018795,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -614,8 +614,8 @@
       "st": 14,
       "id": 2182,
       "naziv": "Andrej Maver",
-      "gl": 201,
-      "prc": 0.020883,
+      "gl": 242,
+      "prc": 0.021031,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -626,8 +626,8 @@
       "st": 15,
       "id": 2038,
       "naziv": "Mark Toplak",
-      "gl": 2035,
-      "prc": 0.211429,
+      "gl": 2347,
+      "prc": 0.203963,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -638,8 +638,8 @@
       "st": 17,
       "id": 1328,
       "naziv": "Mojca Faganel",
-      "gl": 530,
-      "prc": 0.055065,
+      "gl": 663,
+      "prc": 0.057617,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -650,8 +650,8 @@
       "st": 19,
       "id": 2202,
       "naziv": "Danilo Bertoncelj",
-      "gl": 169,
-      "prc": 0.017558,
+      "gl": 197,
+      "prc": 0.01712,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -662,8 +662,8 @@
       "st": 20,
       "id": 1292,
       "naziv": "Viljem Plevnik",
-      "gl": 87,
-      "prc": 0.009039,
+      "gl": 103,
+      "prc": 0.008951,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -675,7 +675,7 @@
       "id": 1241,
       "naziv": "Stanislav Lončarič",
       "gl": 78,
-      "prc": 0.005983,
+      "prc": 0.005982,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -700,7 +700,7 @@
       "id": 1314,
       "naziv": "Ana Pavlovski",
       "gl": 681,
-      "prc": 0.05224,
+      "prc": 0.052228,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -712,7 +712,7 @@
       "id": 1690,
       "naziv": "Andreja Kert",
       "gl": 4711,
-      "prc": 0.361384,
+      "prc": 0.361301,
       "man": true,
       "enota": 1,
       "okraji": [
@@ -724,7 +724,7 @@
       "id": 1718,
       "naziv": "Ana Černe",
       "gl": 727,
-      "prc": 0.055769,
+      "prc": 0.055756,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -748,7 +748,7 @@
       "id": 2017,
       "naziv": "Špela Trobec",
       "gl": 529,
-      "prc": 0.04058,
+      "prc": 0.040571,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -760,7 +760,7 @@
       "id": 1654,
       "naziv": "Polona Šafner",
       "gl": 106,
-      "prc": 0.008131,
+      "prc": 0.008129,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -772,7 +772,7 @@
       "id": 2483,
       "naziv": "dr. Borut Werber",
       "gl": 161,
-      "prc": 0.01235,
+      "prc": 0.012348,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -784,7 +784,7 @@
       "id": 1339,
       "naziv": "Peter Kozjek",
       "gl": 216,
-      "prc": 0.016569,
+      "prc": 0.016566,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -796,7 +796,7 @@
       "id": 1135,
       "naziv": "dr. Marija Rogar",
       "gl": 767,
-      "prc": 0.058837,
+      "prc": 0.058824,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -807,8 +807,8 @@
       "st": 13,
       "id": 1353,
       "naziv": "Emina Gazibera",
-      "gl": 384,
-      "prc": 0.017798,
+      "gl": 400,
+      "prc": 0.018043,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -821,7 +821,7 @@
       "id": 2183,
       "naziv": "Mija (Marija) Aleš",
       "gl": 261,
-      "prc": 0.020021,
+      "prc": 0.020017,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -832,8 +832,8 @@
       "st": 15,
       "id": 2039,
       "naziv": "Nataša Jenkole",
-      "gl": 2478,
-      "prc": 0.190089,
+      "gl": 2480,
+      "prc": 0.190199,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -845,7 +845,7 @@
       "id": 1219,
       "naziv": "Stanislav Žagar",
       "gl": 320,
-      "prc": 0.012696,
+      "prc": 0.012694,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -857,8 +857,8 @@
       "st": 17,
       "id": 1329,
       "naziv": "Jani (Janez) Černe",
-      "gl": 1483,
-      "prc": 0.05884,
+      "gl": 1485,
+      "prc": 0.05891,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -871,7 +871,7 @@
       "id": 1675,
       "naziv": "mag. Alenka Bratušek",
       "gl": 1334,
-      "prc": 0.052928,
+      "prc": 0.05292,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -884,7 +884,7 @@
       "id": 2199,
       "naziv": "dr. Klemen Belhar",
       "gl": 218,
-      "prc": 0.016723,
+      "prc": 0.016719,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -896,7 +896,7 @@
       "id": 1285,
       "naziv": "Bojan Pivk",
       "gl": 169,
-      "prc": 0.007779,
+      "prc": 0.007778,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -922,7 +922,7 @@
       "id": 1243,
       "naziv": "Marko Petrić",
       "gl": 63,
-      "prc": 0.005178,
+      "prc": 0.005177,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -934,7 +934,7 @@
       "id": 1317,
       "naziv": "Neven Polajnar",
       "gl": 731,
-      "prc": 0.060076,
+      "prc": 0.060071,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -946,7 +946,7 @@
       "id": 1691,
       "naziv": "Sandra Gazinkovski",
       "gl": 4134,
-      "prc": 0.339744,
+      "prc": 0.339716,
       "man": true,
       "enota": 1,
       "okraji": [
@@ -958,7 +958,7 @@
       "id": 1720,
       "naziv": "Janez Rozman",
       "gl": 523,
-      "prc": 0.042982,
+      "prc": 0.042978,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -982,7 +982,7 @@
       "id": 2019,
       "naziv": "Iztok Purič",
       "gl": 497,
-      "prc": 0.040845,
+      "prc": 0.040841,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -1006,7 +1006,7 @@
       "id": 2484,
       "naziv": "dr. Jaka Vadnjal",
       "gl": 176,
-      "prc": 0.014464,
+      "prc": 0.014463,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -1018,7 +1018,7 @@
       "id": 1340,
       "naziv": "Kristjan Koželj",
       "gl": 194,
-      "prc": 0.015943,
+      "prc": 0.015942,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -1030,7 +1030,7 @@
       "id": 1136,
       "naziv": "Irena Dolenc",
       "gl": 896,
-      "prc": 0.073636,
+      "prc": 0.07363,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -1042,7 +1042,7 @@
       "id": 2184,
       "naziv": "Janez Remškar",
       "gl": 344,
-      "prc": 0.028271,
+      "prc": 0.028269,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -1054,7 +1054,7 @@
       "id": 2040,
       "naziv": "Bojan Homan",
       "gl": 2457,
-      "prc": 0.201923,
+      "prc": 0.201906,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -1066,7 +1066,7 @@
       "id": 2207,
       "naziv": "Ana Veternik",
       "gl": 155,
-      "prc": 0.012738,
+      "prc": 0.012737,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -1211,8 +1211,8 @@
       "st": 12,
       "id": 1137,
       "naziv": "mag. Matej Tonin",
-      "gl": 4194,
-      "prc": 0.120548,
+      "gl": 4426,
+      "prc": 0.121274,
       "man": true,
       "enota": 1,
       "okraji": [
@@ -1441,8 +1441,8 @@
       "st": 13,
       "id": 1354,
       "naziv": "Neja Repinc",
-      "gl": 438,
-      "prc": 0.017758,
+      "gl": 480,
+      "prc": 0.018203,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -1479,7 +1479,7 @@
       "id": 1223,
       "naziv": "Otton Zajec",
       "gl": 257,
-      "prc": 0.011956,
+      "prc": 0.011955,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -1527,8 +1527,8 @@
       "st": 1,
       "id": 1252,
       "naziv": "Erika Petković",
-      "gl": 88,
-      "prc": 0.004122,
+      "gl": 89,
+      "prc": 0.004057,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -1554,7 +1554,7 @@
       "id": 1322,
       "naziv": "Dijana Kovič",
       "gl": 386,
-      "prc": 0.030137,
+      "prc": 0.030133,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -1566,7 +1566,7 @@
       "id": 1699,
       "naziv": "Gašper Poženel",
       "gl": 3958,
-      "prc": 0.309026,
+      "prc": 0.308977,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -1577,8 +1577,8 @@
       "st": 6,
       "id": 1728,
       "naziv": "Miha Kordiš",
-      "gl": 829,
-      "prc": 0.064725,
+      "gl": 830,
+      "prc": 0.064793,
       "man": true,
       "enota": 1,
       "okraji": [
@@ -1602,7 +1602,7 @@
       "id": 2026,
       "naziv": "Stojan Tramte",
       "gl": 426,
-      "prc": 0.03326,
+      "prc": 0.033255,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -1614,7 +1614,7 @@
       "id": 1658,
       "naziv": "Anton Peršin",
       "gl": 128,
-      "prc": 0.009994,
+      "prc": 0.009992,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -1626,7 +1626,7 @@
       "id": 2487,
       "naziv": "Gorazd Korošec",
       "gl": 206,
-      "prc": 0.016084,
+      "prc": 0.016081,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -1638,7 +1638,7 @@
       "id": 1343,
       "naziv": "Damir Pintarič",
       "gl": 222,
-      "prc": 0.017333,
+      "prc": 0.01733,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -1650,7 +1650,7 @@
       "id": 1139,
       "naziv": "dr. Marija Klopčič",
       "gl": 1049,
-      "prc": 0.081902,
+      "prc": 0.081889,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -1662,7 +1662,7 @@
       "id": 1352,
       "naziv": "Miha Velikanje",
       "gl": 251,
-      "prc": 0.019597,
+      "prc": 0.019594,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -1674,7 +1674,7 @@
       "id": 2187,
       "naziv": "Darija Jamnik",
       "gl": 479,
-      "prc": 0.037399,
+      "prc": 0.037393,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -1685,8 +1685,8 @@
       "st": 15,
       "id": 2048,
       "naziv": "Andrej Hoivik",
-      "gl": 3464,
-      "prc": 0.270456,
+      "gl": 3465,
+      "prc": 0.270492,
       "man": true,
       "enota": 1,
       "okraji": [
@@ -1698,7 +1698,7 @@
       "id": 1332,
       "naziv": "Asima Harbaš",
       "gl": 536,
-      "prc": 0.041849,
+      "prc": 0.041842,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -1710,7 +1710,7 @@
       "id": 1678,
       "naziv": "Franc Rudolf",
       "gl": 311,
-      "prc": 0.024282,
+      "prc": 0.024278,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -1722,7 +1722,7 @@
       "id": 2212,
       "naziv": "Dean Jug",
       "gl": 209,
-      "prc": 0.016318,
+      "prc": 0.016315,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -1734,7 +1734,7 @@
       "id": 1286,
       "naziv": "Adrijana Mrak",
       "gl": 178,
-      "prc": 0.007198,
+      "prc": 0.007197,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -1830,8 +1830,8 @@
       "st": 10,
       "id": 2488,
       "naziv": "Nina Tušar Markež",
-      "gl": 374,
-      "prc": 0.013405,
+      "gl": 389,
+      "prc": 0.01314,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -1927,8 +1927,8 @@
       "st": 19,
       "id": 2205,
       "naziv": "Erika Oblak",
-      "gl": 286,
-      "prc": 0.013977,
+      "gl": 297,
+      "prc": 0.014108,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -1940,8 +1940,8 @@
       "st": 21,
       "id": 2475,
       "naziv": "Ferhan Korać",
-      "gl": 15,
-      "prc": 0.000538,
+      "gl": 16,
+      "prc": 0.00054,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -1953,8 +1953,8 @@
       "st": 1,
       "id": 1254,
       "naziv": "Janez Pančur",
-      "gl": 78,
-      "prc": 0.004882,
+      "gl": 85,
+      "prc": 0.004807,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -1965,8 +1965,8 @@
       "st": 3,
       "id": 1324,
       "naziv": "Rok Držanič",
-      "gl": 361,
-      "prc": 0.022595,
+      "gl": 403,
+      "prc": 0.022792,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -1977,8 +1977,8 @@
       "st": 4,
       "id": 1702,
       "naziv": "Aleš Lipičnik",
-      "gl": 4795,
-      "prc": 0.300119,
+      "gl": 5321,
+      "prc": 0.300927,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -1989,8 +1989,8 @@
       "st": 6,
       "id": 1731,
       "naziv": "Ivan Mitrevski",
-      "gl": 530,
-      "prc": 0.033173,
+      "gl": 581,
+      "prc": 0.032858,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -2002,7 +2002,7 @@
       "id": 2412,
       "naziv": "Mojca Podobnik Rozman",
       "gl": 36,
-      "prc": 0.002253,
+      "prc": 0.002036,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -2013,8 +2013,8 @@
       "st": 8,
       "id": 2030,
       "naziv": "Marjan Šarec",
-      "gl": 2186,
-      "prc": 0.136822,
+      "gl": 2292,
+      "prc": 0.129623,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -2025,8 +2025,8 @@
       "st": 9,
       "id": 1660,
       "naziv": "Matjaž Zorman",
-      "gl": 193,
-      "prc": 0.01208,
+      "gl": 219,
+      "prc": 0.012385,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -2037,8 +2037,8 @@
       "st": 11,
       "id": 1349,
       "naziv": "Robin Majnik",
-      "gl": 226,
-      "prc": 0.014145,
+      "gl": 249,
+      "prc": 0.014082,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -2049,8 +2049,8 @@
       "st": 14,
       "id": 2189,
       "naziv": "dr. Simona Kustec",
-      "gl": 304,
-      "prc": 0.019027,
+      "gl": 348,
+      "prc": 0.019681,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -2061,8 +2061,8 @@
       "st": 15,
       "id": 2051,
       "naziv": "Nežka Poljanšek",
-      "gl": 3140,
-      "prc": 0.196533,
+      "gl": 3581,
+      "prc": 0.202522,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -2073,8 +2073,8 @@
       "st": 16,
       "id": 1226,
       "naziv": "Monika Bregant",
-      "gl": 180,
-      "prc": 0.011266,
+      "gl": 196,
+      "prc": 0.011085,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -2085,8 +2085,8 @@
       "st": 17,
       "id": 1334,
       "naziv": "Maja Aleksovska-Lesjak",
-      "gl": 639,
-      "prc": 0.039995,
+      "gl": 701,
+      "prc": 0.039645,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -2097,8 +2097,8 @@
       "st": 18,
       "id": 1680,
       "naziv": "Dragica Klemše",
-      "gl": 352,
-      "prc": 0.022032,
+      "gl": 379,
+      "prc": 0.021434,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -2109,8 +2109,8 @@
       "st": 19,
       "id": 2215,
       "naziv": "Andreja Pogačar",
-      "gl": 194,
-      "prc": 0.012142,
+      "gl": 223,
+      "prc": 0.012612,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -2121,8 +2121,8 @@
       "st": 20,
       "id": 1290,
       "naziv": "Zdenka Čemažar",
-      "gl": 165,
-      "prc": 0.00673,
+      "gl": 177,
+      "prc": 0.006602,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -2135,7 +2135,7 @@
       "id": 1320,
       "naziv": "Tatjana Pungerčar",
       "gl": 7,
-      "prc": 0.00082,
+      "prc": 0.000767,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -2146,8 +2146,8 @@
       "st": 3,
       "id": 1325,
       "naziv": "Aljaž Rupnik",
-      "gl": 241,
-      "prc": 0.02822,
+      "gl": 247,
+      "prc": 0.027054,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -2158,8 +2158,8 @@
       "st": 4,
       "id": 1704,
       "naziv": "Sara Erdić",
-      "gl": 2743,
-      "prc": 0.321194,
+      "gl": 2889,
+      "prc": 0.316429,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -2170,8 +2170,8 @@
       "st": 6,
       "id": 1732,
       "naziv": "Sara Dejanović",
-      "gl": 306,
-      "prc": 0.035831,
+      "gl": 315,
+      "prc": 0.034502,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -2182,8 +2182,8 @@
       "st": 7,
       "id": 2409,
       "naziv": "Darko Peljhan",
-      "gl": 37,
-      "prc": 0.004333,
+      "gl": 38,
+      "prc": 0.004162,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -2194,8 +2194,8 @@
       "st": 8,
       "id": 2032,
       "naziv": "Natalija Kovač Jereb",
-      "gl": 401,
-      "prc": 0.046956,
+      "gl": 427,
+      "prc": 0.046769,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -2206,8 +2206,8 @@
       "st": 9,
       "id": 1661,
       "naziv": "Dolores Primožič",
-      "gl": 106,
-      "prc": 0.012412,
+      "gl": 116,
+      "prc": 0.012705,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -2218,8 +2218,8 @@
       "st": 10,
       "id": 2489,
       "naziv": "Gabrijel Leskovec",
-      "gl": 100,
-      "prc": 0.01171,
+      "gl": 108,
+      "prc": 0.011829,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -2230,8 +2230,8 @@
       "st": 11,
       "id": 1350,
       "naziv": "Katarina Bošnjak",
-      "gl": 138,
-      "prc": 0.016159,
+      "gl": 150,
+      "prc": 0.016429,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -2242,8 +2242,8 @@
       "st": 12,
       "id": 1141,
       "naziv": "Franc (Francisco Estanislao) Medic",
-      "gl": 669,
-      "prc": 0.078337,
+      "gl": 737,
+      "prc": 0.080723,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -2254,8 +2254,8 @@
       "st": 14,
       "id": 2190,
       "naziv": "Jurij Kavčič",
-      "gl": 436,
-      "prc": 0.051054,
+      "gl": 483,
+      "prc": 0.052903,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -2266,8 +2266,8 @@
       "st": 15,
       "id": 2052,
       "naziv": "Andrej Poglajen",
-      "gl": 1935,
-      "prc": 0.226581,
+      "gl": 2109,
+      "prc": 0.230997,
       "man": true,
       "enota": 1,
       "okraji": [
@@ -2278,8 +2278,8 @@
       "st": 16,
       "id": 1227,
       "naziv": "Monika Rožanc",
-      "gl": 119,
-      "prc": 0.013934,
+      "gl": 128,
+      "prc": 0.01402,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -2290,8 +2290,8 @@
       "st": 17,
       "id": 1335,
       "naziv": "Samo Bevk",
-      "gl": 794,
-      "prc": 0.092974,
+      "gl": 827,
+      "prc": 0.090581,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -2302,8 +2302,8 @@
       "st": 18,
       "id": 1681,
       "naziv": "Ivan Pergovnik",
-      "gl": 163,
-      "prc": 0.019087,
+      "gl": 171,
+      "prc": 0.018729,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -2314,8 +2314,8 @@
       "st": 21,
       "id": 2473,
       "naziv": "Rok Teran",
-      "gl": 7,
-      "prc": 0.00082,
+      "gl": 8,
+      "prc": 0.000876,
       "man": false,
       "enota": 1,
       "okraji": [
@@ -2338,8 +2338,8 @@
       "st": 2,
       "id": 1993,
       "naziv": "Natalija Pungerčar",
-      "gl": 29,
-      "prc": 0.001691,
+      "gl": 31,
+      "prc": 0.001713,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -2459,8 +2459,8 @@
       "st": 13,
       "id": 1440,
       "naziv": "Sabina Erjavec",
-      "gl": 311,
-      "prc": 0.013373,
+      "gl": 336,
+      "prc": 0.012914,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -2533,8 +2533,8 @@
       "st": 19,
       "id": 2145,
       "naziv": "Saša Hreščak",
-      "gl": 151,
-      "prc": 0.012653,
+      "gl": 159,
+      "prc": 0.012564,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -2546,8 +2546,8 @@
       "st": 20,
       "id": 1211,
       "naziv": "Vida Tekavčič",
-      "gl": 64,
-      "prc": 0.005363,
+      "gl": 69,
+      "prc": 0.005452,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -2560,7 +2560,7 @@
       "id": 2449,
       "naziv": "Jožef Špes",
       "gl": 15,
-      "prc": 0.001166,
+      "prc": 0.001114,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -2572,8 +2572,8 @@
       "st": 1,
       "id": 1125,
       "naziv": "Milena Bužan",
-      "gl": 145,
-      "prc": 0.00643,
+      "gl": 147,
+      "prc": 0.006156,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -2585,8 +2585,8 @@
       "st": 3,
       "id": 1499,
       "naziv": "Sabrina Simonovich",
-      "gl": 236,
-      "prc": 0.030685,
+      "gl": 249,
+      "prc": 0.028816,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -2597,8 +2597,8 @@
       "st": 4,
       "id": 1750,
       "naziv": "Dani (Danijel) Bešič Loredan",
-      "gl": 3100,
-      "prc": 0.403069,
+      "gl": 3484,
+      "prc": 0.403194,
       "man": true,
       "enota": 2,
       "okraji": [
@@ -2609,8 +2609,8 @@
       "st": 6,
       "id": 1886,
       "naziv": "Nina Ukmar",
-      "gl": 419,
-      "prc": 0.054479,
+      "gl": 472,
+      "prc": 0.054623,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -2621,8 +2621,8 @@
       "st": 7,
       "id": 2457,
       "naziv": "Anja Pečič",
-      "gl": 108,
-      "prc": 0.014042,
+      "gl": 116,
+      "prc": 0.013424,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -2633,8 +2633,8 @@
       "st": 8,
       "id": 1920,
       "naziv": "Andrej Korenika",
-      "gl": 253,
-      "prc": 0.032896,
+      "gl": 291,
+      "prc": 0.033677,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -2645,8 +2645,8 @@
       "st": 9,
       "id": 1108,
       "naziv": "Andreja Humar",
-      "gl": 70,
-      "prc": 0.009102,
+      "gl": 78,
+      "prc": 0.009027,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -2657,8 +2657,8 @@
       "st": 10,
       "id": 2417,
       "naziv": "Saša Petejan",
-      "gl": 485,
-      "prc": 0.02534,
+      "gl": 501,
+      "prc": 0.024938,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -2670,8 +2670,8 @@
       "st": 11,
       "id": 1361,
       "naziv": "Martina Kos",
-      "gl": 281,
-      "prc": 0.027641,
+      "gl": 319,
+      "prc": 0.026949,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -2683,8 +2683,8 @@
       "st": 12,
       "id": 1078,
       "naziv": "Zdenka Zupančič",
-      "gl": 244,
-      "prc": 0.031725,
+      "gl": 283,
+      "prc": 0.032751,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -2695,8 +2695,8 @@
       "st": 13,
       "id": 1453,
       "naziv": "Urša Filiput",
-      "gl": 162,
-      "prc": 0.015935,
+      "gl": 195,
+      "prc": 0.016474,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -2708,8 +2708,8 @@
       "st": 14,
       "id": 2420,
       "naziv": "dr. Gorazd Pretnar",
-      "gl": 114,
-      "prc": 0.014823,
+      "gl": 134,
+      "prc": 0.015507,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -2720,8 +2720,8 @@
       "st": 15,
       "id": 1902,
       "naziv": "Vojko Jevševar",
-      "gl": 1211,
-      "prc": 0.157457,
+      "gl": 1395,
+      "prc": 0.16144,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -2732,8 +2732,8 @@
       "st": 16,
       "id": 1051,
       "naziv": "Valerija Trost",
-      "gl": 70,
-      "prc": 0.006886,
+      "gl": 81,
+      "prc": 0.006843,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -2745,8 +2745,8 @@
       "st": 17,
       "id": 1158,
       "naziv": "mag. Meira Hot",
-      "gl": 939,
-      "prc": 0.122091,
+      "gl": 1033,
+      "prc": 0.119546,
       "man": true,
       "enota": 2,
       "okraji": [
@@ -2757,8 +2757,8 @@
       "st": 18,
       "id": 1467,
       "naziv": "Tatjana Voj",
-      "gl": 246,
-      "prc": 0.031985,
+      "gl": 271,
+      "prc": 0.031362,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -2769,8 +2769,8 @@
       "st": 19,
       "id": 2147,
       "naziv": "Andrej Mikola",
-      "gl": 68,
-      "prc": 0.008842,
+      "gl": 75,
+      "prc": 0.00868,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -2781,8 +2781,8 @@
       "st": 20,
       "id": 1212,
       "naziv": "Bruno Tenčić",
-      "gl": 55,
-      "prc": 0.007151,
+      "gl": 56,
+      "prc": 0.006481,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -2793,8 +2793,8 @@
       "st": 21,
       "id": 2439,
       "naziv": "Zlatka Olah",
-      "gl": 25,
-      "prc": 0.001306,
+      "gl": 26,
+      "prc": 0.001294,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -2806,8 +2806,8 @@
       "st": 1,
       "id": 1126,
       "naziv": "Tatjana Antončič",
-      "gl": 101,
-      "prc": 0.007254,
+      "gl": 103,
+      "prc": 0.007033,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -2819,8 +2819,8 @@
       "st": 2,
       "id": 1994,
       "naziv": "Suzana Šulin",
-      "gl": 30,
-      "prc": 0.002316,
+      "gl": 35,
+      "prc": 0.002559,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -2832,8 +2832,8 @@
       "st": 3,
       "id": 1502,
       "naziv": "Damjan Bertok",
-      "gl": 95,
-      "prc": 0.038384,
+      "gl": 108,
+      "prc": 0.033792,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -2844,8 +2844,8 @@
       "st": 4,
       "id": 1751,
       "naziv": "Robi (Robert) Janev",
-      "gl": 1072,
-      "prc": 0.433131,
+      "gl": 1403,
+      "prc": 0.438986,
       "man": true,
       "enota": 2,
       "okraji": [
@@ -2856,8 +2856,8 @@
       "st": 6,
       "id": 1887,
       "naziv": "Alan Medveš",
-      "gl": 121,
-      "prc": 0.048889,
+      "gl": 166,
+      "prc": 0.05194,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -2868,8 +2868,8 @@
       "st": 7,
       "id": 2460,
       "naziv": "Rene Ristovski",
-      "gl": 49,
-      "prc": 0.019798,
+      "gl": 57,
+      "prc": 0.017835,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -2880,8 +2880,8 @@
       "st": 8,
       "id": 1931,
       "naziv": "Sandi Čurin",
-      "gl": 58,
-      "prc": 0.023434,
+      "gl": 96,
+      "prc": 0.030038,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -2892,8 +2892,8 @@
       "st": 9,
       "id": 1109,
       "naziv": "Tomo Drevenšek",
-      "gl": 19,
-      "prc": 0.007677,
+      "gl": 31,
+      "prc": 0.0097,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -2904,8 +2904,8 @@
       "st": 10,
       "id": 2418,
       "naziv": "Seit Demiri",
-      "gl": 71,
-      "prc": 0.028687,
+      "gl": 82,
+      "prc": 0.025657,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -2916,8 +2916,8 @@
       "st": 12,
       "id": 1083,
       "naziv": "Srečko Langeršek",
-      "gl": 88,
-      "prc": 0.035556,
+      "gl": 113,
+      "prc": 0.035357,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -2928,8 +2928,8 @@
       "st": 14,
       "id": 2421,
       "naziv": "Gregor Perič",
-      "gl": 53,
-      "prc": 0.021414,
+      "gl": 69,
+      "prc": 0.021589,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -2940,8 +2940,8 @@
       "st": 15,
       "id": 1903,
       "naziv": "Mojca Mahajnc",
-      "gl": 388,
-      "prc": 0.156768,
+      "gl": 474,
+      "prc": 0.14831,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -2952,8 +2952,8 @@
       "st": 17,
       "id": 1163,
       "naziv": "Romina Kralj",
-      "gl": 189,
-      "prc": 0.076364,
+      "gl": 247,
+      "prc": 0.077284,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -2964,8 +2964,8 @@
       "st": 18,
       "id": 1469,
       "naziv": "Senka Bembič",
-      "gl": 80,
-      "prc": 0.032323,
+      "gl": 110,
+      "prc": 0.034418,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -2976,8 +2976,8 @@
       "st": 21,
       "id": 2451,
       "naziv": "Blažo Ždrnja",
-      "gl": 13,
-      "prc": 0.001003,
+      "gl": 15,
+      "prc": 0.001097,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -2990,7 +2990,7 @@
       "id": 1995,
       "naziv": "Ksenija Galjanič",
       "gl": 32,
-      "prc": 0.001216,
+      "prc": 0.001199,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -3038,8 +3038,8 @@
       "st": 7,
       "id": 2459,
       "naziv": "Boris Popovič",
-      "gl": 1289,
-      "prc": 0.048998,
+      "gl": 1311,
+      "prc": 0.049121,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -3135,8 +3135,8 @@
       "st": 16,
       "id": 1053,
       "naziv": "Svetlana Aleksovska",
-      "gl": 174,
-      "prc": 0.006614,
+      "gl": 177,
+      "prc": 0.006632,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -3184,8 +3184,8 @@
       "st": 20,
       "id": 1210,
       "naziv": "Lara Lovrečič",
-      "gl": 199,
-      "prc": 0.007565,
+      "gl": 202,
+      "prc": 0.007569,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -3197,8 +3197,8 @@
       "st": 3,
       "id": 1506,
       "naziv": "Robert Vodopija",
-      "gl": 443,
-      "prc": 0.029816,
+      "gl": 453,
+      "prc": 0.029724,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -3209,8 +3209,8 @@
       "st": 4,
       "id": 1753,
       "naziv": "Mateja Čalušić",
-      "gl": 6509,
-      "prc": 0.43808,
+      "gl": 6667,
+      "prc": 0.437467,
       "man": true,
       "enota": 2,
       "okraji": [
@@ -3221,8 +3221,8 @@
       "st": 6,
       "id": 1892,
       "naziv": "Maja Tašner Vatovec",
-      "gl": 679,
-      "prc": 0.045699,
+      "gl": 702,
+      "prc": 0.046063,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -3233,8 +3233,8 @@
       "st": 8,
       "id": 1941,
       "naziv": "Bojan Tavčar",
-      "gl": 526,
-      "prc": 0.035402,
+      "gl": 542,
+      "prc": 0.035564,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -3245,8 +3245,8 @@
       "st": 9,
       "id": 1117,
       "naziv": "Aleks Bordon",
-      "gl": 149,
-      "prc": 0.010028,
+      "gl": 152,
+      "prc": 0.009974,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -3257,8 +3257,8 @@
       "st": 10,
       "id": 2422,
       "naziv": "Igor Crnić",
-      "gl": 375,
-      "prc": 0.025239,
+      "gl": 388,
+      "prc": 0.025459,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -3269,8 +3269,8 @@
       "st": 11,
       "id": 1363,
       "naziv": "Franc Malečkar",
-      "gl": 289,
-      "prc": 0.019451,
+      "gl": 292,
+      "prc": 0.01916,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -3281,8 +3281,8 @@
       "st": 12,
       "id": 1089,
       "naziv": "Jerneja Stopar",
-      "gl": 542,
-      "prc": 0.036479,
+      "gl": 555,
+      "prc": 0.036417,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -3293,8 +3293,8 @@
       "st": 13,
       "id": 1439,
       "naziv": "Mitja Ivanič",
-      "gl": 492,
-      "prc": 0.015086,
+      "gl": 497,
+      "prc": 0.015063,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -3306,8 +3306,8 @@
       "st": 14,
       "id": 2429,
       "naziv": "Tamara Mikin",
-      "gl": 244,
-      "prc": 0.016422,
+      "gl": 250,
+      "prc": 0.016404,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -3318,8 +3318,8 @@
       "st": 15,
       "id": 1905,
       "naziv": "Silvano Radin",
-      "gl": 2146,
-      "prc": 0.144434,
+      "gl": 2197,
+      "prc": 0.14416,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -3330,8 +3330,8 @@
       "st": 17,
       "id": 1170,
       "naziv": "Jadranka Šturm Kocjan",
-      "gl": 991,
-      "prc": 0.066698,
+      "gl": 1023,
+      "prc": 0.067126,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -3342,8 +3342,8 @@
       "st": 18,
       "id": 1477,
       "naziv": "Janko Sever",
-      "gl": 588,
-      "prc": 0.039575,
+      "gl": 604,
+      "prc": 0.039633,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -3354,8 +3354,8 @@
       "st": 19,
       "id": 2154,
       "naziv": "Miha Stegel",
-      "gl": 135,
-      "prc": 0.009086,
+      "gl": 139,
+      "prc": 0.009121,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -3367,7 +3367,7 @@
       "id": 2444,
       "naziv": "Maja Antolovič",
       "gl": 35,
-      "prc": 0.001172,
+      "prc": 0.001157,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -3379,8 +3379,8 @@
       "st": 1,
       "id": 1127,
       "naziv": "Mirko Višnjevec",
-      "gl": 26,
-      "prc": 0.007622,
+      "gl": 29,
+      "prc": 0.00723,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -3391,8 +3391,8 @@
       "st": 2,
       "id": 1998,
       "naziv": "Tom Žnidarčič",
-      "gl": 11,
-      "prc": 0.001011,
+      "gl": 13,
+      "prc": 0.001132,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -3404,8 +3404,8 @@
       "st": 3,
       "id": 1508,
       "naziv": "Aleksander Ževart",
-      "gl": 261,
-      "prc": 0.018788,
+      "gl": 277,
+      "prc": 0.019114,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -3417,8 +3417,8 @@
       "st": 4,
       "id": 1754,
       "naziv": "Andreja Živic",
-      "gl": 1366,
-      "prc": 0.400469,
+      "gl": 1617,
+      "prc": 0.403141,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -3429,8 +3429,8 @@
       "st": 6,
       "id": 1894,
       "naziv": "Bojan Pahor",
-      "gl": 132,
-      "prc": 0.038698,
+      "gl": 168,
+      "prc": 0.041885,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -3441,8 +3441,8 @@
       "st": 7,
       "id": 2462,
       "naziv": "Sara Pfeifer Pelicon",
-      "gl": 70,
-      "prc": 0.003307,
+      "gl": 71,
+      "prc": 0.003262,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -3454,8 +3454,8 @@
       "st": 8,
       "id": 1946,
       "naziv": "Andrej Starc",
-      "gl": 89,
-      "prc": 0.026092,
+      "gl": 117,
+      "prc": 0.02917,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -3466,8 +3466,8 @@
       "st": 9,
       "id": 1118,
       "naziv": "Darja Sikirica",
-      "gl": 90,
-      "prc": 0.026385,
+      "gl": 104,
+      "prc": 0.025929,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -3478,8 +3478,8 @@
       "st": 10,
       "id": 2424,
       "naziv": "Damjana Škapin",
-      "gl": 61,
-      "prc": 0.017883,
+      "gl": 71,
+      "prc": 0.017701,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -3490,8 +3490,8 @@
       "st": 11,
       "id": 1366,
       "naziv": "Olga Knez",
-      "gl": 72,
-      "prc": 0.021108,
+      "gl": 85,
+      "prc": 0.021192,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -3502,8 +3502,8 @@
       "st": 12,
       "id": 1092,
       "naziv": "Klavdija Primc",
-      "gl": 220,
-      "prc": 0.064497,
+      "gl": 241,
+      "prc": 0.060085,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -3514,8 +3514,8 @@
       "st": 13,
       "id": 1450,
       "naziv": "Vladoša Vidic",
-      "gl": 336,
-      "prc": 0.018237,
+      "gl": 346,
+      "prc": 0.018188,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -3527,8 +3527,8 @@
       "st": 14,
       "id": 2430,
       "naziv": "Klementina Križman",
-      "gl": 109,
-      "prc": 0.031955,
+      "gl": 129,
+      "prc": 0.032162,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -3539,8 +3539,8 @@
       "st": 15,
       "id": 1906,
       "naziv": "Mara Glušič",
-      "gl": 577,
-      "prc": 0.169159,
+      "gl": 660,
+      "prc": 0.164547,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -3551,8 +3551,8 @@
       "st": 16,
       "id": 1055,
       "naziv": "Vladimir Skok",
-      "gl": 49,
-      "prc": 0.014365,
+      "gl": 53,
+      "prc": 0.013214,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -3563,8 +3563,8 @@
       "st": 17,
       "id": 1172,
       "naziv": "Marina Suban",
-      "gl": 198,
-      "prc": 0.058047,
+      "gl": 231,
+      "prc": 0.057592,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -3575,8 +3575,8 @@
       "st": 18,
       "id": 1481,
       "naziv": "Marko Bandelli",
-      "gl": 225,
-      "prc": 0.065963,
+      "gl": 261,
+      "prc": 0.065071,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -3587,8 +3587,8 @@
       "st": 19,
       "id": 2155,
       "naziv": "Anton Zobec",
-      "gl": 40,
-      "prc": 0.011727,
+      "gl": 54,
+      "prc": 0.013463,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -3599,8 +3599,8 @@
       "st": 20,
       "id": 1213,
       "naziv": "Borut Loboda",
-      "gl": 79,
-      "prc": 0.004591,
+      "gl": 89,
+      "prc": 0.004327,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -4012,8 +4012,8 @@
       "st": 1,
       "id": 1130,
       "naziv": "mag. Darinka Kozinc",
-      "gl": 203,
-      "prc": 0.006434,
+      "gl": 215,
+      "prc": 0.006266,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -4038,8 +4038,8 @@
       "st": 3,
       "id": 1518,
       "naziv": "Jadranka Kocbek Mervič",
-      "gl": 507,
-      "prc": 0.01607,
+      "gl": 540,
+      "prc": 0.015737,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -4051,8 +4051,8 @@
       "st": 4,
       "id": 1757,
       "naziv": "Matej Arčon",
-      "gl": 13630,
-      "prc": 0.432013,
+      "gl": 15093,
+      "prc": 0.439862,
       "man": true,
       "enota": 2,
       "okraji": [
@@ -4112,8 +4112,8 @@
       "st": 11,
       "id": 1364,
       "naziv": "Mima Zadnek",
-      "gl": 509,
-      "prc": 0.016133,
+      "gl": 559,
+      "prc": 0.016291,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -4198,7 +4198,7 @@
       "id": 2442,
       "naziv": "Dona Olah",
       "gl": 30,
-      "prc": 0.000951,
+      "prc": 0.000874,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -4210,8 +4210,8 @@
       "st": 2,
       "id": 2006,
       "naziv": "Marvin Šulin",
-      "gl": 31,
-      "prc": 0.002247,
+      "gl": 34,
+      "prc": 0.002053,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -4222,8 +4222,8 @@
       "st": 6,
       "id": 1899,
       "naziv": "Marko Rusjan",
-      "gl": 585,
-      "prc": 0.042404,
+      "gl": 756,
+      "prc": 0.045655,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -4234,8 +4234,8 @@
       "st": 7,
       "id": 2458,
       "naziv": "Predrag Bodiroža",
-      "gl": 40,
-      "prc": 0.002899,
+      "gl": 53,
+      "prc": 0.003201,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -4246,8 +4246,8 @@
       "st": 8,
       "id": 1973,
       "naziv": "Maja Pangos",
-      "gl": 239,
-      "prc": 0.017324,
+      "gl": 276,
+      "prc": 0.016668,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -4258,8 +4258,8 @@
       "st": 9,
       "id": 1122,
       "naziv": "Silvan Saksida",
-      "gl": 178,
-      "prc": 0.012902,
+      "gl": 201,
+      "prc": 0.012138,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -4270,8 +4270,8 @@
       "st": 10,
       "id": 2427,
       "naziv": "Peter Golob",
-      "gl": 552,
-      "prc": 0.040012,
+      "gl": 619,
+      "prc": 0.037381,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -4282,8 +4282,8 @@
       "st": 12,
       "id": 1101,
       "naziv": "Erika Podgornik Rijavec",
-      "gl": 621,
-      "prc": 0.045013,
+      "gl": 711,
+      "prc": 0.042937,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -4294,8 +4294,8 @@
       "st": 14,
       "id": 2436,
       "naziv": "Vasja Medvešček",
-      "gl": 313,
-      "prc": 0.022688,
+      "gl": 368,
+      "prc": 0.022224,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -4306,8 +4306,8 @@
       "st": 15,
       "id": 1910,
       "naziv": "mag. Tomaž Slokar",
-      "gl": 2613,
-      "prc": 0.189403,
+      "gl": 2967,
+      "prc": 0.179177,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -4318,8 +4318,8 @@
       "st": 16,
       "id": 1062,
       "naziv": "Leonida Gregorič",
-      "gl": 232,
-      "prc": 0.008053,
+      "gl": 245,
+      "prc": 0.00776,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -4331,8 +4331,8 @@
       "st": 17,
       "id": 1181,
       "naziv": "Matjaž Nemec",
-      "gl": 992,
-      "prc": 0.071905,
+      "gl": 1246,
+      "prc": 0.075246,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -4343,8 +4343,8 @@
       "st": 18,
       "id": 1504,
       "naziv": "Andrej Šušmelj",
-      "gl": 325,
-      "prc": 0.023558,
+      "gl": 392,
+      "prc": 0.023673,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -4355,8 +4355,8 @@
       "st": 19,
       "id": 2159,
       "naziv": "Manuela Korečič",
-      "gl": 147,
-      "prc": 0.010655,
+      "gl": 175,
+      "prc": 0.010568,
       "man": false,
       "enota": 2,
       "okraji": [
@@ -5070,7 +5070,7 @@
       "id": 2594,
       "naziv": "Rok Bohinc",
       "gl": 68,
-      "prc": 0.002574,
+      "prc": 0.002573,
       "man": false,
       "enota": 3,
       "okraji": [
@@ -5231,7 +5231,7 @@
       "id": 1527,
       "naziv": "Anita Ogrin Ločniškar",
       "gl": 53,
-      "prc": 0.001903,
+      "prc": 0.001902,
       "man": false,
       "enota": 3,
       "okraji": [
@@ -5500,7 +5500,7 @@
       "id": 2577,
       "naziv": "Violeta Bulc",
       "gl": 370,
-      "prc": 0.018633,
+      "prc": 0.018631,
       "man": false,
       "enota": 3,
       "okraji": [
@@ -5537,7 +5537,7 @@
       "id": 2616,
       "naziv": "Zala Rebernak",
       "gl": 623,
-      "prc": 0.021053,
+      "prc": 0.02105,
       "man": false,
       "enota": 3,
       "okraji": [
@@ -5574,7 +5574,7 @@
       "id": 1071,
       "naziv": "Simo Marić",
       "gl": 261,
-      "prc": 0.00882,
+      "prc": 0.008819,
       "man": false,
       "enota": 3,
       "okraji": [
@@ -5611,7 +5611,7 @@
       "id": 1360,
       "naziv": "Samir Hvalec",
       "gl": 88,
-      "prc": 0.004432,
+      "prc": 0.004431,
       "man": false,
       "enota": 3,
       "okraji": [
@@ -5733,7 +5733,7 @@
       "id": 2255,
       "naziv": "Alojz Kovšca",
       "gl": 723,
-      "prc": 0.026885,
+      "prc": 0.026883,
       "man": false,
       "enota": 3,
       "okraji": [
@@ -5818,7 +5818,7 @@
       "id": 1523,
       "naziv": "Boštjan Zupančič",
       "gl": 46,
-      "prc": 0.002616,
+      "prc": 0.002615,
       "man": false,
       "enota": 3,
       "okraji": [
@@ -5831,7 +5831,7 @@
       "id": 1168,
       "naziv": "Tomaž Avsenik",
       "gl": 127,
-      "prc": 0.016506,
+      "prc": 0.016502,
       "man": false,
       "enota": 3,
       "okraji": [
@@ -5842,8 +5842,8 @@
       "st": 4,
       "id": 1805,
       "naziv": "dr. Robert Golob",
-      "gl": 7253,
-      "prc": 0.412454,
+      "gl": 7254,
+      "prc": 0.41244,
       "man": true,
       "enota": 3,
       "okraji": [
@@ -5856,7 +5856,7 @@
       "id": 1765,
       "naziv": "Luka Mesec",
       "gl": 1079,
-      "prc": 0.140239,
+      "prc": 0.140203,
       "man": true,
       "enota": 3,
       "okraji": [
@@ -5868,7 +5868,7 @@
       "id": 1840,
       "naziv": "Klemen Gliha",
       "gl": 286,
-      "prc": 0.037172,
+      "prc": 0.037162,
       "man": false,
       "enota": 3,
       "okraji": [
@@ -5880,7 +5880,7 @@
       "id": 2067,
       "naziv": "dr. Blaž Peternel",
       "gl": 36,
-      "prc": 0.004679,
+      "prc": 0.004678,
       "man": false,
       "enota": 3,
       "okraji": [
@@ -5892,7 +5892,7 @@
       "id": 1412,
       "naziv": "Tarra Stermšek Kristan",
       "gl": 128,
-      "prc": 0.016636,
+      "prc": 0.016632,
       "man": false,
       "enota": 3,
       "okraji": [
@@ -5904,7 +5904,7 @@
       "id": 1041,
       "naziv": "Slava (Stanislava) Sosič",
       "gl": 414,
-      "prc": 0.053808,
+      "prc": 0.053794,
       "man": false,
       "enota": 3,
       "okraji": [
@@ -5916,7 +5916,7 @@
       "id": 1793,
       "naziv": "Gorazd Knific",
       "gl": 442,
-      "prc": 0.025135,
+      "prc": 0.025131,
       "man": false,
       "enota": 3,
       "okraji": [
@@ -5929,7 +5929,7 @@
       "id": 2256,
       "naziv": "Andrej Magajna",
       "gl": 165,
-      "prc": 0.021445,
+      "prc": 0.02144,
       "man": false,
       "enota": 3,
       "okraji": [
@@ -5940,8 +5940,8 @@
       "st": 15,
       "id": 2266,
       "naziv": "Marko Posavec",
-      "gl": 1154,
-      "prc": 0.149987,
+      "gl": 1155,
+      "prc": 0.150078,
       "man": false,
       "enota": 3,
       "okraji": [
@@ -5952,8 +5952,8 @@
       "st": 16,
       "id": 1072,
       "naziv": "Janja Hostnik",
-      "gl": 107,
-      "prc": 0.006085,
+      "gl": 108,
+      "prc": 0.006141,
       "man": false,
       "enota": 3,
       "okraji": [
@@ -5966,7 +5966,7 @@
       "id": 1392,
       "naziv": "mag. Marko Koprivc",
       "gl": 471,
-      "prc": 0.061217,
+      "prc": 0.061201,
       "man": false,
       "enota": 3,
       "okraji": [
@@ -5978,7 +5978,7 @@
       "id": 1516,
       "naziv": "Karmen Velikonja",
       "gl": 680,
-      "prc": 0.038669,
+      "prc": 0.038663,
       "man": false,
       "enota": 3,
       "okraji": [
@@ -5991,7 +5991,7 @@
       "id": 2279,
       "naziv": "Črt Batagelj",
       "gl": 161,
-      "prc": 0.020925,
+      "prc": 0.02092,
       "man": false,
       "enota": 3,
       "okraji": [
@@ -6003,7 +6003,7 @@
       "id": 2612,
       "naziv": "Miran Juras",
       "gl": 49,
-      "prc": 0.00226,
+      "prc": 0.002259,
       "man": false,
       "enota": 3,
       "okraji": [
@@ -6016,7 +6016,7 @@
       "id": 1169,
       "naziv": "Andrej Bohinc",
       "gl": 168,
-      "prc": 0.016985,
+      "prc": 0.016983,
       "man": false,
       "enota": 3,
       "okraji": [
@@ -6028,7 +6028,7 @@
       "id": 1766,
       "naziv": "Asta Vrečko",
       "gl": 1032,
-      "prc": 0.104337,
+      "prc": 0.104327,
       "man": false,
       "enota": 3,
       "okraji": [
@@ -6040,7 +6040,7 @@
       "id": 1842,
       "naziv": "Katja Damij",
       "gl": 400,
-      "prc": 0.040441,
+      "prc": 0.040437,
       "man": false,
       "enota": 3,
       "okraji": [
@@ -6052,7 +6052,7 @@
       "id": 2068,
       "naziv": "mag. Roman Šmidovnik",
       "gl": 58,
-      "prc": 0.005864,
+      "prc": 0.005863,
       "man": false,
       "enota": 3,
       "okraji": [
@@ -6064,7 +6064,7 @@
       "id": 2579,
       "naziv": "Ivan Gale",
       "gl": 565,
-      "prc": 0.024629,
+      "prc": 0.024626,
       "man": false,
       "enota": 3,
       "okraji": [
@@ -6077,7 +6077,7 @@
       "id": 1413,
       "naziv": "Barbra Jermann",
       "gl": 168,
-      "prc": 0.016985,
+      "prc": 0.016983,
       "man": false,
       "enota": 3,
       "okraji": [
@@ -6089,7 +6089,7 @@
       "id": 1043,
       "naziv": "Mateja Drobnič",
       "gl": 403,
-      "prc": 0.040744,
+      "prc": 0.04074,
       "man": false,
       "enota": 3,
       "okraji": [
@@ -6101,7 +6101,7 @@
       "id": 2257,
       "naziv": "Sara Iseinoski",
       "gl": 161,
-      "prc": 0.016277,
+      "prc": 0.016276,
       "man": false,
       "enota": 3,
       "okraji": [
@@ -6113,7 +6113,7 @@
       "id": 2267,
       "naziv": "Mojca Škrinjar",
       "gl": 1252,
-      "prc": 0.12658,
+      "prc": 0.126567,
       "man": false,
       "enota": 3,
       "okraji": [
@@ -6125,7 +6125,7 @@
       "id": 1394,
       "naziv": "Blaž Zgaga",
       "gl": 661,
-      "prc": 0.066828,
+      "prc": 0.066822,
       "man": false,
       "enota": 3,
       "okraji": [
@@ -6137,7 +6137,7 @@
       "id": 2292,
       "naziv": "Urška Zgojznik",
       "gl": 180,
-      "prc": 0.018198,
+      "prc": 0.018197,
       "man": false,
       "enota": 3,
       "okraji": [
@@ -6149,7 +6149,7 @@
       "id": 1358,
       "naziv": "Damjan Gregorič",
       "gl": 127,
-      "prc": 0.005536,
+      "prc": 0.005535,
       "man": false,
       "enota": 3,
       "okraji": [
@@ -6175,7 +6175,7 @@
       "id": 1171,
       "naziv": "Roman Fileš",
       "gl": 309,
-      "prc": 0.02368,
+      "prc": 0.023676,
       "man": false,
       "enota": 3,
       "okraji": [
@@ -6186,8 +6186,8 @@
       "st": 4,
       "id": 1807,
       "naziv": "Lenart Žavbi",
-      "gl": 5264,
-      "prc": 0.403403,
+      "gl": 5266,
+      "prc": 0.403494,
       "man": true,
       "enota": 3,
       "okraji": [
@@ -6199,7 +6199,7 @@
       "id": 1767,
       "naziv": "Dan Juvan",
       "gl": 1192,
-      "prc": 0.091348,
+      "prc": 0.091334,
       "man": false,
       "enota": 3,
       "okraji": [
@@ -6211,7 +6211,7 @@
       "id": 2598,
       "naziv": "Anže Lemež",
       "gl": 45,
-      "prc": 0.003449,
+      "prc": 0.003448,
       "man": false,
       "enota": 3,
       "okraji": [
@@ -6223,7 +6223,7 @@
       "id": 1843,
       "naziv": "Zdravko Selič",
       "gl": 538,
-      "prc": 0.041229,
+      "prc": 0.041223,
       "man": false,
       "enota": 3,
       "okraji": [
@@ -6235,7 +6235,7 @@
       "id": 2069,
       "naziv": "Žiga Štrukelj",
       "gl": 73,
-      "prc": 0.005594,
+      "prc": 0.005593,
       "man": false,
       "enota": 3,
       "okraji": [
@@ -6247,7 +6247,7 @@
       "id": 1414,
       "naziv": "Darko Begić",
       "gl": 216,
-      "prc": 0.016553,
+      "prc": 0.01655,
       "man": false,
       "enota": 3,
       "okraji": [
@@ -6259,7 +6259,7 @@
       "id": 1044,
       "naziv": "Marcela Uršič",
       "gl": 669,
-      "prc": 0.051268,
+      "prc": 0.05126,
       "man": false,
       "enota": 3,
       "okraji": [
@@ -6271,7 +6271,7 @@
       "id": 2613,
       "naziv": "Ratko Stojiljković",
       "gl": 471,
-      "prc": 0.018958,
+      "prc": 0.018955,
       "man": false,
       "enota": 3,
       "okraji": [
@@ -6284,7 +6284,7 @@
       "id": 2258,
       "naziv": "Špela Jovanovič-Gaberšek",
       "gl": 250,
-      "prc": 0.019159,
+      "prc": 0.019156,
       "man": false,
       "enota": 3,
       "okraji": [
@@ -6296,7 +6296,7 @@
       "id": 2268,
       "naziv": "Davorin Kopše",
       "gl": 1809,
-      "prc": 0.138631,
+      "prc": 0.13861,
       "man": false,
       "enota": 3,
       "okraji": [
@@ -6308,7 +6308,7 @@
       "id": 1073,
       "naziv": "Dušan Dolar",
       "gl": 176,
-      "prc": 0.007084,
+      "prc": 0.007083,
       "man": false,
       "enota": 3,
       "okraji": [
@@ -6321,7 +6321,7 @@
       "id": 1397,
       "naziv": "Tanja Fajon",
       "gl": 1132,
-      "prc": 0.08675,
+      "prc": 0.086737,
       "man": true,
       "enota": 3,
       "okraji": [
@@ -6333,7 +6333,7 @@
       "id": 1519,
       "naziv": "Maša Kociper",
       "gl": 527,
-      "prc": 0.040386,
+      "prc": 0.04038,
       "man": false,
       "enota": 3,
       "okraji": [
@@ -6345,7 +6345,7 @@
       "id": 2288,
       "naziv": "Saša Fras",
       "gl": 229,
-      "prc": 0.017549,
+      "prc": 0.017547,
       "man": false,
       "enota": 3,
       "okraji": [
@@ -6357,7 +6357,7 @@
       "id": 1173,
       "naziv": "Andrej Žerovc",
       "gl": 272,
-      "prc": 0.023061,
+      "prc": 0.023057,
       "man": false,
       "enota": 3,
       "okraji": [
@@ -6368,8 +6368,8 @@
       "st": 4,
       "id": 1809,
       "naziv": "mag. Urška Klakočar Zupančič",
-      "gl": 4947,
-      "prc": 0.419415,
+      "gl": 4949,
+      "prc": 0.419513,
       "man": true,
       "enota": 3,
       "okraji": [
@@ -6381,7 +6381,7 @@
       "id": 1768,
       "naziv": "Arne Jakob Zakrajšek",
       "gl": 821,
-      "prc": 0.069606,
+      "prc": 0.069594,
       "man": false,
       "enota": 3,
       "okraji": [
@@ -6405,7 +6405,7 @@
       "id": 1844,
       "naziv": "Urška Cankar Bošnjak",
       "gl": 501,
-      "prc": 0.042476,
+      "prc": 0.042468,
       "man": false,
       "enota": 3,
       "okraji": [
@@ -6417,7 +6417,7 @@
       "id": 2070,
       "naziv": "mag. Nataša Zakotnik Šmidovnik",
       "gl": 78,
-      "prc": 0.006613,
+      "prc": 0.006612,
       "man": false,
       "enota": 3,
       "okraji": [
@@ -6429,7 +6429,7 @@
       "id": 2580,
       "naziv": "dr. Ljubo Vošnjak",
       "gl": 230,
-      "prc": 0.0195,
+      "prc": 0.019496,
       "man": false,
       "enota": 3,
       "okraji": [
@@ -6441,7 +6441,7 @@
       "id": 1416,
       "naziv": "Boštjan Korelc",
       "gl": 201,
-      "prc": 0.017041,
+      "prc": 0.017038,
       "man": false,
       "enota": 3,
       "okraji": [
@@ -6453,7 +6453,7 @@
       "id": 1045,
       "naziv": "Gašper Čižman",
       "gl": 659,
-      "prc": 0.055871,
+      "prc": 0.055862,
       "man": false,
       "enota": 3,
       "okraji": [
@@ -6465,7 +6465,7 @@
       "id": 2269,
       "naziv": "Ksenija Sever",
       "gl": 1949,
-      "prc": 0.16524,
+      "prc": 0.165211,
       "man": false,
       "enota": 3,
       "okraji": [
@@ -6477,7 +6477,7 @@
       "id": 1399,
       "naziv": "Petra Doles",
       "gl": 756,
-      "prc": 0.064095,
+      "prc": 0.064084,
       "man": false,
       "enota": 3,
       "okraji": [
@@ -6489,7 +6489,7 @@
       "id": 1520,
       "naziv": "Mateja Logar",
       "gl": 1009,
-      "prc": 0.034526,
+      "prc": 0.034519,
       "man": false,
       "enota": 3,
       "okraji": [
@@ -6502,7 +6502,7 @@
       "id": 2284,
       "naziv": "Nenad Đorđević",
       "gl": 199,
-      "prc": 0.016872,
+      "prc": 0.016869,
       "man": false,
       "enota": 3,
       "okraji": [
@@ -6514,7 +6514,7 @@
       "id": 1357,
       "naziv": "Tanja Nosan",
       "gl": 172,
-      "prc": 0.005886,
+      "prc": 0.005884,
       "man": false,
       "enota": 3,
       "okraji": [
@@ -6527,7 +6527,7 @@
       "id": 1174,
       "naziv": "Marko Gubanc",
       "gl": 497,
-      "prc": 0.028516,
+      "prc": 0.028509,
       "man": false,
       "enota": 3,
       "okraji": [
@@ -6539,7 +6539,7 @@
       "id": 1810,
       "naziv": "Alenka Sivka",
       "gl": 6559,
-      "prc": 0.376327,
+      "prc": 0.37624,
       "man": false,
       "enota": 3,
       "okraji": [
@@ -6551,7 +6551,7 @@
       "id": 1769,
       "naziv": "Alenka Pirjevec",
       "gl": 733,
-      "prc": 0.042056,
+      "prc": 0.042047,
       "man": false,
       "enota": 3,
       "okraji": [
@@ -6563,7 +6563,7 @@
       "id": 2602,
       "naziv": "Vito Klavora",
       "gl": 67,
-      "prc": 0.003844,
+      "prc": 0.003843,
       "man": false,
       "enota": 3,
       "okraji": [
@@ -6575,7 +6575,7 @@
       "id": 1845,
       "naziv": "Andreja Zabret",
       "gl": 762,
-      "prc": 0.04372,
+      "prc": 0.04371,
       "man": false,
       "enota": 3,
       "okraji": [
@@ -6587,7 +6587,7 @@
       "id": 2071,
       "naziv": "Dejan Krajačić",
       "gl": 170,
-      "prc": 0.009754,
+      "prc": 0.009752,
       "man": false,
       "enota": 3,
       "okraji": [
@@ -6599,7 +6599,7 @@
       "id": 2581,
       "naziv": "dr. Polonca Štefanič",
       "gl": 280,
-      "prc": 0.016065,
+      "prc": 0.016061,
       "man": false,
       "enota": 3,
       "okraji": [
@@ -6611,7 +6611,7 @@
       "id": 1417,
       "naziv": "Jure Pogačnik",
       "gl": 310,
-      "prc": 0.017786,
+      "prc": 0.017782,
       "man": false,
       "enota": 3,
       "okraji": [
@@ -6622,8 +6622,8 @@
       "st": 12,
       "id": 1047,
       "naziv": "dr. Jože Podgoršek",
-      "gl": 1512,
-      "prc": 0.086752,
+      "gl": 1515,
+      "prc": 0.086904,
       "man": false,
       "enota": 3,
       "okraji": [
@@ -6635,7 +6635,7 @@
       "id": 2259,
       "naziv": "Dragan Djukić",
       "gl": 416,
-      "prc": 0.023868,
+      "prc": 0.023863,
       "man": false,
       "enota": 3,
       "okraji": [
@@ -6646,8 +6646,8 @@
       "st": 15,
       "id": 2271,
       "naziv": "Leon Merjasec",
-      "gl": 3618,
-      "prc": 0.207585,
+      "gl": 3619,
+      "prc": 0.207595,
       "man": false,
       "enota": 3,
       "okraji": [
@@ -6659,7 +6659,7 @@
       "id": 1400,
       "naziv": "Alenka Žavbi Kunaver",
       "gl": 894,
-      "prc": 0.051294,
+      "prc": 0.051282,
       "man": false,
       "enota": 3,
       "okraji": [
@@ -6671,7 +6671,7 @@
       "id": 2275,
       "naziv": "Gregor Gregorčič",
       "gl": 282,
-      "prc": 0.01618,
+      "prc": 0.016176,
       "man": false,
       "enota": 3,
       "okraji": [
@@ -6683,7 +6683,7 @@
       "id": 1097,
       "naziv": "Matjaž Juvančič",
       "gl": 65,
-      "prc": 0.007418,
+      "prc": 0.007414,
       "man": false,
       "enota": 4,
       "okraji": [
@@ -6707,7 +6707,7 @@
       "id": 1371,
       "naziv": "Polonca Trček",
       "gl": 284,
-      "prc": 0.032409,
+      "prc": 0.032394,
       "man": false,
       "enota": 4,
       "okraji": [
@@ -6718,8 +6718,8 @@
       "st": 4,
       "id": 1615,
       "naziv": "Branko Zlobko",
-      "gl": 3154,
-      "prc": 0.359922,
+      "gl": 3155,
+      "prc": 0.359872,
       "man": false,
       "enota": 4,
       "okraji": [
@@ -6730,8 +6730,8 @@
       "st": 6,
       "id": 1571,
       "naziv": "Ivan Horvat",
-      "gl": 289,
-      "prc": 0.03298,
+      "gl": 290,
+      "prc": 0.033079,
       "man": false,
       "enota": 4,
       "okraji": [
@@ -6743,7 +6743,7 @@
       "id": 2393,
       "naziv": "Ivan Vuković",
       "gl": 74,
-      "prc": 0.003926,
+      "prc": 0.003924,
       "man": false,
       "enota": 4,
       "okraji": [
@@ -6756,7 +6756,7 @@
       "id": 1821,
       "naziv": "Damir Marinč",
       "gl": 243,
-      "prc": 0.02773,
+      "prc": 0.027718,
       "man": false,
       "enota": 4,
       "okraji": [
@@ -6768,7 +6768,7 @@
       "id": 1402,
       "naziv": "Branko Simonovič",
       "gl": 57,
-      "prc": 0.006505,
+      "prc": 0.006502,
       "man": false,
       "enota": 4,
       "okraji": [
@@ -6780,7 +6780,7 @@
       "id": 2433,
       "naziv": "Nataša Babič",
       "gl": 163,
-      "prc": 0.018601,
+      "prc": 0.018592,
       "man": false,
       "enota": 4,
       "okraji": [
@@ -6792,7 +6792,7 @@
       "id": 1441,
       "naziv": "Gregor Kos",
       "gl": 288,
-      "prc": 0.014732,
+      "prc": 0.014729,
       "man": false,
       "enota": 4,
       "okraji": [
@@ -6805,7 +6805,7 @@
       "id": 1035,
       "naziv": "Andrej Janša",
       "gl": 540,
-      "prc": 0.061623,
+      "prc": 0.061595,
       "man": false,
       "enota": 4,
       "okraji": [
@@ -6817,7 +6817,7 @@
       "id": 1455,
       "naziv": "Sofija Maša Božič",
       "gl": 240,
-      "prc": 0.012871,
+      "prc": 0.012869,
       "man": false,
       "enota": 4,
       "okraji": [
@@ -6830,7 +6830,7 @@
       "id": 2293,
       "naziv": "Maja Klemen Cokan",
       "gl": 109,
-      "prc": 0.012439,
+      "prc": 0.012433,
       "man": false,
       "enota": 4,
       "okraji": [
@@ -6841,8 +6841,8 @@
       "st": 15,
       "id": 1996,
       "naziv": "mag. Robert Tomazin",
-      "gl": 1769,
-      "prc": 0.201872,
+      "gl": 1771,
+      "prc": 0.202008,
       "man": false,
       "enota": 4,
       "okraji": [
@@ -6854,7 +6854,7 @@
       "id": 1074,
       "naziv": "Alenka Jelenovič",
       "gl": 222,
-      "prc": 0.025334,
+      "prc": 0.025322,
       "man": false,
       "enota": 4,
       "okraji": [
@@ -6866,7 +6866,7 @@
       "id": 1425,
       "naziv": "Predrag Baković",
       "gl": 1216,
-      "prc": 0.138765,
+      "prc": 0.138702,
       "man": true,
       "enota": 4,
       "okraji": [
@@ -6878,7 +6878,7 @@
       "id": 1458,
       "naziv": "Zlatko Ficko",
       "gl": 278,
-      "prc": 0.031724,
+      "prc": 0.03171,
       "man": false,
       "enota": 4,
       "okraji": [
@@ -6890,7 +6890,7 @@
       "id": 2285,
       "naziv": "Vanjo Grobljar",
       "gl": 71,
-      "prc": 0.008102,
+      "prc": 0.008099,
       "man": false,
       "enota": 4,
       "okraji": [
@@ -6902,7 +6902,7 @@
       "id": 1395,
       "naziv": "Ivanka Kostanjevec",
       "gl": 50,
-      "prc": 0.005706,
+      "prc": 0.005703,
       "man": false,
       "enota": 4,
       "okraji": [
@@ -6914,7 +6914,7 @@
       "id": 1098,
       "naziv": "Valentina Vehovec",
       "gl": 43,
-      "prc": 0.004263,
+      "prc": 0.004262,
       "man": false,
       "enota": 4,
       "okraji": [
@@ -6926,7 +6926,7 @@
       "id": 2061,
       "naziv": "Timotej Mavrek",
       "gl": 12,
-      "prc": 0.00119,
+      "prc": 0.001189,
       "man": false,
       "enota": 4,
       "okraji": [
@@ -6938,7 +6938,7 @@
       "id": 1372,
       "naziv": "Julijan Tanko",
       "gl": 174,
-      "prc": 0.017252,
+      "prc": 0.017245,
       "man": false,
       "enota": 4,
       "okraji": [
@@ -6949,8 +6949,8 @@
       "st": 4,
       "id": 1616,
       "naziv": "Aleksandra Marijanović",
-      "gl": 2251,
-      "prc": 0.223181,
+      "gl": 2252,
+      "prc": 0.223191,
       "man": false,
       "enota": 4,
       "okraji": [
@@ -6962,7 +6962,7 @@
       "id": 1573,
       "naziv": "Mitja Svete",
       "gl": 253,
-      "prc": 0.025084,
+      "prc": 0.025074,
       "man": false,
       "enota": 4,
       "okraji": [
@@ -6973,8 +6973,8 @@
       "st": 8,
       "id": 1822,
       "naziv": "Franc Vesel",
-      "gl": 272,
-      "prc": 0.026968,
+      "gl": 273,
+      "prc": 0.027056,
       "man": false,
       "enota": 4,
       "okraji": [
@@ -6986,7 +6986,7 @@
       "id": 1404,
       "naziv": "David Ogrin",
       "gl": 151,
-      "prc": 0.014971,
+      "prc": 0.014965,
       "man": false,
       "enota": 4,
       "okraji": [
@@ -6998,7 +6998,7 @@
       "id": 2435,
       "naziv": "Marko Marjanovič",
       "gl": 199,
-      "prc": 0.01973,
+      "prc": 0.019722,
       "man": false,
       "enota": 4,
       "okraji": [
@@ -7010,7 +7010,7 @@
       "id": 1442,
       "naziv": "Leon Mikulin",
       "gl": 174,
-      "prc": 0.017252,
+      "prc": 0.017245,
       "man": false,
       "enota": 4,
       "okraji": [
@@ -7022,7 +7022,7 @@
       "id": 1038,
       "naziv": "Janez Cigler Kralj",
       "gl": 3500,
-      "prc": 0.132964,
+      "prc": 0.132943,
       "man": true,
       "enota": 4,
       "okraji": [
@@ -7035,7 +7035,7 @@
       "id": 1457,
       "naziv": "Ines Stamejčič",
       "gl": 294,
-      "prc": 0.013973,
+      "prc": 0.013969,
       "man": false,
       "enota": 4,
       "okraji": [
@@ -7048,7 +7048,7 @@
       "id": 2294,
       "naziv": "Kaja Galič",
       "gl": 235,
-      "prc": 0.0233,
+      "prc": 0.02329,
       "man": false,
       "enota": 4,
       "okraji": [
@@ -7059,8 +7059,8 @@
       "st": 15,
       "id": 1997,
       "naziv": "Jože Tanko",
-      "gl": 3504,
-      "prc": 0.347412,
+      "gl": 3505,
+      "prc": 0.347374,
       "man": true,
       "enota": 4,
       "okraji": [
@@ -7072,7 +7072,7 @@
       "id": 1075,
       "naziv": "Tina Vrenko",
       "gl": 244,
-      "prc": 0.013159,
+      "prc": 0.013156,
       "man": false,
       "enota": 4,
       "okraji": [
@@ -7085,7 +7085,7 @@
       "id": 1426,
       "naziv": "Alvina Bajrami",
       "gl": 363,
-      "prc": 0.03599,
+      "prc": 0.035976,
       "man": false,
       "enota": 4,
       "okraji": [
@@ -7096,8 +7096,8 @@
       "st": 18,
       "id": 1459,
       "naziv": "Robert Latin",
-      "gl": 176,
-      "prc": 0.01745,
+      "gl": 177,
+      "prc": 0.017542,
       "man": false,
       "enota": 4,
       "okraji": [
@@ -7109,7 +7109,7 @@
       "id": 2281,
       "naziv": "Natali Kriletić",
       "gl": 100,
-      "prc": 0.009915,
+      "prc": 0.009911,
       "man": false,
       "enota": 4,
       "okraji": [
@@ -7121,7 +7121,7 @@
       "id": 1396,
       "naziv": "Leja Kralj",
       "gl": 110,
-      "prc": 0.005228,
+      "prc": 0.005227,
       "man": false,
       "enota": 4,
       "okraji": [
@@ -7134,7 +7134,7 @@
       "id": 1099,
       "naziv": "Jože Podržaj",
       "gl": 59,
-      "prc": 0.005386,
+      "prc": 0.005385,
       "man": false,
       "enota": 4,
       "okraji": [
@@ -7159,7 +7159,7 @@
       "id": 1373,
       "naziv": "Ermin Kentrić",
       "gl": 213,
-      "prc": 0.019443,
+      "prc": 0.019441,
       "man": false,
       "enota": 4,
       "okraji": [
@@ -7171,7 +7171,7 @@
       "id": 1618,
       "naziv": "Lucija Ana Vrščaj",
       "gl": 3436,
-      "prc": 0.313647,
+      "prc": 0.313618,
       "man": false,
       "enota": 4,
       "okraji": [
@@ -7183,7 +7183,7 @@
       "id": 1574,
       "naziv": "Marjeta Mencin Čeplak",
       "gl": 418,
-      "prc": 0.038156,
+      "prc": 0.038153,
       "man": false,
       "enota": 4,
       "okraji": [
@@ -7207,7 +7207,7 @@
       "id": 1823,
       "naziv": "Andreja Robek Perpar",
       "gl": 383,
-      "prc": 0.034961,
+      "prc": 0.034958,
       "man": false,
       "enota": 4,
       "okraji": [
@@ -7219,7 +7219,7 @@
       "id": 1406,
       "naziv": "Jolanda Mihelič",
       "gl": 100,
-      "prc": 0.009128,
+      "prc": 0.009127,
       "man": false,
       "enota": 4,
       "okraji": [
@@ -7231,7 +7231,7 @@
       "id": 2437,
       "naziv": "Klavdija Križ Potisk",
       "gl": 167,
-      "prc": 0.015244,
+      "prc": 0.015243,
       "man": false,
       "enota": 4,
       "okraji": [
@@ -7243,7 +7243,7 @@
       "id": 1444,
       "naziv": "Nina Kožar",
       "gl": 254,
-      "prc": 0.023186,
+      "prc": 0.023184,
       "man": false,
       "enota": 4,
       "okraji": [
@@ -7255,7 +7255,7 @@
       "id": 1056,
       "naziv": "Mojca Gruden",
       "gl": 843,
-      "prc": 0.076951,
+      "prc": 0.076944,
       "man": false,
       "enota": 4,
       "okraji": [
@@ -7267,7 +7267,7 @@
       "id": 2295,
       "naziv": "dr. Peter Gašperšič",
       "gl": 317,
-      "prc": 0.028937,
+      "prc": 0.028934,
       "man": false,
       "enota": 4,
       "okraji": [
@@ -7278,8 +7278,8 @@
       "st": 15,
       "id": 1999,
       "naziv": "Janez (Ivan) Janša",
-      "gl": 7387,
-      "prc": 0.354497,
+      "gl": 7388,
+      "prc": 0.354528,
       "man": true,
       "enota": 4,
       "okraji": [
@@ -7292,7 +7292,7 @@
       "id": 1077,
       "naziv": "Franc Mišič",
       "gl": 227,
-      "prc": 0.010894,
+      "prc": 0.010893,
       "man": false,
       "enota": 4,
       "okraji": [
@@ -7305,7 +7305,7 @@
       "id": 1427,
       "naziv": "Miloš Kosić",
       "gl": 465,
-      "prc": 0.042446,
+      "prc": 0.042442,
       "man": false,
       "enota": 4,
       "okraji": [
@@ -7317,7 +7317,7 @@
       "id": 1460,
       "naziv": "Radovana Kostadinović",
       "gl": 218,
-      "prc": 0.0199,
+      "prc": 0.019898,
       "man": false,
       "enota": 4,
       "okraji": [
@@ -7329,7 +7329,7 @@
       "id": 2272,
       "naziv": "Gorazd Bernik",
       "gl": 187,
-      "prc": 0.01707,
+      "prc": 0.017068,
       "man": false,
       "enota": 4,
       "okraji": [
@@ -9002,8 +9002,8 @@
       "st": 11,
       "id": 1911,
       "naziv": "Mateja Kreuh",
-      "gl": 334,
-      "prc": 0.012872,
+      "gl": 347,
+      "prc": 0.012779,
       "man": false,
       "enota": 5,
       "okraji": [
@@ -9123,8 +9123,8 @@
       "st": 1,
       "id": 1081,
       "naziv": "Vili Šmid",
-      "gl": 85,
-      "prc": 0.006075,
+      "gl": 93,
+      "prc": 0.006119,
       "man": false,
       "enota": 5,
       "okraji": [
@@ -9136,7 +9136,7 @@
       "id": 2218,
       "naziv": "Uroš Palhartinger",
       "gl": 34,
-      "prc": 0.001661,
+      "prc": 0.001568,
       "man": false,
       "enota": 5,
       "okraji": [
@@ -9148,8 +9148,8 @@
       "st": 3,
       "id": 1803,
       "naziv": "Mateja Pozeb",
-      "gl": 470,
-      "prc": 0.033591,
+      "gl": 517,
+      "prc": 0.034015,
       "man": false,
       "enota": 5,
       "okraji": [
@@ -9160,8 +9160,8 @@
       "st": 4,
       "id": 2162,
       "naziv": "Miha Lamut",
-      "gl": 4770,
-      "prc": 0.340909,
+      "gl": 5186,
+      "prc": 0.341207,
       "man": true,
       "enota": 5,
       "okraji": [
@@ -9172,8 +9172,8 @@
       "st": 6,
       "id": 1833,
       "naziv": "Žiga Vipotnik",
-      "gl": 457,
-      "prc": 0.032662,
+      "gl": 500,
+      "prc": 0.032897,
       "man": false,
       "enota": 5,
       "okraji": [
@@ -9184,8 +9184,8 @@
       "st": 7,
       "id": 2402,
       "naziv": "Radomir Kopranović",
-      "gl": 36,
-      "prc": 0.002573,
+      "gl": 48,
+      "prc": 0.003158,
       "man": false,
       "enota": 5,
       "okraji": [
@@ -9196,8 +9196,8 @@
       "st": 8,
       "id": 1970,
       "naziv": "Dušan Leban",
-      "gl": 431,
-      "prc": 0.030803,
+      "gl": 456,
+      "prc": 0.030002,
       "man": false,
       "enota": 5,
       "okraji": [
@@ -9208,8 +9208,8 @@
       "st": 9,
       "id": 1863,
       "naziv": "Rok Kopitar",
-      "gl": 152,
-      "prc": 0.010863,
+      "gl": 165,
+      "prc": 0.010856,
       "man": false,
       "enota": 5,
       "okraji": [
@@ -9220,8 +9220,8 @@
       "st": 10,
       "id": 2472,
       "naziv": "Sandi Sendelbah",
-      "gl": 304,
-      "prc": 0.021727,
+      "gl": 335,
+      "prc": 0.022041,
       "man": false,
       "enota": 5,
       "okraji": [
@@ -9232,8 +9232,8 @@
       "st": 12,
       "id": 1019,
       "naziv": "Primož Slakan",
-      "gl": 733,
-      "prc": 0.052387,
+      "gl": 800,
+      "prc": 0.052635,
       "man": false,
       "enota": 5,
       "okraji": [
@@ -9244,8 +9244,8 @@
       "st": 13,
       "id": 1851,
       "naziv": "Maja Šaver",
-      "gl": 403,
-      "prc": 0.01562,
+      "gl": 421,
+      "prc": 0.015589,
       "man": false,
       "enota": 5,
       "okraji": [
@@ -9257,8 +9257,8 @@
       "st": 14,
       "id": 2234,
       "naziv": "Roman Pungartnik",
-      "gl": 596,
-      "prc": 0.042596,
+      "gl": 642,
+      "prc": 0.04224,
       "man": false,
       "enota": 5,
       "okraji": [
@@ -9269,8 +9269,8 @@
       "st": 15,
       "id": 2114,
       "naziv": "Damjan Muzel",
-      "gl": 3774,
-      "prc": 0.269726,
+      "gl": 4090,
+      "prc": 0.269097,
       "man": false,
       "enota": 5,
       "okraji": [
@@ -9281,8 +9281,8 @@
       "st": 16,
       "id": 1010,
       "naziv": "Konrad Križanec",
-      "gl": 432,
-      "prc": 0.021099,
+      "gl": 453,
+      "prc": 0.020893,
       "man": false,
       "enota": 5,
       "okraji": [
@@ -9294,8 +9294,8 @@
       "st": 17,
       "id": 1221,
       "naziv": "Martina Strniša",
-      "gl": 805,
-      "prc": 0.057533,
+      "gl": 863,
+      "prc": 0.05678,
       "man": false,
       "enota": 5,
       "okraji": [
@@ -9306,8 +9306,8 @@
       "st": 18,
       "id": 1924,
       "naziv": "Bojan Bračun",
-      "gl": 311,
-      "prc": 0.022227,
+      "gl": 350,
+      "prc": 0.023028,
       "man": false,
       "enota": 5,
       "okraji": [
@@ -9318,8 +9318,8 @@
       "st": 19,
       "id": 2311,
       "naziv": "Edi Einspieler",
-      "gl": 196,
-      "prc": 0.014008,
+      "gl": 209,
+      "prc": 0.013751,
       "man": false,
       "enota": 5,
       "okraji": [
@@ -9330,8 +9330,8 @@
       "st": 20,
       "id": 1538,
       "naziv": "Marko Kramer",
-      "gl": 205,
-      "prc": 0.010012,
+      "gl": 226,
+      "prc": 0.010423,
       "man": false,
       "enota": 5,
       "okraji": [
@@ -9440,8 +9440,8 @@
       "st": 11,
       "id": 1913,
       "naziv": "Marjan Račnik",
-      "gl": 324,
-      "prc": 0.017561,
+      "gl": 342,
+      "prc": 0.017397,
       "man": false,
       "enota": 5,
       "okraji": [
@@ -9575,8 +9575,8 @@
       "st": 6,
       "id": 1838,
       "naziv": "Mateja Žvižej",
-      "gl": 463,
-      "prc": 0.024171,
+      "gl": 483,
+      "prc": 0.024126,
       "man": false,
       "enota": 5,
       "okraji": [
@@ -9600,8 +9600,8 @@
       "st": 8,
       "id": 1972,
       "naziv": "Luka Špoljar",
-      "gl": 447,
-      "prc": 0.025284,
+      "gl": 470,
+      "prc": 0.024891,
       "man": false,
       "enota": 5,
       "okraji": [
@@ -9746,8 +9746,8 @@
       "st": 2,
       "id": 2219,
       "naziv": "Marija Mojca Ivec",
-      "gl": 33,
-      "prc": 0.001555,
+      "gl": 34,
+      "prc": 0.00154,
       "man": false,
       "enota": 5,
       "okraji": [
@@ -9773,7 +9773,7 @@
       "naziv": "Dean Premik",
       "gl": 4284,
       "prc": 0.308801,
-      "man": false,
+      "man": true,
       "enota": 5,
       "okraji": [
         5
@@ -9951,8 +9951,8 @@
       "st": 1,
       "id": 1088,
       "naziv": "Anton Rifelj",
-      "gl": 36,
-      "prc": 0.0049,
+      "gl": 43,
+      "prc": 0.005236,
       "man": false,
       "enota": 5,
       "okraji": [
@@ -9963,8 +9963,8 @@
       "st": 3,
       "id": 1812,
       "naziv": "Stanka Golob",
-      "gl": 309,
-      "prc": 0.042058,
+      "gl": 350,
+      "prc": 0.042621,
       "man": false,
       "enota": 5,
       "okraji": [
@@ -9975,8 +9975,8 @@
       "st": 4,
       "id": 2167,
       "naziv": "Miha Brodnik",
-      "gl": 1723,
-      "prc": 0.234517,
+      "gl": 1958,
+      "prc": 0.238432,
       "man": false,
       "enota": 5,
       "okraji": [
@@ -9987,8 +9987,8 @@
       "st": 7,
       "id": 2407,
       "naziv": "Adrian Blažević",
-      "gl": 19,
-      "prc": 0.002586,
+      "gl": 23,
+      "prc": 0.002801,
       "man": false,
       "enota": 5,
       "okraji": [
@@ -9999,8 +9999,8 @@
       "st": 8,
       "id": 2106,
       "naziv": "Mateja Kumer",
-      "gl": 577,
-      "prc": 0.02993,
+      "gl": 605,
+      "prc": 0.030035,
       "man": false,
       "enota": 5,
       "okraji": [
@@ -10012,8 +10012,8 @@
       "st": 9,
       "id": 1871,
       "naziv": "Marjan Vodeb",
-      "gl": 116,
-      "prc": 0.015789,
+      "gl": 131,
+      "prc": 0.015952,
       "man": false,
       "enota": 5,
       "okraji": [
@@ -10024,8 +10024,8 @@
       "st": 10,
       "id": 2479,
       "naziv": "Gaber Marolt",
-      "gl": 97,
-      "prc": 0.013203,
+      "gl": 104,
+      "prc": 0.012664,
       "man": false,
       "enota": 5,
       "okraji": [
@@ -10036,8 +10036,8 @@
       "st": 11,
       "id": 1916,
       "naziv": "Bojana Pustinek Miočić",
-      "gl": 238,
-      "prc": 0.012346,
+      "gl": 251,
+      "prc": 0.012461,
       "man": false,
       "enota": 5,
       "okraji": [
@@ -10049,8 +10049,8 @@
       "st": 12,
       "id": 1023,
       "naziv": "Klemen Matk",
-      "gl": 928,
-      "prc": 0.12631,
+      "gl": 1025,
+      "prc": 0.124817,
       "man": false,
       "enota": 5,
       "okraji": [
@@ -10061,8 +10061,8 @@
       "st": 13,
       "id": 1858,
       "naziv": "Jasmina Feratović",
-      "gl": 211,
-      "prc": 0.010925,
+      "gl": 241,
+      "prc": 0.011269,
       "man": false,
       "enota": 5,
       "okraji": [
@@ -10074,8 +10074,8 @@
       "st": 14,
       "id": 2243,
       "naziv": "Jakob Presečnik",
-      "gl": 347,
-      "prc": 0.04723,
+      "gl": 389,
+      "prc": 0.04737,
       "man": false,
       "enota": 5,
       "okraji": [
@@ -10086,8 +10086,8 @@
       "st": 15,
       "id": 2137,
       "naziv": "Jožef Jelen",
-      "gl": 2513,
-      "prc": 0.342044,
+      "gl": 2755,
+      "prc": 0.335485,
       "man": true,
       "enota": 5,
       "okraji": [
@@ -10098,8 +10098,8 @@
       "st": 16,
       "id": 1013,
       "naziv": "Primož Vengušt",
-      "gl": 135,
-      "prc": 0.018375,
+      "gl": 154,
+      "prc": 0.018753,
       "man": false,
       "enota": 5,
       "okraji": [
@@ -10110,8 +10110,8 @@
       "st": 17,
       "id": 1488,
       "naziv": "Mark Molnar",
-      "gl": 244,
-      "prc": 0.033211,
+      "gl": 274,
+      "prc": 0.033366,
       "man": false,
       "enota": 5,
       "okraji": [
@@ -10122,8 +10122,8 @@
       "st": 18,
       "id": 1928,
       "naziv": "Marija Antonija Kovačič",
-      "gl": 98,
-      "prc": 0.013339,
+      "gl": 112,
+      "prc": 0.013639,
       "man": false,
       "enota": 5,
       "okraji": [
@@ -10134,8 +10134,8 @@
       "st": 19,
       "id": 2310,
       "naziv": "Luka Zgojznik",
-      "gl": 212,
-      "prc": 0.028855,
+      "gl": 244,
+      "prc": 0.029713,
       "man": false,
       "enota": 5,
       "okraji": [
@@ -10146,8 +10146,8 @@
       "st": 20,
       "id": 1546,
       "naziv": "Jure Podergajs",
-      "gl": 148,
-      "prc": 0.007663,
+      "gl": 161,
+      "prc": 0.007528,
       "man": false,
       "enota": 5,
       "okraji": [
@@ -10159,8 +10159,8 @@
       "st": 1,
       "id": 1090,
       "naziv": "Marjan Korošec",
-      "gl": 27,
-      "prc": 0.004599,
+      "gl": 36,
+      "prc": 0.005089,
       "man": false,
       "enota": 5,
       "okraji": [
@@ -10172,7 +10172,7 @@
       "id": 2220,
       "naziv": "Boštjan Zupančič",
       "gl": 34,
-      "prc": 0.00191,
+      "prc": 0.001789,
       "man": false,
       "enota": 5,
       "okraji": [
@@ -10184,8 +10184,8 @@
       "st": 3,
       "id": 1813,
       "naziv": "Lidija Šolinc",
-      "gl": 211,
-      "prc": 0.035939,
+      "gl": 266,
+      "prc": 0.037602,
       "man": false,
       "enota": 5,
       "okraji": [
@@ -10196,8 +10196,8 @@
       "st": 4,
       "id": 2174,
       "naziv": "Tatjana Zafošnik Kanduti",
-      "gl": 1632,
-      "prc": 0.277976,
+      "gl": 1990,
+      "prc": 0.281312,
       "man": false,
       "enota": 5,
       "okraji": [
@@ -10208,8 +10208,8 @@
       "st": 6,
       "id": 1846,
       "naziv": "Dorotea Pospihalj",
-      "gl": 176,
-      "prc": 0.029978,
+      "gl": 214,
+      "prc": 0.030252,
       "man": false,
       "enota": 5,
       "okraji": [
@@ -10220,8 +10220,8 @@
       "st": 7,
       "id": 2406,
       "naziv": "Daniel Grabovac",
-      "gl": 96,
-      "prc": 0.005393,
+      "gl": 116,
+      "prc": 0.006104,
       "man": false,
       "enota": 5,
       "okraji": [
@@ -10233,8 +10233,8 @@
       "st": 9,
       "id": 1872,
       "naziv": "Janja Praznik",
-      "gl": 88,
-      "prc": 0.014989,
+      "gl": 104,
+      "prc": 0.014702,
       "man": false,
       "enota": 5,
       "okraji": [
@@ -10245,8 +10245,8 @@
       "st": 10,
       "id": 2510,
       "naziv": "Benjamin Strozak",
-      "gl": 128,
-      "prc": 0.021802,
+      "gl": 157,
+      "prc": 0.022194,
       "man": false,
       "enota": 5,
       "okraji": [
@@ -10257,8 +10257,8 @@
       "st": 11,
       "id": 1917,
       "naziv": "Karen Kralj",
-      "gl": 81,
-      "prc": 0.013797,
+      "gl": 98,
+      "prc": 0.013854,
       "man": false,
       "enota": 5,
       "okraji": [
@@ -10269,8 +10269,8 @@
       "st": 12,
       "id": 1024,
       "naziv": "Veronika Juvan",
-      "gl": 285,
-      "prc": 0.048544,
+      "gl": 338,
+      "prc": 0.047781,
       "man": false,
       "enota": 5,
       "okraji": [
@@ -10281,8 +10281,8 @@
       "st": 13,
       "id": 1853,
       "naziv": "Ula Matek",
-      "gl": 238,
-      "prc": 0.013369,
+      "gl": 258,
+      "prc": 0.013575,
       "man": false,
       "enota": 5,
       "okraji": [
@@ -10294,8 +10294,8 @@
       "st": 14,
       "id": 2245,
       "naziv": "Darko Koželj",
-      "gl": 109,
-      "prc": 0.018566,
+      "gl": 137,
+      "prc": 0.019367,
       "man": false,
       "enota": 5,
       "okraji": [
@@ -10306,9 +10306,9 @@
       "st": 15,
       "id": 2138,
       "naziv": "Simon Dobaj",
-      "gl": 1730,
-      "prc": 0.294669,
-      "man": true,
+      "gl": 2024,
+      "prc": 0.286118,
+      "man": false,
       "enota": 5,
       "okraji": [
         7
@@ -10318,8 +10318,8 @@
       "st": 16,
       "id": 1014,
       "naziv": "Tjaša Založnik",
-      "gl": 105,
-      "prc": 0.017885,
+      "gl": 119,
+      "prc": 0.016822,
       "man": false,
       "enota": 5,
       "okraji": [
@@ -10330,8 +10330,8 @@
       "st": 17,
       "id": 1493,
       "naziv": "Andreja Katič",
-      "gl": 764,
-      "prc": 0.130131,
+      "gl": 935,
+      "prc": 0.132174,
       "man": false,
       "enota": 5,
       "okraji": [
@@ -10342,8 +10342,8 @@
       "st": 18,
       "id": 1930,
       "naziv": "Darja Štraus",
-      "gl": 146,
-      "prc": 0.024868,
+      "gl": 185,
+      "prc": 0.026152,
       "man": false,
       "enota": 5,
       "okraji": [
@@ -10354,8 +10354,8 @@
       "st": 19,
       "id": 2313,
       "naziv": "Jasminka Dedić",
-      "gl": 82,
-      "prc": 0.013967,
+      "gl": 97,
+      "prc": 0.013712,
       "man": false,
       "enota": 5,
       "okraji": [
@@ -10366,8 +10366,8 @@
       "st": 20,
       "id": 1542,
       "naziv": "Nika Bidar",
-      "gl": 110,
-      "prc": 0.006179,
+      "gl": 114,
+      "prc": 0.005998,
       "man": false,
       "enota": 5,
       "okraji": [
@@ -10535,8 +10535,8 @@
       "st": 1,
       "id": 1093,
       "naziv": "Almira Alma Kočnik",
-      "gl": 174,
-      "prc": 0.006954,
+      "gl": 180,
+      "prc": 0.006863,
       "man": false,
       "enota": 5,
       "okraji": [
@@ -10914,7 +10914,7 @@
       "id": 2224,
       "naziv": "Karmen Ponikvar",
       "gl": 8,
-      "prc": 0.000669,
+      "prc": 0.000607,
       "man": false,
       "enota": 5,
       "okraji": [
@@ -10925,8 +10925,8 @@
       "st": 3,
       "id": 1819,
       "naziv": "Mirnes Mešić",
-      "gl": 346,
-      "prc": 0.028913,
+      "gl": 381,
+      "prc": 0.028918,
       "man": false,
       "enota": 5,
       "okraji": [
@@ -10937,9 +10937,9 @@
       "st": 4,
       "id": 2178,
       "naziv": "Damaz Topler",
-      "gl": 3696,
-      "prc": 0.308849,
-      "man": true,
+      "gl": 4000,
+      "prc": 0.303605,
+      "man": false,
       "enota": 5,
       "okraji": [
         11
@@ -10949,8 +10949,8 @@
       "st": 6,
       "id": 1850,
       "naziv": "Vladimir Jarh Nikolič",
-      "gl": 304,
-      "prc": 0.025403,
+      "gl": 327,
+      "prc": 0.02482,
       "man": false,
       "enota": 5,
       "okraji": [
@@ -10961,8 +10961,8 @@
       "st": 7,
       "id": 2399,
       "naziv": "Urška Doler",
-      "gl": 27,
-      "prc": 0.002256,
+      "gl": 35,
+      "prc": 0.002657,
       "man": false,
       "enota": 5,
       "okraji": [
@@ -10973,8 +10973,8 @@
       "st": 8,
       "id": 2109,
       "naziv": "Marjeta Podgoršek Rek",
-      "gl": 511,
-      "prc": 0.042701,
+      "gl": 621,
+      "prc": 0.047135,
       "man": false,
       "enota": 5,
       "okraji": [
@@ -10985,8 +10985,8 @@
       "st": 9,
       "id": 1878,
       "naziv": "Milenko Skenderija",
-      "gl": 540,
-      "prc": 0.045124,
+      "gl": 559,
+      "prc": 0.042429,
       "man": false,
       "enota": 5,
       "okraji": [
@@ -10997,8 +10997,8 @@
       "st": 10,
       "id": 2523,
       "naziv": "Boštjan Kotnik",
-      "gl": 179,
-      "prc": 0.014958,
+      "gl": 199,
+      "prc": 0.015104,
       "man": false,
       "enota": 5,
       "okraji": [
@@ -11009,8 +11009,8 @@
       "st": 12,
       "id": 1028,
       "naziv": "Marijana Cigala",
-      "gl": 720,
-      "prc": 0.060165,
+      "gl": 906,
+      "prc": 0.068767,
       "man": false,
       "enota": 5,
       "okraji": [
@@ -11021,8 +11021,8 @@
       "st": 14,
       "id": 2249,
       "naziv": "Rene Dopler",
-      "gl": 203,
-      "prc": 0.016963,
+      "gl": 220,
+      "prc": 0.016698,
       "man": false,
       "enota": 5,
       "okraji": [
@@ -11033,9 +11033,9 @@
       "st": 15,
       "id": 2143,
       "naziv": "Alenka Helbl",
-      "gl": 3458,
-      "prc": 0.288961,
-      "man": false,
+      "gl": 3782,
+      "prc": 0.287059,
+      "man": true,
       "enota": 5,
       "okraji": [
         11
@@ -11045,8 +11045,8 @@
       "st": 16,
       "id": 1017,
       "naziv": "Gregor Vrtič",
-      "gl": 190,
-      "prc": 0.015877,
+      "gl": 209,
+      "prc": 0.015863,
       "man": false,
       "enota": 5,
       "okraji": [
@@ -11057,8 +11057,8 @@
       "st": 17,
       "id": 1503,
       "naziv": "Marjan Šol",
-      "gl": 973,
-      "prc": 0.081307,
+      "gl": 1049,
+      "prc": 0.07962,
       "man": false,
       "enota": 5,
       "okraji": [
@@ -11069,8 +11069,8 @@
       "st": 18,
       "id": 1937,
       "naziv": "Mirjana Polovšak",
-      "gl": 198,
-      "prc": 0.016546,
+      "gl": 209,
+      "prc": 0.015863,
       "man": false,
       "enota": 5,
       "okraji": [
@@ -11081,8 +11081,8 @@
       "st": 19,
       "id": 2314,
       "naziv": "Lucija Mlinarič",
-      "gl": 77,
-      "prc": 0.006434,
+      "gl": 84,
+      "prc": 0.006376,
       "man": false,
       "enota": 5,
       "okraji": [
@@ -11094,7 +11094,7 @@
       "id": 1142,
       "naziv": "Silvo Grdešič",
       "gl": 248,
-      "prc": 0.017394,
+      "prc": 0.017393,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -11118,7 +11118,7 @@
       "id": 1979,
       "naziv": "Pavel Šuštarič",
       "gl": 321,
-      "prc": 0.022514,
+      "prc": 0.022512,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -11129,8 +11129,8 @@
       "st": 4,
       "id": 1929,
       "naziv": "Jana Jerman",
-      "gl": 4185,
-      "prc": 0.293519,
+      "gl": 4186,
+      "prc": 0.293569,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -11142,7 +11142,7 @@
       "id": 2115,
       "naziv": "Jožica Fortun Tomažič",
       "gl": 469,
-      "prc": 0.032894,
+      "prc": 0.032892,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -11154,7 +11154,7 @@
       "id": 2604,
       "naziv": "Timotej Cizej",
       "gl": 59,
-      "prc": 0.00209,
+      "prc": 0.002089,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -11167,7 +11167,7 @@
       "id": 2210,
       "naziv": "Vesna Fabjan",
       "gl": 599,
-      "prc": 0.042012,
+      "prc": 0.042009,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -11191,7 +11191,7 @@
       "id": 2563,
       "naziv": "Marjana Čegovnik",
       "gl": 139,
-      "prc": 0.009749,
+      "prc": 0.009748,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -11203,7 +11203,7 @@
       "id": 1609,
       "naziv": "Polona Kambič",
       "gl": 1502,
-      "prc": 0.053196,
+      "prc": 0.053193,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -11216,7 +11216,7 @@
       "id": 1029,
       "naziv": "Nataša Hudelja",
       "gl": 949,
-      "prc": 0.066559,
+      "prc": 0.066554,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -11228,7 +11228,7 @@
       "id": 1952,
       "naziv": "Jože Pirh",
       "gl": 317,
-      "prc": 0.010013,
+      "prc": 0.010012,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -11241,7 +11241,7 @@
       "id": 2130,
       "naziv": "Boris Grabrijan",
       "gl": 362,
-      "prc": 0.025389,
+      "prc": 0.025387,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -11253,7 +11253,7 @@
       "id": 2228,
       "naziv": "mag. Maja Kocjan",
       "gl": 3802,
-      "prc": 0.266657,
+      "prc": 0.266639,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -11265,7 +11265,7 @@
       "id": 952,
       "naziv": "Sabina Barič",
       "gl": 168,
-      "prc": 0.011783,
+      "prc": 0.011782,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -11277,7 +11277,7 @@
       "id": 1514,
       "naziv": "mag. Bojan Krajačič",
       "gl": 1265,
-      "prc": 0.088722,
+      "prc": 0.088716,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -11289,7 +11289,7 @@
       "id": 1852,
       "naziv": "Andrija Brčinović",
       "gl": 233,
-      "prc": 0.016342,
+      "prc": 0.016341,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -11301,7 +11301,7 @@
       "id": 2383,
       "naziv": "Marko Puh",
       "gl": 80,
-      "prc": 0.005611,
+      "prc": 0.00561,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -11375,7 +11375,7 @@
       "id": 2116,
       "naziv": "Ksenja Lorber",
       "gl": 920,
-      "prc": 0.029319,
+      "prc": 0.029318,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -11436,7 +11436,7 @@
       "id": 1614,
       "naziv": "Katja Čelič",
       "gl": 737,
-      "prc": 0.022379,
+      "prc": 0.022377,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -11546,7 +11546,7 @@
       "id": 1144,
       "naziv": "mag. Adolf Zupan",
       "gl": 195,
-      "prc": 0.013951,
+      "prc": 0.01395,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -11571,7 +11571,7 @@
       "id": 1983,
       "naziv": "Mateja Tomič",
       "gl": 345,
-      "prc": 0.024683,
+      "prc": 0.024682,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -11583,7 +11583,7 @@
       "id": 1938,
       "naziv": "Jožica Derganc",
       "gl": 5084,
-      "prc": 0.36374,
+      "prc": 0.363714,
       "man": true,
       "enota": 6,
       "okraji": [
@@ -11595,7 +11595,7 @@
       "id": 2213,
       "naziv": "Anja Jordan",
       "gl": 478,
-      "prc": 0.034199,
+      "prc": 0.034197,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -11607,7 +11607,7 @@
       "id": 1881,
       "naziv": "Urška Ban",
       "gl": 150,
-      "prc": 0.010732,
+      "prc": 0.010731,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -11619,7 +11619,7 @@
       "id": 2565,
       "naziv": "Andrej Kastrevec",
       "gl": 305,
-      "prc": 0.021822,
+      "prc": 0.02182,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -11630,8 +11630,8 @@
       "st": 12,
       "id": 1036,
       "naziv": "Mark Boris Andrijanič",
-      "gl": 1334,
-      "prc": 0.095443,
+      "gl": 1335,
+      "prc": 0.095507,
       "man": true,
       "enota": 6,
       "okraji": [
@@ -11642,8 +11642,8 @@
       "st": 13,
       "id": 1956,
       "naziv": "Karmen Brecelj",
-      "gl": 316,
-      "prc": 0.013367,
+      "gl": 317,
+      "prc": 0.013209,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -11656,7 +11656,7 @@
       "id": 2132,
       "naziv": "Marjanca Trščinar Antić",
       "gl": 322,
-      "prc": 0.023038,
+      "prc": 0.023036,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -11668,7 +11668,7 @@
       "id": 2230,
       "naziv": "Bojan Kekec",
       "gl": 2971,
-      "prc": 0.212563,
+      "prc": 0.212548,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -11680,7 +11680,7 @@
       "id": 1003,
       "naziv": "Ingrid Hodnik",
       "gl": 383,
-      "prc": 0.01475,
+      "prc": 0.014749,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -11693,7 +11693,7 @@
       "id": 1522,
       "naziv": "Srečko Vovko",
       "gl": 837,
-      "prc": 0.059884,
+      "prc": 0.05988,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -11705,7 +11705,7 @@
       "id": 1859,
       "naziv": "Saša Jerele",
       "gl": 366,
-      "prc": 0.026186,
+      "prc": 0.026184,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -12067,7 +12067,7 @@
       "id": 1004,
       "naziv": "Leona Gošek",
       "gl": 453,
-      "prc": 0.01824,
+      "prc": 0.018238,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -12128,7 +12128,7 @@
       "id": 1147,
       "naziv": "Marjan Špes",
       "gl": 86,
-      "prc": 0.005538,
+      "prc": 0.005537,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -12153,7 +12153,7 @@
       "id": 1987,
       "naziv": "Katja Rožman",
       "gl": 377,
-      "prc": 0.024276,
+      "prc": 0.024271,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -12164,8 +12164,8 @@
       "st": 4,
       "id": 1943,
       "naziv": "Tamara Vonta",
-      "gl": 5719,
-      "prc": 0.368255,
+      "gl": 5720,
+      "prc": 0.368248,
       "man": true,
       "enota": 6,
       "okraji": [
@@ -12177,7 +12177,7 @@
       "id": 2124,
       "naziv": "Aleš Suša",
       "gl": 452,
-      "prc": 0.029105,
+      "prc": 0.029099,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -12201,7 +12201,7 @@
       "id": 2221,
       "naziv": "Alenka Hiti",
       "gl": 456,
-      "prc": 0.029363,
+      "prc": 0.029357,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -12213,7 +12213,7 @@
       "id": 1885,
       "naziv": "Darko Martinc",
       "gl": 220,
-      "prc": 0.014166,
+      "prc": 0.014163,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -12224,8 +12224,8 @@
       "st": 10,
       "id": 2568,
       "naziv": "Dušan Vodlan",
-      "gl": 252,
-      "prc": 0.016227,
+      "gl": 253,
+      "prc": 0.016288,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -12237,7 +12237,7 @@
       "id": 1046,
       "naziv": "Alen Lenič",
       "gl": 911,
-      "prc": 0.058661,
+      "prc": 0.058649,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -12249,7 +12249,7 @@
       "id": 1955,
       "naziv": "Jure Repinc",
       "gl": 151,
-      "prc": 0.009723,
+      "prc": 0.009721,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -12261,7 +12261,7 @@
       "id": 2144,
       "naziv": "Ana Somrak",
       "gl": 743,
-      "prc": 0.047843,
+      "prc": 0.047834,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -12272,8 +12272,8 @@
       "st": 15,
       "id": 2235,
       "naziv": "Janez Jože Olovec",
-      "gl": 3988,
-      "prc": 0.256793,
+      "gl": 3989,
+      "prc": 0.256808,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -12285,7 +12285,7 @@
       "id": 1005,
       "naziv": "Dušan Šiško",
       "gl": 683,
-      "prc": 0.043979,
+      "prc": 0.043971,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -12297,7 +12297,7 @@
       "id": 1531,
       "naziv": "Senta Jeler",
       "gl": 672,
-      "prc": 0.043271,
+      "prc": 0.043263,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -12309,7 +12309,7 @@
       "id": 1865,
       "naziv": "Dan Laye",
       "gl": 247,
-      "prc": 0.015905,
+      "prc": 0.015902,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -12321,7 +12321,7 @@
       "id": 2378,
       "naziv": "Alenka Leskovšek",
       "gl": 127,
-      "prc": 0.008178,
+      "prc": 0.008176,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -12333,7 +12333,7 @@
       "id": 2160,
       "naziv": "Andreja Zaljetelj",
       "gl": 128,
-      "prc": 0.008242,
+      "prc": 0.008241,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -12345,7 +12345,7 @@
       "id": 1148,
       "naziv": "mag. Betka Salmič",
       "gl": 134,
-      "prc": 0.011505,
+      "prc": 0.011503,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -12357,7 +12357,7 @@
       "id": 2110,
       "naziv": "Jernej Kos",
       "gl": 42,
-      "prc": 0.001922,
+      "prc": 0.001921,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -12370,7 +12370,7 @@
       "id": 1988,
       "naziv": "Olga Čepin",
       "gl": 415,
-      "prc": 0.035631,
+      "prc": 0.035625,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -12381,8 +12381,8 @@
       "st": 4,
       "id": 1944,
       "naziv": "Jernej Žnidaršič",
-      "gl": 3691,
-      "prc": 0.316906,
+      "gl": 3693,
+      "prc": 0.317023,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -12394,7 +12394,7 @@
       "id": 2125,
       "naziv": "Sašo Jejčič",
       "gl": 270,
-      "prc": 0.023182,
+      "prc": 0.023178,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -12406,7 +12406,7 @@
       "id": 2223,
       "naziv": "Nives Matjan",
       "gl": 628,
-      "prc": 0.028737,
+      "prc": 0.028724,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -12419,7 +12419,7 @@
       "id": 1888,
       "naziv": "Dejan Cesar",
       "gl": 237,
-      "prc": 0.020349,
+      "prc": 0.020345,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -12431,7 +12431,7 @@
       "id": 2569,
       "naziv": "Metka Modic",
       "gl": 164,
-      "prc": 0.014081,
+      "prc": 0.014078,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -12443,7 +12443,7 @@
       "id": 1627,
       "naziv": "Natalija Potočnik",
       "gl": 316,
-      "prc": 0.01446,
+      "prc": 0.014454,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -12456,7 +12456,7 @@
       "id": 1048,
       "naziv": "Maša Brulc",
       "gl": 508,
-      "prc": 0.043616,
+      "prc": 0.043609,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -12468,7 +12468,7 @@
       "id": 1958,
       "naziv": "Jasmina Klančar",
       "gl": 325,
-      "prc": 0.013753,
+      "prc": 0.013751,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -12481,7 +12481,7 @@
       "id": 2146,
       "naziv": "Janez Kukec",
       "gl": 675,
-      "prc": 0.057955,
+      "prc": 0.057945,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -12493,7 +12493,7 @@
       "id": 2236,
       "naziv": "Tomaž Lisec",
       "gl": 3738,
-      "prc": 0.320941,
+      "prc": 0.320886,
       "man": true,
       "enota": 6,
       "okraji": [
@@ -12505,7 +12505,7 @@
       "id": 1532,
       "naziv": "Ana Jelančić",
       "gl": 429,
-      "prc": 0.036834,
+      "prc": 0.036827,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -12517,7 +12517,7 @@
       "id": 1867,
       "naziv": "Nataša Gazvoda",
       "gl": 246,
-      "prc": 0.021121,
+      "prc": 0.021118,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -12529,7 +12529,7 @@
       "id": 2377,
       "naziv": "Ana Markelj",
       "gl": 82,
-      "prc": 0.00704,
+      "prc": 0.007039,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -12541,7 +12541,7 @@
       "id": 1480,
       "naziv": "Tadeja Vrstovšek",
       "gl": 171,
-      "prc": 0.007236,
+      "prc": 0.007235,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -12554,7 +12554,7 @@
       "id": 1149,
       "naziv": "Darinka Dobovičnik",
       "gl": 58,
-      "prc": 0.005683,
+      "prc": 0.005678,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -12566,7 +12566,7 @@
       "id": 1989,
       "naziv": "Antonio Dijaković",
       "gl": 312,
-      "prc": 0.03057,
+      "prc": 0.030546,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -12577,8 +12577,8 @@
       "st": 4,
       "id": 1945,
       "naziv": "Marjan Mačkošek",
-      "gl": 2678,
-      "prc": 0.262395,
+      "gl": 2682,
+      "prc": 0.262581,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -12590,7 +12590,7 @@
       "id": 2126,
       "naziv": "Tina Kolar",
       "gl": 281,
-      "prc": 0.027533,
+      "prc": 0.027511,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -12602,7 +12602,7 @@
       "id": 2584,
       "naziv": "Gregor Jelenc",
       "gl": 53,
-      "prc": 0.005193,
+      "prc": 0.005189,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -12614,7 +12614,7 @@
       "id": 1890,
       "naziv": "Denis Plavčak",
       "gl": 189,
-      "prc": 0.018519,
+      "prc": 0.018504,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -12626,7 +12626,7 @@
       "id": 2570,
       "naziv": "Zorka Vodlan",
       "gl": 141,
-      "prc": 0.013815,
+      "prc": 0.013805,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -12638,7 +12638,7 @@
       "id": 1050,
       "naziv": "Jože Senica",
       "gl": 844,
-      "prc": 0.082696,
+      "prc": 0.082632,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -12650,7 +12650,7 @@
       "id": 1953,
       "naziv": "Rok Deželak",
       "gl": 322,
-      "prc": 0.014201,
+      "prc": 0.014194,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -12663,7 +12663,7 @@
       "id": 2148,
       "naziv": "Boža Herek",
       "gl": 279,
-      "prc": 0.027337,
+      "prc": 0.027315,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -12674,8 +12674,8 @@
       "st": 15,
       "id": 2238,
       "naziv": "Štefanija Pavčnik",
-      "gl": 2415,
-      "prc": 0.236626,
+      "gl": 2417,
+      "prc": 0.236636,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -12687,7 +12687,7 @@
       "id": 1006,
       "naziv": "Jelka Rostohar Božič",
       "gl": 276,
-      "prc": 0.012437,
+      "prc": 0.012432,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -12699,8 +12699,8 @@
       "st": 17,
       "id": 1533,
       "naziv": "Matjaž Han",
-      "gl": 1854,
-      "prc": 0.181658,
+      "gl": 1855,
+      "prc": 0.181613,
       "man": true,
       "enota": 6,
       "okraji": [
@@ -12712,7 +12712,7 @@
       "id": 1868,
       "naziv": "Miladin Dević",
       "gl": 205,
-      "prc": 0.020086,
+      "prc": 0.02007,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -12723,8 +12723,8 @@
       "st": 19,
       "id": 2379,
       "naziv": "Matic Rotar",
-      "gl": 118,
-      "prc": 0.011562,
+      "gl": 119,
+      "prc": 0.011651,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -12736,7 +12736,7 @@
       "id": 1490,
       "naziv": "Boris Gabrijel",
       "gl": 66,
-      "prc": 0.006467,
+      "prc": 0.006462,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -12748,7 +12748,7 @@
       "id": 1150,
       "naziv": "Ivanka Kirm",
       "gl": 107,
-      "prc": 0.008928,
+      "prc": 0.008927,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -12760,7 +12760,7 @@
       "id": 1990,
       "naziv": "Rajko Povše",
       "gl": 329,
-      "prc": 0.027451,
+      "prc": 0.027449,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -12772,7 +12772,7 @@
       "id": 1947,
       "naziv": "Franc Props",
       "gl": 4241,
-      "prc": 0.353859,
+      "prc": 0.353829,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -12784,7 +12784,7 @@
       "id": 2127,
       "naziv": "Kaja Mlakar Agrež",
       "gl": 422,
-      "prc": 0.035211,
+      "prc": 0.035208,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -12808,7 +12808,7 @@
       "id": 2225,
       "naziv": "Igor Žavbi",
       "gl": 443,
-      "prc": 0.036963,
+      "prc": 0.03696,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -12820,7 +12820,7 @@
       "id": 1891,
       "naziv": "Mateja Blažič",
       "gl": 148,
-      "prc": 0.012349,
+      "prc": 0.012348,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -12832,7 +12832,7 @@
       "id": 2571,
       "naziv": "Miloš Hudarin",
       "gl": 154,
-      "prc": 0.012849,
+      "prc": 0.012848,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -12844,7 +12844,7 @@
       "id": 1631,
       "naziv": "Goran Mlakar",
       "gl": 196,
-      "prc": 0.016354,
+      "prc": 0.016352,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -12856,7 +12856,7 @@
       "id": 1052,
       "naziv": "Janez Beja",
       "gl": 615,
-      "prc": 0.051314,
+      "prc": 0.05131,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -12868,7 +12868,7 @@
       "id": 2149,
       "naziv": "Lijana Lovše",
       "gl": 845,
-      "prc": 0.070505,
+      "prc": 0.070499,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -12880,7 +12880,7 @@
       "id": 2240,
       "naziv": "Boris Doblekar",
       "gl": 3090,
-      "prc": 0.257822,
+      "prc": 0.257801,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -12891,8 +12891,8 @@
       "st": 17,
       "id": 1534,
       "naziv": "Janja Bregar",
-      "gl": 499,
-      "prc": 0.041635,
+      "gl": 500,
+      "prc": 0.041715,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -12904,7 +12904,7 @@
       "id": 1870,
       "naziv": "Edvard Oražem",
       "gl": 266,
-      "prc": 0.022194,
+      "prc": 0.022193,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -12916,7 +12916,7 @@
       "id": 2374,
       "naziv": "Erna Šekli",
       "gl": 173,
-      "prc": 0.014435,
+      "prc": 0.014434,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -12928,7 +12928,7 @@
       "id": 1151,
       "naziv": "Drago Kocbek",
       "gl": 76,
-      "prc": 0.006095,
+      "prc": 0.006094,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -12940,7 +12940,7 @@
       "id": 2111,
       "naziv": "Marija Ana Anžlovar",
       "gl": 15,
-      "prc": 0.000678,
+      "prc": 0.000667,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -12953,7 +12953,7 @@
       "id": 1991,
       "naziv": "Alen Turanović",
       "gl": 365,
-      "prc": 0.029273,
+      "prc": 0.029266,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -12965,7 +12965,7 @@
       "id": 1948,
       "naziv": "Gapi (Gašper) Ovnik",
       "gl": 5533,
-      "prc": 0.44374,
+      "prc": 0.443634,
       "man": true,
       "enota": 6,
       "okraji": [
@@ -12976,8 +12976,8 @@
       "st": 6,
       "id": 2128,
       "naziv": "Primož Siter",
-      "gl": 562,
-      "prc": 0.045072,
+      "gl": 563,
+      "prc": 0.045141,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -13000,8 +13000,8 @@
       "st": 8,
       "id": 2226,
       "naziv": "Roman Kukovič",
-      "gl": 453,
-      "prc": 0.03633,
+      "gl": 454,
+      "prc": 0.036402,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -13013,7 +13013,7 @@
       "id": 1893,
       "naziv": "Jože Pustoslemšek",
       "gl": 151,
-      "prc": 0.01211,
+      "prc": 0.012107,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -13025,7 +13025,7 @@
       "id": 2572,
       "naziv": "Mišo Šušak",
       "gl": 248,
-      "prc": 0.019889,
+      "prc": 0.019885,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -13037,7 +13037,7 @@
       "id": 1633,
       "naziv": "Darija Kovačič",
       "gl": 90,
-      "prc": 0.007218,
+      "prc": 0.007216,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -13049,7 +13049,7 @@
       "id": 1054,
       "naziv": "dr. Drago Kočar",
       "gl": 430,
-      "prc": 0.034486,
+      "prc": 0.034477,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -13061,7 +13061,7 @@
       "id": 2151,
       "naziv": "Gregor Pajić",
       "gl": 216,
-      "prc": 0.017323,
+      "prc": 0.017319,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -13073,7 +13073,7 @@
       "id": 2242,
       "naziv": "Patricija Gorenc",
       "gl": 1852,
-      "prc": 0.148528,
+      "prc": 0.148493,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -13085,7 +13085,7 @@
       "id": 1007,
       "naziv": "Bojan Kovačič",
       "gl": 124,
-      "prc": 0.009945,
+      "prc": 0.009942,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -13096,8 +13096,8 @@
       "st": 17,
       "id": 1535,
       "naziv": "Soniboj Knežak",
-      "gl": 1347,
-      "prc": 0.108028,
+      "gl": 1348,
+      "prc": 0.108082,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -13109,7 +13109,7 @@
       "id": 1873,
       "naziv": "Mirzet Lukavačkić",
       "gl": 372,
-      "prc": 0.029834,
+      "prc": 0.029827,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -13121,7 +13121,7 @@
       "id": 2376,
       "naziv": "Nermin Bajramović",
       "gl": 351,
-      "prc": 0.02815,
+      "prc": 0.028143,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -13133,7 +13133,7 @@
       "id": 1478,
       "naziv": "Tanja Mencin",
       "gl": 113,
-      "prc": 0.009062,
+      "prc": 0.00906,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -13144,8 +13144,8 @@
       "st": 1,
       "id": 1152,
       "naziv": "Štefan Misja",
-      "gl": 44,
-      "prc": 0.004553,
+      "gl": 46,
+      "prc": 0.004591,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -13156,8 +13156,8 @@
       "st": 3,
       "id": 1992,
       "naziv": "Petra Vrtačnik",
-      "gl": 260,
-      "prc": 0.026907,
+      "gl": 268,
+      "prc": 0.026747,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -13168,8 +13168,8 @@
       "st": 4,
       "id": 1949,
       "naziv": "Teo (Teodor) Uranič",
-      "gl": 4008,
-      "prc": 0.414778,
+      "gl": 4113,
+      "prc": 0.410479,
       "man": true,
       "enota": 6,
       "okraji": [
@@ -13180,8 +13180,8 @@
       "st": 6,
       "id": 2129,
       "naziv": "Eva Koprivšek Petkovšek",
-      "gl": 346,
-      "prc": 0.035807,
+      "gl": 360,
+      "prc": 0.035928,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -13193,7 +13193,7 @@
       "id": 2607,
       "naziv": "Aleksander Radanović",
       "gl": 28,
-      "prc": 0.002898,
+      "prc": 0.002794,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -13204,8 +13204,8 @@
       "st": 8,
       "id": 2227,
       "naziv": "Rudi Medved",
-      "gl": 735,
-      "prc": 0.076063,
+      "gl": 758,
+      "prc": 0.075649,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -13216,8 +13216,8 @@
       "st": 9,
       "id": 1895,
       "naziv": "Roman Savšek",
-      "gl": 243,
-      "prc": 0.025147,
+      "gl": 250,
+      "prc": 0.02495,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -13228,8 +13228,8 @@
       "st": 10,
       "id": 2582,
       "naziv": "Džurža Rus",
-      "gl": 124,
-      "prc": 0.012832,
+      "gl": 128,
+      "prc": 0.012774,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -13240,8 +13240,8 @@
       "st": 11,
       "id": 1639,
       "naziv": "Vinko Sladoljev",
-      "gl": 68,
-      "prc": 0.007037,
+      "gl": 73,
+      "prc": 0.007285,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -13252,8 +13252,8 @@
       "st": 12,
       "id": 1057,
       "naziv": "Aljaž Jerin",
-      "gl": 444,
-      "prc": 0.045948,
+      "gl": 465,
+      "prc": 0.046407,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -13264,8 +13264,8 @@
       "st": 14,
       "id": 2153,
       "naziv": "Primož Jelševar",
-      "gl": 353,
-      "prc": 0.036531,
+      "gl": 388,
+      "prc": 0.038723,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -13276,8 +13276,8 @@
       "st": 15,
       "id": 2244,
       "naziv": "Alenka Forte",
-      "gl": 1501,
-      "prc": 0.155335,
+      "gl": 1565,
+      "prc": 0.156188,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -13288,8 +13288,8 @@
       "st": 16,
       "id": 1008,
       "naziv": "Srečko Prijatelj",
-      "gl": 92,
-      "prc": 0.009521,
+      "gl": 97,
+      "prc": 0.009681,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -13300,8 +13300,8 @@
       "st": 17,
       "id": 1536,
       "naziv": "Nataša Češko",
-      "gl": 628,
-      "prc": 0.06499,
+      "gl": 656,
+      "prc": 0.065469,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -13312,8 +13312,8 @@
       "st": 18,
       "id": 1875,
       "naziv": "Rebeka Ostrovršnik",
-      "gl": 265,
-      "prc": 0.027424,
+      "gl": 276,
+      "prc": 0.027545,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -13324,8 +13324,8 @@
       "st": 19,
       "id": 2375,
       "naziv": "Vladimir Poredoš",
-      "gl": 349,
-      "prc": 0.036117,
+      "gl": 369,
+      "prc": 0.036826,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -13336,8 +13336,8 @@
       "st": 20,
       "id": 2163,
       "naziv": "Darja Požun",
-      "gl": 44,
-      "prc": 0.004553,
+      "gl": 48,
+      "prc": 0.00479,
       "man": false,
       "enota": 6,
       "okraji": [
@@ -13348,8 +13348,8 @@
       "st": 1,
       "id": 1287,
       "naziv": "Oliver Leskovšek",
-      "gl": 91,
-      "prc": 0.007383,
+      "gl": 101,
+      "prc": 0.007275,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -13361,7 +13361,7 @@
       "id": 2336,
       "naziv": "Tadeja Rozman",
       "gl": 35,
-      "prc": 0.001176,
+      "prc": 0.001118,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -13373,8 +13373,8 @@
       "st": 3,
       "id": 1709,
       "naziv": "Karmen Drozg",
-      "gl": 394,
-      "prc": 0.031965,
+      "gl": 446,
+      "prc": 0.032123,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -13385,8 +13385,8 @@
       "st": 4,
       "id": 2342,
       "naziv": "David Stupica",
-      "gl": 3050,
-      "prc": 0.247444,
+      "gl": 3428,
+      "prc": 0.246903,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -13397,8 +13397,8 @@
       "st": 5,
       "id": 2503,
       "naziv": "Rafael Mally",
-      "gl": 15,
-      "prc": 0.001217,
+      "gl": 16,
+      "prc": 0.001152,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -13409,8 +13409,8 @@
       "st": 6,
       "id": 2551,
       "naziv": "Darko Radiković",
-      "gl": 284,
-      "prc": 0.023041,
+      "gl": 322,
+      "prc": 0.023192,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -13421,8 +13421,8 @@
       "st": 7,
       "id": 2525,
       "naziv": "Daša Gaber",
-      "gl": 72,
-      "prc": 0.002774,
+      "gl": 73,
+      "prc": 0.002654,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -13434,8 +13434,8 @@
       "st": 8,
       "id": 1739,
       "naziv": "Aleksandra Krumpak",
-      "gl": 275,
-      "prc": 0.022311,
+      "gl": 309,
+      "prc": 0.022256,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -13446,8 +13446,8 @@
       "st": 9,
       "id": 1306,
       "naziv": "Izidor Kitak",
-      "gl": 373,
-      "prc": 0.030261,
+      "gl": 407,
+      "prc": 0.029314,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -13458,8 +13458,8 @@
       "st": 10,
       "id": 2543,
       "naziv": "Nina Majcen",
-      "gl": 180,
-      "prc": 0.014603,
+      "gl": 203,
+      "prc": 0.014621,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -13470,8 +13470,8 @@
       "st": 11,
       "id": 2353,
       "naziv": "Karel Lipič",
-      "gl": 135,
-      "prc": 0.010952,
+      "gl": 153,
+      "prc": 0.01102,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -13482,8 +13482,8 @@
       "st": 12,
       "id": 1244,
       "naziv": "Martin Mikolič",
-      "gl": 1283,
-      "prc": 0.104089,
+      "gl": 1360,
+      "prc": 0.097954,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -13494,8 +13494,8 @@
       "st": 13,
       "id": 1737,
       "naziv": "Nejc Velkavrh",
-      "gl": 415,
-      "prc": 0.013946,
+      "gl": 438,
+      "prc": 0.013986,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -13507,8 +13507,8 @@
       "st": 14,
       "id": 2518,
       "naziv": "Zdravko Počivalšek",
-      "gl": 1356,
-      "prc": 0.110011,
+      "gl": 1773,
+      "prc": 0.127701,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -13519,8 +13519,8 @@
       "st": 15,
       "id": 2363,
       "naziv": "Anton Šturbej",
-      "gl": 3409,
-      "prc": 0.27657,
+      "gl": 3739,
+      "prc": 0.269303,
       "man": true,
       "enota": 7,
       "okraji": [
@@ -13531,8 +13531,8 @@
       "st": 16,
       "id": 1276,
       "naziv": "Tanja Rožanc",
-      "gl": 232,
-      "prc": 0.018822,
+      "gl": 251,
+      "prc": 0.018078,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -13543,8 +13543,8 @@
       "st": 17,
       "id": 2315,
       "naziv": "Gorazd Prah",
-      "gl": 615,
-      "prc": 0.049895,
+      "gl": 673,
+      "prc": 0.048473,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -13555,8 +13555,8 @@
       "st": 18,
       "id": 2326,
       "naziv": "Gordana Weber",
-      "gl": 370,
-      "prc": 0.014258,
+      "gl": 389,
+      "prc": 0.01414,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -13568,8 +13568,8 @@
       "st": 19,
       "id": 2499,
       "naziv": "Andrej Černelč",
-      "gl": 93,
-      "prc": 0.007545,
+      "gl": 108,
+      "prc": 0.007779,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -13580,8 +13580,8 @@
       "st": 20,
       "id": 1682,
       "naziv": "Dušanka Strnad",
-      "gl": 112,
-      "prc": 0.009086,
+      "gl": 123,
+      "prc": 0.008859,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -13593,7 +13593,7 @@
       "id": 1289,
       "naziv": "Bojan Fajs",
       "gl": 126,
-      "prc": 0.007229,
+      "prc": 0.007228,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -13605,7 +13605,7 @@
       "id": 1713,
       "naziv": "Nani Franc Matjašič",
       "gl": 602,
-      "prc": 0.034536,
+      "prc": 0.034534,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -13617,7 +13617,7 @@
       "id": 2343,
       "naziv": "Vesna Skerbinek",
       "gl": 4849,
-      "prc": 0.278183,
+      "prc": 0.278167,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -13641,7 +13641,7 @@
       "id": 2553,
       "naziv": "Aleksander Sašo Slaček Brlek",
       "gl": 421,
-      "prc": 0.024152,
+      "prc": 0.024151,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -13666,7 +13666,7 @@
       "id": 1740,
       "naziv": "Matic Erdani",
       "gl": 396,
-      "prc": 0.022718,
+      "prc": 0.022717,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -13678,7 +13678,7 @@
       "id": 1303,
       "naziv": "Petra Vrhovnik",
       "gl": 429,
-      "prc": 0.024611,
+      "prc": 0.02461,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -13690,7 +13690,7 @@
       "id": 2544,
       "naziv": "Gorazd Makoter",
       "gl": 210,
-      "prc": 0.012048,
+      "prc": 0.012047,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -13702,7 +13702,7 @@
       "id": 2354,
       "naziv": "Ludvik Leon Unterlehner",
       "gl": 282,
-      "prc": 0.016178,
+      "prc": 0.016177,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -13714,7 +13714,7 @@
       "id": 1250,
       "naziv": "Alenka Pušnik",
       "gl": 776,
-      "prc": 0.044518,
+      "prc": 0.044516,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -13726,7 +13726,7 @@
       "id": 2520,
       "naziv": "Modest Motaln",
       "gl": 1210,
-      "prc": 0.069417,
+      "prc": 0.069413,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -13737,8 +13737,8 @@
       "st": 15,
       "id": 2364,
       "naziv": "mag. Karmen Furman",
-      "gl": 5821,
-      "prc": 0.333945,
+      "gl": 5822,
+      "prc": 0.333983,
       "man": true,
       "enota": 7,
       "okraji": [
@@ -13750,7 +13750,7 @@
       "id": 1278,
       "naziv": "Zmago Jelinčič Plemeniti",
       "gl": 1097,
-      "prc": 0.035323,
+      "prc": 0.035321,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -13763,7 +13763,7 @@
       "id": 2316,
       "naziv": "Tin Kampl",
       "gl": 930,
-      "prc": 0.053353,
+      "prc": 0.05335,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -13775,7 +13775,7 @@
       "id": 2327,
       "naziv": "Irena Majcen",
       "gl": 296,
-      "prc": 0.016981,
+      "prc": 0.01698,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -13798,8 +13798,8 @@
       "st": 20,
       "id": 1683,
       "naziv": "Bogomir Gajser",
-      "gl": 224,
-      "prc": 0.00918,
+      "gl": 238,
+      "prc": 0.009384,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -13837,7 +13837,7 @@
       "id": 1715,
       "naziv": "Simona Pec",
       "gl": 280,
-      "prc": 0.02055,
+      "prc": 0.020549,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -13849,7 +13849,7 @@
       "id": 2344,
       "naziv": "Urban Kodrič",
       "gl": 3601,
-      "prc": 0.264294,
+      "prc": 0.264274,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -13861,7 +13861,7 @@
       "id": 2506,
       "naziv": "Urban Šiško",
       "gl": 26,
-      "prc": 0.001031,
+      "prc": 0.00103,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -13874,7 +13874,7 @@
       "id": 2554,
       "naziv": "Lucija Golčer",
       "gl": 306,
-      "prc": 0.022459,
+      "prc": 0.022457,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -13885,8 +13885,8 @@
       "st": 8,
       "id": 1741,
       "naziv": "Anamaria Hren",
-      "gl": 308,
-      "prc": 0.022606,
+      "gl": 309,
+      "prc": 0.022677,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -13898,7 +13898,7 @@
       "id": 1305,
       "naziv": "Mateja Udovč",
       "gl": 342,
-      "prc": 0.025101,
+      "prc": 0.025099,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -13922,7 +13922,7 @@
       "id": 2355,
       "naziv": "Marko Brumec",
       "gl": 176,
-      "prc": 0.012917,
+      "prc": 0.012916,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -13934,7 +13934,7 @@
       "id": 1253,
       "naziv": "Janez Črešnar",
       "gl": 750,
-      "prc": 0.055046,
+      "prc": 0.055042,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -13946,7 +13946,7 @@
       "id": 1735,
       "naziv": "Suzana Auguštin",
       "gl": 299,
-      "prc": 0.013499,
+      "prc": 0.013498,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -13959,7 +13959,7 @@
       "id": 2524,
       "naziv": "Marko Cigler",
       "gl": 710,
-      "prc": 0.05211,
+      "prc": 0.052106,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -13971,7 +13971,7 @@
       "id": 2365,
       "naziv": "Bojan Podkrajšek",
       "gl": 4887,
-      "prc": 0.358679,
+      "prc": 0.358653,
       "man": true,
       "enota": 7,
       "okraji": [
@@ -13983,7 +13983,7 @@
       "id": 2317,
       "naziv": "dr. Jernej Štromajer",
       "gl": 836,
-      "prc": 0.061358,
+      "prc": 0.061353,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -13995,7 +13995,7 @@
       "id": 2501,
       "naziv": "Simon Žlahtič",
       "gl": 243,
-      "prc": 0.009518,
+      "prc": 0.009517,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -14008,7 +14008,7 @@
       "id": 1685,
       "naziv": "Matija Matić",
       "gl": 140,
-      "prc": 0.006321,
+      "prc": 0.00632,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -14021,7 +14021,7 @@
       "id": 1293,
       "naziv": "Srečko Felix Krope",
       "gl": 105,
-      "prc": 0.012318,
+      "prc": 0.012315,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -14033,7 +14033,7 @@
       "id": 2338,
       "naziv": "Matej Šteflič",
       "gl": 31,
-      "prc": 0.001828,
+      "prc": 0.001827,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -14045,8 +14045,8 @@
       "st": 3,
       "id": 1716,
       "naziv": "Robert Leva",
-      "gl": 334,
-      "prc": 0.039183,
+      "gl": 335,
+      "prc": 0.039292,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -14058,7 +14058,7 @@
       "id": 2345,
       "naziv": "Jurij Lep",
       "gl": 3130,
-      "prc": 0.367198,
+      "prc": 0.367112,
       "man": true,
       "enota": 7,
       "okraji": [
@@ -14082,7 +14082,7 @@
       "id": 2555,
       "naziv": "Drago Bolčina",
       "gl": 422,
-      "prc": 0.049507,
+      "prc": 0.049496,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -14094,7 +14094,7 @@
       "id": 1742,
       "naziv": "Jernej Ajd",
       "gl": 328,
-      "prc": 0.03848,
+      "prc": 0.038471,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -14106,7 +14106,7 @@
       "id": 1312,
       "naziv": "Matjaž Mihelak",
       "gl": 129,
-      "prc": 0.015134,
+      "prc": 0.01513,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -14118,7 +14118,7 @@
       "id": 2546,
       "naziv": "Franc Černagoj",
       "gl": 203,
-      "prc": 0.011924,
+      "prc": 0.011923,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -14131,7 +14131,7 @@
       "id": 2356,
       "naziv": "Dunja Matijašec Hödl",
       "gl": 360,
-      "prc": 0.017621,
+      "prc": 0.017619,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -14144,7 +14144,7 @@
       "id": 1255,
       "naziv": "Miha Žižek",
       "gl": 387,
-      "prc": 0.045401,
+      "prc": 0.045391,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -14156,7 +14156,7 @@
       "id": 2526,
       "naziv": "Anita Jodl",
       "gl": 180,
-      "prc": 0.021117,
+      "prc": 0.021112,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -14168,7 +14168,7 @@
       "id": 2490,
       "naziv": "Aleksander Brunčko",
       "gl": 1942,
-      "prc": 0.227827,
+      "prc": 0.227774,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -14180,7 +14180,7 @@
       "id": 1279,
       "naziv": "Katarina Žunko",
       "gl": 320,
-      "prc": 0.015898,
+      "prc": 0.015896,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -14193,8 +14193,8 @@
       "id": 2318,
       "naziv": "mag. Bojana Muršič",
       "gl": 621,
-      "prc": 0.072853,
-      "man": true,
+      "prc": 0.072836,
+      "man": false,
       "enota": 7,
       "okraji": [
         4
@@ -14204,8 +14204,8 @@
       "st": 18,
       "id": 2328,
       "naziv": "Metka Vodušek",
-      "gl": 195,
-      "prc": 0.022877,
+      "gl": 196,
+      "prc": 0.022989,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -14217,7 +14217,7 @@
       "id": 2504,
       "naziv": "Tomi Prosnik",
       "gl": 169,
-      "prc": 0.019826,
+      "prc": 0.019822,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -14254,7 +14254,7 @@
       "id": 1719,
       "naziv": "Marinka Valand",
       "gl": 413,
-      "prc": 0.035591,
+      "prc": 0.035588,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -14266,7 +14266,7 @@
       "id": 2346,
       "naziv": "Tomaž Lah",
       "gl": 4270,
-      "prc": 0.367977,
+      "prc": 0.367945,
       "man": true,
       "enota": 7,
       "okraji": [
@@ -14278,7 +14278,7 @@
       "id": 2556,
       "naziv": "Vladimir Šega",
       "gl": 482,
-      "prc": 0.041537,
+      "prc": 0.041534,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -14290,7 +14290,7 @@
       "id": 2527,
       "naziv": "Matej Ferk Čauči",
       "gl": 20,
-      "prc": 0.001724,
+      "prc": 0.001723,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -14302,7 +14302,7 @@
       "id": 1748,
       "naziv": "Miran Križnjak",
       "gl": 595,
-      "prc": 0.029691,
+      "prc": 0.029683,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -14315,7 +14315,7 @@
       "id": 1299,
       "naziv": "Polona Pivec",
       "gl": 161,
-      "prc": 0.013875,
+      "prc": 0.013873,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -14339,7 +14339,7 @@
       "id": 2357,
       "naziv": "Tanja Miličić",
       "gl": 175,
-      "prc": 0.015081,
+      "prc": 0.01508,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -14351,7 +14351,7 @@
       "id": 1256,
       "naziv": "Andrej Šauperl",
       "gl": 529,
-      "prc": 0.045588,
+      "prc": 0.045584,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -14363,7 +14363,7 @@
       "id": 1736,
       "naziv": "Tomas Tišler",
       "gl": 396,
-      "prc": 0.016844,
+      "prc": 0.016842,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -14376,7 +14376,7 @@
       "id": 2529,
       "naziv": "Monika Kirbiš Rojs",
       "gl": 724,
-      "prc": 0.062392,
+      "prc": 0.062387,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -14388,7 +14388,7 @@
       "id": 2491,
       "naziv": "Barbara Klajderič",
       "gl": 2619,
-      "prc": 0.225698,
+      "prc": 0.225679,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -14400,7 +14400,7 @@
       "id": 2319,
       "naziv": "Nastja Trajkovič",
       "gl": 737,
-      "prc": 0.063513,
+      "prc": 0.063507,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -14412,7 +14412,7 @@
       "id": 2329,
       "naziv": "Luka Vodušek",
       "gl": 245,
-      "prc": 0.021113,
+      "prc": 0.021112,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -14423,8 +14423,8 @@
       "st": 19,
       "id": 2507,
       "naziv": "Katja Beck Kos",
-      "gl": 149,
-      "prc": 0.01284,
+      "gl": 150,
+      "prc": 0.012925,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -14436,7 +14436,7 @@
       "id": 1687,
       "naziv": "Bojan Papež",
       "gl": 247,
-      "prc": 0.010506,
+      "prc": 0.010505,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -14474,7 +14474,7 @@
       "id": 1721,
       "naziv": "Zoran Jerković",
       "gl": 460,
-      "prc": 0.038636,
+      "prc": 0.038633,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -14486,7 +14486,7 @@
       "id": 2347,
       "naziv": "Andreja Rajbenšu",
       "gl": 4443,
-      "prc": 0.373173,
+      "prc": 0.373142,
       "man": true,
       "enota": 7,
       "okraji": [
@@ -14511,7 +14511,7 @@
       "id": 2557,
       "naziv": "Urška Lipovž",
       "gl": 411,
-      "prc": 0.03452,
+      "prc": 0.034518,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -14523,7 +14523,7 @@
       "id": 2528,
       "naziv": "Žan Štuber",
       "gl": 107,
-      "prc": 0.00458,
+      "prc": 0.004579,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -14536,7 +14536,7 @@
       "id": 1743,
       "naziv": "Gregor Kunej",
       "gl": 365,
-      "prc": 0.030657,
+      "prc": 0.030654,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -14548,7 +14548,7 @@
       "id": 1311,
       "naziv": "Aleš Meglič",
       "gl": 199,
-      "prc": 0.016714,
+      "prc": 0.016713,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -14560,7 +14560,7 @@
       "id": 2548,
       "naziv": "dr. Silvester Lipošek",
       "gl": 314,
-      "prc": 0.015436,
+      "prc": 0.015432,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -14573,7 +14573,7 @@
       "id": 1259,
       "naziv": "Aleš Bandur",
       "gl": 586,
-      "prc": 0.049219,
+      "prc": 0.049215,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -14585,7 +14585,7 @@
       "id": 2531,
       "naziv": "Breda Čepe Vizjak",
       "gl": 265,
-      "prc": 0.022258,
+      "prc": 0.022256,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -14597,7 +14597,7 @@
       "id": 2492,
       "naziv": "Luka Simonič",
       "gl": 2941,
-      "prc": 0.247018,
+      "prc": 0.246998,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -14609,7 +14609,7 @@
       "id": 1281,
       "naziv": "Rok Bukovšek",
       "gl": 368,
-      "prc": 0.015751,
+      "prc": 0.01575,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -14621,8 +14621,8 @@
       "st": 17,
       "id": 2320,
       "naziv": "dr. Martina Rauter",
-      "gl": 765,
-      "prc": 0.064253,
+      "gl": 766,
+      "prc": 0.064332,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -14634,7 +14634,7 @@
       "id": 2330,
       "naziv": "Vesna Nemec Gajzer",
       "gl": 271,
-      "prc": 0.022762,
+      "prc": 0.02276,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -15046,8 +15046,8 @@
       "st": 2,
       "id": 2341,
       "naziv": "Marko Oblak",
-      "gl": 36,
-      "prc": 0.002098,
+      "gl": 37,
+      "prc": 0.002042,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -15227,8 +15227,8 @@
       "st": 1,
       "id": 1297,
       "naziv": "Peter Rodeš",
-      "gl": 97,
-      "prc": 0.006297,
+      "gl": 100,
+      "prc": 0.006108,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -15240,8 +15240,8 @@
       "st": 3,
       "id": 1727,
       "naziv": "Marina Baćić",
-      "gl": 195,
-      "prc": 0.027981,
+      "gl": 227,
+      "prc": 0.028622,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -15252,8 +15252,8 @@
       "st": 4,
       "id": 2351,
       "naziv": "Rastislav Vrečko",
-      "gl": 2887,
-      "prc": 0.414263,
+      "gl": 3267,
+      "prc": 0.411928,
       "man": true,
       "enota": 7,
       "okraji": [
@@ -15264,8 +15264,8 @@
       "st": 5,
       "id": 2502,
       "naziv": "Andrej Šiško",
-      "gl": 28,
-      "prc": 0.001818,
+      "gl": 31,
+      "prc": 0.001894,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -15277,8 +15277,8 @@
       "st": 6,
       "id": 2561,
       "naziv": "Borut Osonkar",
-      "gl": 353,
-      "prc": 0.050653,
+      "gl": 408,
+      "prc": 0.051444,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -15289,8 +15289,8 @@
       "st": 7,
       "id": 2536,
       "naziv": "Pablo Mohr",
-      "gl": 20,
-      "prc": 0.00287,
+      "gl": 21,
+      "prc": 0.002648,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -15301,8 +15301,8 @@
       "st": 8,
       "id": 1747,
       "naziv": "Lidija Divjak Mirnik",
-      "gl": 241,
-      "prc": 0.034582,
+      "gl": 277,
+      "prc": 0.034926,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -15313,8 +15313,8 @@
       "st": 9,
       "id": 1302,
       "naziv": "Boris Ploj",
-      "gl": 64,
-      "prc": 0.009184,
+      "gl": 73,
+      "prc": 0.009204,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -15325,8 +15325,8 @@
       "st": 10,
       "id": 2552,
       "naziv": "Alenka Orbović",
-      "gl": 113,
-      "prc": 0.016215,
+      "gl": 128,
+      "prc": 0.016139,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -15337,8 +15337,8 @@
       "st": 11,
       "id": 2361,
       "naziv": "Valentin Lorenčič",
-      "gl": 131,
-      "prc": 0.018798,
+      "gl": 145,
+      "prc": 0.018283,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -15349,8 +15349,8 @@
       "st": 12,
       "id": 1266,
       "naziv": "dr.  Alenka (Magdalena) Šverc",
-      "gl": 285,
-      "prc": 0.040895,
+      "gl": 317,
+      "prc": 0.03997,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -15361,8 +15361,8 @@
       "st": 13,
       "id": 1734,
       "naziv": "Petra Kovačec",
-      "gl": 309,
-      "prc": 0.020058,
+      "gl": 333,
+      "prc": 0.020341,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -15374,8 +15374,8 @@
       "st": 14,
       "id": 2539,
       "naziv": "Helena Kujundžić Lukaček",
-      "gl": 171,
-      "prc": 0.024537,
+      "gl": 194,
+      "prc": 0.024461,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -15386,8 +15386,8 @@
       "st": 15,
       "id": 2497,
       "naziv": "Bernarda Mandres",
-      "gl": 1352,
-      "prc": 0.194002,
+      "gl": 1538,
+      "prc": 0.193923,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -15398,8 +15398,8 @@
       "st": 16,
       "id": 1283,
       "naziv": "Miranda Osterc Zinrajh",
-      "gl": 198,
-      "prc": 0.012853,
+      "gl": 210,
+      "prc": 0.012828,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -15411,9 +15411,9 @@
       "st": 17,
       "id": 2324,
       "naziv": "dr. Emilija Stojmenova Duh",
-      "gl": 497,
-      "prc": 0.071316,
-      "man": false,
+      "gl": 578,
+      "prc": 0.072879,
+      "man": true,
       "enota": 7,
       "okraji": [
         10
@@ -15423,8 +15423,8 @@
       "st": 18,
       "id": 2334,
       "naziv": "mag. Branislav Rajić",
-      "gl": 239,
-      "prc": 0.034295,
+      "gl": 265,
+      "prc": 0.033413,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -15435,8 +15435,8 @@
       "st": 19,
       "id": 2542,
       "naziv": "Miha Lovše",
-      "gl": 66,
-      "prc": 0.009471,
+      "gl": 81,
+      "prc": 0.010213,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -15448,7 +15448,7 @@
       "id": 1729,
       "naziv": "Denis Blažan",
       "gl": 347,
-      "prc": 0.041133,
+      "prc": 0.041114,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -15459,8 +15459,8 @@
       "st": 4,
       "id": 2352,
       "naziv": "Martin Marzidovšek",
-      "gl": 3453,
-      "prc": 0.409317,
+      "gl": 3455,
+      "prc": 0.40936,
       "man": true,
       "enota": 7,
       "okraji": [
@@ -15471,8 +15471,8 @@
       "st": 6,
       "id": 2562,
       "naziv": "Tatjana Frangež",
-      "gl": 456,
-      "prc": 0.054054,
+      "gl": 458,
+      "prc": 0.054265,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -15484,7 +15484,7 @@
       "id": 2534,
       "naziv": "Zala Korošec",
       "gl": 28,
-      "prc": 0.003319,
+      "prc": 0.003318,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -15496,7 +15496,7 @@
       "id": 1308,
       "naziv": "Danica Ozvaldič",
       "gl": 104,
-      "prc": 0.012328,
+      "prc": 0.012322,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -15508,7 +15508,7 @@
       "id": 2362,
       "naziv": "Dušan Ćešić",
       "gl": 113,
-      "prc": 0.013395,
+      "prc": 0.013389,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -15520,7 +15520,7 @@
       "id": 1269,
       "naziv": "Renata Esih Flac",
       "gl": 294,
-      "prc": 0.034851,
+      "prc": 0.034834,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -15532,7 +15532,7 @@
       "id": 2540,
       "naziv": "Boštjan Jambrovič",
       "gl": 170,
-      "prc": 0.020152,
+      "prc": 0.020142,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -15544,7 +15544,7 @@
       "id": 2498,
       "naziv": "dr. Miran Ulbin",
       "gl": 1689,
-      "prc": 0.200213,
+      "prc": 0.200118,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -15556,7 +15556,7 @@
       "id": 2325,
       "naziv": "Uroš Prikl",
       "gl": 551,
-      "prc": 0.065315,
+      "prc": 0.065284,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -15568,7 +15568,7 @@
       "id": 2335,
       "naziv": "Ninoslav Ninić",
       "gl": 259,
-      "prc": 0.030702,
+      "prc": 0.030687,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -15580,7 +15580,7 @@
       "id": 2541,
       "naziv": "Katarina Kušar",
       "gl": 105,
-      "prc": 0.012447,
+      "prc": 0.012441,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -15592,7 +15592,7 @@
       "id": 1695,
       "naziv": "Vesna Ornik",
       "gl": 83,
-      "prc": 0.009839,
+      "prc": 0.009834,
       "man": false,
       "enota": 7,
       "okraji": [
@@ -15603,8 +15603,8 @@
       "st": 1,
       "id": 1257,
       "naziv": "Bojan Jurgec",
-      "gl": 110,
-      "prc": 0.010076,
+      "gl": 111,
+      "prc": 0.009912,
       "man": false,
       "enota": 8,
       "okraji": [
@@ -15616,7 +15616,7 @@
       "id": 2041,
       "naziv": "Jaka Šalej",
       "gl": 16,
-      "prc": 0.001466,
+      "prc": 0.001429,
       "man": false,
       "enota": 8,
       "okraji": [
@@ -15627,8 +15627,8 @@
       "st": 3,
       "id": 1468,
       "naziv": "Kornelija Jaklovič Činč",
-      "gl": 319,
-      "prc": 0.02922,
+      "gl": 325,
+      "prc": 0.029023,
       "man": false,
       "enota": 8,
       "okraji": [
@@ -15639,8 +15639,8 @@
       "st": 4,
       "id": 1783,
       "naziv": "Dejan Süč",
-      "gl": 3411,
-      "prc": 0.312448,
+      "gl": 3492,
+      "prc": 0.311841,
       "man": false,
       "enota": 8,
       "okraji": [
@@ -15651,8 +15651,8 @@
       "st": 6,
       "id": 1770,
       "naziv": "Marko Sraka",
-      "gl": 271,
-      "prc": 0.024824,
+      "gl": 277,
+      "prc": 0.024737,
       "man": false,
       "enota": 8,
       "okraji": [
@@ -15664,7 +15664,7 @@
       "id": 2644,
       "naziv": "Marina Vida",
       "gl": 9,
-      "prc": 0.000824,
+      "prc": 0.000804,
       "man": false,
       "enota": 8,
       "okraji": [
@@ -15675,8 +15675,8 @@
       "st": 8,
       "id": 1662,
       "naziv": "Tomaž Gregorec",
-      "gl": 297,
-      "prc": 0.027205,
+      "gl": 303,
+      "prc": 0.027058,
       "man": false,
       "enota": 8,
       "okraji": [
@@ -15687,8 +15687,8 @@
       "st": 9,
       "id": 1640,
       "naziv": "Jožef Horvat",
-      "gl": 167,
-      "prc": 0.015297,
+      "gl": 172,
+      "prc": 0.01536,
       "man": false,
       "enota": 8,
       "okraji": [
@@ -15699,8 +15699,8 @@
       "st": 10,
       "id": 2622,
       "naziv": "Matej Vučko",
-      "gl": 150,
-      "prc": 0.01374,
+      "gl": 155,
+      "prc": 0.013842,
       "man": false,
       "enota": 8,
       "okraji": [
@@ -15711,8 +15711,8 @@
       "st": 11,
       "id": 1562,
       "naziv": "Klaudija Dolenčić",
-      "gl": 136,
-      "prc": 0.012458,
+      "gl": 143,
+      "prc": 0.01277,
       "man": false,
       "enota": 8,
       "okraji": [
@@ -15723,8 +15723,8 @@
       "st": 12,
       "id": 1153,
       "naziv": "Jožef Horvat",
-      "gl": 1266,
-      "prc": 0.115966,
+      "gl": 1312,
+      "prc": 0.117164,
       "man": true,
       "enota": 8,
       "okraji": [
@@ -15735,8 +15735,8 @@
       "st": 13,
       "id": 1635,
       "naziv": "Katja Orehek",
-      "gl": 244,
-      "prc": 0.012403,
+      "gl": 245,
+      "prc": 0.012277,
       "man": false,
       "enota": 8,
       "okraji": [
@@ -15748,8 +15748,8 @@
       "st": 14,
       "id": 2181,
       "naziv": "Darko Horvat",
-      "gl": 273,
-      "prc": 0.025007,
+      "gl": 283,
+      "prc": 0.025272,
       "man": false,
       "enota": 8,
       "okraji": [
@@ -15760,8 +15760,8 @@
       "st": 15,
       "id": 2015,
       "naziv": "Janez Magyar",
-      "gl": 3431,
-      "prc": 0.31428,
+      "gl": 3503,
+      "prc": 0.312824,
       "man": true,
       "enota": 8,
       "okraji": [
@@ -15772,8 +15772,8 @@
       "st": 16,
       "id": 1230,
       "naziv": "Erika Štrucl",
-      "gl": 317,
-      "prc": 0.016113,
+      "gl": 328,
+      "prc": 0.016436,
       "man": false,
       "enota": 8,
       "okraji": [
@@ -15785,8 +15785,8 @@
       "st": 17,
       "id": 1590,
       "naziv": "Vlasta Veren",
-      "gl": 489,
-      "prc": 0.044793,
+      "gl": 504,
+      "prc": 0.045008,
       "man": false,
       "enota": 8,
       "okraji": [
@@ -15797,8 +15797,8 @@
       "st": 18,
       "id": 1697,
       "naziv": "mag. Dominik Šteiner",
-      "gl": 147,
-      "prc": 0.013465,
+      "gl": 153,
+      "prc": 0.013663,
       "man": false,
       "enota": 8,
       "okraji": [
@@ -15809,8 +15809,8 @@
       "st": 19,
       "id": 2367,
       "naziv": "Gabrijela Starešina Fras",
-      "gl": 80,
-      "prc": 0.007328,
+      "gl": 81,
+      "prc": 0.007233,
       "man": false,
       "enota": 8,
       "okraji": [
@@ -15821,8 +15821,8 @@
       "st": 20,
       "id": 1272,
       "naziv": "Matej Bidar",
-      "gl": 120,
-      "prc": 0.004409,
+      "gl": 121,
+      "prc": 0.0044,
       "man": false,
       "enota": 8,
       "okraji": [
@@ -15834,8 +15834,8 @@
       "st": 21,
       "id": 2632,
       "naziv": "Ivan Bolfek",
-      "gl": 40,
-      "prc": 0.001794,
+      "gl": 41,
+      "prc": 0.001816,
       "man": false,
       "enota": 8,
       "okraji": [
@@ -16092,7 +16092,7 @@
       "id": 1260,
       "naziv": "Jasminka Dukić dr. med.",
       "gl": 174,
-      "prc": 0.019872,
+      "prc": 0.019868,
       "man": false,
       "enota": 8,
       "okraji": [
@@ -16104,7 +16104,7 @@
       "id": 1473,
       "naziv": "Špela Strelec",
       "gl": 696,
-      "prc": 0.034406,
+      "prc": 0.034403,
       "man": false,
       "enota": 8,
       "okraji": [
@@ -16117,7 +16117,7 @@
       "id": 1785,
       "naziv": "Sara Žibrat mag",
       "gl": 3053,
-      "prc": 0.348675,
+      "prc": 0.348596,
       "man": true,
       "enota": 8,
       "okraji": [
@@ -16128,8 +16128,8 @@
       "st": 6,
       "id": 1772,
       "naziv": "Janez Brumen",
-      "gl": 264,
-      "prc": 0.030151,
+      "gl": 265,
+      "prc": 0.030258,
       "man": false,
       "enota": 8,
       "okraji": [
@@ -16141,7 +16141,7 @@
       "id": 2638,
       "naziv": "Olga Ivančič",
       "gl": 18,
-      "prc": 0.002056,
+      "prc": 0.002055,
       "man": false,
       "enota": 8,
       "okraji": [
@@ -16153,7 +16153,7 @@
       "id": 1664,
       "naziv": "Bojana Gošnjak",
       "gl": 268,
-      "prc": 0.030608,
+      "prc": 0.030601,
       "man": false,
       "enota": 8,
       "okraji": [
@@ -16165,7 +16165,7 @@
       "id": 1642,
       "naziv": "Marko Vargazon",
       "gl": 251,
-      "prc": 0.028666,
+      "prc": 0.02866,
       "man": false,
       "enota": 8,
       "okraji": [
@@ -16177,7 +16177,7 @@
       "id": 2631,
       "naziv": "Simona Mauko",
       "gl": 213,
-      "prc": 0.010996,
+      "prc": 0.010995,
       "man": false,
       "enota": 8,
       "okraji": [
@@ -16190,7 +16190,7 @@
       "id": 1564,
       "naziv": "Bojan Lipovec",
       "gl": 149,
-      "prc": 0.017017,
+      "prc": 0.017013,
       "man": false,
       "enota": 8,
       "okraji": [
@@ -16202,7 +16202,7 @@
       "id": 1155,
       "naziv": "Andreja Novak Görkeš",
       "gl": 415,
-      "prc": 0.047396,
+      "prc": 0.047385,
       "man": false,
       "enota": 8,
       "okraji": [
@@ -16214,7 +16214,7 @@
       "id": 2192,
       "naziv": "Helena Krajnc",
       "gl": 320,
-      "prc": 0.036546,
+      "prc": 0.036538,
       "man": false,
       "enota": 8,
       "okraji": [
@@ -16226,7 +16226,7 @@
       "id": 2021,
       "naziv": "Dominik Štrakl",
       "gl": 2351,
-      "prc": 0.268502,
+      "prc": 0.26844,
       "man": false,
       "enota": 8,
       "okraji": [
@@ -16238,7 +16238,7 @@
       "id": 1593,
       "naziv": "Stanislava Perčič",
       "gl": 576,
-      "prc": 0.065783,
+      "prc": 0.065768,
       "man": false,
       "enota": 8,
       "okraji": [
@@ -16250,7 +16250,7 @@
       "id": 1700,
       "naziv": "Klavdija Grkman",
       "gl": 150,
-      "prc": 0.017131,
+      "prc": 0.017127,
       "man": false,
       "enota": 8,
       "okraji": [
@@ -16261,8 +16261,8 @@
       "st": 19,
       "id": 2373,
       "naziv": "Miran Rajšp",
-      "gl": 135,
-      "prc": 0.006984,
+      "gl": 136,
+      "prc": 0.007035,
       "man": false,
       "enota": 8,
       "okraji": [
@@ -16275,7 +16275,7 @@
       "id": 1274,
       "naziv": "Natalija Majcen",
       "gl": 76,
-      "prc": 0.00868,
+      "prc": 0.008678,
       "man": false,
       "enota": 8,
       "okraji": [
@@ -16287,7 +16287,7 @@
       "id": 1262,
       "naziv": "Jožef Rituper",
       "gl": 340,
-      "prc": 0.010888,
+      "prc": 0.010886,
       "man": false,
       "enota": 8,
       "okraji": [
@@ -16300,7 +16300,7 @@
       "id": 2044,
       "naziv": "Urban Dolenc",
       "gl": 27,
-      "prc": 0.000865,
+      "prc": 0.000864,
       "man": false,
       "enota": 8,
       "okraji": [
@@ -16313,7 +16313,7 @@
       "id": 1474,
       "naziv": "Jože Korpič",
       "gl": 548,
-      "prc": 0.036705,
+      "prc": 0.036697,
       "man": false,
       "enota": 8,
       "okraji": [
@@ -16325,7 +16325,7 @@
       "id": 1786,
       "naziv": "Simon Detellbach",
       "gl": 4362,
-      "prc": 0.292163,
+      "prc": 0.292105,
       "man": false,
       "enota": 8,
       "okraji": [
@@ -16337,7 +16337,7 @@
       "id": 1773,
       "naziv": "Drago Balajc",
       "gl": 444,
-      "prc": 0.029739,
+      "prc": 0.029733,
       "man": false,
       "enota": 8,
       "okraji": [
@@ -16362,7 +16362,7 @@
       "id": 1665,
       "naziv": "dr. Slavko Buček",
       "gl": 466,
-      "prc": 0.031212,
+      "prc": 0.031206,
       "man": false,
       "enota": 8,
       "okraji": [
@@ -16374,7 +16374,7 @@
       "id": 1643,
       "naziv": "Sabina Gutalj",
       "gl": 267,
-      "prc": 0.017883,
+      "prc": 0.01788,
       "man": false,
       "enota": 8,
       "okraji": [
@@ -16386,7 +16386,7 @@
       "id": 2625,
       "naziv": "Mitja Županek",
       "gl": 125,
-      "prc": 0.008372,
+      "prc": 0.008371,
       "man": false,
       "enota": 8,
       "okraji": [
@@ -16398,7 +16398,7 @@
       "id": 1566,
       "naziv": "Roman Plohl",
       "gl": 133,
-      "prc": 0.008908,
+      "prc": 0.008906,
       "man": false,
       "enota": 8,
       "okraji": [
@@ -16410,7 +16410,7 @@
       "id": 1157,
       "naziv": "Ivan Horvat",
       "gl": 665,
-      "prc": 0.044541,
+      "prc": 0.044532,
       "man": false,
       "enota": 8,
       "okraji": [
@@ -16422,7 +16422,7 @@
       "id": 1630,
       "naziv": "Igor Brlek",
       "gl": 358,
-      "prc": 0.011464,
+      "prc": 0.011463,
       "man": false,
       "enota": 8,
       "okraji": [
@@ -16435,7 +16435,7 @@
       "id": 2193,
       "naziv": "Feri (Franc) Küčan",
       "gl": 674,
-      "prc": 0.045144,
+      "prc": 0.045135,
       "man": false,
       "enota": 8,
       "okraji": [
@@ -16446,8 +16446,8 @@
       "st": 15,
       "id": 2023,
       "naziv": "Bojan Petrijan",
-      "gl": 3888,
-      "prc": 0.260415,
+      "gl": 3891,
+      "prc": 0.260564,
       "man": false,
       "enota": 8,
       "okraji": [
@@ -16459,7 +16459,7 @@
       "id": 1239,
       "naziv": "Valerija Markuš",
       "gl": 636,
-      "prc": 0.020366,
+      "prc": 0.020364,
       "man": false,
       "enota": 8,
       "okraji": [
@@ -16472,7 +16472,7 @@
       "id": 1596,
       "naziv": "Damijan Zrim mag.",
       "gl": 2135,
-      "prc": 0.143001,
+      "prc": 0.142972,
       "man": true,
       "enota": 8,
       "okraji": [
@@ -16484,7 +16484,7 @@
       "id": 1703,
       "naziv": "Denis Vrečič",
       "gl": 309,
-      "prc": 0.020697,
+      "prc": 0.020692,
       "man": false,
       "enota": 8,
       "okraji": [
@@ -16496,7 +16496,7 @@
       "id": 2371,
       "naziv": "Tina Hozjan Žižek",
       "gl": 76,
-      "prc": 0.00509,
+      "prc": 0.005089,
       "man": false,
       "enota": 8,
       "okraji": [
@@ -16508,7 +16508,7 @@
       "id": 1275,
       "naziv": "Jožica Jurjaševič",
       "gl": 72,
-      "prc": 0.004823,
+      "prc": 0.004822,
       "man": false,
       "enota": 8,
       "okraji": [
@@ -16533,7 +16533,7 @@
       "id": 1475,
       "naziv": "Karin Abramušić",
       "gl": 402,
-      "prc": 0.024666,
+      "prc": 0.024664,
       "man": false,
       "enota": 8,
       "okraji": [
@@ -16545,7 +16545,7 @@
       "id": 1787,
       "naziv": "Tine Novak",
       "gl": 5198,
-      "prc": 0.318935,
+      "prc": 0.318915,
       "man": false,
       "enota": 8,
       "okraji": [
@@ -16557,7 +16557,7 @@
       "id": 1774,
       "naziv": "Lara Štrokaj",
       "gl": 593,
-      "prc": 0.036385,
+      "prc": 0.036383,
       "man": false,
       "enota": 8,
       "okraji": [
@@ -16582,7 +16582,7 @@
       "id": 1666,
       "naziv": "Zoran Kos",
       "gl": 484,
-      "prc": 0.029697,
+      "prc": 0.029695,
       "man": false,
       "enota": 8,
       "okraji": [
@@ -16593,8 +16593,8 @@
       "st": 9,
       "id": 1644,
       "naziv": "mag. Stanko Čerpnjak",
-      "gl": 196,
-      "prc": 0.012026,
+      "gl": 197,
+      "prc": 0.012087,
       "man": false,
       "enota": 8,
       "okraji": [
@@ -16606,7 +16606,7 @@
       "id": 2626,
       "naziv": "mag. Aleksandra Šiftar",
       "gl": 187,
-      "prc": 0.011474,
+      "prc": 0.011473,
       "man": false,
       "enota": 8,
       "okraji": [
@@ -16618,7 +16618,7 @@
       "id": 1567,
       "naziv": "Stojan Habjanič",
       "gl": 236,
-      "prc": 0.01448,
+      "prc": 0.014479,
       "man": false,
       "enota": 8,
       "okraji": [
@@ -16630,7 +16630,7 @@
       "id": 1159,
       "naziv": "Martina Perša",
       "gl": 846,
-      "prc": 0.051908,
+      "prc": 0.051905,
       "man": false,
       "enota": 8,
       "okraji": [
@@ -16642,7 +16642,7 @@
       "id": 2195,
       "naziv": "dr. Mitja Slavinec",
       "gl": 935,
-      "prc": 0.057369,
+      "prc": 0.057365,
       "man": false,
       "enota": 8,
       "okraji": [
@@ -16654,7 +16654,7 @@
       "id": 2025,
       "naziv": "Andreja Prettner",
       "gl": 3913,
-      "prc": 0.240091,
+      "prc": 0.240076,
       "man": false,
       "enota": 8,
       "okraji": [
@@ -16666,7 +16666,7 @@
       "id": 1598,
       "naziv": "mag. Dejan Židan",
       "gl": 2133,
-      "prc": 0.130875,
+      "prc": 0.130867,
       "man": false,
       "enota": 8,
       "okraji": [
@@ -16678,7 +16678,7 @@
       "id": 1705,
       "naziv": "Olga Belec",
       "gl": 312,
-      "prc": 0.019143,
+      "prc": 0.019142,
       "man": false,
       "enota": 8,
       "okraji": [
