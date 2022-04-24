@@ -2327,30 +2327,30 @@
       "naz": "NOVO MESTO, TRDINOVA ULICA 7 - OSNOVNA ŠOLA GRM",
       "udel": {
         "upr": 1707,
-        "gl": 907,
-        "prc": 0.5313
+        "gl": 1112,
+        "prc": 0.6514
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 22,
+            "prc": 0.0199
           },
           {
             "st": 2,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0009
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 33,
+            "prc": 0.0299
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 442,
+            "prc": 0.4004
           },
           {
             "st": 5,
@@ -2359,78 +2359,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 54,
+            "prc": 0.0489
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0045
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 40,
+            "prc": 0.0362
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0045
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 32,
+            "prc": 0.029
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 35,
+            "prc": 0.0317
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 77,
+            "prc": 0.0697
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 18,
+            "prc": 0.0163
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 12,
+            "prc": 0.0109
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 167,
+            "prc": 0.1513
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0072
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 88,
+            "prc": 0.0797
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 42,
+            "prc": 0.038
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 15,
+            "prc": 0.0136
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0072
           },
           {
             "st": 21,
@@ -2438,11 +2438,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 1112,
+        "velj": 1104,
+        "nev": 8
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 5,
@@ -3956,8 +3956,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T23:25:15.8666739+02:00",
-    "datum": "2022-04-24T23:25:00+02:00",
+    "timestamp": "2022-04-24T23:30:05.159362+02:00",
+    "datum": "2022-04-24T23:30:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

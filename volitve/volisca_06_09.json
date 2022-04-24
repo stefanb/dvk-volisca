@@ -3547,30 +3547,30 @@
       "naz": "OSNOVNA ŠOLA VAČE",
       "udel": {
         "upr": 789,
-        "gl": 453,
-        "prc": 0.5741
+        "gl": 571,
+        "prc": 0.7237
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0035
           },
           {
             "st": 2,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 17,
+            "prc": 0.03
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 215,
+            "prc": 0.3799
           },
           {
             "st": 5,
@@ -3579,78 +3579,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 22,
+            "prc": 0.0389
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0053
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 23,
+            "prc": 0.0406
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0035
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0124
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 11,
+            "prc": 0.0194
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 36,
+            "prc": 0.0636
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.0159
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 47,
+            "prc": 0.083
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 115,
+            "prc": 0.2032
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 10,
+            "prc": 0.0177
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 22,
+            "prc": 0.0389
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0088
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 20,
+            "prc": 0.0353
           },
           {
             "st": 20,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 21,
@@ -3658,11 +3658,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 571,
+        "velj": 566,
+        "nev": 5
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 10,
@@ -4808,8 +4808,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T23:25:15.8666739+02:00",
-    "datum": "2022-04-24T23:25:00+02:00",
+    "timestamp": "2022-04-24T23:30:05.159362+02:00",
+    "datum": "2022-04-24T23:30:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

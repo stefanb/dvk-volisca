@@ -1,9 +1,9 @@
-﻿24;04;2022;23;25
-1697199;1163153;68,53
-1;Kranj;0;Kranj;208687;152111;72,89
-1;Kranj;1;Jesenice;26220;16700;63,69
-1;Kranj;2;Radovljica 1;13434;9971;74,22
-1;Kranj;3;Radovljica 2;15916;11644;73,16
+﻿24;04;2022;23;30
+1697199;1166566;68,73
+1;Kranj;0;Kranj;208687;152344;73,00
+1;Kranj;1;Jesenice;26220;16816;64,13
+1;Kranj;2;Radovljica 1;13434;10038;74,72
+1;Kranj;3;Radovljica 2;15916;11694;73,47
 1;Kranj;4;Kranj 1;20383;14426;70,77
 1;Kranj;5;Kranj 2;20456;14781;72,26
 1;Kranj;6;Kranj 3;24293;18994;78,19
@@ -12,13 +12,13 @@
 1;Kranj;9;Škofja Loka 2;15419;12046;78,12
 1;Kranj;10;Kamnik;27960;20997;75,10
 1;Kranj;11;Idrija;13497;9735;72,13
-2;Postojna;0;Postojna;210736;136582;64,81
+2;Postojna;0;Postojna;210736;136718;64,88
 2;Postojna;1;Tolmin;16066;11087;69,01
 2;Postojna;2;Piran;16133;9496;58,86
-2;Postojna;3;Izola;12644;6643;52,54
+2;Postojna;3;Izola;12644;6707;53,04
 2;Postojna;4;Koper 1;18484;11631;62,92
 2;Postojna;5;Koper 2;24985;17107;68,47
-2;Postojna;6;Sežana;21966;12523;57,01
+2;Postojna;6;Sežana;21966;12595;57,34
 2;Postojna;7;Ilirska Bistrica;12706;7611;59,90
 2;Postojna;8;Postojna;18119;10618;58,60
 2;Postojna;9;Nova Gorica 1;25098;17925;71,42
@@ -36,23 +36,23 @@
 3;Ljubljana Center;9;Ljubljana Šiška 2;18149;13148;72,44
 3;Ljubljana Center;10;Ljubljana Šiška 3;16955;12605;74,34
 3;Ljubljana Center;11;Ljubljana Šiška 4;22472;17591;78,28
-4;Ljubljana Bežigrad;0;Ljubljana Bežigrad;208502;146735;70,38
+4;Ljubljana Bežigrad;0;Ljubljana Bežigrad;208502;147066;70,53
 4;Ljubljana Bežigrad;1;Kočevje;14210;8877;62,47
 4;Ljubljana Bežigrad;2;Ribnica - Dobrepolje;14529;10211;70,28
 4;Ljubljana Bežigrad;3;Grosuplje;15897;11741;73,86
 4;Ljubljana Bežigrad;4;Ivančna Gorica;13132;9983;76,02
-4;Ljubljana Bežigrad;5;Ljubljana Moste - Polje 1;23329;16926;72,55
-4;Ljubljana Bežigrad;6;Ljubljana Moste - Polje 2;15339;10131;66,05
-4;Ljubljana Bežigrad;7;Ljubljana Moste - Polje 3;20250;13807;68,18
-4;Ljubljana Bežigrad;8;Ljubljana Bežigrad 1;23372;17390;74,41
-4;Ljubljana Bežigrad;9;Ljubljana Bežigrad 2;21133;11282;53,39
-4;Ljubljana Bežigrad;10;Domžale 1;24506;18928;77,24
-4;Ljubljana Bežigrad;11;Domžale 2;22805;17459;76,56
-5;Celje;0;Celje;211981;146181;68,96
-5;Celje;1;Šentjur;17077;12060;70,62
-5;Celje;2;Celje 1;29422;20197;68,65
-5;Celje;3;Celje 2;21855;12022;55,01
-5;Celje;4;Žalec 1;18004;13018;72,31
+4;Ljubljana Bežigrad;5;Ljubljana Moste - Polje 1;23329;16930;72,57
+4;Ljubljana Bežigrad;6;Ljubljana Moste - Polje 2;15339;10135;66,07
+4;Ljubljana Bežigrad;7;Ljubljana Moste - Polje 3;20250;13817;68,23
+4;Ljubljana Bežigrad;8;Ljubljana Bežigrad 1;23372;17683;75,66
+4;Ljubljana Bežigrad;9;Ljubljana Bežigrad 2;21133;11289;53,42
+4;Ljubljana Bežigrad;10;Domžale 1;24506;18935;77,27
+4;Ljubljana Bežigrad;11;Domžale 2;22805;17465;76,58
+5;Celje;0;Celje;211981;148507;70,06
+5;Celje;1;Šentjur;17077;12063;70,64
+5;Celje;2;Celje 1;29422;20204;68,67
+5;Celje;3;Celje 2;21855;14335;65,59
+5;Celje;4;Žalec 1;18004;13021;72,32
 5;Celje;5;Žalec 2;18630;14022;75,27
 5;Celje;6;Mozirje;13700;9991;72,93
 5;Celje;7;Velenje 1;16320;10816;66,27
@@ -60,16 +60,16 @@
 5;Celje;9;Slovenj Gradec;17943;13186;73,49
 5;Celje;10;Ravne na Koroškem;20947;14646;69,92
 5;Celje;11;Radlje;20624;14158;68,65
-6;Novo mesto;0;Novo mesto;218504;150025;68,66
+6;Novo mesto;0;Novo mesto;218504;150407;68,83
 6;Novo mesto;1;Črnomelj;22804;14479;63,49
 6;Novo mesto;2;Novo mesto 1;24415;17612;72,14
-6;Novo mesto;3;Novo mesto 2;25700;17394;67,68
-6;Novo mesto;4;Trebnje;16877;12146;71,97
-6;Novo mesto;5;Brežice;21220;13339;62,86
-6;Novo mesto;6;Krško;23408;15705;67,09
-6;Novo mesto;7;Sevnica;17115;11797;68,93
-6;Novo mesto;8;Laško;14854;10335;69,58
-6;Novo mesto;9;Litija;17194;12577;73,15
+6;Novo mesto;3;Novo mesto 2;25700;17608;68,51
+6;Novo mesto;4;Trebnje;16877;12150;71,99
+6;Novo mesto;5;Brežice;21220;13349;62,91
+6;Novo mesto;6;Krško;23408;15717;67,14
+6;Novo mesto;7;Sevnica;17115;11803;68,96
+6;Novo mesto;8;Laško;14854;10350;69,68
+6;Novo mesto;9;Litija;17194;12698;73,85
 6;Novo mesto;10;Hrastnik - Trbovlje;21223;14538;68,50
 6;Novo mesto;11;Zagorje;13694;10103;73,78
 7;Maribor;0;Maribor;208281;138629;66,56
@@ -84,15 +84,15 @@
 7;Maribor;9;Maribor 5;16737;10300;61,54
 7;Maribor;10;Maribor 6;16215;10810;66,67
 7;Maribor;11;Maribor 7;14247;8535;59,91
-8;Ptuj;0;Ptuj;211021;134949;63,95
+8;Ptuj;0;Ptuj;211021;134954;63,95
 8;Ptuj;1;Lendava;21398;11972;55,95
 8;Ptuj;2;Ormož;14290;9414;65,88
 8;Ptuj;3;Ljutomer;15208;9692;63,73
 8;Ptuj;4;Murska Sobota 1;24689;15087;61,11
 8;Ptuj;5;Murska Sobota 2;25086;16479;65,69
 8;Ptuj;6;Gornja Radgona;17842;11594;64,98
-8;Ptuj;7;Lenart;16338;10682;65,38
-8;Ptuj;8;Pesnica;17937;11483;64,02
-8;Ptuj;9;Ptuj 1;21444;14687;68,49
+8;Ptuj;7;Lenart;16338;10685;65,40
+8;Ptuj;8;Pesnica;17937;11484;64,02
+8;Ptuj;9;Ptuj 1;21444;14688;68,49
 8;Ptuj;10;Ptuj 2;17082;11280;66,03
 8;Ptuj;11;Ptuj 3;19707;12579;63,83

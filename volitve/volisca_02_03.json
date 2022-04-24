@@ -1595,30 +1595,30 @@
       "naz": "ŠPORTNA DVORANA, KRAŠKA 1A",
       "udel": {
         "upr": 696,
-        "gl": 343,
-        "prc": 0.4928
+        "gl": 407,
+        "prc": 0.5848
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0126
           },
           {
             "st": 2,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0025
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 11,
+            "prc": 0.0276
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 165,
+            "prc": 0.4146
           },
           {
             "st": 5,
@@ -1627,90 +1627,90 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 15,
+            "prc": 0.0377
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 10,
+            "prc": 0.0251
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0176
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0126
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0075
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 13,
+            "prc": 0.0327
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 15,
+            "prc": 0.0377
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 11,
+            "prc": 0.0276
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 13,
+            "prc": 0.0327
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 59,
+            "prc": 0.1482
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0025
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 35,
+            "prc": 0.0879
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 16,
+            "prc": 0.0402
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0126
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0201
           },
           {
             "st": 21,
             "gl": 0,
-            "prc": null
+            "prc": 0
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 407,
+        "velj": 398,
+        "nev": 9
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 901,
@@ -2005,8 +2005,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T23:25:15.8666739+02:00",
-    "datum": "2022-04-24T23:25:00+02:00",
+    "timestamp": "2022-04-24T23:30:05.159362+02:00",
+    "datum": "2022-04-24T23:30:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,
