@@ -12,8 +12,119 @@
         "gl": 131,
         "prc": 0.5347
       },
-      "rez": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 2,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 3,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 4,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 5,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 6,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 7,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 8,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 9,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 10,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 11,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 12,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 13,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 14,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 15,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 16,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 17,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 18,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 19,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 20,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 21,
+            "gl": 0,
+            "prc": null
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 27,
@@ -23,19 +134,241 @@
         "gl": 59,
         "prc": 0.5221
       },
-      "rez": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 2,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 3,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 4,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 5,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 6,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 7,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 8,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 9,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 10,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 11,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 12,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 13,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 14,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 15,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 16,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 17,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 18,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 19,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 20,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 21,
+            "gl": 0,
+            "prc": null
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 28,
       "naz": "GASILSKI DOM BUKOVJE",
       "udel": {
         "upr": 124,
-        "gl": 57,
-        "prc": 0.4597
+        "gl": 73,
+        "prc": 0.5887
       },
-      "rez": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 1,
+            "prc": 0.0137
+          },
+          {
+            "st": 2,
+            "gl": 1,
+            "prc": 0.0137
+          },
+          {
+            "st": 3,
+            "gl": 1,
+            "prc": 0.0137
+          },
+          {
+            "st": 4,
+            "gl": 7,
+            "prc": 0.0959
+          },
+          {
+            "st": 5,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 6,
+            "gl": 1,
+            "prc": 0.0137
+          },
+          {
+            "st": 7,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 8,
+            "gl": 1,
+            "prc": 0.0137
+          },
+          {
+            "st": 9,
+            "gl": 2,
+            "prc": 0.0274
+          },
+          {
+            "st": 10,
+            "gl": 1,
+            "prc": 0.0137
+          },
+          {
+            "st": 11,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 12,
+            "gl": 4,
+            "prc": 0.0548
+          },
+          {
+            "st": 13,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 14,
+            "gl": 8,
+            "prc": 0.1096
+          },
+          {
+            "st": 15,
+            "gl": 43,
+            "prc": 0.589
+          },
+          {
+            "st": 16,
+            "gl": 2,
+            "prc": 0.0274
+          },
+          {
+            "st": 17,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 18,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 19,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 20,
+            "gl": 1,
+            "prc": 0.0137
+          },
+          {
+            "st": 21,
+            "gl": 0,
+            "prc": null
+          }
+        ],
+        "glas": 73,
+        "velj": 73,
+        "nev": 0
+      },
+      "prestetih_glasov": 1
     },
     {
       "st": 12,
@@ -45,30 +378,363 @@
         "gl": 145,
         "prc": 0.5311
       },
-      "rez": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 2,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 3,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 4,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 5,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 6,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 7,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 8,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 9,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 10,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 11,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 12,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 13,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 14,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 15,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 16,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 17,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 18,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 19,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 20,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 21,
+            "gl": 0,
+            "prc": null
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 7,
       "naz": "GASILSKI DOM DOLGA GORA",
       "udel": {
         "upr": 223,
-        "gl": 127,
-        "prc": 0.5695
+        "gl": 159,
+        "prc": 0.713
       },
-      "rez": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 2,
+            "prc": 0.0127
+          },
+          {
+            "st": 2,
+            "gl": 2,
+            "prc": 0.0127
+          },
+          {
+            "st": 3,
+            "gl": 5,
+            "prc": 0.0316
+          },
+          {
+            "st": 4,
+            "gl": 24,
+            "prc": 0.1519
+          },
+          {
+            "st": 5,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 6,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 7,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 8,
+            "gl": 3,
+            "prc": 0.019
+          },
+          {
+            "st": 9,
+            "gl": 1,
+            "prc": 0.0063
+          },
+          {
+            "st": 10,
+            "gl": 3,
+            "prc": 0.019
+          },
+          {
+            "st": 11,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 12,
+            "gl": 6,
+            "prc": 0.038
+          },
+          {
+            "st": 13,
+            "gl": 1,
+            "prc": 0.0063
+          },
+          {
+            "st": 14,
+            "gl": 5,
+            "prc": 0.0316
+          },
+          {
+            "st": 15,
+            "gl": 81,
+            "prc": 0.5127
+          },
+          {
+            "st": 16,
+            "gl": 13,
+            "prc": 0.0823
+          },
+          {
+            "st": 17,
+            "gl": 6,
+            "prc": 0.038
+          },
+          {
+            "st": 18,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 19,
+            "gl": 1,
+            "prc": 0.0063
+          },
+          {
+            "st": 20,
+            "gl": 5,
+            "prc": 0.0316
+          },
+          {
+            "st": 21,
+            "gl": 0,
+            "prc": null
+          }
+        ],
+        "glas": 159,
+        "velj": 158,
+        "nev": 1
+      },
+      "prestetih_glasov": 1
     },
     {
       "st": 11,
       "naz": "GASILSKI DOM LOKA PRI ŽUSMU",
       "udel": {
         "upr": 325,
-        "gl": 171,
-        "prc": 0.5262
+        "gl": 210,
+        "prc": 0.6462
       },
-      "rez": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 2,
+            "prc": 0.0096
+          },
+          {
+            "st": 2,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 3,
+            "gl": 12,
+            "prc": 0.0574
+          },
+          {
+            "st": 4,
+            "gl": 62,
+            "prc": 0.2967
+          },
+          {
+            "st": 5,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 6,
+            "gl": 4,
+            "prc": 0.0191
+          },
+          {
+            "st": 7,
+            "gl": 1,
+            "prc": 0.0048
+          },
+          {
+            "st": 8,
+            "gl": 7,
+            "prc": 0.0335
+          },
+          {
+            "st": 9,
+            "gl": 1,
+            "prc": 0.0048
+          },
+          {
+            "st": 10,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 11,
+            "gl": 2,
+            "prc": 0.0096
+          },
+          {
+            "st": 12,
+            "gl": 7,
+            "prc": 0.0335
+          },
+          {
+            "st": 13,
+            "gl": 4,
+            "prc": 0.0191
+          },
+          {
+            "st": 14,
+            "gl": 13,
+            "prc": 0.0622
+          },
+          {
+            "st": 15,
+            "gl": 61,
+            "prc": 0.2919
+          },
+          {
+            "st": 16,
+            "gl": 4,
+            "prc": 0.0191
+          },
+          {
+            "st": 17,
+            "gl": 21,
+            "prc": 0.1005
+          },
+          {
+            "st": 18,
+            "gl": 3,
+            "prc": 0.0144
+          },
+          {
+            "st": 19,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 20,
+            "gl": 5,
+            "prc": 0.0239
+          },
+          {
+            "st": 21,
+            "gl": 0,
+            "prc": null
+          }
+        ],
+        "glas": 210,
+        "velj": 209,
+        "nev": 1
+      },
+      "prestetih_glasov": 1
     },
     {
       "st": 2,
@@ -78,8 +744,119 @@
         "gl": 319,
         "prc": 0.5646
       },
-      "rez": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 2,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 3,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 4,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 5,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 6,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 7,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 8,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 9,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 10,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 11,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 12,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 13,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 14,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 15,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 16,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 17,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 18,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 19,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 20,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 21,
+            "gl": 0,
+            "prc": null
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 25,
@@ -89,8 +866,119 @@
         "gl": 78,
         "prc": 0.4262
       },
-      "rez": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 2,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 3,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 4,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 5,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 6,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 7,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 8,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 9,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 10,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 11,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 12,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 13,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 14,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 15,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 16,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 17,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 18,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 19,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 20,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 21,
+            "gl": 0,
+            "prc": null
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 30,
@@ -100,19 +988,241 @@
         "gl": 398,
         "prc": 0.5149
       },
-      "rez": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 2,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 3,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 4,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 5,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 6,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 7,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 8,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 9,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 10,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 11,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 12,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 13,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 14,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 15,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 16,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 17,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 18,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 19,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 20,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 21,
+            "gl": 0,
+            "prc": null
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 24,
       "naz": "GASILSKO VAŠKI DOM JAVORJE",
       "udel": {
         "upr": 201,
-        "gl": 104,
-        "prc": 0.5174
+        "gl": 140,
+        "prc": 0.6965
       },
-      "rez": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 3,
+            "prc": 0.0217
+          },
+          {
+            "st": 2,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 3,
+            "gl": 4,
+            "prc": 0.029
+          },
+          {
+            "st": 4,
+            "gl": 27,
+            "prc": 0.1957
+          },
+          {
+            "st": 5,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 6,
+            "gl": 3,
+            "prc": 0.0217
+          },
+          {
+            "st": 7,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 8,
+            "gl": 5,
+            "prc": 0.0362
+          },
+          {
+            "st": 9,
+            "gl": 2,
+            "prc": 0.0145
+          },
+          {
+            "st": 10,
+            "gl": 3,
+            "prc": 0.0217
+          },
+          {
+            "st": 11,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 12,
+            "gl": 2,
+            "prc": 0.0145
+          },
+          {
+            "st": 13,
+            "gl": 2,
+            "prc": 0.0145
+          },
+          {
+            "st": 14,
+            "gl": 14,
+            "prc": 0.1014
+          },
+          {
+            "st": 15,
+            "gl": 53,
+            "prc": 0.3841
+          },
+          {
+            "st": 16,
+            "gl": 3,
+            "prc": 0.0217
+          },
+          {
+            "st": 17,
+            "gl": 8,
+            "prc": 0.058
+          },
+          {
+            "st": 18,
+            "gl": 2,
+            "prc": 0.0145
+          },
+          {
+            "st": 19,
+            "gl": 3,
+            "prc": 0.0217
+          },
+          {
+            "st": 20,
+            "gl": 4,
+            "prc": 0.029
+          },
+          {
+            "st": 21,
+            "gl": 0,
+            "prc": null
+          }
+        ],
+        "glas": 140,
+        "velj": 138,
+        "nev": 2
+      },
+      "prestetih_glasov": 1
     },
     {
       "st": 22,
@@ -122,8 +1232,119 @@
         "gl": 90,
         "prc": 0.4433
       },
-      "rez": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 2,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 3,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 4,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 5,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 6,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 7,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 8,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 9,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 10,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 11,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 12,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 13,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 14,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 15,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 16,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 17,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 18,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 19,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 20,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 21,
+            "gl": 0,
+            "prc": null
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 32,
@@ -133,8 +1354,119 @@
         "gl": 504,
         "prc": 0.5496
       },
-      "rez": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 2,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 3,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 4,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 5,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 6,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 7,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 8,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 9,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 10,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 11,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 12,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 13,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 14,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 15,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 16,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 17,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 18,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 19,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 20,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 21,
+            "gl": 0,
+            "prc": null
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 34,
@@ -144,30 +1476,363 @@
         "gl": 288,
         "prc": 0.5323
       },
-      "rez": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 2,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 3,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 4,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 5,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 6,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 7,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 8,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 9,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 10,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 11,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 12,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 13,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 14,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 15,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 16,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 17,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 18,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 19,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 20,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 21,
+            "gl": 0,
+            "prc": null
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 26,
       "naz": "KRAJNC, VODUCE 22A, GORICA PRI SLIVNICI",
       "udel": {
         "upr": 145,
-        "gl": 69,
-        "prc": 0.4759
+        "gl": 89,
+        "prc": 0.6138
       },
-      "rez": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 1,
+            "prc": 0.0114
+          },
+          {
+            "st": 2,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 3,
+            "gl": 4,
+            "prc": 0.0455
+          },
+          {
+            "st": 4,
+            "gl": 26,
+            "prc": 0.2955
+          },
+          {
+            "st": 5,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 6,
+            "gl": 1,
+            "prc": 0.0114
+          },
+          {
+            "st": 7,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 8,
+            "gl": 5,
+            "prc": 0.0568
+          },
+          {
+            "st": 9,
+            "gl": 4,
+            "prc": 0.0455
+          },
+          {
+            "st": 10,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 11,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 12,
+            "gl": 4,
+            "prc": 0.0455
+          },
+          {
+            "st": 13,
+            "gl": 1,
+            "prc": 0.0114
+          },
+          {
+            "st": 14,
+            "gl": 3,
+            "prc": 0.0341
+          },
+          {
+            "st": 15,
+            "gl": 34,
+            "prc": 0.3864
+          },
+          {
+            "st": 16,
+            "gl": 2,
+            "prc": 0.0227
+          },
+          {
+            "st": 17,
+            "gl": 1,
+            "prc": 0.0114
+          },
+          {
+            "st": 18,
+            "gl": 1,
+            "prc": 0.0114
+          },
+          {
+            "st": 19,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 20,
+            "gl": 1,
+            "prc": 0.0114
+          },
+          {
+            "st": 21,
+            "gl": 0,
+            "prc": null
+          }
+        ],
+        "glas": 89,
+        "velj": 88,
+        "nev": 1
+      },
+      "prestetih_glasov": 1
     },
     {
       "st": 36,
       "naz": "KULTURNI DOM DOBJE",
       "udel": {
         "upr": 395,
-        "gl": 196,
-        "prc": 0.4962
+        "gl": 274,
+        "prc": 0.6937
       },
-      "rez": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 2,
+            "prc": 0.0074
+          },
+          {
+            "st": 2,
+            "gl": 1,
+            "prc": 0.0037
+          },
+          {
+            "st": 3,
+            "gl": 7,
+            "prc": 0.026
+          },
+          {
+            "st": 4,
+            "gl": 62,
+            "prc": 0.2305
+          },
+          {
+            "st": 5,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 6,
+            "gl": 5,
+            "prc": 0.0186
+          },
+          {
+            "st": 7,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 8,
+            "gl": 9,
+            "prc": 0.0335
+          },
+          {
+            "st": 9,
+            "gl": 10,
+            "prc": 0.0372
+          },
+          {
+            "st": 10,
+            "gl": 4,
+            "prc": 0.0149
+          },
+          {
+            "st": 11,
+            "gl": 2,
+            "prc": 0.0074
+          },
+          {
+            "st": 12,
+            "gl": 14,
+            "prc": 0.052
+          },
+          {
+            "st": 13,
+            "gl": 2,
+            "prc": 0.0074
+          },
+          {
+            "st": 14,
+            "gl": 8,
+            "prc": 0.0297
+          },
+          {
+            "st": 15,
+            "gl": 100,
+            "prc": 0.3717
+          },
+          {
+            "st": 16,
+            "gl": 8,
+            "prc": 0.0297
+          },
+          {
+            "st": 17,
+            "gl": 22,
+            "prc": 0.0818
+          },
+          {
+            "st": 18,
+            "gl": 9,
+            "prc": 0.0335
+          },
+          {
+            "st": 19,
+            "gl": 1,
+            "prc": 0.0037
+          },
+          {
+            "st": 20,
+            "gl": 3,
+            "prc": 0.0112
+          },
+          {
+            "st": 21,
+            "gl": 0,
+            "prc": null
+          }
+        ],
+        "glas": 274,
+        "velj": 269,
+        "nev": 5
+      },
+      "prestetih_glasov": 1
     },
     {
       "st": 23,
@@ -177,8 +1842,119 @@
         "gl": 385,
         "prc": 0.5461
       },
-      "rez": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 2,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 3,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 4,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 5,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 6,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 7,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 8,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 9,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 10,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 11,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 12,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 13,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 14,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 15,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 16,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 17,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 18,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 19,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 20,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 21,
+            "gl": 0,
+            "prc": null
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 17,
@@ -188,30 +1964,363 @@
         "gl": 245,
         "prc": 0.49
       },
-      "rez": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 2,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 3,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 4,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 5,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 6,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 7,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 8,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 9,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 10,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 11,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 12,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 13,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 14,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 15,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 16,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 17,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 18,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 19,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 20,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 21,
+            "gl": 0,
+            "prc": null
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 20,
       "naz": "LAVBIČ, PONIKVA 29, PONIKVA",
       "udel": {
         "upr": 403,
-        "gl": 216,
-        "prc": 0.536
+        "gl": 260,
+        "prc": 0.6452
       },
-      "rez": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 2,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 3,
+            "gl": 14,
+            "prc": 0.0538
+          },
+          {
+            "st": 4,
+            "gl": 52,
+            "prc": 0.2
+          },
+          {
+            "st": 5,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 6,
+            "gl": 2,
+            "prc": 0.0077
+          },
+          {
+            "st": 7,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 8,
+            "gl": 4,
+            "prc": 0.0154
+          },
+          {
+            "st": 9,
+            "gl": 7,
+            "prc": 0.0269
+          },
+          {
+            "st": 10,
+            "gl": 2,
+            "prc": 0.0077
+          },
+          {
+            "st": 11,
+            "gl": 3,
+            "prc": 0.0115
+          },
+          {
+            "st": 12,
+            "gl": 31,
+            "prc": 0.1192
+          },
+          {
+            "st": 13,
+            "gl": 1,
+            "prc": 0.0038
+          },
+          {
+            "st": 14,
+            "gl": 10,
+            "prc": 0.0385
+          },
+          {
+            "st": 15,
+            "gl": 111,
+            "prc": 0.4269
+          },
+          {
+            "st": 16,
+            "gl": 7,
+            "prc": 0.0269
+          },
+          {
+            "st": 17,
+            "gl": 10,
+            "prc": 0.0385
+          },
+          {
+            "st": 18,
+            "gl": 3,
+            "prc": 0.0115
+          },
+          {
+            "st": 19,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 20,
+            "gl": 3,
+            "prc": 0.0115
+          },
+          {
+            "st": 21,
+            "gl": 0,
+            "prc": null
+          }
+        ],
+        "glas": 260,
+        "velj": 260,
+        "nev": 0
+      },
+      "prestetih_glasov": 1
     },
     {
       "st": 6,
       "naz": "LENIČ, RAZBOR 30A, DRAMLJE",
       "udel": {
         "upr": 153,
-        "gl": 103,
-        "prc": 0.6732
+        "gl": 124,
+        "prc": 0.8105
       },
-      "rez": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 2,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 3,
+            "gl": 3,
+            "prc": 0.0248
+          },
+          {
+            "st": 4,
+            "gl": 24,
+            "prc": 0.1983
+          },
+          {
+            "st": 5,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 6,
+            "gl": 2,
+            "prc": 0.0165
+          },
+          {
+            "st": 7,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 8,
+            "gl": 4,
+            "prc": 0.0331
+          },
+          {
+            "st": 9,
+            "gl": 1,
+            "prc": 0.0083
+          },
+          {
+            "st": 10,
+            "gl": 2,
+            "prc": 0.0165
+          },
+          {
+            "st": 11,
+            "gl": 1,
+            "prc": 0.0083
+          },
+          {
+            "st": 12,
+            "gl": 8,
+            "prc": 0.0661
+          },
+          {
+            "st": 13,
+            "gl": 2,
+            "prc": 0.0165
+          },
+          {
+            "st": 14,
+            "gl": 1,
+            "prc": 0.0083
+          },
+          {
+            "st": 15,
+            "gl": 59,
+            "prc": 0.4876
+          },
+          {
+            "st": 16,
+            "gl": 5,
+            "prc": 0.0413
+          },
+          {
+            "st": 17,
+            "gl": 6,
+            "prc": 0.0496
+          },
+          {
+            "st": 18,
+            "gl": 3,
+            "prc": 0.0248
+          },
+          {
+            "st": 19,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 20,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 21,
+            "gl": 0,
+            "prc": null
+          }
+        ],
+        "glas": 124,
+        "velj": 121,
+        "nev": 3
+      },
+      "prestetih_glasov": 1
     },
     {
       "st": 1,
@@ -221,8 +2330,119 @@
         "gl": 409,
         "prc": 0.5244
       },
-      "rez": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 2,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 3,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 4,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 5,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 6,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 7,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 8,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 9,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 10,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 11,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 12,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 13,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 14,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 15,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 16,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 17,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 18,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 19,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 20,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 21,
+            "gl": 0,
+            "prc": null
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 18,
@@ -232,19 +2452,241 @@
         "gl": 698,
         "prc": 0.5276
       },
-      "rez": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 2,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 3,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 4,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 5,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 6,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 7,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 8,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 9,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 10,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 11,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 12,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 13,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 14,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 15,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 16,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 17,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 18,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 19,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 20,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 21,
+            "gl": 0,
+            "prc": null
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 40,
       "naz": "OSNOVNA ŠOLA DOBJE",
       "udel": {
         "upr": 392,
-        "gl": 209,
-        "prc": 0.5332
+        "gl": 267,
+        "prc": 0.6811
       },
-      "rez": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 3,
+            "prc": 0.0114
+          },
+          {
+            "st": 2,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 3,
+            "gl": 8,
+            "prc": 0.0303
+          },
+          {
+            "st": 4,
+            "gl": 57,
+            "prc": 0.2159
+          },
+          {
+            "st": 5,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 6,
+            "gl": 5,
+            "prc": 0.0189
+          },
+          {
+            "st": 7,
+            "gl": 1,
+            "prc": 0.0038
+          },
+          {
+            "st": 8,
+            "gl": 4,
+            "prc": 0.0152
+          },
+          {
+            "st": 9,
+            "gl": 16,
+            "prc": 0.0606
+          },
+          {
+            "st": 10,
+            "gl": 6,
+            "prc": 0.0227
+          },
+          {
+            "st": 11,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 12,
+            "gl": 14,
+            "prc": 0.053
+          },
+          {
+            "st": 13,
+            "gl": 2,
+            "prc": 0.0076
+          },
+          {
+            "st": 14,
+            "gl": 9,
+            "prc": 0.0341
+          },
+          {
+            "st": 15,
+            "gl": 106,
+            "prc": 0.4015
+          },
+          {
+            "st": 16,
+            "gl": 7,
+            "prc": 0.0265
+          },
+          {
+            "st": 17,
+            "gl": 15,
+            "prc": 0.0568
+          },
+          {
+            "st": 18,
+            "gl": 3,
+            "prc": 0.0114
+          },
+          {
+            "st": 19,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 20,
+            "gl": 8,
+            "prc": 0.0303
+          },
+          {
+            "st": 21,
+            "gl": 0,
+            "prc": null
+          }
+        ],
+        "glas": 267,
+        "velj": 264,
+        "nev": 3
+      },
+      "prestetih_glasov": 1
     },
     {
       "st": 3,
@@ -254,30 +2696,363 @@
         "gl": 746,
         "prc": 0.5272
       },
-      "rez": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 2,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 3,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 4,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 5,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 6,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 7,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 8,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 9,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 10,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 11,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 12,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 13,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 14,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 15,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 16,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 17,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 18,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 19,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 20,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 21,
+            "gl": 0,
+            "prc": null
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 39,
       "naz": "OSNOVNA ŠOLA FRANJA MALGAJA ŠENTJUR",
       "udel": {
         "upr": 664,
-        "gl": 273,
-        "prc": 0.4111
+        "gl": 360,
+        "prc": 0.5422
       },
-      "rez": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 8,
+            "prc": 0.0223
+          },
+          {
+            "st": 2,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 3,
+            "gl": 13,
+            "prc": 0.0362
+          },
+          {
+            "st": 4,
+            "gl": 121,
+            "prc": 0.337
+          },
+          {
+            "st": 5,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 6,
+            "gl": 5,
+            "prc": 0.0139
+          },
+          {
+            "st": 7,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 8,
+            "gl": 5,
+            "prc": 0.0139
+          },
+          {
+            "st": 9,
+            "gl": 1,
+            "prc": 0.0028
+          },
+          {
+            "st": 10,
+            "gl": 6,
+            "prc": 0.0167
+          },
+          {
+            "st": 11,
+            "gl": 6,
+            "prc": 0.0167
+          },
+          {
+            "st": 12,
+            "gl": 16,
+            "prc": 0.0446
+          },
+          {
+            "st": 13,
+            "gl": 8,
+            "prc": 0.0223
+          },
+          {
+            "st": 14,
+            "gl": 21,
+            "prc": 0.0585
+          },
+          {
+            "st": 15,
+            "gl": 102,
+            "prc": 0.2841
+          },
+          {
+            "st": 16,
+            "gl": 10,
+            "prc": 0.0279
+          },
+          {
+            "st": 17,
+            "gl": 15,
+            "prc": 0.0418
+          },
+          {
+            "st": 18,
+            "gl": 11,
+            "prc": 0.0306
+          },
+          {
+            "st": 19,
+            "gl": 5,
+            "prc": 0.0139
+          },
+          {
+            "st": 20,
+            "gl": 6,
+            "prc": 0.0167
+          },
+          {
+            "st": 21,
+            "gl": 0,
+            "prc": null
+          }
+        ],
+        "glas": 360,
+        "velj": 359,
+        "nev": 1
+      },
+      "prestetih_glasov": 1
     },
     {
       "st": 31,
       "naz": "OSNOVNA ŠOLA HRUŠEVEC - VOLIŠČE 1",
       "udel": {
         "upr": 670,
-        "gl": 400,
-        "prc": 0.597
+        "gl": 481,
+        "prc": 0.7179
       },
-      "rez": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 5,
+            "prc": 0.0105
+          },
+          {
+            "st": 2,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 3,
+            "gl": 8,
+            "prc": 0.0167
+          },
+          {
+            "st": 4,
+            "gl": 186,
+            "prc": 0.3891
+          },
+          {
+            "st": 5,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 6,
+            "gl": 4,
+            "prc": 0.0084
+          },
+          {
+            "st": 7,
+            "gl": 4,
+            "prc": 0.0084
+          },
+          {
+            "st": 8,
+            "gl": 5,
+            "prc": 0.0105
+          },
+          {
+            "st": 9,
+            "gl": 6,
+            "prc": 0.0126
+          },
+          {
+            "st": 10,
+            "gl": 5,
+            "prc": 0.0105
+          },
+          {
+            "st": 11,
+            "gl": 6,
+            "prc": 0.0126
+          },
+          {
+            "st": 12,
+            "gl": 46,
+            "prc": 0.0962
+          },
+          {
+            "st": 13,
+            "gl": 7,
+            "prc": 0.0146
+          },
+          {
+            "st": 14,
+            "gl": 15,
+            "prc": 0.0314
+          },
+          {
+            "st": 15,
+            "gl": 122,
+            "prc": 0.2552
+          },
+          {
+            "st": 16,
+            "gl": 18,
+            "prc": 0.0377
+          },
+          {
+            "st": 17,
+            "gl": 26,
+            "prc": 0.0544
+          },
+          {
+            "st": 18,
+            "gl": 9,
+            "prc": 0.0188
+          },
+          {
+            "st": 19,
+            "gl": 3,
+            "prc": 0.0063
+          },
+          {
+            "st": 20,
+            "gl": 3,
+            "prc": 0.0063
+          },
+          {
+            "st": 21,
+            "gl": 0,
+            "prc": null
+          }
+        ],
+        "glas": 481,
+        "velj": 478,
+        "nev": 3
+      },
+      "prestetih_glasov": 1
     },
     {
       "st": 33,
@@ -287,19 +3062,241 @@
         "gl": 386,
         "prc": 0.4898
       },
-      "rez": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 2,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 3,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 4,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 5,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 6,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 7,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 8,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 9,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 10,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 11,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 12,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 13,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 14,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 15,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 16,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 17,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 18,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 19,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 20,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 21,
+            "gl": 0,
+            "prc": null
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 9,
       "naz": "OSNOVNA ŠOLA KALOBJE",
       "udel": {
         "upr": 401,
-        "gl": 197,
-        "prc": 0.4913
+        "gl": 264,
+        "prc": 0.6584
       },
-      "rez": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 1,
+            "prc": 0.0038
+          },
+          {
+            "st": 2,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 3,
+            "gl": 5,
+            "prc": 0.0192
+          },
+          {
+            "st": 4,
+            "gl": 45,
+            "prc": 0.1731
+          },
+          {
+            "st": 5,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 6,
+            "gl": 3,
+            "prc": 0.0115
+          },
+          {
+            "st": 7,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 8,
+            "gl": 5,
+            "prc": 0.0192
+          },
+          {
+            "st": 9,
+            "gl": 4,
+            "prc": 0.0154
+          },
+          {
+            "st": 10,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 11,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 12,
+            "gl": 18,
+            "prc": 0.0692
+          },
+          {
+            "st": 13,
+            "gl": 3,
+            "prc": 0.0115
+          },
+          {
+            "st": 14,
+            "gl": 5,
+            "prc": 0.0192
+          },
+          {
+            "st": 15,
+            "gl": 158,
+            "prc": 0.6077
+          },
+          {
+            "st": 16,
+            "gl": 6,
+            "prc": 0.0231
+          },
+          {
+            "st": 17,
+            "gl": 3,
+            "prc": 0.0115
+          },
+          {
+            "st": 18,
+            "gl": 1,
+            "prc": 0.0038
+          },
+          {
+            "st": 19,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 20,
+            "gl": 3,
+            "prc": 0.0115
+          },
+          {
+            "st": 21,
+            "gl": 0,
+            "prc": null
+          }
+        ],
+        "glas": 264,
+        "velj": 260,
+        "nev": 4
+      },
+      "prestetih_glasov": 1
     },
     {
       "st": 14,
@@ -309,8 +3306,119 @@
         "gl": 377,
         "prc": 0.4993
       },
-      "rez": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 2,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 3,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 4,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 5,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 6,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 7,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 8,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 9,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 10,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 11,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 12,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 13,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 14,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 15,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 16,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 17,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 18,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 19,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 20,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 21,
+            "gl": 0,
+            "prc": null
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 8,
@@ -320,8 +3428,119 @@
         "gl": 439,
         "prc": 0.5694
       },
-      "rez": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 2,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 3,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 4,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 5,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 6,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 7,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 8,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 9,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 10,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 11,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 12,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 13,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 14,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 15,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 16,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 17,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 18,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 19,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 20,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 21,
+            "gl": 0,
+            "prc": null
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 29,
@@ -331,19 +3550,241 @@
         "gl": 416,
         "prc": 0.4012
       },
-      "rez": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 2,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 3,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 4,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 5,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 6,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 7,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 8,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 9,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 10,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 11,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 12,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 13,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 14,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 15,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 16,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 17,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 18,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 19,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 20,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 21,
+            "gl": 0,
+            "prc": null
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 10,
       "naz": "ŠUSTER, OSREDEK 3, ŠENTJUR",
       "udel": {
         "upr": 118,
-        "gl": 69,
-        "prc": 0.5847
+        "gl": 82,
+        "prc": 0.6949
       },
-      "rez": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 2,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 3,
+            "gl": 7,
+            "prc": 0.0854
+          },
+          {
+            "st": 4,
+            "gl": 8,
+            "prc": 0.0976
+          },
+          {
+            "st": 5,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 6,
+            "gl": 1,
+            "prc": 0.0122
+          },
+          {
+            "st": 7,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 8,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 9,
+            "gl": 2,
+            "prc": 0.0244
+          },
+          {
+            "st": 10,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 11,
+            "gl": 3,
+            "prc": 0.0366
+          },
+          {
+            "st": 12,
+            "gl": 7,
+            "prc": 0.0854
+          },
+          {
+            "st": 13,
+            "gl": 2,
+            "prc": 0.0244
+          },
+          {
+            "st": 14,
+            "gl": 1,
+            "prc": 0.0122
+          },
+          {
+            "st": 15,
+            "gl": 44,
+            "prc": 0.5366
+          },
+          {
+            "st": 16,
+            "gl": 1,
+            "prc": 0.0122
+          },
+          {
+            "st": 17,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 18,
+            "gl": 2,
+            "prc": 0.0244
+          },
+          {
+            "st": 19,
+            "gl": 1,
+            "prc": 0.0122
+          },
+          {
+            "st": 20,
+            "gl": 3,
+            "prc": 0.0366
+          },
+          {
+            "st": 21,
+            "gl": 0,
+            "prc": null
+          }
+        ],
+        "glas": 82,
+        "velj": 82,
+        "nev": 0
+      },
+      "prestetih_glasov": 1
     },
     {
       "st": 21,
@@ -353,8 +3794,119 @@
         "gl": 181,
         "prc": 0.4776
       },
-      "rez": null,
-      "prestetih_glasov": null
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 2,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 3,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 4,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 5,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 6,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 7,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 8,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 9,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 10,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 11,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 12,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 13,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 14,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 15,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 16,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 17,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 18,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 19,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 20,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 21,
+            "gl": 0,
+            "prc": null
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
+      "prestetih_glasov": 0
     },
     {
       "st": 901,
@@ -364,7 +3916,118 @@
         "gl": 0,
         "prc": null
       },
-      "rez": null,
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 2,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 3,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 4,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 5,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 6,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 7,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 8,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 9,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 10,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 11,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 12,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 13,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 14,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 15,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 16,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 17,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 18,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 19,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 20,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 21,
+            "gl": 0,
+            "prc": null
+          }
+        ],
+        "glas": 0,
+        "velj": 0,
+        "nev": 0
+      },
       "prestetih_glasov": null
     }
   ],
@@ -482,6 +4145,7 @@
     {
       "ime": "Jelka",
       "pri": "Godec",
+      "man": true,
       "st": 15,
       "naz": "SLOVENSKA DEMOKRATSKA STRANKA - SDS",
       "knaz": "SDS",
@@ -535,11 +4199,11 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T17:26:01.0294762+02:00",
-    "datum": "2022-04-24T17:30:00+02:00",
-    "cas_udelezba": "16:00",
+    "timestamp": "2022-04-24T20:35:02.3071593+02:00",
+    "datum": "2022-04-24T20:35:00+02:00",
+    "cas_udelezba": "19:00",
     "has_udelezba": true,
-    "has_rezultat": false,
+    "has_rezultat": true,
     "is_final": false,
     "has_kandidati_removed": false
   }
