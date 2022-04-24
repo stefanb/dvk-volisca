@@ -375,30 +375,30 @@
       "naz": "ETNOGRAFSKI MUZEJ DAVČA, DAVČA 25 A, ŽELEZNIKI",
       "udel": {
         "upr": 227,
-        "gl": 114,
-        "prc": 0.5022
+        "gl": 152,
+        "prc": 0.6696
       },
       "rez": {
         "rez": [
           {
             "st": 1,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 2,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0329
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 13,
+            "prc": 0.0855
           },
           {
             "st": 5,
@@ -407,90 +407,90 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0197
           },
           {
             "st": 7,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0132
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 13,
+            "prc": 0.0855
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0329
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0132
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 17,
+            "prc": 0.1118
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0329
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 11,
+            "prc": 0.0724
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 68,
+            "prc": 0.4474
           },
           {
             "st": 16,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0263
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0132
           },
           {
             "st": 19,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0132
           },
           {
             "st": 21,
             "gl": 0,
-            "prc": null
+            "prc": 0
           }
         ],
-        "glas": 0,
-        "velj": 0,
+        "glas": 152,
+        "velj": 152,
         "nev": 0
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 30,
@@ -4121,7 +4121,6 @@
     {
       "ime": "mag. Janez",
       "pri": "Žakelj",
-      "man": true,
       "st": 12,
       "naz": "NOVA SLOVENIJA - KRŠČANSKI DEMOKRATI",
       "knaz": "NSi",
@@ -4202,8 +4201,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T21:10:04.0241813+02:00",
-    "datum": "2022-04-24T21:10:00+02:00",
+    "timestamp": "2022-04-24T21:15:03.6315102+02:00",
+    "datum": "2022-04-24T21:15:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

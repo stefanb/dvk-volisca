@@ -619,30 +619,30 @@
       "naz": "OREHEK I, OSNOVNA ŠOLA, ZASAVSKA CESTA 53 A,KRANJ",
       "udel": {
         "upr": 1007,
-        "gl": 683,
-        "prc": 0.6783
+        "gl": 677,
+        "prc": 0.6723
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0015
           },
           {
             "st": 2,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0045
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 29,
+            "prc": 0.0433
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 205,
+            "prc": 0.3064
           },
           {
             "st": 5,
@@ -651,90 +651,90 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 24,
+            "prc": 0.0359
           },
           {
             "st": 7,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 22,
+            "prc": 0.0329
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0105
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0045
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.009
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 70,
+            "prc": 0.1046
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.009
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 34,
+            "prc": 0.0508
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 164,
+            "prc": 0.2451
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 15,
+            "prc": 0.0224
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 26,
+            "prc": 0.0389
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 26,
+            "prc": 0.0389
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0105
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 21,
+            "prc": 0.0314
           },
           {
             "st": 21,
             "gl": 0,
-            "prc": null
+            "prc": 0
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 677,
+        "velj": 669,
+        "nev": 8
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 12,
@@ -2859,8 +2859,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T21:10:04.0241813+02:00",
-    "datum": "2022-04-24T21:10:00+02:00",
+    "timestamp": "2022-04-24T21:15:03.6315102+02:00",
+    "datum": "2022-04-24T21:15:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

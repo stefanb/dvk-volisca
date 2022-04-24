@@ -1839,30 +1839,30 @@
       "naz": "ŠOLA POLZELA, VOLIŠČE II",
       "udel": {
         "upr": 1337,
-        "gl": 694,
-        "prc": 0.5191
+        "gl": 887,
+        "prc": 0.6634
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0034
           },
           {
             "st": 2,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0011
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 21,
+            "prc": 0.0239
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 293,
+            "prc": 0.3337
           },
           {
             "st": 5,
@@ -1871,78 +1871,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 25,
+            "prc": 0.0285
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0011
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 17,
+            "prc": 0.0194
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0091
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0091
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 12,
+            "prc": 0.0137
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 160,
+            "prc": 0.1822
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.008
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.0103
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 228,
+            "prc": 0.2597
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 11,
+            "prc": 0.0125
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 43,
+            "prc": 0.049
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.0103
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 11,
+            "prc": 0.0125
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 11,
+            "prc": 0.0125
           },
           {
             "st": 21,
@@ -1950,11 +1950,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 887,
+        "velj": 878,
+        "nev": 9
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 12,
@@ -2613,8 +2613,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T21:10:04.0241813+02:00",
-    "datum": "2022-04-24T21:10:00+02:00",
+    "timestamp": "2022-04-24T21:15:03.6315102+02:00",
+    "datum": "2022-04-24T21:15:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

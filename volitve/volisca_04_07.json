@@ -1229,30 +1229,30 @@
       "naz": "OŠ KETTEJA IN MURNA, KOŠIRJEVA UL.2",
       "udel": {
         "upr": 704,
-        "gl": 360,
-        "prc": 0.5114
+        "gl": 463,
+        "prc": 0.6577
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0022
           },
           {
             "st": 2,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0022
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 12,
+            "prc": 0.026
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 188,
+            "prc": 0.4078
           },
           {
             "st": 5,
@@ -1261,78 +1261,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 39,
+            "prc": 0.0846
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0043
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 11,
+            "prc": 0.0239
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0065
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 10,
+            "prc": 0.0217
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0043
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 40,
+            "prc": 0.0868
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 12,
+            "prc": 0.026
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.0195
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 65,
+            "prc": 0.141
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0087
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 39,
+            "prc": 0.0846
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 16,
+            "prc": 0.0347
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0152
           },
           {
             "st": 20,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 21,
@@ -1340,11 +1340,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 463,
+        "velj": 461,
+        "nev": 2
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 20,
@@ -3345,8 +3345,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T21:10:04.0241813+02:00",
-    "datum": "2022-04-24T21:10:00+02:00",
+    "timestamp": "2022-04-24T21:15:03.6315102+02:00",
+    "datum": "2022-04-24T21:15:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

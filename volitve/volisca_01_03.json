@@ -2815,30 +2815,30 @@
       "naz": "ŠPORTNI PARK RADOVLJICA, UL. STANETA ŽAGARJA 2B",
       "udel": {
         "upr": 914,
-        "gl": 455,
-        "prc": 0.4978
+        "gl": 527,
+        "prc": 0.5766
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0057
           },
           {
             "st": 2,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0057
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 19,
+            "prc": 0.0364
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 202,
+            "prc": 0.387
           },
           {
             "st": 5,
@@ -2847,90 +2847,90 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 25,
+            "prc": 0.0479
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0019
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 26,
+            "prc": 0.0498
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.0172
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 17,
+            "prc": 0.0326
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 21,
+            "prc": 0.0402
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 22,
+            "prc": 0.0421
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0115
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 14,
+            "prc": 0.0268
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 84,
+            "prc": 0.1609
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0153
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 33,
+            "prc": 0.0632
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 14,
+            "prc": 0.0268
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0134
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0115
           },
           {
             "st": 21,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0038
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 527,
+        "velj": 522,
+        "nev": 5
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 10,
@@ -3469,8 +3469,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T21:10:04.0241813+02:00",
-    "datum": "2022-04-24T21:10:00+02:00",
+    "timestamp": "2022-04-24T21:15:03.6315102+02:00",
+    "datum": "2022-04-24T21:15:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

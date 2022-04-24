@@ -1473,30 +1473,30 @@
       "naz": "OŠ KOSEZE, LEDARSKA UL. 23",
       "udel": {
         "upr": 630,
-        "gl": 342,
-        "prc": 0.5429
+        "gl": 421,
+        "prc": 0.6683
       },
       "rez": {
         "rez": [
           {
             "st": 1,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 2,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0071
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.019
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 178,
+            "prc": 0.4228
           },
           {
             "st": 5,
@@ -1505,78 +1505,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 41,
+            "prc": 0.0974
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0048
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 25,
+            "prc": 0.0594
           },
           {
             "st": 9,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0143
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0143
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 18,
+            "prc": 0.0428
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.0214
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0095
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 39,
+            "prc": 0.0926
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0024
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 43,
+            "prc": 0.1021
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 20,
+            "prc": 0.0475
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 11,
+            "prc": 0.0261
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0166
           },
           {
             "st": 21,
@@ -1584,11 +1584,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
+        "glas": 421,
+        "velj": 421,
         "nev": 0
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 6,
@@ -2736,8 +2736,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T21:10:04.0241813+02:00",
-    "datum": "2022-04-24T21:10:00+02:00",
+    "timestamp": "2022-04-24T21:15:03.6315102+02:00",
+    "datum": "2022-04-24T21:15:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

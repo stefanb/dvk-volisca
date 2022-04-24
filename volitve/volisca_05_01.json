@@ -2693,30 +2693,30 @@
       "naz": "OSNOVNA ŠOLA DRAMLJE",
       "udel": {
         "upr": 1415,
-        "gl": 746,
-        "prc": 0.5272
+        "gl": 939,
+        "prc": 0.6636
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0032
           },
           {
             "st": 2,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0032
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 28,
+            "prc": 0.03
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 232,
+            "prc": 0.2487
           },
           {
             "st": 5,
@@ -2725,78 +2725,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 21,
+            "prc": 0.0225
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0011
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 17,
+            "prc": 0.0182
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 14,
+            "prc": 0.015
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 20,
+            "prc": 0.0214
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 13,
+            "prc": 0.0139
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 69,
+            "prc": 0.074
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 11,
+            "prc": 0.0118
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 44,
+            "prc": 0.0472
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 365,
+            "prc": 0.3912
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 19,
+            "prc": 0.0204
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 36,
+            "prc": 0.0386
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 17,
+            "prc": 0.0182
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 15,
+            "prc": 0.0161
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0054
           },
           {
             "st": 21,
@@ -2804,11 +2804,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 939,
+        "velj": 933,
+        "nev": 6
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 39,
@@ -4199,8 +4199,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T21:10:04.0241813+02:00",
-    "datum": "2022-04-24T21:10:00+02:00",
+    "timestamp": "2022-04-24T21:15:03.6315102+02:00",
+    "datum": "2022-04-24T21:15:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

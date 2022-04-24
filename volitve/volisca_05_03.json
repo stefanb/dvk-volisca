@@ -1595,30 +1595,30 @@
       "naz": "SEDEŽ KS, VELIKA DVORANA, TEHARSKA 2A, CELJE",
       "udel": {
         "upr": 1489,
-        "gl": 708,
-        "prc": 0.4755
+        "gl": 880,
+        "prc": 0.591
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0034
           },
           {
             "st": 2,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0023
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 19,
+            "prc": 0.0217
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 317,
+            "prc": 0.3619
           },
           {
             "st": 5,
@@ -1627,78 +1627,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 43,
+            "prc": 0.0491
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0011
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 27,
+            "prc": 0.0308
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0046
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 21,
+            "prc": 0.024
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0068
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 41,
+            "prc": 0.0468
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 21,
+            "prc": 0.024
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 22,
+            "prc": 0.0251
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 242,
+            "prc": 0.2763
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 22,
+            "prc": 0.0251
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 50,
+            "prc": 0.0571
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 13,
+            "prc": 0.0148
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 18,
+            "prc": 0.0205
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0046
           },
           {
             "st": 21,
@@ -1706,11 +1706,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 880,
+        "velj": 876,
+        "nev": 4
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 31,
@@ -2735,8 +2735,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T21:10:04.0241813+02:00",
-    "datum": "2022-04-24T21:10:00+02:00",
+    "timestamp": "2022-04-24T21:15:03.6315102+02:00",
+    "datum": "2022-04-24T21:15:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

@@ -497,30 +497,30 @@
       "naz": "DOM UPOKOJENCEV IDRIJA, ARKOVA ULICA 4",
       "udel": {
         "upr": 784,
-        "gl": 391,
-        "prc": 0.4987
+        "gl": 477,
+        "prc": 0.6084
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0064
           },
           {
             "st": 2,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0021
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 16,
+            "prc": 0.0341
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 182,
+            "prc": 0.3881
           },
           {
             "st": 5,
@@ -529,90 +529,90 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 15,
+            "prc": 0.032
           },
           {
             "st": 7,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 19,
+            "prc": 0.0405
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0064
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0149
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0149
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 37,
+            "prc": 0.0789
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0128
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 16,
+            "prc": 0.0341
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 80,
+            "prc": 0.1706
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0043
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 59,
+            "prc": 0.1258
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0171
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0128
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0043
           },
           {
             "st": 21,
             "gl": 0,
-            "prc": null
+            "prc": 0
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 477,
+        "velj": 469,
+        "nev": 8
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 36,
@@ -4645,30 +4645,30 @@
       "naz": "PREDČASNO GLASOVANJE",
       "udel": {
         "upr": null,
-        "gl": 0,
+        "gl": 976,
         "prc": null
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.001
           },
           {
             "st": 2,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 35,
+            "prc": 0.036
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 390,
+            "prc": 0.4008
           },
           {
             "st": 5,
@@ -4677,90 +4677,90 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 52,
+            "prc": 0.0534
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.001
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 54,
+            "prc": 0.0555
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0051
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0051
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 20,
+            "prc": 0.0206
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 59,
+            "prc": 0.0606
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 15,
+            "prc": 0.0154
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 36,
+            "prc": 0.037
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 153,
+            "prc": 0.1572
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0031
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 109,
+            "prc": 0.112
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 13,
+            "prc": 0.0134
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 15,
+            "prc": 0.0154
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0062
           },
           {
             "st": 21,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.001
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 976,
+        "velj": 973,
+        "nev": 3
       },
-      "prestetih_glasov": null
+      "prestetih_glasov": 1
     }
   ],
   "liste": [
@@ -4791,6 +4791,7 @@
     {
       "ime": "Sara",
       "pri": "Erdić",
+      "man": true,
       "st": 4,
       "naz": "GIBANJE SVOBODA",
       "knaz": "SVOBODA",
@@ -4877,7 +4878,6 @@
     {
       "ime": "Andrej",
       "pri": "Poglajen",
-      "man": true,
       "st": 15,
       "naz": "SLOVENSKA DEMOKRATSKA STRANKA - SDS",
       "knaz": "SDS",
@@ -4933,8 +4933,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T21:10:04.0241813+02:00",
-    "datum": "2022-04-24T21:10:00+02:00",
+    "timestamp": "2022-04-24T21:15:03.6315102+02:00",
+    "datum": "2022-04-24T21:15:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

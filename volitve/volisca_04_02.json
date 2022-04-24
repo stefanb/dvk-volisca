@@ -3547,30 +3547,30 @@
       "naz": "GOSTILNA \"PRI KAPCU\", TRAVNIK 74",
       "udel": {
         "upr": 267,
-        "gl": 120,
-        "prc": 0.4494
+        "gl": 168,
+        "prc": 0.6292
       },
       "rez": {
         "rez": [
           {
             "st": 1,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 2,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.012
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 62,
+            "prc": 0.3713
           },
           {
             "st": 5,
@@ -3579,78 +3579,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.018
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.006
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 10,
+            "prc": 0.0599
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0419
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0419
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.018
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 12,
+            "prc": 0.0719
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.018
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0299
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 34,
+            "prc": 0.2036
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0359
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0359
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.018
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.018
           },
           {
             "st": 20,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 21,
@@ -3658,11 +3658,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 168,
+        "velj": 167,
+        "nev": 1
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 34,
@@ -4035,30 +4035,30 @@
       "naz": "GOSTIŠČE VRBA, ŽLEBIČ 15A, 1310 RIBNICA",
       "udel": {
         "upr": 321,
-        "gl": 209,
-        "prc": 0.6511
+        "gl": 255,
+        "prc": 0.7944
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0079
           },
           {
             "st": 2,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0158
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 26,
+            "prc": 0.1028
           },
           {
             "st": 5,
@@ -4067,78 +4067,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.004
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.004
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0119
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0158
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0119
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.0356
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 81,
+            "prc": 0.3202
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0119
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0079
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 99,
+            "prc": 0.3913
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0119
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 10,
+            "prc": 0.0395
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.004
           },
           {
             "st": 19,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.004
           },
           {
             "st": 21,
@@ -4146,11 +4146,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 255,
+        "velj": 253,
+        "nev": 2
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 52,
@@ -5255,30 +5255,30 @@
       "naz": "PRI GORNIK IVANKI, KOT 11",
       "udel": {
         "upr": 92,
-        "gl": 61,
-        "prc": 0.663
+        "gl": 75,
+        "prc": 0.8152
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0139
           },
           {
             "st": 2,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0139
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0556
           },
           {
             "st": 5,
@@ -5287,78 +5287,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0139
           },
           {
             "st": 7,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 8,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0139
           },
           {
             "st": 10,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0278
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 30,
+            "prc": 0.4167
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0139
           },
           {
             "st": 14,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 23,
+            "prc": 0.3194
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0694
           },
           {
             "st": 17,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0278
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0139
           },
           {
             "st": 20,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 21,
@@ -5366,11 +5366,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 75,
+        "velj": 72,
+        "nev": 3
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 37,
@@ -7250,8 +7250,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T21:10:04.0241813+02:00",
-    "datum": "2022-04-24T21:10:00+02:00",
+    "timestamp": "2022-04-24T21:15:03.6315102+02:00",
+    "datum": "2022-04-24T21:15:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

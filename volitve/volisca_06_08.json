@@ -2083,30 +2083,30 @@
       "naz": "OSNOVNA ŠOLA DEBRO, POŽENELOVA 26, LAŠKO",
       "udel": {
         "upr": 1314,
-        "gl": 636,
-        "prc": 0.484
+        "gl": 799,
+        "prc": 0.6081
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0038
           },
           {
             "st": 2,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0064
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 27,
+            "prc": 0.0343
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 250,
+            "prc": 0.3177
           },
           {
             "st": 5,
@@ -2115,78 +2115,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 16,
+            "prc": 0.0203
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0089
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 32,
+            "prc": 0.0407
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 16,
+            "prc": 0.0203
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0089
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 12,
+            "prc": 0.0152
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 48,
+            "prc": 0.061
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 19,
+            "prc": 0.0241
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 25,
+            "prc": 0.0318
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 187,
+            "prc": 0.2376
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 16,
+            "prc": 0.0203
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 74,
+            "prc": 0.094
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 19,
+            "prc": 0.0241
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 16,
+            "prc": 0.0203
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0102
           },
           {
             "st": 21,
@@ -2194,11 +2194,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 799,
+        "velj": 787,
+        "nev": 12
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 13,
@@ -4199,8 +4199,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T21:15:03.6315102+02:00",
-    "datum": "2022-04-24T21:15:00+02:00",
+    "timestamp": "2022-04-24T21:20:04.2797947+02:00",
+    "datum": "2022-04-24T21:20:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,
