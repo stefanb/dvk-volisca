@@ -9,30 +9,30 @@
       "naz": "BALINARSKI KLUB, GREGORČIČEVA ULICA 8, IDRIJA",
       "udel": {
         "upr": 487,
-        "gl": 234,
-        "prc": 0.4805
+        "gl": 298,
+        "prc": 0.6119
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0068
           },
           {
             "st": 2,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0034
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0237
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 108,
+            "prc": 0.3661
           },
           {
             "st": 5,
@@ -41,90 +41,90 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0271
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0102
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 16,
+            "prc": 0.0542
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0034
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0136
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0169
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 11,
+            "prc": 0.0373
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0237
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.0305
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 54,
+            "prc": 0.1831
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.0305
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 35,
+            "prc": 0.1186
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 14,
+            "prc": 0.0475
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0034
           },
           {
             "st": 20,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 21,
             "gl": 0,
-            "prc": null
+            "prc": 0
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 298,
+        "velj": 295,
+        "nev": 3
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 8,
@@ -4933,8 +4933,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T21:20:04.2797947+02:00",
-    "datum": "2022-04-24T21:20:00+02:00",
+    "timestamp": "2022-04-24T21:30:07.5309847+02:00",
+    "datum": "2022-04-24T21:30:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

@@ -3181,30 +3181,30 @@
       "naz": "OSNOVNA ŠOLA PRIMSKOVO",
       "udel": {
         "upr": 403,
-        "gl": 258,
-        "prc": 0.6402
+        "gl": 309,
+        "prc": 0.7667
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.013
           },
           {
             "st": 2,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0228
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 86,
+            "prc": 0.2801
           },
           {
             "st": 5,
@@ -3213,78 +3213,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.0293
           },
           {
             "st": 7,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 13,
+            "prc": 0.0423
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.0293
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.0293
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0163
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 18,
+            "prc": 0.0586
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.013
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.0293
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 116,
+            "prc": 0.3779
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0098
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0195
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0228
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0065
           },
           {
             "st": 20,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 21,
@@ -3292,11 +3292,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 309,
+        "velj": 307,
+        "nev": 2
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 14,
@@ -4755,6 +4755,7 @@
     {
       "ime": "Boris",
       "pri": "Doblekar",
+      "man": true,
       "st": 15,
       "naz": "SLOVENSKA DEMOKRATSKA STRANKA - SDS",
       "knaz": "SDS",
@@ -4808,8 +4809,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T21:25:22.037829+02:00",
-    "datum": "2022-04-24T21:25:00+02:00",
+    "timestamp": "2022-04-24T21:30:07.5309847+02:00",
+    "datum": "2022-04-24T21:30:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

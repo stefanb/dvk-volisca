@@ -6109,30 +6109,30 @@
       "naz": "PREDČASNO GLASOVANJE",
       "udel": {
         "upr": null,
-        "gl": 0,
+        "gl": 682,
         "prc": null
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0015
           },
           {
             "st": 2,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 20,
+            "prc": 0.0295
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 291,
+            "prc": 0.4292
           },
           {
             "st": 5,
@@ -6141,90 +6141,90 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 38,
+            "prc": 0.056
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0015
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 34,
+            "prc": 0.0501
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0074
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0074
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0074
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 74,
+            "prc": 0.1091
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.0133
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 32,
+            "prc": 0.0472
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 98,
+            "prc": 0.1445
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0059
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 25,
+            "prc": 0.0369
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 19,
+            "prc": 0.028
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 13,
+            "prc": 0.0192
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0059
           },
           {
             "st": 21,
             "gl": 0,
-            "prc": null
+            "prc": 0
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 682,
+        "velj": 678,
+        "nev": 4
       },
-      "prestetih_glasov": null
+      "prestetih_glasov": 1
     }
   ],
   "liste": [
@@ -6317,7 +6317,6 @@
     {
       "ime": "Andrej",
       "pri": "Černigoj",
-      "man": true,
       "st": 12,
       "naz": "NOVA SLOVENIJA - KRŠČANSKI DEMOKRATI",
       "knaz": "NSi",
@@ -6342,7 +6341,6 @@
     {
       "ime": "Adrijana",
       "pri": "Kocjančič",
-      "man": true,
       "st": 15,
       "naz": "SLOVENSKA DEMOKRATSKA STRANKA - SDS",
       "knaz": "SDS",
@@ -6398,8 +6396,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T21:20:04.2797947+02:00",
-    "datum": "2022-04-24T21:20:00+02:00",
+    "timestamp": "2022-04-24T21:30:07.5309847+02:00",
+    "datum": "2022-04-24T21:30:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

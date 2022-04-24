@@ -619,30 +619,30 @@
       "naz": "MALI SLATNIK 7 - OSNOVNA ŠOLA",
       "udel": {
         "upr": 1159,
-        "gl": 707,
-        "prc": 0.61
+        "gl": 864,
+        "prc": 0.7455
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 15,
+            "prc": 0.0175
           },
           {
             "st": 2,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 16,
+            "prc": 0.0187
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 320,
+            "prc": 0.3738
           },
           {
             "st": 5,
@@ -651,78 +651,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 23,
+            "prc": 0.0269
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0023
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 21,
+            "prc": 0.0245
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 11,
+            "prc": 0.0129
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 15,
+            "prc": 0.0175
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 16,
+            "prc": 0.0187
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 92,
+            "prc": 0.1075
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 14,
+            "prc": 0.0164
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 17,
+            "prc": 0.0199
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 215,
+            "prc": 0.2512
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 14,
+            "prc": 0.0164
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 41,
+            "prc": 0.0479
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 11,
+            "prc": 0.0129
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 13,
+            "prc": 0.0152
           },
           {
             "st": 20,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 21,
@@ -730,11 +730,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 864,
+        "velj": 856,
+        "nev": 8
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 29,
@@ -3956,8 +3956,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T21:25:22.037829+02:00",
-    "datum": "2022-04-24T21:25:00+02:00",
+    "timestamp": "2022-04-24T21:30:07.5309847+02:00",
+    "datum": "2022-04-24T21:30:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

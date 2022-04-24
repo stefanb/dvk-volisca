@@ -375,30 +375,30 @@
       "naz": "HUJE II, OŠ JAKOB ALJAŽ, UL.TONČKADEŽMANA 1,KRANJ",
       "udel": {
         "upr": 1411,
-        "gl": 676,
-        "prc": 0.4791
+        "gl": 830,
+        "prc": 0.5882
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0098
           },
           {
             "st": 2,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0012
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 51,
+            "prc": 0.0624
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 330,
+            "prc": 0.4039
           },
           {
             "st": 5,
@@ -407,90 +407,90 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 55,
+            "prc": 0.0673
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0049
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 33,
+            "prc": 0.0404
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.011
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 24,
+            "prc": 0.0294
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0061
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 24,
+            "prc": 0.0294
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 10,
+            "prc": 0.0122
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0098
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 109,
+            "prc": 0.1334
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0061
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 58,
+            "prc": 0.071
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 67,
+            "prc": 0.082
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 10,
+            "prc": 0.0122
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0061
           },
           {
             "st": 21,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0012
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 830,
+        "velj": 817,
+        "nev": 13
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 14,
@@ -2859,8 +2859,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T21:20:04.2797947+02:00",
-    "datum": "2022-04-24T21:20:00+02:00",
+    "timestamp": "2022-04-24T21:30:07.5309847+02:00",
+    "datum": "2022-04-24T21:30:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

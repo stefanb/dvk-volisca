@@ -2083,30 +2083,30 @@
       "naz": "PROSTORI MOL, DUNAJSKA C.367",
       "udel": {
         "upr": 1012,
-        "gl": 582,
-        "prc": 0.5751
+        "gl": 714,
+        "prc": 0.7055
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0085
           },
           {
             "st": 2,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 17,
+            "prc": 0.0242
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 260,
+            "prc": 0.3698
           },
           {
             "st": 5,
@@ -2115,78 +2115,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 69,
+            "prc": 0.0982
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0028
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 30,
+            "prc": 0.0427
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0071
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 18,
+            "prc": 0.0256
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0114
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 48,
+            "prc": 0.0683
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 10,
+            "prc": 0.0142
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.0128
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 99,
+            "prc": 0.1408
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0114
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 64,
+            "prc": 0.091
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 40,
+            "prc": 0.0569
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.0128
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0014
           },
           {
             "st": 21,
@@ -2194,11 +2194,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 714,
+        "velj": 703,
+        "nev": 11
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 8,
@@ -2979,8 +2979,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T21:25:22.037829+02:00",
-    "datum": "2022-04-24T21:25:00+02:00",
+    "timestamp": "2022-04-24T21:30:07.5309847+02:00",
+    "datum": "2022-04-24T21:30:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

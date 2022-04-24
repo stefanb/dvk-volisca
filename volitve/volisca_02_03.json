@@ -1473,30 +1473,30 @@
       "naz": "ŠARED - VEČNAMENSKO IGRIŠČE",
       "udel": {
         "upr": 495,
-        "gl": 277,
-        "prc": 0.5596
+        "gl": 334,
+        "prc": 0.6747
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0152
           },
           {
             "st": 2,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 13,
+            "prc": 0.0395
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 162,
+            "prc": 0.4924
           },
           {
             "st": 5,
@@ -1505,90 +1505,90 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 14,
+            "prc": 0.0426
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0061
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0152
           },
           {
             "st": 9,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 11,
+            "prc": 0.0334
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0182
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0213
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0213
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0182
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 53,
+            "prc": 0.1611
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0061
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 27,
+            "prc": 0.0821
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0213
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0061
           },
           {
             "st": 20,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 21,
             "gl": 0,
-            "prc": null
+            "prc": 0
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 334,
+        "velj": 329,
+        "nev": 5
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 3,
@@ -2005,8 +2005,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T21:20:04.2797947+02:00",
-    "datum": "2022-04-24T21:20:00+02:00",
+    "timestamp": "2022-04-24T21:30:07.5309847+02:00",
+    "datum": "2022-04-24T21:30:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

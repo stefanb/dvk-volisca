@@ -1107,110 +1107,110 @@
       "naz": "KNJIŽNICA JANKA GLAZERJA RUŠE, FALSKA CESTA 18",
       "udel": {
         "upr": 1039,
-        "gl": 552,
-        "prc": 0.5313
+        "gl": 627,
+        "prc": 0.6035
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0032
           },
           {
             "st": 2,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 16,
+            "prc": 0.0258
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 241,
+            "prc": 0.3881
           },
           {
             "st": 5,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 36,
+            "prc": 0.058
           },
           {
             "st": 7,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 26,
+            "prc": 0.0419
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 16,
+            "prc": 0.0258
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0113
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0097
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 22,
+            "prc": 0.0354
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 13,
+            "prc": 0.0209
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 11,
+            "prc": 0.0177
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 123,
+            "prc": 0.1981
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0016
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 61,
+            "prc": 0.0982
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 13,
+            "prc": 0.0209
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 23,
+            "prc": 0.037
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0064
           },
           {
             "st": 21,
@@ -1218,11 +1218,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 627,
+        "velj": 621,
+        "nev": 6
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 18,
@@ -2595,6 +2595,7 @@
     {
       "ime": "Jurij",
       "pri": "Lep",
+      "man": true,
       "st": 4,
       "naz": "GIBANJE SVOBODA",
       "knaz": "SVOBODA",
@@ -2736,8 +2737,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T21:25:22.037829+02:00",
-    "datum": "2022-04-24T21:25:00+02:00",
+    "timestamp": "2022-04-24T21:30:07.5309847+02:00",
+    "datum": "2022-04-24T21:30:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,
