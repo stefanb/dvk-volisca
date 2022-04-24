@@ -863,30 +863,30 @@
       "naz": "SELO-AVTOCENTER CELEIA, PE JAKOPEC, KOSOVELOVA 16",
       "udel": {
         "upr": 815,
-        "gl": 410,
-        "prc": 0.5031
+        "gl": 518,
+        "prc": 0.6356
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0019
           },
           {
             "st": 2,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 33,
+            "prc": 0.0641
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 148,
+            "prc": 0.2874
           },
           {
             "st": 5,
@@ -895,78 +895,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 20,
+            "prc": 0.0388
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0039
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 11,
+            "prc": 0.0214
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0097
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 17,
+            "prc": 0.033
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.0175
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 13,
+            "prc": 0.0252
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0117
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 10,
+            "prc": 0.0194
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 135,
+            "prc": 0.2621
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 13,
+            "prc": 0.0252
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 62,
+            "prc": 0.1204
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 14,
+            "prc": 0.0272
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0155
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0155
           },
           {
             "st": 21,
@@ -974,11 +974,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 518,
+        "velj": 515,
+        "nev": 3
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 12,
@@ -2369,8 +2369,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T22:30:04.8232784+02:00",
-    "datum": "2022-04-24T22:30:00+02:00",
+    "timestamp": "2022-04-24T22:35:06.9358622+02:00",
+    "datum": "2022-04-24T22:35:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

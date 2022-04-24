@@ -1473,30 +1473,30 @@
       "naz": "OŠ MIRANA JARCA, IPAVČEVA UL. 1",
       "udel": {
         "upr": 1255,
-        "gl": 549,
-        "prc": 0.4375
+        "gl": 699,
+        "prc": 0.557
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0043
           },
           {
             "st": 2,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0058
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 11,
+            "prc": 0.0159
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 318,
+            "prc": 0.4582
           },
           {
             "st": 5,
@@ -1505,78 +1505,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 60,
+            "prc": 0.0865
           },
           {
             "st": 7,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 33,
+            "prc": 0.0476
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0043
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 13,
+            "prc": 0.0187
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.013
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 36,
+            "prc": 0.0519
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 18,
+            "prc": 0.0259
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0043
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 93,
+            "prc": 0.134
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0058
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 45,
+            "prc": 0.0648
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 26,
+            "prc": 0.0375
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 12,
+            "prc": 0.0173
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0043
           },
           {
             "st": 21,
@@ -1584,11 +1584,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 699,
+        "velj": 694,
+        "nev": 5
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 16,
@@ -3102,8 +3102,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T22:30:04.8232784+02:00",
-    "datum": "2022-04-24T22:30:00+02:00",
+    "timestamp": "2022-04-24T22:35:06.9358622+02:00",
+    "datum": "2022-04-24T22:35:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

@@ -1107,30 +1107,30 @@
       "naz": "OŠ VIČ, ABRAMOVA UL. 26",
       "udel": {
         "upr": 961,
-        "gl": 305,
-        "prc": 0.3174
+        "gl": 666,
+        "prc": 0.693
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.003
           },
           {
             "st": 2,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0015
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0106
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 255,
+            "prc": 0.3846
           },
           {
             "st": 5,
@@ -1139,78 +1139,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 39,
+            "prc": 0.0588
           },
           {
             "st": 7,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 29,
+            "prc": 0.0437
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.006
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 13,
+            "prc": 0.0196
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 12,
+            "prc": 0.0181
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 38,
+            "prc": 0.0573
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 16,
+            "prc": 0.0241
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 18,
+            "prc": 0.0271
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 133,
+            "prc": 0.2006
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0075
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 44,
+            "prc": 0.0664
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 34,
+            "prc": 0.0513
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 11,
+            "prc": 0.0166
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.003
           },
           {
             "st": 21,
@@ -1218,11 +1218,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 666,
+        "velj": 663,
+        "nev": 3
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 13,
@@ -2083,30 +2083,30 @@
       "naz": "PREDČASNO GLASOVANJE",
       "udel": {
         "upr": null,
-        "gl": 0,
+        "gl": 1912,
         "prc": null
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0021
           },
           {
             "st": 2,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0005
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 20,
+            "prc": 0.0105
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 831,
+            "prc": 0.4346
           },
           {
             "st": 5,
@@ -2115,78 +2115,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 224,
+            "prc": 0.1172
           },
           {
             "st": 7,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 59,
+            "prc": 0.0309
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0031
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 33,
+            "prc": 0.0173
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 27,
+            "prc": 0.0141
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 72,
+            "prc": 0.0377
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 34,
+            "prc": 0.0178
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 36,
+            "prc": 0.0188
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 264,
+            "prc": 0.1381
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0016
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 166,
+            "prc": 0.0868
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 80,
+            "prc": 0.0418
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 47,
+            "prc": 0.0246
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0026
           },
           {
             "st": 21,
@@ -2194,11 +2194,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
+        "glas": 1912,
+        "velj": 1912,
         "nev": 0
       },
-      "prestetih_glasov": null
+      "prestetih_glasov": 1
     }
   ],
   "liste": [
@@ -2369,8 +2369,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T22:30:04.8232784+02:00",
-    "datum": "2022-04-24T22:30:00+02:00",
+    "timestamp": "2022-04-24T22:35:06.9358622+02:00",
+    "datum": "2022-04-24T22:35:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

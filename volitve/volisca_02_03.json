@@ -863,30 +863,30 @@
       "naz": "MEDGENERACIJSKI CENTER IZOLA",
       "udel": {
         "upr": 1301,
-        "gl": 523,
-        "prc": 0.402
+        "gl": 677,
+        "prc": 0.5204
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0045
           },
           {
             "st": 2,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.003
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 20,
+            "prc": 0.0297
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 308,
+            "prc": 0.457
           },
           {
             "st": 5,
@@ -895,90 +895,90 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 32,
+            "prc": 0.0475
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0104
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 13,
+            "prc": 0.0193
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0089
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 14,
+            "prc": 0.0208
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 14,
+            "prc": 0.0208
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 23,
+            "prc": 0.0341
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0119
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 23,
+            "prc": 0.0341
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 108,
+            "prc": 0.1602
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0059
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 58,
+            "prc": 0.0861
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 18,
+            "prc": 0.0267
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0089
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0104
           },
           {
             "st": 21,
             "gl": 0,
-            "prc": null
+            "prc": 0
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 677,
+        "velj": 674,
+        "nev": 3
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 5,
@@ -2005,8 +2005,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T22:30:04.8232784+02:00",
-    "datum": "2022-04-24T22:30:00+02:00",
+    "timestamp": "2022-04-24T22:35:06.9358622+02:00",
+    "datum": "2022-04-24T22:35:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,
