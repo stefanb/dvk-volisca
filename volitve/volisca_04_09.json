@@ -1107,30 +1107,30 @@
       "naz": "OŠ MILANA ŠUŠTARŠIČA, ŠTEMBALOVA UL. 2A",
       "udel": {
         "upr": 730,
-        "gl": 392,
-        "prc": 0.537
+        "gl": 466,
+        "prc": 0.6384
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0129
           },
           {
             "st": 2,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0022
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 12,
+            "prc": 0.0258
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 188,
+            "prc": 0.4043
           },
           {
             "st": 5,
@@ -1139,78 +1139,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 58,
+            "prc": 0.1247
           },
           {
             "st": 7,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 24,
+            "prc": 0.0516
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0086
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 10,
+            "prc": 0.0215
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.0194
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 19,
+            "prc": 0.0409
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 13,
+            "prc": 0.028
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 10,
+            "prc": 0.0215
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 67,
+            "prc": 0.1441
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0065
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 22,
+            "prc": 0.0473
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 15,
+            "prc": 0.0323
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0086
           },
           {
             "st": 20,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 21,
@@ -1218,11 +1218,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 466,
+        "velj": 465,
+        "nev": 1
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 15,
@@ -3102,7 +3102,7 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-25T00:15:20.7086295+02:00",
+    "timestamp": "2022-04-25T00:20:03.6694075+02:00",
     "datum": "2022-04-25T00:15:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
