@@ -9,8 +9,8 @@
       "naz": "BISTRICA I, OSNOVNA ŠOLA BISTRICA, BEGUNJSKA C. 2",
       "udel": {
         "upr": 1330,
-        "gl": 305,
-        "prc": 0.2293
+        "gl": 634,
+        "prc": 0.4767
       },
       "rez": null,
       "prestetih_glasov": null
@@ -20,8 +20,8 @@
       "naz": "BISTRICA II, OSNOVNA ŠOLA BISTRICA, BEGUNJSKA C.2",
       "udel": {
         "upr": 1267,
-        "gl": 285,
-        "prc": 0.2249
+        "gl": 500,
+        "prc": 0.3946
       },
       "rez": null,
       "prestetih_glasov": null
@@ -31,8 +31,8 @@
       "naz": "BREZJE, DOM KRAJANOV, BREZJE PRI TRŽIČU 55, TRŽIČ",
       "udel": {
         "upr": 427,
-        "gl": 141,
-        "prc": 0.3302
+        "gl": 255,
+        "prc": 0.5972
       },
       "rez": null,
       "prestetih_glasov": null
@@ -42,8 +42,8 @@
       "naz": "JELENDOL, DOM KRAJANOV, JELENDOL 8, TRŽIČ",
       "udel": {
         "upr": 165,
-        "gl": 48,
-        "prc": 0.2909
+        "gl": 90,
+        "prc": 0.5455
       },
       "rez": null,
       "prestetih_glasov": null
@@ -53,8 +53,8 @@
       "naz": "KOVOR, KRAJEVNA SKUPNOST, GLAVNA CESTA 24, KOVOR",
       "udel": {
         "upr": 1390,
-        "gl": 276,
-        "prc": 0.1986
+        "gl": 775,
+        "prc": 0.5576
       },
       "rez": null,
       "prestetih_glasov": null
@@ -64,8 +64,8 @@
       "naz": "KRIŽE, OSNOVNA ŠOLA KRIŽE, C. KOKRŠKEGA ODREDA 16",
       "udel": {
         "upr": 847,
-        "gl": 250,
-        "prc": 0.2952
+        "gl": 484,
+        "prc": 0.5714
       },
       "rez": null,
       "prestetih_glasov": null
@@ -75,8 +75,8 @@
       "naz": "LEŠE, GASILSKI DOM LEŠE, LEŠE 3, TRŽIČ ",
       "udel": {
         "upr": 269,
-        "gl": 67,
-        "prc": 0.2491
+        "gl": 128,
+        "prc": 0.4758
       },
       "rez": null,
       "prestetih_glasov": null
@@ -86,8 +86,8 @@
       "naz": "LOM POD STORŽIČEM,DOM KRAJANOV,LOM POD STORŽIČ.56",
       "udel": {
         "upr": 458,
-        "gl": 112,
-        "prc": 0.2445
+        "gl": 253,
+        "prc": 0.5524
       },
       "rez": null,
       "prestetih_glasov": null
@@ -97,8 +97,8 @@
       "naz": "PODLJUBELJ, DOM KRAJANOV, PODLJUBELJ 242, TRŽIČ ",
       "udel": {
         "upr": 712,
-        "gl": 198,
-        "prc": 0.2781
+        "gl": 425,
+        "prc": 0.5969
       },
       "rez": null,
       "prestetih_glasov": null
@@ -108,8 +108,8 @@
       "naz": "PRISTAVA, FUNDACIJA V.DRAKSLERJA, PRISTAVŠKA C.16",
       "udel": {
         "upr": 705,
-        "gl": 165,
-        "prc": 0.234
+        "gl": 376,
+        "prc": 0.5333
       },
       "rez": null,
       "prestetih_glasov": null
@@ -119,8 +119,8 @@
       "naz": "RAVNE,KRAJEVNA SKUPNOST RAVNE, POT NA ZALI ROVT 3",
       "udel": {
         "upr": 842,
-        "gl": 166,
-        "prc": 0.1971
+        "gl": 354,
+        "prc": 0.4204
       },
       "rez": null,
       "prestetih_glasov": null
@@ -130,8 +130,8 @@
       "naz": "SEBENJE, DOM KRAJANOV, SEBENJE 43, KRIŽE",
       "udel": {
         "upr": 921,
-        "gl": 227,
-        "prc": 0.2465
+        "gl": 507,
+        "prc": 0.5505
       },
       "rez": null,
       "prestetih_glasov": null
@@ -141,8 +141,8 @@
       "naz": "SENIČNO, KRAJEVNA SKUPNOST, SENIČNO 30, KRIŽE   ",
       "udel": {
         "upr": 367,
-        "gl": 98,
-        "prc": 0.267
+        "gl": 222,
+        "prc": 0.6049
       },
       "rez": null,
       "prestetih_glasov": null
@@ -152,8 +152,8 @@
       "naz": "TRŽIČ I,GALERIJA ATRIJ OBČINE TRŽIČ,TRG SVOBODE18",
       "udel": {
         "upr": 1230,
-        "gl": 221,
-        "prc": 0.1797
+        "gl": 437,
+        "prc": 0.3553
       },
       "rez": null,
       "prestetih_glasov": null
@@ -163,8 +163,8 @@
       "naz": "TRŽIČ II, DRUŠTVO UPOKOJENCEV TRŽIČ,TRG SVOBODE18",
       "udel": {
         "upr": 867,
-        "gl": 121,
-        "prc": 0.1396
+        "gl": 299,
+        "prc": 0.3449
       },
       "rez": null,
       "prestetih_glasov": null
@@ -350,9 +350,9 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T12:36:38.0650501+02:00",
-    "datum": "2022-04-24T12:35:00+02:00",
-    "cas_udelezba": "11:00",
+    "timestamp": "2022-04-24T17:26:01.0294762+02:00",
+    "datum": "2022-04-24T17:30:00+02:00",
+    "cas_udelezba": "16:00",
     "has_udelezba": true,
     "has_rezultat": false,
     "is_final": false,

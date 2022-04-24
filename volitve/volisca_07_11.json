@@ -9,8 +9,8 @@
       "naz": "HS, RADVANJSKA 61",
       "udel": {
         "upr": 540,
-        "gl": 142,
-        "prc": 0.263
+        "gl": 241,
+        "prc": 0.4463
       },
       "rez": null,
       "prestetih_glasov": null
@@ -20,8 +20,8 @@
       "naz": "HS, RADVANJSKA 61",
       "udel": {
         "upr": 996,
-        "gl": 249,
-        "prc": 0.25
+        "gl": 535,
+        "prc": 0.5371
       },
       "rez": null,
       "prestetih_glasov": null
@@ -31,8 +31,8 @@
       "naz": "MČ TABOR, METELKOVA 63",
       "udel": {
         "upr": 780,
-        "gl": 115,
-        "prc": 0.1474
+        "gl": 293,
+        "prc": 0.3756
       },
       "rez": null,
       "prestetih_glasov": null
@@ -42,8 +42,8 @@
       "naz": "OŠ A. BESEDNJAK, CELJSKA 11",
       "udel": {
         "upr": 671,
-        "gl": 161,
-        "prc": 0.2399
+        "gl": 233,
+        "prc": 0.3472
       },
       "rez": null,
       "prestetih_glasov": null
@@ -53,8 +53,8 @@
       "naz": "OŠ A. BESEDNJAK, CELJSKA 11",
       "udel": {
         "upr": 1106,
-        "gl": 226,
-        "prc": 0.2043
+        "gl": 287,
+        "prc": 0.2595
       },
       "rez": null,
       "prestetih_glasov": null
@@ -64,8 +64,8 @@
       "naz": "OŠ A. BESEDNJAK, CELJSKA 11",
       "udel": {
         "upr": 833,
-        "gl": 128,
-        "prc": 0.1537
+        "gl": 293,
+        "prc": 0.3517
       },
       "rez": null,
       "prestetih_glasov": null
@@ -75,8 +75,8 @@
       "naz": "OŠ BORCEV ZA SEVERNO MEJO, BORCEV ZA SEV. MEJO 16",
       "udel": {
         "upr": 1569,
-        "gl": 352,
-        "prc": 0.2243
+        "gl": 772,
+        "prc": 0.492
       },
       "rez": null,
       "prestetih_glasov": null
@@ -86,8 +86,8 @@
       "naz": "OŠ MARTIN KONŠAK, PREKMURSKA 67",
       "udel": {
         "upr": 749,
-        "gl": 144,
-        "prc": 0.1923
+        "gl": 330,
+        "prc": 0.4406
       },
       "rez": null,
       "prestetih_glasov": null
@@ -97,8 +97,8 @@
       "naz": "OŠ MARTIN KONŠAK, PREKMURSKA 67",
       "udel": {
         "upr": 1074,
-        "gl": 210,
-        "prc": 0.1955
+        "gl": 350,
+        "prc": 0.3259
       },
       "rez": null,
       "prestetih_glasov": null
@@ -108,8 +108,8 @@
       "naz": "OŠ S. KLAVORA, ŠTREKLJEVA 31",
       "udel": {
         "upr": 1074,
-        "gl": 229,
-        "prc": 0.2132
+        "gl": 453,
+        "prc": 0.4218
       },
       "rez": null,
       "prestetih_glasov": null
@@ -119,8 +119,8 @@
       "naz": "OŠ S. KLAVORA, ŠTREKLJEVA 31",
       "udel": {
         "upr": 1330,
-        "gl": 339,
-        "prc": 0.2549
+        "gl": 691,
+        "prc": 0.5195
       },
       "rez": null,
       "prestetih_glasov": null
@@ -130,8 +130,8 @@
       "naz": "PROSTORI DU, GORKEGA 48",
       "udel": {
         "upr": 733,
-        "gl": 170,
-        "prc": 0.2319
+        "gl": 360,
+        "prc": 0.4911
       },
       "rez": null,
       "prestetih_glasov": null
@@ -141,8 +141,8 @@
       "naz": "VRTEC JADVIGE GOLEŽ, BETNAVSKA CESTA 100",
       "udel": {
         "upr": 814,
-        "gl": 215,
-        "prc": 0.2641
+        "gl": 336,
+        "prc": 0.4128
       },
       "rez": null,
       "prestetih_glasov": null
@@ -152,8 +152,8 @@
       "naz": "VRTEC JADVIGE GOLEŽ, BETNAVSKA CESTA 100",
       "udel": {
         "upr": 785,
-        "gl": 174,
-        "prc": 0.2217
+        "gl": 404,
+        "prc": 0.5146
       },
       "rez": null,
       "prestetih_glasov": null
@@ -339,9 +339,9 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T12:36:38.0650501+02:00",
-    "datum": "2022-04-24T12:35:00+02:00",
-    "cas_udelezba": "11:00",
+    "timestamp": "2022-04-24T17:26:01.0294762+02:00",
+    "datum": "2022-04-24T17:30:00+02:00",
+    "cas_udelezba": "16:00",
     "has_udelezba": true,
     "has_rezultat": false,
     "is_final": false,

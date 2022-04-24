@@ -9,8 +9,8 @@
       "naz": "GASILSKI DOM ORLE, ORLE 39",
       "udel": {
         "upr": 189,
-        "gl": 70,
-        "prc": 0.3704
+        "gl": 129,
+        "prc": 0.6825
       },
       "rez": null,
       "prestetih_glasov": null
@@ -20,8 +20,8 @@
       "naz": "OŠ LIVADA, ULICA DUŠANA KRAIGHERJA 2",
       "udel": {
         "upr": 908,
-        "gl": 169,
-        "prc": 0.1861
+        "gl": 458,
+        "prc": 0.5044
       },
       "rez": null,
       "prestetih_glasov": null
@@ -31,8 +31,8 @@
       "naz": "OŠ LIVADA, ULICA DUŠANA KRAIGHERJA 2",
       "udel": {
         "upr": 797,
-        "gl": 110,
-        "prc": 0.138
+        "gl": 278,
+        "prc": 0.3488
       },
       "rez": null,
       "prestetih_glasov": null
@@ -42,8 +42,8 @@
       "naz": "OŠ LIVADA, ULICA DUŠANA KRAIGHERJA 2, LJUBLJANA",
       "udel": {
         "upr": 737,
-        "gl": 122,
-        "prc": 0.1655
+        "gl": 275,
+        "prc": 0.3731
       },
       "rez": null,
       "prestetih_glasov": null
@@ -53,8 +53,8 @@
       "naz": "OŠ OSKARJA KOVAČIČA, OB DOLENJSKI ŽELEZNICI 48",
       "udel": {
         "upr": 1322,
-        "gl": 160,
-        "prc": 0.121
+        "gl": 727,
+        "prc": 0.5499
       },
       "rez": null,
       "prestetih_glasov": null
@@ -64,8 +64,8 @@
       "naz": "OŠ OSKARJA KOVAČIČA, OB DOLENJSKI ŽELEZNICI 48",
       "udel": {
         "upr": 1211,
-        "gl": 274,
-        "prc": 0.2263
+        "gl": 681,
+        "prc": 0.5623
       },
       "rez": null,
       "prestetih_glasov": null
@@ -75,8 +75,8 @@
       "naz": "OŠ OSKARJA KOVAČIČA, OB DOLENJSKI ŽELEZNICI 48",
       "udel": {
         "upr": 1607,
-        "gl": 348,
-        "prc": 0.2166
+        "gl": 910,
+        "prc": 0.5663
       },
       "rez": null,
       "prestetih_glasov": null
@@ -86,8 +86,8 @@
       "naz": "OŠ OSKARJA KOVAČIČA, OB DOLENJSKI ŽELEZNICI 48",
       "udel": {
         "upr": 1294,
-        "gl": 250,
-        "prc": 0.1932
+        "gl": 646,
+        "prc": 0.4992
       },
       "rez": null,
       "prestetih_glasov": null
@@ -97,8 +97,8 @@
       "naz": "OŠ OSKARJA KOVAČIČA, OB DOLENJSKI ŽELEZNICI 48",
       "udel": {
         "upr": 1905,
-        "gl": 278,
-        "prc": 0.1459
+        "gl": 410,
+        "prc": 0.2152
       },
       "rez": null,
       "prestetih_glasov": null
@@ -108,8 +108,8 @@
       "naz": "OŠ TRNOVO, KARUNOVA UL. 14A",
       "udel": {
         "upr": 838,
-        "gl": 185,
-        "prc": 0.2208
+        "gl": 452,
+        "prc": 0.5394
       },
       "rez": null,
       "prestetih_glasov": null
@@ -119,8 +119,8 @@
       "naz": "OŠ TRNOVO, KARUNOVA UL. 14A",
       "udel": {
         "upr": 903,
-        "gl": 190,
-        "prc": 0.2104
+        "gl": 466,
+        "prc": 0.5161
       },
       "rez": null,
       "prestetih_glasov": null
@@ -130,8 +130,8 @@
       "naz": "OŠ TRNOVO, KARUNOVA UL. 14A, LJUBLJANA",
       "udel": {
         "upr": 926,
-        "gl": 233,
-        "prc": 0.2516
+        "gl": 530,
+        "prc": 0.5724
       },
       "rez": null,
       "prestetih_glasov": null
@@ -141,8 +141,8 @@
       "naz": "OŠ TRNOVO, KARUNOVA UL. 14A, LJUBLJANA",
       "udel": {
         "upr": 881,
-        "gl": 200,
-        "prc": 0.227
+        "gl": 464,
+        "prc": 0.5267
       },
       "rez": null,
       "prestetih_glasov": null
@@ -152,8 +152,8 @@
       "naz": "PODRUŽNIČNA ŠOLA LAVRICA,KAMNIKARJEVA 6,ŠKOFLJICA",
       "udel": {
         "upr": 1190,
-        "gl": 280,
-        "prc": 0.2353
+        "gl": 680,
+        "prc": 0.5714
       },
       "rez": null,
       "prestetih_glasov": null
@@ -163,8 +163,8 @@
       "naz": "PODRUŽNIČNA ŠOLA LAVRICA,KAMNIKARJEVA 6,ŠKOFLJICA",
       "udel": {
         "upr": 1132,
-        "gl": 257,
-        "prc": 0.227
+        "gl": 670,
+        "prc": 0.5919
       },
       "rez": null,
       "prestetih_glasov": null
@@ -348,9 +348,9 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T12:36:38.0650501+02:00",
-    "datum": "2022-04-24T12:35:00+02:00",
-    "cas_udelezba": "11:00",
+    "timestamp": "2022-04-24T17:26:01.0294762+02:00",
+    "datum": "2022-04-24T17:30:00+02:00",
+    "cas_udelezba": "16:00",
     "has_udelezba": true,
     "has_rezultat": false,
     "is_final": false,

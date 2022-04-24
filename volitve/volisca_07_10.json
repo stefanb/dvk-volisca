@@ -9,8 +9,8 @@
       "naz": "DOM KRAJANOV, RAZVANJSKA 22",
       "udel": {
         "upr": 1102,
-        "gl": 203,
-        "prc": 0.1842
+        "gl": 631,
+        "prc": 0.5726
       },
       "rez": null,
       "prestetih_glasov": null
@@ -20,8 +20,8 @@
       "naz": "DRAŠ CENTER, POHORSKA 57",
       "udel": {
         "upr": 847,
-        "gl": 194,
-        "prc": 0.229
+        "gl": 414,
+        "prc": 0.4888
       },
       "rez": null,
       "prestetih_glasov": null
@@ -31,8 +31,8 @@
       "naz": "HIŠNI SVET, BOROVA VAS 24",
       "udel": {
         "upr": 1341,
-        "gl": 337,
-        "prc": 0.2513
+        "gl": 720,
+        "prc": 0.5369
       },
       "rez": null,
       "prestetih_glasov": null
@@ -42,8 +42,8 @@
       "naz": "HIŠNI SVET, KNAFELČEVA 28",
       "udel": {
         "upr": 1358,
-        "gl": 326,
-        "prc": 0.2401
+        "gl": 713,
+        "prc": 0.525
       },
       "rez": null,
       "prestetih_glasov": null
@@ -53,8 +53,8 @@
       "naz": "JZ GASILSKA BRIGADA, C. PROLETARSKIH BRIGAD 21",
       "udel": {
         "upr": 599,
-        "gl": 127,
-        "prc": 0.212
+        "gl": 255,
+        "prc": 0.4257
       },
       "rez": null,
       "prestetih_glasov": null
@@ -64,8 +64,8 @@
       "naz": "JZ GASILSKA BRIGADA, C. PROLETARSKIH BRIGAD 21",
       "udel": {
         "upr": 1170,
-        "gl": 217,
-        "prc": 0.1855
+        "gl": 456,
+        "prc": 0.3897
       },
       "rez": null,
       "prestetih_glasov": null
@@ -75,8 +75,8 @@
       "naz": "MČ RADVANJE, LACKOVA 43",
       "udel": {
         "upr": 1101,
-        "gl": 232,
-        "prc": 0.2107
+        "gl": 578,
+        "prc": 0.525
       },
       "rez": null,
       "prestetih_glasov": null
@@ -86,8 +86,8 @@
       "naz": "OŠ LEONA ŠTUKLJA,KLINETOVA 18",
       "udel": {
         "upr": 792,
-        "gl": 220,
-        "prc": 0.2778
+        "gl": 453,
+        "prc": 0.572
       },
       "rez": null,
       "prestetih_glasov": null
@@ -97,8 +97,8 @@
       "naz": "OŠ LEONA ŠTUKLJA,KLINETOVA 18",
       "udel": {
         "upr": 827,
-        "gl": 233,
-        "prc": 0.2817
+        "gl": 479,
+        "prc": 0.5792
       },
       "rez": null,
       "prestetih_glasov": null
@@ -108,8 +108,8 @@
       "naz": "OŠ LUDVIKA PLIBERŠKA, LACKOVA 4",
       "udel": {
         "upr": 1435,
-        "gl": 300,
-        "prc": 0.2091
+        "gl": 777,
+        "prc": 0.5415
       },
       "rez": null,
       "prestetih_glasov": null
@@ -119,8 +119,8 @@
       "naz": "OŠ TABOR I, A. TOVORNIKA 21",
       "udel": {
         "upr": 782,
-        "gl": 165,
-        "prc": 0.211
+        "gl": 386,
+        "prc": 0.4936
       },
       "rez": null,
       "prestetih_glasov": null
@@ -130,8 +130,8 @@
       "naz": "OŠ TABOR I, A. TOVORNIKA 21",
       "udel": {
         "upr": 1388,
-        "gl": 250,
-        "prc": 0.1801
+        "gl": 737,
+        "prc": 0.531
       },
       "rez": null,
       "prestetih_glasov": null
@@ -141,8 +141,8 @@
       "naz": "PROSTORI MČ, RADVANJSKA 65",
       "udel": {
         "upr": 833,
-        "gl": 220,
-        "prc": 0.2641
+        "gl": 463,
+        "prc": 0.5558
       },
       "rez": null,
       "prestetih_glasov": null
@@ -152,8 +152,8 @@
       "naz": "VRTEC RADVANJE, GRIZOLDOVA 1",
       "udel": {
         "upr": 844,
-        "gl": 186,
-        "prc": 0.2204
+        "gl": 414,
+        "prc": 0.4905
       },
       "rez": null,
       "prestetih_glasov": null
@@ -163,8 +163,8 @@
       "naz": "ZD POSTAJA, CESTA PROLETARSKIH BRIGAD 71",
       "udel": {
         "upr": 727,
-        "gl": 188,
-        "prc": 0.2586
+        "gl": 407,
+        "prc": 0.5598
       },
       "rez": null,
       "prestetih_glasov": null
@@ -350,9 +350,9 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T12:36:38.0650501+02:00",
-    "datum": "2022-04-24T12:35:00+02:00",
-    "cas_udelezba": "11:00",
+    "timestamp": "2022-04-24T17:26:01.0294762+02:00",
+    "datum": "2022-04-24T17:30:00+02:00",
+    "cas_udelezba": "16:00",
     "has_udelezba": true,
     "has_rezultat": false,
     "is_final": false,

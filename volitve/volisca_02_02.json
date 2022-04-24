@@ -9,8 +9,8 @@
       "naz": "AVDITORIJ PORTOROŽ",
       "udel": {
         "upr": 849,
-        "gl": 140,
-        "prc": 0.1649
+        "gl": 379,
+        "prc": 0.4464
       },
       "rez": null,
       "prestetih_glasov": null
@@ -20,8 +20,8 @@
       "naz": "CENTER ZA STAREJŠE OBČANE LUCIJA I",
       "udel": {
         "upr": 995,
-        "gl": 171,
-        "prc": 0.1719
+        "gl": 430,
+        "prc": 0.4322
       },
       "rez": null,
       "prestetih_glasov": null
@@ -31,8 +31,8 @@
       "naz": "CENTER ZA STAREJŠE OBČANE LUCIJA II",
       "udel": {
         "upr": 1325,
-        "gl": 184,
-        "prc": 0.1389
+        "gl": 513,
+        "prc": 0.3872
       },
       "rez": null,
       "prestetih_glasov": null
@@ -42,8 +42,8 @@
       "naz": "DOM DRUŽBENIH ORGANIZACIJ BELI KRIŽ",
       "udel": {
         "upr": 1626,
-        "gl": 300,
-        "prc": 0.1845
+        "gl": 770,
+        "prc": 0.4736
       },
       "rez": null,
       "prestetih_glasov": null
@@ -53,8 +53,8 @@
       "naz": "DOM ZMAGA, NOVA VAS NAD DRAGONJO",
       "udel": {
         "upr": 196,
-        "gl": 37,
-        "prc": 0.1888
+        "gl": 102,
+        "prc": 0.5204
       },
       "rez": null,
       "prestetih_glasov": null
@@ -64,8 +64,8 @@
       "naz": "GLASBENA ŠOLA PIRAN",
       "udel": {
         "upr": 1412,
-        "gl": 250,
-        "prc": 0.1771
+        "gl": 512,
+        "prc": 0.3626
       },
       "rez": null,
       "prestetih_glasov": null
@@ -75,8 +75,8 @@
       "naz": "KRAJEVNA SKUPNOST STRUNJAN",
       "udel": {
         "upr": 516,
-        "gl": 87,
-        "prc": 0.1686
+        "gl": 262,
+        "prc": 0.5078
       },
       "rez": null,
       "prestetih_glasov": null
@@ -86,8 +86,8 @@
       "naz": "KULTURNI DOM B. JAKCA PADNA",
       "udel": {
         "upr": 146,
-        "gl": 23,
-        "prc": 0.1575
+        "gl": 84,
+        "prc": 0.5753
       },
       "rez": null,
       "prestetih_glasov": null
@@ -97,8 +97,8 @@
       "naz": "OSNOVNA ŠOLA LUCIJA I",
       "udel": {
         "upr": 1697,
-        "gl": 309,
-        "prc": 0.1821
+        "gl": 735,
+        "prc": 0.4331
       },
       "rez": null,
       "prestetih_glasov": null
@@ -108,8 +108,8 @@
       "naz": "OSNOVNA ŠOLA LUCIJA II",
       "udel": {
         "upr": 1352,
-        "gl": 300,
-        "prc": 0.2219
+        "gl": 605,
+        "prc": 0.4475
       },
       "rez": null,
       "prestetih_glasov": null
@@ -119,8 +119,8 @@
       "naz": "OSNOVNA ŠOLA SEČOVLJE",
       "udel": {
         "upr": 1742,
-        "gl": 315,
-        "prc": 0.1808
+        "gl": 709,
+        "prc": 0.407
       },
       "rez": null,
       "prestetih_glasov": null
@@ -130,8 +130,8 @@
       "naz": "OSNOVNA ŠOLA SV. PETER",
       "udel": {
         "upr": 316,
-        "gl": 64,
-        "prc": 0.2025
+        "gl": 186,
+        "prc": 0.5886
       },
       "rez": null,
       "prestetih_glasov": null
@@ -141,8 +141,8 @@
       "naz": "ZDRAVSTVENI DOM PIRAN",
       "udel": {
         "upr": 1359,
-        "gl": 260,
-        "prc": 0.1913
+        "gl": 553,
+        "prc": 0.4069
       },
       "rez": null,
       "prestetih_glasov": null
@@ -328,9 +328,9 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T12:36:38.0650501+02:00",
-    "datum": "2022-04-24T12:35:00+02:00",
-    "cas_udelezba": "11:00",
+    "timestamp": "2022-04-24T17:26:01.0294762+02:00",
+    "datum": "2022-04-24T17:30:00+02:00",
+    "cas_udelezba": "16:00",
     "has_udelezba": true,
     "has_rezultat": false,
     "is_final": false,

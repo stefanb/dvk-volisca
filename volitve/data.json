@@ -8,10 +8,14 @@
             "naz": "Jesenice",
             "udel": {
               "upr": 26220,
+              "gl": 13261,
+              "prc": 0.5058
+            },
+            "udel_11": {
+              "upr": 26220,
               "gl": 5858,
               "prc": 0.2234
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -21,10 +25,14 @@
             "naz": "Radovljica 1",
             "udel": {
               "upr": 13434,
+              "gl": 6957,
+              "prc": 0.5179
+            },
+            "udel_11": {
+              "upr": 13434,
               "gl": 3220,
               "prc": 0.2397
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -34,10 +42,14 @@
             "naz": "Radovljica 2",
             "udel": {
               "upr": 15916,
+              "gl": 8178,
+              "prc": 0.5138
+            },
+            "udel_11": {
+              "upr": 15916,
               "gl": 3434,
               "prc": 0.2158
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -47,10 +59,14 @@
             "naz": "Kranj 1",
             "udel": {
               "upr": 20382,
+              "gl": 9454,
+              "prc": 0.4638
+            },
+            "udel_11": {
+              "upr": 20382,
               "gl": 4517,
               "prc": 0.2216
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -60,10 +76,14 @@
             "naz": "Kranj 2",
             "udel": {
               "upr": 20455,
+              "gl": 10012,
+              "prc": 0.4895
+            },
+            "udel_11": {
+              "upr": 20455,
               "gl": 4200,
               "prc": 0.2053
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -73,10 +93,14 @@
             "naz": "Kranj 3",
             "udel": {
               "upr": 24293,
+              "gl": 14541,
+              "prc": 0.5986
+            },
+            "udel_11": {
+              "upr": 24293,
               "gl": 6377,
               "prc": 0.2625
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -86,10 +110,14 @@
             "naz": "Tržič",
             "udel": {
               "upr": 12493,
+              "gl": 5779,
+              "prc": 0.4626
+            },
+            "udel_11": {
+              "upr": 12493,
               "gl": 2693,
               "prc": 0.2156
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -99,10 +127,14 @@
             "naz": "Škofja Loka 1",
             "udel": {
               "upr": 18615,
+              "gl": 9742,
+              "prc": 0.5233
+            },
+            "udel_11": {
+              "upr": 18615,
               "gl": 4254,
               "prc": 0.2285
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -112,10 +144,14 @@
             "naz": "Škofja Loka 2",
             "udel": {
               "upr": 15419,
+              "gl": 9285,
+              "prc": 0.6022
+            },
+            "udel_11": {
+              "upr": 15419,
               "gl": 4100,
               "prc": 0.2659
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -125,10 +161,14 @@
             "naz": "Kamnik",
             "udel": {
               "upr": 27960,
+              "gl": 14096,
+              "prc": 0.5041
+            },
+            "udel_11": {
+              "upr": 27960,
               "gl": 5774,
               "prc": 0.2065
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -138,10 +178,14 @@
             "naz": "Idrija",
             "udel": {
               "upr": 13497,
+              "gl": 7008,
+              "prc": 0.5192
+            },
+            "udel_11": {
+              "upr": 13497,
               "gl": 3291,
               "prc": 0.2438
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -151,10 +195,14 @@
         "naz": "Kranj",
         "udel": {
           "upr": 208684,
+          "gl": 108313,
+          "prc": 0.519
+        },
+        "udel_11": {
+          "upr": 208684,
           "gl": 47718,
           "prc": 0.2287
         },
-        "udel_11": null,
         "udel_16": null,
         "rez": null,
         "prestetih_glasov": null
@@ -166,10 +214,14 @@
             "naz": "Tolmin",
             "udel": {
               "upr": 16066,
+              "gl": 8661,
+              "prc": 0.5391
+            },
+            "udel_11": {
+              "upr": 16066,
               "gl": 4278,
               "prc": 0.2663
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -179,10 +231,14 @@
             "naz": "Piran",
             "udel": {
               "upr": 14706,
+              "gl": 5854,
+              "prc": 0.3981
+            },
+            "udel_11": {
+              "upr": 14706,
               "gl": 2446,
               "prc": 0.1663
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -192,10 +248,14 @@
             "naz": "Izola",
             "udel": {
               "upr": 12644,
+              "gl": 5718,
+              "prc": 0.4522
+            },
+            "udel_11": {
+              "upr": 12644,
               "gl": 2421,
               "prc": 0.1915
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -205,10 +265,14 @@
             "naz": "Koper 1",
             "udel": {
               "upr": 18483,
+              "gl": 7713,
+              "prc": 0.4173
+            },
+            "udel_11": {
+              "upr": 18483,
               "gl": 3354,
               "prc": 0.1815
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -218,10 +282,14 @@
             "naz": "Koper 2",
             "udel": {
               "upr": 24984,
+              "gl": 12160,
+              "prc": 0.4867
+            },
+            "udel_11": {
+              "upr": 24984,
               "gl": 5222,
               "prc": 0.209
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -231,10 +299,14 @@
             "naz": "Sežana",
             "udel": {
               "upr": 21965,
+              "gl": 10568,
+              "prc": 0.4811
+            },
+            "udel_11": {
+              "upr": 21965,
               "gl": 4728,
               "prc": 0.2153
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -244,10 +316,14 @@
             "naz": "Ilirska Bistrica",
             "udel": {
               "upr": 12706,
+              "gl": 5587,
+              "prc": 0.4397
+            },
+            "udel_11": {
+              "upr": 12706,
               "gl": 2336,
               "prc": 0.1839
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -257,10 +333,14 @@
             "naz": "Postojna",
             "udel": {
               "upr": 18119,
+              "gl": 8575,
+              "prc": 0.4733
+            },
+            "udel_11": {
+              "upr": 18119,
               "gl": 3845,
               "prc": 0.2122
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -270,10 +350,14 @@
             "naz": "Nova Gorica 1",
             "udel": {
               "upr": 25098,
+              "gl": 13369,
+              "prc": 0.5327
+            },
+            "udel_11": {
+              "upr": 25098,
               "gl": 5477,
               "prc": 0.2182
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -283,10 +367,14 @@
             "naz": "Nova Gorica 2",
             "udel": {
               "upr": 23879,
+              "gl": 11423,
+              "prc": 0.4784
+            },
+            "udel_11": {
+              "upr": 23879,
               "gl": 4850,
               "prc": 0.2031
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -296,10 +384,14 @@
             "naz": "Ajdovščina",
             "udel": {
               "upr": 20656,
+              "gl": 10833,
+              "prc": 0.5244
+            },
+            "udel_11": {
+              "upr": 20656,
               "gl": 4711,
               "prc": 0.2281
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -309,10 +401,14 @@
         "naz": "Postojna",
         "udel": {
           "upr": 209306,
+          "gl": 100461,
+          "prc": 0.48
+        },
+        "udel_11": {
+          "upr": 209306,
           "gl": 43668,
           "prc": 0.2086
         },
-        "udel_11": null,
         "udel_16": null,
         "rez": null,
         "prestetih_glasov": null
@@ -324,10 +420,14 @@
             "naz": "Logatec",
             "udel": {
               "upr": 25039,
+              "gl": 12928,
+              "prc": 0.5163
+            },
+            "udel_11": {
+              "upr": 25039,
               "gl": 5529,
               "prc": 0.2208
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -337,10 +437,14 @@
             "naz": "Vrhnika",
             "udel": {
               "upr": 20084,
+              "gl": 10866,
+              "prc": 0.541
+            },
+            "udel_11": {
+              "upr": 20084,
               "gl": 4730,
               "prc": 0.2355
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -350,10 +454,14 @@
             "naz": "Ljubljana Vič - Rudnik 1",
             "udel": {
               "upr": 25494,
+              "gl": 14833,
+              "prc": 0.5818
+            },
+            "udel_11": {
+              "upr": 25494,
               "gl": 6359,
               "prc": 0.2494
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -363,10 +471,14 @@
             "naz": "Ljubljana Vič - Rudnik 2",
             "udel": {
               "upr": 16849,
+              "gl": 7780,
+              "prc": 0.4617
+            },
+            "udel_11": {
+              "upr": 16849,
               "gl": 3127,
               "prc": 0.1856
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -376,10 +488,14 @@
             "naz": "Ljubljana Vič - Rudnik 3",
             "udel": {
               "upr": 16335,
+              "gl": 8127,
+              "prc": 0.4975
+            },
+            "udel_11": {
+              "upr": 16335,
               "gl": 3836,
               "prc": 0.2348
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -389,10 +505,14 @@
             "naz": "Ljubljana Vič - Rudnik 4",
             "udel": {
               "upr": 21800,
+              "gl": 11295,
+              "prc": 0.5181
+            },
+            "udel_11": {
+              "upr": 21800,
               "gl": 4948,
               "prc": 0.227
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -402,10 +522,14 @@
             "naz": "Ljubljana Center",
             "udel": {
               "upr": 22220,
+              "gl": 8379,
+              "prc": 0.3771
+            },
+            "udel_11": {
+              "upr": 22220,
               "gl": 3332,
               "prc": 0.15
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -415,10 +539,14 @@
             "naz": "Ljubljana Šiška 1",
             "udel": {
               "upr": 14089,
+              "gl": 6597,
+              "prc": 0.4682
+            },
+            "udel_11": {
+              "upr": 14089,
               "gl": 2776,
               "prc": 0.197
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -428,10 +556,14 @@
             "naz": "Ljubljana Šiška 2",
             "udel": {
               "upr": 18147,
+              "gl": 8828,
+              "prc": 0.4865
+            },
+            "udel_11": {
+              "upr": 18147,
               "gl": 3792,
               "prc": 0.209
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -441,10 +573,14 @@
             "naz": "Ljubljana Šiška 3",
             "udel": {
               "upr": 16955,
+              "gl": 8659,
+              "prc": 0.5107
+            },
+            "udel_11": {
+              "upr": 16955,
               "gl": 3779,
               "prc": 0.2229
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -453,11 +589,15 @@
             "st": 11,
             "naz": "Ljubljana Šiška 4",
             "udel": {
+              "upr": 22472,
+              "gl": 13217,
+              "prc": 0.5882
+            },
+            "udel_11": {
               "upr": 21686,
               "gl": 5793,
               "prc": 0.2671
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -466,11 +606,15 @@
         "st": 3,
         "naz": "Ljubljana Center",
         "udel": {
+          "upr": 219484,
+          "gl": 111509,
+          "prc": 0.5081
+        },
+        "udel_11": {
           "upr": 218698,
           "gl": 48001,
           "prc": 0.2195
         },
-        "udel_11": null,
         "udel_16": null,
         "rez": null,
         "prestetih_glasov": null
@@ -482,10 +626,14 @@
             "naz": "Kočevje",
             "udel": {
               "upr": 14210,
+              "gl": 6359,
+              "prc": 0.4475
+            },
+            "udel_11": {
+              "upr": 14210,
               "gl": 2874,
               "prc": 0.2023
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -495,10 +643,14 @@
             "naz": "Ribnica - Dobrepolje",
             "udel": {
               "upr": 14528,
+              "gl": 7561,
+              "prc": 0.5204
+            },
+            "udel_11": {
+              "upr": 14528,
               "gl": 3157,
               "prc": 0.2173
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -508,10 +660,14 @@
             "naz": "Grosuplje",
             "udel": {
               "upr": 15897,
+              "gl": 8072,
+              "prc": 0.5078
+            },
+            "udel_11": {
+              "upr": 15897,
               "gl": 3368,
               "prc": 0.2119
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -521,10 +677,14 @@
             "naz": "Ivančna Gorica",
             "udel": {
               "upr": 13132,
+              "gl": 7136,
+              "prc": 0.5434
+            },
+            "udel_11": {
+              "upr": 13132,
               "gl": 2930,
               "prc": 0.2231
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -534,10 +694,14 @@
             "naz": "Ljubljana Moste - Polje 1",
             "udel": {
               "upr": 23329,
+              "gl": 12506,
+              "prc": 0.5361
+            },
+            "udel_11": {
+              "upr": 23329,
               "gl": 5325,
               "prc": 0.2283
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -546,11 +710,15 @@
             "st": 6,
             "naz": "Ljubljana Moste - Polje 2",
             "udel": {
+              "upr": 15339,
+              "gl": 7058,
+              "prc": 0.4601
+            },
+            "udel_11": {
               "upr": 15336,
               "gl": 3430,
               "prc": 0.2237
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -560,10 +728,14 @@
             "naz": "Ljubljana Moste - Polje 3",
             "udel": {
               "upr": 20250,
+              "gl": 9436,
+              "prc": 0.466
+            },
+            "udel_11": {
+              "upr": 20250,
               "gl": 4058,
               "prc": 0.2004
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -573,10 +745,14 @@
             "naz": "Ljubljana Bežigrad 1",
             "udel": {
               "upr": 23372,
+              "gl": 11841,
+              "prc": 0.5066
+            },
+            "udel_11": {
+              "upr": 23372,
               "gl": 5451,
               "prc": 0.2332
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -586,10 +762,14 @@
             "naz": "Ljubljana Bežigrad 2",
             "udel": {
               "upr": 21133,
+              "gl": 9086,
+              "prc": 0.4299
+            },
+            "udel_11": {
+              "upr": 21133,
               "gl": 3805,
               "prc": 0.1801
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -599,10 +779,14 @@
             "naz": "Domžale 1",
             "udel": {
               "upr": 24506,
+              "gl": 12361,
+              "prc": 0.5044
+            },
+            "udel_11": {
+              "upr": 24506,
               "gl": 3901,
               "prc": 0.1592
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -611,11 +795,15 @@
             "st": 11,
             "naz": "Domžale 2",
             "udel": {
+              "upr": 22805,
+              "gl": 10616,
+              "prc": 0.4655
+            },
+            "udel_11": {
               "upr": 23591,
               "gl": 3335,
               "prc": 0.1414
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -624,11 +812,15 @@
         "st": 4,
         "naz": "Ljubljana Bežigrad",
         "udel": {
+          "upr": 208501,
+          "gl": 102032,
+          "prc": 0.4894
+        },
+        "udel_11": {
           "upr": 209284,
           "gl": 41634,
           "prc": 0.1989
         },
-        "udel_11": null,
         "udel_16": null,
         "rez": null,
         "prestetih_glasov": null
@@ -640,10 +832,14 @@
             "naz": "Šentjur",
             "udel": {
               "upr": 17077,
+              "gl": 8488,
+              "prc": 0.497
+            },
+            "udel_11": {
+              "upr": 17077,
               "gl": 3174,
               "prc": 0.1859
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -653,10 +849,14 @@
             "naz": "Celje 1",
             "udel": {
               "upr": 29422,
+              "gl": 15195,
+              "prc": 0.5165
+            },
+            "udel_11": {
+              "upr": 29422,
               "gl": 6570,
               "prc": 0.2233
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -666,10 +866,14 @@
             "naz": "Celje 2",
             "udel": {
               "upr": 21855,
+              "gl": 10286,
+              "prc": 0.4706
+            },
+            "udel_11": {
+              "upr": 21855,
               "gl": 4382,
               "prc": 0.2005
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -679,10 +883,14 @@
             "naz": "Žalec 1",
             "udel": {
               "upr": 18004,
+              "gl": 9604,
+              "prc": 0.5334
+            },
+            "udel_11": {
+              "upr": 18004,
               "gl": 4103,
               "prc": 0.2279
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -692,10 +900,14 @@
             "naz": "Žalec 2",
             "udel": {
               "upr": 18630,
+              "gl": 10503,
+              "prc": 0.5638
+            },
+            "udel_11": {
+              "upr": 18630,
               "gl": 4482,
               "prc": 0.2406
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -705,10 +917,14 @@
             "naz": "Mozirje",
             "udel": {
               "upr": 13700,
+              "gl": 7268,
+              "prc": 0.5305
+            },
+            "udel_11": {
+              "upr": 13700,
               "gl": 2909,
               "prc": 0.2123
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -718,10 +934,14 @@
             "naz": "Velenje 1",
             "udel": {
               "upr": 16320,
+              "gl": 7156,
+              "prc": 0.4385
+            },
+            "udel_11": {
+              "upr": 16320,
               "gl": 3334,
               "prc": 0.2043
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -731,10 +951,14 @@
             "naz": "Velenje 2",
             "udel": {
               "upr": 17458,
+              "gl": 8850,
+              "prc": 0.5069
+            },
+            "udel_11": {
+              "upr": 17458,
               "gl": 3791,
               "prc": 0.2171
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -744,10 +968,14 @@
             "naz": "Slovenj Gradec",
             "udel": {
               "upr": 17942,
+              "gl": 9184,
+              "prc": 0.5119
+            },
+            "udel_11": {
+              "upr": 17942,
               "gl": 3649,
               "prc": 0.2034
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -757,10 +985,14 @@
             "naz": "Ravne na Koroškem",
             "udel": {
               "upr": 20946,
+              "gl": 10523,
+              "prc": 0.5024
+            },
+            "udel_11": {
+              "upr": 20946,
               "gl": 4613,
               "prc": 0.2202
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -770,10 +1002,14 @@
             "naz": "Radlje",
             "udel": {
               "upr": 20624,
+              "gl": 10104,
+              "prc": 0.4899
+            },
+            "udel_11": {
+              "upr": 20624,
               "gl": 3972,
               "prc": 0.1926
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -783,10 +1019,14 @@
         "naz": "Celje",
         "udel": {
           "upr": 211978,
+          "gl": 107161,
+          "prc": 0.5055
+        },
+        "udel_11": {
+          "upr": 211978,
           "gl": 44979,
           "prc": 0.2122
         },
-        "udel_11": null,
         "udel_16": null,
         "rez": null,
         "prestetih_glasov": null
@@ -798,10 +1038,14 @@
             "naz": "Črnomelj",
             "udel": {
               "upr": 22803,
+              "gl": 10884,
+              "prc": 0.4773
+            },
+            "udel_11": {
+              "upr": 22803,
               "gl": 4928,
               "prc": 0.2161
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -811,10 +1055,14 @@
             "naz": "Novo mesto 1",
             "udel": {
               "upr": 24415,
+              "gl": 13498,
+              "prc": 0.5529
+            },
+            "udel_11": {
+              "upr": 24415,
               "gl": 5388,
               "prc": 0.2207
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -824,10 +1072,14 @@
             "naz": "Novo mesto 2",
             "udel": {
               "upr": 25700,
+              "gl": 12899,
+              "prc": 0.5019
+            },
+            "udel_11": {
+              "upr": 25700,
               "gl": 5606,
               "prc": 0.2181
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -837,10 +1089,14 @@
             "naz": "Trebnje",
             "udel": {
               "upr": 16877,
+              "gl": 9114,
+              "prc": 0.54
+            },
+            "udel_11": {
+              "upr": 16877,
               "gl": 3610,
               "prc": 0.2139
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -850,10 +1106,14 @@
             "naz": "Brežice",
             "udel": {
               "upr": 21220,
+              "gl": 9502,
+              "prc": 0.4478
+            },
+            "udel_11": {
+              "upr": 21220,
               "gl": 4199,
               "prc": 0.1979
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -863,10 +1123,14 @@
             "naz": "Krško",
             "udel": {
               "upr": 23408,
+              "gl": 11651,
+              "prc": 0.4977
+            },
+            "udel_11": {
+              "upr": 23408,
               "gl": 4784,
               "prc": 0.2044
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -876,10 +1140,14 @@
             "naz": "Sevnica",
             "udel": {
               "upr": 17115,
+              "gl": 8805,
+              "prc": 0.5145
+            },
+            "udel_11": {
+              "upr": 17115,
               "gl": 3808,
               "prc": 0.2225
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -889,10 +1157,14 @@
             "naz": "Laško",
             "udel": {
               "upr": 14854,
+              "gl": 7061,
+              "prc": 0.4754
+            },
+            "udel_11": {
+              "upr": 14854,
               "gl": 2990,
               "prc": 0.2013
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -902,10 +1174,14 @@
             "naz": "Litija",
             "udel": {
               "upr": 17194,
+              "gl": 9125,
+              "prc": 0.5307
+            },
+            "udel_11": {
+              "upr": 17194,
               "gl": 3981,
               "prc": 0.2315
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -915,10 +1191,14 @@
             "naz": "Hrastnik - Trbovlje",
             "udel": {
               "upr": 21223,
+              "gl": 9881,
+              "prc": 0.4656
+            },
+            "udel_11": {
+              "upr": 21223,
               "gl": 4654,
               "prc": 0.2193
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -928,10 +1208,14 @@
             "naz": "Zagorje",
             "udel": {
               "upr": 13694,
+              "gl": 7172,
+              "prc": 0.5237
+            },
+            "udel_11": {
+              "upr": 13694,
               "gl": 3326,
               "prc": 0.2429
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -941,10 +1225,14 @@
         "naz": "Novo mesto",
         "udel": {
           "upr": 218503,
+          "gl": 109592,
+          "prc": 0.5016
+        },
+        "udel_11": {
+          "upr": 218503,
           "gl": 47274,
           "prc": 0.2164
         },
-        "udel_11": null,
         "udel_16": null,
         "rez": null,
         "prestetih_glasov": null
@@ -956,10 +1244,14 @@
             "naz": "Šmarje pri Jelšah",
             "udel": {
               "upr": 27716,
+              "gl": 11224,
+              "prc": 0.405
+            },
+            "udel_11": {
+              "upr": 27716,
               "gl": 3497,
               "prc": 0.1262
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -969,10 +1261,14 @@
             "naz": "Slovenska Bistrica",
             "udel": {
               "upr": 25292,
+              "gl": 12958,
+              "prc": 0.5123
+            },
+            "udel_11": {
+              "upr": 25292,
               "gl": 5702,
               "prc": 0.2254
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -982,10 +1278,14 @@
             "naz": "Slovenske Konjice",
             "udel": {
               "upr": 19048,
+              "gl": 10059,
+              "prc": 0.5281
+            },
+            "udel_11": {
+              "upr": 19048,
               "gl": 4048,
               "prc": 0.2125
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -995,10 +1295,14 @@
             "naz": "Ruše",
             "udel": {
               "upr": 12684,
+              "gl": 5788,
+              "prc": 0.4563
+            },
+            "udel_11": {
+              "upr": 12684,
               "gl": 2621,
               "prc": 0.2066
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -1008,10 +1312,14 @@
             "naz": "Maribor 1",
             "udel": {
               "upr": 23510,
+              "gl": 11734,
+              "prc": 0.4991
+            },
+            "udel_11": {
+              "upr": 23510,
               "gl": 5143,
               "prc": 0.2188
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -1021,10 +1329,14 @@
             "naz": "Maribor 2",
             "udel": {
               "upr": 21181,
+              "gl": 10419,
+              "prc": 0.4919
+            },
+            "udel_11": {
+              "upr": 21181,
               "gl": 4586,
               "prc": 0.2165
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -1034,10 +1346,14 @@
             "naz": "Maribor 3",
             "udel": {
               "upr": 17439,
+              "gl": 8405,
+              "prc": 0.482
+            },
+            "udel_11": {
+              "upr": 17439,
               "gl": 3654,
               "prc": 0.2095
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -1047,10 +1363,14 @@
             "naz": "Maribor 4",
             "udel": {
               "upr": 14209,
+              "gl": 4877,
+              "prc": 0.3432
+            },
+            "udel_11": {
+              "upr": 14209,
               "gl": 2498,
               "prc": 0.1758
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -1060,10 +1380,14 @@
             "naz": "Maribor 5",
             "udel": {
               "upr": 16736,
+              "gl": 6993,
+              "prc": 0.4178
+            },
+            "udel_11": {
+              "upr": 16736,
               "gl": 3366,
               "prc": 0.2011
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -1073,10 +1397,14 @@
             "naz": "Maribor 6",
             "udel": {
               "upr": 16215,
+              "gl": 7885,
+              "prc": 0.4863
+            },
+            "udel_11": {
+              "upr": 16215,
               "gl": 3398,
               "prc": 0.2096
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -1086,10 +1414,14 @@
             "naz": "Maribor 7",
             "udel": {
               "upr": 14247,
+              "gl": 5582,
+              "prc": 0.3918
+            },
+            "udel_11": {
+              "upr": 14247,
               "gl": 2854,
               "prc": 0.2003
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -1099,10 +1431,14 @@
         "naz": "Maribor",
         "udel": {
           "upr": 208277,
+          "gl": 95924,
+          "prc": 0.4606
+        },
+        "udel_11": {
+          "upr": 208277,
           "gl": 41367,
           "prc": 0.1986
         },
-        "udel_11": null,
         "udel_16": null,
         "rez": null,
         "prestetih_glasov": null
@@ -1114,10 +1450,14 @@
             "naz": "Lendava",
             "udel": {
               "upr": 21397,
+              "gl": 9045,
+              "prc": 0.4227
+            },
+            "udel_11": {
+              "upr": 21397,
               "gl": 3640,
               "prc": 0.1701
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -1127,10 +1467,14 @@
             "naz": "Ormož",
             "udel": {
               "upr": 14290,
+              "gl": 7129,
+              "prc": 0.4989
+            },
+            "udel_11": {
+              "upr": 14290,
               "gl": 2788,
               "prc": 0.1951
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -1140,10 +1484,14 @@
             "naz": "Ljutomer",
             "udel": {
               "upr": 15207,
+              "gl": 7232,
+              "prc": 0.4756
+            },
+            "udel_11": {
+              "upr": 15207,
               "gl": 3212,
               "prc": 0.2112
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -1153,10 +1501,14 @@
             "naz": "Murska Sobota 1",
             "udel": {
               "upr": 24689,
+              "gl": 11630,
+              "prc": 0.4711
+            },
+            "udel_11": {
+              "upr": 24689,
               "gl": 4564,
               "prc": 0.1849
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -1166,10 +1518,14 @@
             "naz": "Murska Sobota 2",
             "udel": {
               "upr": 25086,
+              "gl": 11981,
+              "prc": 0.4776
+            },
+            "udel_11": {
+              "upr": 25086,
               "gl": 4959,
               "prc": 0.1977
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -1179,10 +1535,14 @@
             "naz": "Gornja Radgona",
             "udel": {
               "upr": 17861,
+              "gl": 9289,
+              "prc": 0.5201
+            },
+            "udel_11": {
+              "upr": 17861,
               "gl": 5033,
               "prc": 0.2818
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -1192,10 +1552,14 @@
             "naz": "Lenart",
             "udel": {
               "upr": 16338,
+              "gl": 7670,
+              "prc": 0.4695
+            },
+            "udel_11": {
+              "upr": 16338,
               "gl": 3455,
               "prc": 0.2115
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -1205,10 +1569,14 @@
             "naz": "Pesnica",
             "udel": {
               "upr": 17937,
+              "gl": 8260,
+              "prc": 0.4605
+            },
+            "udel_11": {
+              "upr": 17937,
               "gl": 3556,
               "prc": 0.1982
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -1218,10 +1586,14 @@
             "naz": "Ptuj 1",
             "udel": {
               "upr": 21444,
+              "gl": 10908,
+              "prc": 0.5087
+            },
+            "udel_11": {
+              "upr": 21444,
               "gl": 4069,
               "prc": 0.1898
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -1231,10 +1603,14 @@
             "naz": "Ptuj 2",
             "udel": {
               "upr": 17082,
+              "gl": 8196,
+              "prc": 0.4798
+            },
+            "udel_11": {
+              "upr": 17082,
               "gl": 3169,
               "prc": 0.1855
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -1244,10 +1620,14 @@
             "naz": "Ptuj 3",
             "udel": {
               "upr": 19707,
+              "gl": 9749,
+              "prc": 0.4947
+            },
+            "udel_11": {
+              "upr": 19707,
               "gl": 3890,
               "prc": 0.1974
             },
-            "udel_11": null,
             "udel_16": null,
             "rez": null,
             "prestetih_glasov": null
@@ -1257,10 +1637,14 @@
         "naz": "Ptuj",
         "udel": {
           "upr": 211038,
+          "gl": 101089,
+          "prc": 0.479
+        },
+        "udel_11": {
+          "upr": 211038,
           "gl": 42335,
           "prc": 0.2006
         },
-        "udel_11": null,
         "udel_16": null,
         "rez": null,
         "prestetih_glasov": null
@@ -1272,10 +1656,14 @@
         "naziv": "Volišča OMNIA",
         "udel": {
           "upr": null,
+          "gl": 2083,
+          "prc": null
+        },
+        "udel_11": {
+          "upr": null,
           "gl": 670,
           "prc": null
         },
-        "udel_11": null,
         "udel_16": null,
         "rez": null,
         "prestetih_glasov": null
@@ -1288,13 +1676,30 @@
           "gl": 0,
           "prc": null
         },
-        "udel_11": null,
+        "udel_11": {
+          "upr": null,
+          "gl": 0,
+          "prc": null
+        },
         "udel_16": null,
         "rez": null,
         "prestetih_glasov": null
       }
     ],
     "udel": {
+      "upr_red": 1695766,
+      "upr_pos": 0,
+      "gl_ime": 836076,
+      "gl_pot": 5,
+      "gl_pos": 0,
+      "gl_inv": 0,
+      "gl_vol_omnia": 2083,
+      "gl_vol_inv": null,
+      "upr": 1695771,
+      "gl": 836081,
+      "prc": 0.493
+    },
+    "udel_11": {
       "upr_red": 1695766,
       "upr_pos": 0,
       "gl_ime": 356974,
@@ -1307,17 +1712,16 @@
       "gl": 356976,
       "prc": 0.2105
     },
-    "udel_11": null,
     "udel_16": null,
     "rez": null,
     "prestetih_glasov": null
   },
   "nastavitve": {
-    "timestamp": "2022-04-24T12:36:38.029Z",
-    "datum": "2022-04-24T12:35:00Z",
-    "cas_udelezba": "11:00",
+    "timestamp": "2022-04-24T17:26:00.994Z",
+    "datum": "2022-04-24T17:30:00Z",
+    "cas_udelezba": "16:00",
     "has_udelezba": true,
-    "has_udel_11": false,
+    "has_udel_11": true,
     "has_udel_16": false,
     "has_rezultat": false,
     "is_final": false,

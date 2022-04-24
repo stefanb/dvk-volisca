@@ -9,8 +9,8 @@
       "naz": "DOM KRAJANOV KRČEVINA, ŠUBIČEVA UL. 11",
       "udel": {
         "upr": 746,
-        "gl": 186,
-        "prc": 0.2493
+        "gl": 401,
+        "prc": 0.5375
       },
       "rez": null,
       "prestetih_glasov": null
@@ -20,8 +20,8 @@
       "naz": "DOM KRAJANOV, V ZAVOJU 40B",
       "udel": {
         "upr": 997,
-        "gl": 236,
-        "prc": 0.2367
+        "gl": 504,
+        "prc": 0.5055
       },
       "rez": null,
       "prestetih_glasov": null
@@ -31,8 +31,8 @@
       "naz": "OŠ B. POLANČIČ, PREŠERNOVA 19",
       "udel": {
         "upr": 554,
-        "gl": 115,
-        "prc": 0.2076
+        "gl": 257,
+        "prc": 0.4639
       },
       "rez": null,
       "prestetih_glasov": null
@@ -42,8 +42,8 @@
       "naz": "OŠ B. POLANČIČ, PREŠERNOVA 19",
       "udel": {
         "upr": 738,
-        "gl": 160,
-        "prc": 0.2168
+        "gl": 245,
+        "prc": 0.332
       },
       "rez": null,
       "prestetih_glasov": null
@@ -53,8 +53,8 @@
       "naz": "OŠ F.R. STANE, KERSNIKOVA 10",
       "udel": {
         "upr": 1025,
-        "gl": 284,
-        "prc": 0.2771
+        "gl": 506,
+        "prc": 0.4937
       },
       "rez": null,
       "prestetih_glasov": null
@@ -64,8 +64,8 @@
       "naz": "OŠ F.R. STANE, KERSNIKOVA 10",
       "udel": {
         "upr": 729,
-        "gl": 173,
-        "prc": 0.2373
+        "gl": 346,
+        "prc": 0.4746
       },
       "rez": null,
       "prestetih_glasov": null
@@ -75,8 +75,8 @@
       "naz": "PROSTORI MČ CENTER, KACOVA 1",
       "udel": {
         "upr": 1057,
-        "gl": 207,
-        "prc": 0.1958
+        "gl": 264,
+        "prc": 0.2498
       },
       "rez": null,
       "prestetih_glasov": null
@@ -86,8 +86,8 @@
       "naz": "RAZSTAVNI SALON, GRAJSKA UL. 7",
       "udel": {
         "upr": 1533,
-        "gl": 200,
-        "prc": 0.1305
+        "gl": 483,
+        "prc": 0.3151
       },
       "rez": null,
       "prestetih_glasov": null
@@ -97,8 +97,8 @@
       "naz": "RAZSTAVNI SALON, GRAJSKA UL.7",
       "udel": {
         "upr": 1056,
-        "gl": 183,
-        "prc": 0.1733
+        "gl": 395,
+        "prc": 0.3741
       },
       "rez": null,
       "prestetih_glasov": null
@@ -108,8 +108,8 @@
       "naz": "SR.GRADBENA ŠOLA,SMETANOVA 35",
       "udel": {
         "upr": 570,
-        "gl": 91,
-        "prc": 0.1596
+        "gl": 202,
+        "prc": 0.3544
       },
       "rez": null,
       "prestetih_glasov": null
@@ -119,8 +119,8 @@
       "naz": "SR.GRADBENA ŠOLA,SMETANOVA 35",
       "udel": {
         "upr": 568,
-        "gl": 116,
-        "prc": 0.2042
+        "gl": 249,
+        "prc": 0.4384
       },
       "rez": null,
       "prestetih_glasov": null
@@ -130,8 +130,8 @@
       "naz": "SR.GRADBENA ŠOLA,SMETANOVA 35",
       "udel": {
         "upr": 1075,
-        "gl": 197,
-        "prc": 0.1833
+        "gl": 270,
+        "prc": 0.2512
       },
       "rez": null,
       "prestetih_glasov": null
@@ -141,8 +141,8 @@
       "naz": "SR.GRADBENA ŠOLA,SMETANOVA 35",
       "udel": {
         "upr": 678,
-        "gl": 162,
-        "prc": 0.2389
+        "gl": 324,
+        "prc": 0.4779
       },
       "rez": null,
       "prestetih_glasov": null
@@ -152,8 +152,8 @@
       "naz": "SR.GRADBENA ŠOLA,SMETANOVA 35",
       "udel": {
         "upr": 825,
-        "gl": 187,
-        "prc": 0.2267
+        "gl": 425,
+        "prc": 0.5152
       },
       "rez": null,
       "prestetih_glasov": null
@@ -339,9 +339,9 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T12:36:38.0650501+02:00",
-    "datum": "2022-04-24T12:35:00+02:00",
-    "cas_udelezba": "11:00",
+    "timestamp": "2022-04-24T17:26:01.0294762+02:00",
+    "datum": "2022-04-24T17:30:00+02:00",
+    "cas_udelezba": "16:00",
     "has_udelezba": true,
     "has_rezultat": false,
     "is_final": false,

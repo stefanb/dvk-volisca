@@ -9,8 +9,8 @@
       "naz": "DOM KRAJANOV TEMENICA, TEMENICA 2A",
       "udel": {
         "upr": 585,
-        "gl": 130,
-        "prc": 0.2222
+        "gl": 321,
+        "prc": 0.5487
       },
       "rez": null,
       "prestetih_glasov": null
@@ -20,8 +20,8 @@
       "naz": "DRUŽBENI CENTER KRKA, KRKA 1D",
       "udel": {
         "upr": 1088,
-        "gl": 273,
-        "prc": 0.2509
+        "gl": 613,
+        "prc": 0.5634
       },
       "rez": null,
       "prestetih_glasov": null
@@ -31,8 +31,8 @@
       "naz": "GASILSKI DOM DOB, DOB PRI ŠENTVIDU 8",
       "udel": {
         "upr": 458,
-        "gl": 104,
-        "prc": 0.2271
+        "gl": 269,
+        "prc": 0.5873
       },
       "rez": null,
       "prestetih_glasov": null
@@ -42,8 +42,8 @@
       "naz": "GASILSKI DOM KRIŠKA VAS, KRIŠKA VAS 10",
       "udel": {
         "upr": 403,
-        "gl": 115,
-        "prc": 0.2854
+        "gl": 265,
+        "prc": 0.6576
       },
       "rez": null,
       "prestetih_glasov": null
@@ -53,8 +53,8 @@
       "naz": "GASILSKI DOM METNAJ, METNAJ 2",
       "udel": {
         "upr": 453,
-        "gl": 85,
-        "prc": 0.1876
+        "gl": 241,
+        "prc": 0.532
       },
       "rez": null,
       "prestetih_glasov": null
@@ -64,8 +64,8 @@
       "naz": "GASILSKI DOM STIČNA, STIČNA 144",
       "udel": {
         "upr": 1209,
-        "gl": 333,
-        "prc": 0.2754
+        "gl": 720,
+        "prc": 0.5955
       },
       "rez": null,
       "prestetih_glasov": null
@@ -75,8 +75,8 @@
       "naz": "GASILSKI DOM VRH PRI V.G., VRH PRI VIŠNJI GORI 2",
       "udel": {
         "upr": 288,
-        "gl": 72,
-        "prc": 0.25
+        "gl": 176,
+        "prc": 0.6111
       },
       "rez": null,
       "prestetih_glasov": null
@@ -86,8 +86,8 @@
       "naz": "KULTURNI DOM AMBRUS, AMBRUS 56",
       "udel": {
         "upr": 592,
-        "gl": 125,
-        "prc": 0.2111
+        "gl": 363,
+        "prc": 0.6132
       },
       "rez": null,
       "prestetih_glasov": null
@@ -97,8 +97,8 @@
       "naz": "KULTURNI DOM IVANČNA GORICA I., SOKOLSKA ULICA 4",
       "udel": {
         "upr": 1487,
-        "gl": 354,
-        "prc": 0.2381
+        "gl": 785,
+        "prc": 0.5279
       },
       "rez": null,
       "prestetih_glasov": null
@@ -108,8 +108,8 @@
       "naz": "KULTURNI DOM IVANČNA GORICA II., SOKOLSKA ULICA 4",
       "udel": {
         "upr": 770,
-        "gl": 168,
-        "prc": 0.2182
+        "gl": 406,
+        "prc": 0.5273
       },
       "rez": null,
       "prestetih_glasov": null
@@ -119,8 +119,8 @@
       "naz": "KULTURNI DOM MULJAVA, MULJAVA 20",
       "udel": {
         "upr": 711,
-        "gl": 170,
-        "prc": 0.2391
+        "gl": 417,
+        "prc": 0.5865
       },
       "rez": null,
       "prestetih_glasov": null
@@ -130,8 +130,8 @@
       "naz": "KULTURNI DOM ŠENTVID I., ŠENTVID PRI STIČNI 70",
       "udel": {
         "upr": 1062,
-        "gl": 195,
-        "prc": 0.1836
+        "gl": 685,
+        "prc": 0.645
       },
       "rez": null,
       "prestetih_glasov": null
@@ -141,8 +141,8 @@
       "naz": "KULTURNI DOM ŠENTVID II., ŠENTVID PRI STIČNI 70",
       "udel": {
         "upr": 970,
-        "gl": 235,
-        "prc": 0.2423
+        "gl": 556,
+        "prc": 0.5732
       },
       "rez": null,
       "prestetih_glasov": null
@@ -152,8 +152,8 @@
       "naz": "MESTNA HIŠA VIŠNJA GORA, MESTNI TRG 21",
       "udel": {
         "upr": 1419,
-        "gl": 306,
-        "prc": 0.2156
+        "gl": 769,
+        "prc": 0.5419
       },
       "rez": null,
       "prestetih_glasov": null
@@ -163,8 +163,8 @@
       "naz": "OSNOVNA ŠOLA ZAGRADEC, ZAGRADEC 33",
       "udel": {
         "upr": 1018,
-        "gl": 240,
-        "prc": 0.2358
+        "gl": 445,
+        "prc": 0.4371
       },
       "rez": null,
       "prestetih_glasov": null
@@ -174,8 +174,8 @@
       "naz": "VEČNAMENSKI OBJEKT HRASTOV DOL, HRASTOV DOL 2",
       "udel": {
         "upr": 164,
-        "gl": 25,
-        "prc": 0.1524
+        "gl": 104,
+        "prc": 0.6341
       },
       "rez": null,
       "prestetih_glasov": null
@@ -359,9 +359,9 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T12:36:38.0650501+02:00",
-    "datum": "2022-04-24T12:35:00+02:00",
-    "cas_udelezba": "11:00",
+    "timestamp": "2022-04-24T17:26:01.0294762+02:00",
+    "datum": "2022-04-24T17:30:00+02:00",
+    "cas_udelezba": "16:00",
     "has_udelezba": true,
     "has_rezultat": false,
     "is_final": false,
