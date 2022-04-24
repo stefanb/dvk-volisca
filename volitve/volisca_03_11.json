@@ -985,30 +985,30 @@
       "naz": "GD STANEŽIČE, STANEŽIČE 64",
       "udel": {
         "upr": 713,
-        "gl": 415,
-        "prc": 0.582
+        "gl": 532,
+        "prc": 0.7461
       },
       "rez": {
         "rez": [
           {
             "st": 1,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 2,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.017
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 228,
+            "prc": 0.4318
           },
           {
             "st": 5,
@@ -1017,78 +1017,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 29,
+            "prc": 0.0549
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0038
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 16,
+            "prc": 0.0303
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0095
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 11,
+            "prc": 0.0208
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0095
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 39,
+            "prc": 0.0739
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 10,
+            "prc": 0.0189
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 15,
+            "prc": 0.0284
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 90,
+            "prc": 0.1705
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.017
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 26,
+            "prc": 0.0492
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 22,
+            "prc": 0.0417
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 11,
+            "prc": 0.0208
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0019
           },
           {
             "st": 21,
@@ -1096,11 +1096,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 532,
+        "velj": 528,
+        "nev": 4
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 16,
@@ -4564,8 +4564,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T22:15:05.4942749+02:00",
-    "datum": "2022-04-24T22:15:00+02:00",
+    "timestamp": "2022-04-24T22:30:04.8232784+02:00",
+    "datum": "2022-04-24T22:30:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

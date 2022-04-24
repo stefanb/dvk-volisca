@@ -131,30 +131,30 @@
       "naz": "KNJIŽNICA BEŽIGRAD, EINSPIELERJEVA ULICA 1",
       "udel": {
         "upr": 1386,
-        "gl": 643,
-        "prc": 0.4639
+        "gl": 786,
+        "prc": 0.5671
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0026
           },
           {
             "st": 2,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 17,
+            "prc": 0.0218
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 303,
+            "prc": 0.3885
           },
           {
             "st": 5,
@@ -163,78 +163,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 83,
+            "prc": 0.1064
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0026
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 32,
+            "prc": 0.041
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0038
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 16,
+            "prc": 0.0205
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0103
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 51,
+            "prc": 0.0654
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 22,
+            "prc": 0.0282
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 18,
+            "prc": 0.0231
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 99,
+            "prc": 0.1269
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.009
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 52,
+            "prc": 0.0667
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 27,
+            "prc": 0.0346
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 25,
+            "prc": 0.0321
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 13,
+            "prc": 0.0167
           },
           {
             "st": 21,
@@ -242,11 +242,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 786,
+        "velj": 780,
+        "nev": 6
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 22,
@@ -3102,8 +3102,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T22:15:05.4942749+02:00",
-    "datum": "2022-04-24T22:15:00+02:00",
+    "timestamp": "2022-04-24T22:30:04.8232784+02:00",
+    "datum": "2022-04-24T22:30:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

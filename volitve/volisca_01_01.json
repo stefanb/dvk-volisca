@@ -2815,30 +2815,30 @@
       "naz": "PLAVŽ 4, JEKO D.O.O., CESTA MARŠALA TITA 51",
       "udel": {
         "upr": 1209,
-        "gl": 540,
-        "prc": 0.4467
+        "gl": 670,
+        "prc": 0.5542
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0122
           },
           {
             "st": 2,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0061
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 53,
+            "prc": 0.0809
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 226,
+            "prc": 0.345
           },
           {
             "st": 5,
@@ -2847,90 +2847,90 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 24,
+            "prc": 0.0366
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0076
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 24,
+            "prc": 0.0366
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0092
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 39,
+            "prc": 0.0595
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0107
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 19,
+            "prc": 0.029
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.0137
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 19,
+            "prc": 0.029
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 106,
+            "prc": 0.1618
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 10,
+            "prc": 0.0153
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 45,
+            "prc": 0.0687
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 37,
+            "prc": 0.0565
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0107
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0076
           },
           {
             "st": 21,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0031
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 670,
+        "velj": 655,
+        "nev": 15
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 17,
@@ -4811,8 +4811,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T22:15:05.4942749+02:00",
-    "datum": "2022-04-24T22:15:00+02:00",
+    "timestamp": "2022-04-24T22:30:04.8232784+02:00",
+    "datum": "2022-04-24T22:30:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

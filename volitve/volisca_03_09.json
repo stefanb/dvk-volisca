@@ -863,30 +863,30 @@
       "naz": "OŠ HINKA SMREKARJA, GORAZDOVA UL. 16",
       "udel": {
         "upr": 1836,
-        "gl": 519,
-        "prc": 0.2827
+        "gl": 917,
+        "prc": 0.4995
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0011
           },
           {
             "st": 2,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0011
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 54,
+            "prc": 0.0595
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 350,
+            "prc": 0.3855
           },
           {
             "st": 5,
@@ -895,78 +895,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 94,
+            "prc": 0.1035
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.0099
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 53,
+            "prc": 0.0584
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0044
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 45,
+            "prc": 0.0496
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 15,
+            "prc": 0.0165
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 25,
+            "prc": 0.0275
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 23,
+            "prc": 0.0253
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 17,
+            "prc": 0.0187
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 85,
+            "prc": 0.0936
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 10,
+            "prc": 0.011
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 85,
+            "prc": 0.0936
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 21,
+            "prc": 0.0231
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 11,
+            "prc": 0.0121
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0055
           },
           {
             "st": 21,
@@ -974,11 +974,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 917,
+        "velj": 908,
+        "nev": 9
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 12,
@@ -2736,8 +2736,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T22:15:05.4942749+02:00",
-    "datum": "2022-04-24T22:15:00+02:00",
+    "timestamp": "2022-04-24T22:30:04.8232784+02:00",
+    "datum": "2022-04-24T22:30:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

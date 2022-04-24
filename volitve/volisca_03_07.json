@@ -619,30 +619,30 @@
       "naz": "OŠ POLJANE, ZEMLJEMERSKA UL. 7",
       "udel": {
         "upr": 849,
-        "gl": 440,
-        "prc": 0.5183
+        "gl": 527,
+        "prc": 0.6207
       },
       "rez": {
         "rez": [
           {
             "st": 1,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 2,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0038
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0153
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 215,
+            "prc": 0.4111
           },
           {
             "st": 5,
@@ -651,78 +651,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 63,
+            "prc": 0.1205
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0038
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 23,
+            "prc": 0.044
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0076
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0096
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0076
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 20,
+            "prc": 0.0382
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 12,
+            "prc": 0.0229
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.0172
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 72,
+            "prc": 0.1377
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0057
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 38,
+            "prc": 0.0727
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 27,
+            "prc": 0.0516
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 16,
+            "prc": 0.0306
           },
           {
             "st": 20,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 21,
@@ -730,11 +730,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 527,
+        "velj": 523,
+        "nev": 4
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 10,
@@ -985,30 +985,30 @@
       "naz": "OŠ PRULE, PRULE 13, LJ., PROSTOR GALERIJA",
       "udel": {
         "upr": 781,
-        "gl": 410,
-        "prc": 0.525
+        "gl": 493,
+        "prc": 0.6312
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0061
           },
           {
             "st": 2,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.002
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0143
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 176,
+            "prc": 0.3592
           },
           {
             "st": 5,
@@ -1017,78 +1017,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 84,
+            "prc": 0.1714
           },
           {
             "st": 7,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 16,
+            "prc": 0.0327
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0061
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0163
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 11,
+            "prc": 0.0224
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 25,
+            "prc": 0.051
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 22,
+            "prc": 0.0449
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 16,
+            "prc": 0.0327
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 57,
+            "prc": 0.1163
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0082
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 33,
+            "prc": 0.0673
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 15,
+            "prc": 0.0306
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0122
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0061
           },
           {
             "st": 21,
@@ -1096,41 +1096,41 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 493,
+        "velj": 490,
+        "nev": 3
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 5,
       "naz": "OŠ TONETA ČUFARJA, ČUFARJEVA ULICA 11, LJUBLJANA",
       "udel": {
         "upr": 667,
-        "gl": 263,
-        "prc": 0.3943
+        "gl": 336,
+        "prc": 0.5037
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.003
           },
           {
             "st": 2,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0149
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 130,
+            "prc": 0.3881
           },
           {
             "st": 5,
@@ -1139,78 +1139,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 36,
+            "prc": 0.1075
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.003
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 13,
+            "prc": 0.0388
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.003
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0209
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.009
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 22,
+            "prc": 0.0657
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 13,
+            "prc": 0.0388
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0179
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 56,
+            "prc": 0.1672
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.006
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 16,
+            "prc": 0.0478
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 13,
+            "prc": 0.0388
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 10,
+            "prc": 0.0299
           },
           {
             "st": 20,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 21,
@@ -1218,11 +1218,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 336,
+        "velj": 335,
+        "nev": 1
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 6,
@@ -2614,8 +2614,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T22:15:05.4942749+02:00",
-    "datum": "2022-04-24T22:15:00+02:00",
+    "timestamp": "2022-04-24T22:30:04.8232784+02:00",
+    "datum": "2022-04-24T22:30:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

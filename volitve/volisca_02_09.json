@@ -3181,30 +3181,30 @@
       "naz": "OŠ DORNBERK, GREGORČIČEVA UL. 30A",
       "udel": {
         "upr": 962,
-        "gl": 511,
-        "prc": 0.5312
+        "gl": 660,
+        "prc": 0.6861
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0015
           },
           {
             "st": 2,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0031
           },
           {
             "st": 3,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 268,
+            "prc": 0.4123
           },
           {
             "st": 5,
@@ -3213,90 +3213,90 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0092
           },
           {
             "st": 7,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0077
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0108
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0077
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0108
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 106,
+            "prc": 0.1631
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0077
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 10,
+            "prc": 0.0154
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 196,
+            "prc": 0.3015
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0046
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 14,
+            "prc": 0.0215
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 10,
+            "prc": 0.0154
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0077
           },
           {
             "st": 20,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 21,
             "gl": 0,
-            "prc": null
+            "prc": 0
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 660,
+        "velj": 650,
+        "nev": 10
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 49,
@@ -8105,8 +8105,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T22:15:05.4942749+02:00",
-    "datum": "2022-04-24T22:15:00+02:00",
+    "timestamp": "2022-04-24T22:30:04.8232784+02:00",
+    "datum": "2022-04-24T22:30:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

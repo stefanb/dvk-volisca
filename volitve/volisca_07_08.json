@@ -863,110 +863,110 @@
       "naz": "RAZSTAVNI SALON, GRAJSKA UL. 7",
       "udel": {
         "upr": 1533,
-        "gl": 483,
-        "prc": 0.3151
+        "gl": 633,
+        "prc": 0.4129
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0111
           },
           {
             "st": 2,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 23,
+            "prc": 0.0366
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 244,
+            "prc": 0.3885
           },
           {
             "st": 5,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0016
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 43,
+            "prc": 0.0685
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0016
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 18,
+            "prc": 0.0287
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0127
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 10,
+            "prc": 0.0159
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 15,
+            "prc": 0.0239
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 26,
+            "prc": 0.0414
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 18,
+            "prc": 0.0287
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 14,
+            "prc": 0.0223
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 113,
+            "prc": 0.1799
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 14,
+            "prc": 0.0223
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 36,
+            "prc": 0.0573
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 20,
+            "prc": 0.0318
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 16,
+            "prc": 0.0255
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0016
           },
           {
             "st": 21,
@@ -974,11 +974,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 633,
+        "velj": 628,
+        "nev": 5
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 3,
@@ -2005,8 +2005,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T22:15:05.4942749+02:00",
-    "datum": "2022-04-24T22:15:00+02:00",
+    "timestamp": "2022-04-24T22:35:06.9358622+02:00",
+    "datum": "2022-04-24T22:35:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

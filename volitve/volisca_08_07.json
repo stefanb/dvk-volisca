@@ -131,30 +131,30 @@
       "naz": "CENTER SLOVENSKIH GORIC, TRG OSVOBODITVE 9",
       "udel": {
         "upr": 1009,
-        "gl": 457,
-        "prc": 0.4529
+        "gl": 594,
+        "prc": 0.5887
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0085
           },
           {
             "st": 2,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.0153
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 237,
+            "prc": 0.4031
           },
           {
             "st": 5,
@@ -163,90 +163,90 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 28,
+            "prc": 0.0476
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0017
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 17,
+            "prc": 0.0289
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0102
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 11,
+            "prc": 0.0187
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 15,
+            "prc": 0.0255
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 20,
+            "prc": 0.034
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0136
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 19,
+            "prc": 0.0323
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 151,
+            "prc": 0.2568
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0136
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 29,
+            "prc": 0.0493
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 11,
+            "prc": 0.0187
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0119
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0102
           },
           {
             "st": 21,
             "gl": 0,
-            "prc": null
+            "prc": 0
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 593,
+        "velj": 588,
+        "nev": 5
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 0.9983
     },
     {
       "st": 5,
@@ -3835,8 +3835,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T22:15:05.4942749+02:00",
-    "datum": "2022-04-24T22:15:00+02:00",
+    "timestamp": "2022-04-24T22:35:06.9358622+02:00",
+    "datum": "2022-04-24T22:35:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

@@ -1839,110 +1839,110 @@
       "naz": "OŠ ŽITEČKA VAS, ZG. DUPLEK 98",
       "udel": {
         "upr": 1498,
-        "gl": 850,
-        "prc": 0.5674
+        "gl": 987,
+        "prc": 0.6589
       },
       "rez": {
         "rez": [
           {
             "st": 1,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 2,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.001
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 34,
+            "prc": 0.035
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 285,
+            "prc": 0.2935
           },
           {
             "st": 5,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.001
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 26,
+            "prc": 0.0268
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 10,
+            "prc": 0.0103
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 22,
+            "prc": 0.0227
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 15,
+            "prc": 0.0154
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 17,
+            "prc": 0.0175
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 21,
+            "prc": 0.0216
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 38,
+            "prc": 0.0391
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 17,
+            "prc": 0.0175
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 76,
+            "prc": 0.0783
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 297,
+            "prc": 0.3059
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 12,
+            "prc": 0.0124
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 61,
+            "prc": 0.0628
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 19,
+            "prc": 0.0196
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 16,
+            "prc": 0.0165
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0031
           },
           {
             "st": 21,
@@ -1950,11 +1950,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 987,
+        "velj": 971,
+        "nev": 16
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 10,
@@ -2561,7 +2561,6 @@
     {
       "ime": "mag. Dejan",
       "pri": "Kaloh",
-      "man": true,
       "st": 15,
       "naz": "SLOVENSKA DEMOKRATSKA STRANKA - SDS",
       "knaz": "SDS",
@@ -2615,8 +2614,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T22:15:05.4942749+02:00",
-    "datum": "2022-04-24T22:15:00+02:00",
+    "timestamp": "2022-04-24T22:35:06.9358622+02:00",
+    "datum": "2022-04-24T22:35:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

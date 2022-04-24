@@ -131,30 +131,30 @@
       "naz": "BISTRICA II, OSNOVNA ŠOLA BISTRICA, BEGUNJSKA C.2",
       "udel": {
         "upr": 1267,
-        "gl": 500,
-        "prc": 0.3946
+        "gl": 723,
+        "prc": 0.5706
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0084
           },
           {
             "st": 2,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0014
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 41,
+            "prc": 0.0577
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 283,
+            "prc": 0.398
           },
           {
             "st": 5,
@@ -163,90 +163,90 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 22,
+            "prc": 0.0309
           },
           {
             "st": 7,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 32,
+            "prc": 0.045
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0113
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 14,
+            "prc": 0.0197
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 31,
+            "prc": 0.0436
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 37,
+            "prc": 0.052
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 14,
+            "prc": 0.0197
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 13,
+            "prc": 0.0183
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 132,
+            "prc": 0.1857
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.007
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 36,
+            "prc": 0.0506
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 14,
+            "prc": 0.0197
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 16,
+            "prc": 0.0225
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0056
           },
           {
             "st": 21,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0028
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 723,
+        "velj": 711,
+        "nev": 12
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 3,
@@ -2127,8 +2127,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T22:15:05.4942749+02:00",
-    "datum": "2022-04-24T22:15:00+02:00",
+    "timestamp": "2022-04-24T22:30:04.8232784+02:00",
+    "datum": "2022-04-24T22:30:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

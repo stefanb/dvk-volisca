@@ -1107,30 +1107,30 @@
       "naz": "GOSTILNA \"BRNE\"",
       "udel": {
         "upr": 966,
-        "gl": 370,
-        "prc": 0.383
+        "gl": 526,
+        "prc": 0.5445
       },
       "rez": {
         "rez": [
           {
             "st": 1,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 2,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.0173
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 198,
+            "prc": 0.38
           },
           {
             "st": 5,
@@ -1139,90 +1139,90 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 34,
+            "prc": 0.0653
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0115
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 47,
+            "prc": 0.0902
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0019
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0115
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 14,
+            "prc": 0.0269
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 26,
+            "prc": 0.0499
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 11,
+            "prc": 0.0211
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 11,
+            "prc": 0.0211
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 102,
+            "prc": 0.1958
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0038
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 28,
+            "prc": 0.0537
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 14,
+            "prc": 0.0269
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 10,
+            "prc": 0.0192
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0038
           },
           {
             "st": 21,
             "gl": 0,
-            "prc": null
+            "prc": 0
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 526,
+        "velj": 521,
+        "nev": 5
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 39,
@@ -5421,8 +5421,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T22:15:05.4942749+02:00",
-    "datum": "2022-04-24T22:15:00+02:00",
+    "timestamp": "2022-04-24T22:30:04.8232784+02:00",
+    "datum": "2022-04-24T22:30:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,
