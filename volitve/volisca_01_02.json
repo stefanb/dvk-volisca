@@ -7,203 +7,319 @@
     {
       "st": 16,
       "naz": "DOM JOŽA AŽMANA, TRIGLAVSKA C. 16, BOH. BISTRICA",
-      "udel": null,
+      "udel": {
+        "upr": 902,
+        "gl": 222,
+        "prc": 0.2461
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 10,
       "naz": "DOM UPOKOJENCEV SPODNJE GORJE, SP. GORJE 208",
-      "udel": null,
+      "udel": {
+        "upr": 786,
+        "gl": 165,
+        "prc": 0.2099
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 17,
       "naz": "GASILSKI DOM BITNJE, BITNJE 13, BOH. BISTRICA",
-      "udel": null,
+      "udel": {
+        "upr": 93,
+        "gl": 31,
+        "prc": 0.3333
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 25,
       "naz": "GASILSKI DOM BOHINJ. ČEŠNJICA, BOHIN. ČEŠNJICA 79",
-      "udel": null,
+      "udel": {
+        "upr": 443,
+        "gl": 143,
+        "prc": 0.3228
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 23,
       "naz": "GASILSKI DOM GORJUŠE, GORJUŠE 36 A, BOH.BISTRICA",
-      "udel": null,
+      "udel": {
+        "upr": 122,
+        "gl": 36,
+        "prc": 0.2951
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 20,
       "naz": "GASILSKI DOM KAMNJE, KAMNJE 26 A, BOH.BISTRICA",
-      "udel": null,
+      "udel": {
+        "upr": 506,
+        "gl": 133,
+        "prc": 0.2628
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 22,
       "naz": "GASILSKI DOM KOPRIVNIK, KOPRIVNIK 3 B, B.BISTRICA",
-      "udel": null,
+      "udel": {
+        "upr": 187,
+        "gl": 33,
+        "prc": 0.1765
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 1,
       "naz": "GASILSKI DOM MLINO, MLINSKA CESTA 26, BLED",
-      "udel": null,
+      "udel": {
+        "upr": 270,
+        "gl": 67,
+        "prc": 0.2481
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 21,
       "naz": "GASILSKI DOM NEMŠKI ROVT,NEMŠKI ROVT18,B.BISTRICA",
-      "udel": null,
+      "udel": {
+        "upr": 95,
+        "gl": 16,
+        "prc": 0.1684
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 18,
       "naz": "GASILSKI DOM NOMENJ, NOMENJ 23, BOH. BISTRICA",
-      "udel": null,
+      "udel": {
+        "upr": 140,
+        "gl": 37,
+        "prc": 0.2643
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 11,
       "naz": "GASILSKI DOM PODHOM, PODHOM 15, ZG. GORJE",
-      "udel": null,
+      "udel": {
+        "upr": 243,
+        "gl": 66,
+        "prc": 0.2716
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 2,
       "naz": "GASILSKI DOM REČICA, REČIŠKA CESTA 4, BLED",
-      "udel": null,
+      "udel": {
+        "upr": 729,
+        "gl": 190,
+        "prc": 0.2606
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 24,
       "naz": "GASILSKI DOM SREDNJA VAS, SREDNJA VAS 83",
-      "udel": null,
+      "udel": {
+        "upr": 358,
+        "gl": 117,
+        "prc": 0.3268
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 7,
       "naz": "GOSTILNA KUNAVC, KRNICA 21, ZG. GORJE",
-      "udel": null,
+      "udel": {
+        "upr": 414,
+        "gl": 81,
+        "prc": 0.1957
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 5,
       "naz": "INFOCENTER TRIGLAVSKA ROŽA BLED, LJUBLJANSKA C.27",
-      "udel": null,
+      "udel": {
+        "upr": 1406,
+        "gl": 398,
+        "prc": 0.2831
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 6,
       "naz": "KULTURNI DOM BOHINJSKA BELA, BOHINJSKA BELA  37",
-      "udel": null,
+      "udel": {
+        "upr": 518,
+        "gl": 138,
+        "prc": 0.2664
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 27,
       "naz": "KULTURNI DOM STARA FUŽINA,STARA FUŽINA 53B,B.JEZ.",
-      "udel": null,
+      "udel": {
+        "upr": 509,
+        "gl": 174,
+        "prc": 0.3418
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 14,
       "naz": "KULTURNI DOM ZASIP, SEBENJE 6, BLED",
-      "udel": null,
+      "udel": {
+        "upr": 828,
+        "gl": 224,
+        "prc": 0.2705
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 13,
       "naz": "NATURA HOTEL LUKANC, SELO PRI BLEDU 8",
-      "udel": null,
+      "udel": {
+        "upr": 174,
+        "gl": 35,
+        "prc": 0.2011
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 3,
       "naz": "OBČINA BLED, CESTA SVOBODE 13, BLED",
-      "udel": null,
+      "udel": {
+        "upr": 833,
+        "gl": 145,
+        "prc": 0.1741
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 4,
       "naz": "OSNOVNA ŠOLA BLED, SELIŠKA CESTA 3, BLED",
-      "udel": null,
+      "udel": {
+        "upr": 736,
+        "gl": 168,
+        "prc": 0.2283
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 8,
       "naz": "OSNOVNA ŠOLA GORJE, ZG. GORJE 44 A, ZG. GORJE",
-      "udel": null,
+      "udel": {
+        "upr": 409,
+        "gl": 85,
+        "prc": 0.2078
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 9,
       "naz": "OSNOVNA ŠOLA GORJE, ZG. GORJE 44A, ZG. GORJE",
-      "udel": null,
+      "udel": {
+        "upr": 382,
+        "gl": 95,
+        "prc": 0.2487
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 28,
       "naz": "PRI MILANU TALERJU,STUDOR V BOHINJU 5A,SR.VAS V B",
-      "udel": null,
+      "udel": {
+        "upr": 90,
+        "gl": 17,
+        "prc": 0.1889
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 26,
       "naz": "PRI ZDENKI PLATIŠA,PODJELJE 15 A,SR.VAS V BOHINJU",
-      "udel": null,
+      "udel": {
+        "upr": 56,
+        "gl": 16,
+        "prc": 0.2857
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 19,
       "naz": "TURISTIČNO DRUŠTVO BOHINJ,RIBČEV LAZ 48, B.JEZERO",
-      "udel": null,
+      "udel": {
+        "upr": 156,
+        "gl": 40,
+        "prc": 0.2564
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 15,
       "naz": "VRTEC BOHINJSKA BISTRICA, MENCINGERJEVA ULICA 4",
-      "udel": null,
+      "udel": {
+        "upr": 513,
+        "gl": 122,
+        "prc": 0.2378
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 12,
       "naz": "ZADRUŽNI DOM RIBNO, IZLETNIŠKA UL.11, BLED",
-      "udel": null,
+      "udel": {
+        "upr": 820,
+        "gl": 225,
+        "prc": 0.2744
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 901,
       "naz": "PREDČASNO GLASOVANJE",
-      "udel": null,
+      "udel": {
+        "upr": null,
+        "gl": 0,
+        "prc": null
+      },
       "rez": null,
       "prestetih_glasov": null
     }
@@ -377,10 +493,10 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T10:00:20.6416653+02:00",
-    "datum": "2022-04-24T07:20:00+02:00",
+    "timestamp": "2022-04-24T12:36:38.0650501+02:00",
+    "datum": "2022-04-24T12:35:00+02:00",
     "cas_udelezba": "11:00",
-    "has_udelezba": false,
+    "has_udelezba": true,
     "has_rezultat": false,
     "is_final": false,
     "has_kandidati_removed": false

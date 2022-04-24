@@ -7,217 +7,341 @@
     {
       "st": 27,
       "naz": "BIVŠA ŠOLA ZAPLANA",
-      "udel": null,
+      "udel": {
+        "upr": 710,
+        "gl": 143,
+        "prc": 0.2014
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 8,
       "naz": "CANKARJEV DOM VRHNIKA",
-      "udel": null,
+      "udel": {
+        "upr": 1056,
+        "gl": 236,
+        "prc": 0.2235
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 28,
       "naz": "DOM GASILCEV IN KRAJANOV PADEŽ,POKOJIŠČE IN ZAVRH",
-      "udel": null,
+      "udel": {
+        "upr": 97,
+        "gl": 35,
+        "prc": 0.3608
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 6,
       "naz": "DOM KRAJANOV DOL-LAZE",
-      "udel": null,
+      "udel": {
+        "upr": 608,
+        "gl": 190,
+        "prc": 0.3125
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 18,
       "naz": "DOM KRAJANOV DRAGOMER, NA GRIVI 5, DRAGOMER ",
-      "udel": null,
+      "udel": {
+        "upr": 825,
+        "gl": 234,
+        "prc": 0.2836
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 25,
       "naz": "DOM KRAJEVNE SKUPNOSTI SINJA GORICA",
-      "udel": null,
+      "udel": {
+        "upr": 402,
+        "gl": 83,
+        "prc": 0.2065
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 21,
       "naz": "DOM KS STARA VRHNIKA",
-      "udel": null,
+      "udel": {
+        "upr": 551,
+        "gl": 134,
+        "prc": 0.2432
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 14,
       "naz": "DOM UPOKOJENCEV",
-      "udel": null,
+      "udel": {
+        "upr": 902,
+        "gl": 230,
+        "prc": 0.255
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 13,
       "naz": "ELEKTRO LJUBLJANA, LJUBLJANSKA CESTA 23, VRHNIKA",
-      "udel": null,
+      "udel": {
+        "upr": 613,
+        "gl": 148,
+        "prc": 0.2414
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 5,
       "naz": "GASILSKI DOM BREG PRI BOROVNICI",
-      "udel": null,
+      "udel": {
+        "upr": 387,
+        "gl": 109,
+        "prc": 0.2817
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 20,
       "naz": "GASILSKI DOM DRENOV GRIČ",
-      "udel": null,
+      "udel": {
+        "upr": 1034,
+        "gl": 201,
+        "prc": 0.1944
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 24,
       "naz": "GASILSKI DOM LIGOJNA",
-      "udel": null,
+      "udel": {
+        "upr": 462,
+        "gl": 118,
+        "prc": 0.2554
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 19,
       "naz": "GASILSKI DOM LOG PRI BREZOVICI",
-      "udel": null,
+      "udel": {
+        "upr": 647,
+        "gl": 172,
+        "prc": 0.2658
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 32,
       "naz": "GASILSKI DOM LOG PRI BREZOVICI",
-      "udel": null,
+      "udel": {
+        "upr": 732,
+        "gl": 200,
+        "prc": 0.2732
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 23,
       "naz": "GASILSKI DOM PODLIPA",
-      "udel": null,
+      "udel": {
+        "upr": 637,
+        "gl": 164,
+        "prc": 0.2575
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 16,
       "naz": "GASILSKI DOM VERD",
-      "udel": null,
+      "udel": {
+        "upr": 755,
+        "gl": 202,
+        "prc": 0.2675
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 17,
       "naz": "GASILSKI DOM VERD",
-      "udel": null,
+      "udel": {
+        "upr": 835,
+        "gl": 230,
+        "prc": 0.2754
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 12,
       "naz": "GASILSKI DOM VRHNIKA, JELOVŠKOVA ULICA 3",
-      "udel": null,
+      "udel": {
+        "upr": 811,
+        "gl": 196,
+        "prc": 0.2417
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 29,
       "naz": "GD DRAGOMER-LUKOVICA, NA GRIVI 5, DRAGOMER",
-      "udel": null,
+      "udel": {
+        "upr": 759,
+        "gl": 254,
+        "prc": 0.3347
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 30,
       "naz": "GOSTILNA TURŠIČ, VOLJČEVA CESTA 3",
-      "udel": null,
+      "udel": {
+        "upr": 746,
+        "gl": 182,
+        "prc": 0.244
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 22,
       "naz": "KULTURNI DOM BEVKE",
-      "udel": null,
+      "udel": {
+        "upr": 765,
+        "gl": 190,
+        "prc": 0.2484
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 1,
       "naz": "LOVSKI DOM BOROVNICA, MIKLAVIČEVA CESTA 2A",
-      "udel": null,
+      "udel": {
+        "upr": 465,
+        "gl": 123,
+        "prc": 0.2645
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 3,
       "naz": "OBČINA BOROVNICA",
-      "udel": null,
+      "udel": {
+        "upr": 476,
+        "gl": 116,
+        "prc": 0.2437
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 2,
       "naz": "OSNOVNA ŠOLA BOROVNICA",
-      "udel": null,
+      "udel": {
+        "upr": 1023,
+        "gl": 216,
+        "prc": 0.2111
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 10,
       "naz": "OSNOVNA ŠOLA IVANA CANKARJA, LOŠCA 1",
-      "udel": null,
+      "udel": {
+        "upr": 687,
+        "gl": 122,
+        "prc": 0.1776
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 11,
       "naz": "OSNOVNA ŠOLA IVANA CANKARJA, LOŠCA 1",
-      "udel": null,
+      "udel": {
+        "upr": 435,
+        "gl": 90,
+        "prc": 0.2069
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 31,
       "naz": "OŠ A.M. SLOMŠKA, POD HRUŠEVCO 33, VRHNIKA",
-      "udel": null,
+      "udel": {
+        "upr": 530,
+        "gl": 110,
+        "prc": 0.2075
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 26,
       "naz": "PROSTORI KS BLATNA BREZOVICA (OB BIVŠI TRGOVINI)",
-      "udel": null,
+      "udel": {
+        "upr": 282,
+        "gl": 72,
+        "prc": 0.2553
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 7,
       "naz": "ST.HIŠA J.KOROŠEC, BREZOVICA PRI BOROVNICI 10A",
-      "udel": null,
+      "udel": {
+        "upr": 453,
+        "gl": 115,
+        "prc": 0.2539
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 15,
       "naz": "ŽUPNIJSKI VRTEC VRHNIKA, HRIB 2, VRHNIKA",
-      "udel": null,
+      "udel": {
+        "upr": 520,
+        "gl": 115,
+        "prc": 0.2212
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 901,
       "naz": "PREDČASNO GLASOVANJE",
-      "udel": null,
+      "udel": {
+        "upr": null,
+        "gl": 0,
+        "prc": null
+      },
       "rez": null,
       "prestetih_glasov": null
     }
@@ -389,10 +513,10 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T10:00:20.6416653+02:00",
-    "datum": "2022-04-24T07:20:00+02:00",
+    "timestamp": "2022-04-24T12:36:38.0650501+02:00",
+    "datum": "2022-04-24T12:35:00+02:00",
     "cas_udelezba": "11:00",
-    "has_udelezba": false,
+    "has_udelezba": true,
     "has_rezultat": false,
     "is_final": false,
     "has_kandidati_removed": false

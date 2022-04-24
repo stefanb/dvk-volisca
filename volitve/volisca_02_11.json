@@ -7,329 +7,517 @@
     {
       "st": 36,
       "naz": "AVLA KULTURNE DVORANE , GLAVNI TRG 15, VIPAVA",
-      "udel": null,
+      "udel": {
+        "upr": 413,
+        "gl": 116,
+        "prc": 0.2809
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 5,
       "naz": "DOM KRAJANOV AJDOVŠČINA, PREŠERNOVA ULICA 26",
-      "udel": null,
+      "udel": {
+        "upr": 561,
+        "gl": 128,
+        "prc": 0.2282
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 19,
       "naz": "DOM KRAJANOV CESTA, CESTA 94A",
-      "udel": null,
+      "udel": {
+        "upr": 448,
+        "gl": 110,
+        "prc": 0.2455
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 25,
       "naz": "DOM KRAJANOV PLANINA, PLANINA 58",
-      "udel": null,
+      "udel": {
+        "upr": 485,
+        "gl": 93,
+        "prc": 0.1918
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 17,
       "naz": "DOM KRAJANOV STOMAŽ, STOMAŽ 36",
-      "udel": null,
+      "udel": {
+        "upr": 242,
+        "gl": 61,
+        "prc": 0.2521
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 31,
       "naz": "DOM KRAJANOV, GOJAČE 48",
-      "udel": null,
+      "udel": {
+        "upr": 254,
+        "gl": 61,
+        "prc": 0.2402
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 29,
       "naz": "DOM KRAJANOV, KAMNJE 61",
-      "udel": null,
+      "udel": {
+        "upr": 352,
+        "gl": 85,
+        "prc": 0.2415
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 21,
       "naz": "DOM KRAJANOV, PLAČE 27 A",
-      "udel": null,
+      "udel": {
+        "upr": 209,
+        "gl": 56,
+        "prc": 0.2679
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 8,
       "naz": "DOM KRAJANOV, ŽAPUŽE 10",
-      "udel": null,
+      "udel": {
+        "upr": 373,
+        "gl": 95,
+        "prc": 0.2547
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 14,
       "naz": "DOM TABORNIKOV NA KOVKU, KOVK 13",
-      "udel": null,
+      "udel": {
+        "upr": 101,
+        "gl": 47,
+        "prc": 0.4653
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 11,
       "naz": "DVORANA EDMUNDA ČIBEJA, LOKAVEC 126A",
-      "udel": null,
+      "udel": {
+        "upr": 927,
+        "gl": 227,
+        "prc": 0.2449
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 9,
       "naz": "DVORANA KS DOLGA POLJANA, DOLGA POLJANA 17",
-      "udel": null,
+      "udel": {
+        "upr": 299,
+        "gl": 83,
+        "prc": 0.2776
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 13,
       "naz": "DVORANA KS OTLICA, OTLICA 47",
-      "udel": null,
+      "udel": {
+        "upr": 246,
+        "gl": 78,
+        "prc": 0.3171
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 12,
       "naz": "DVORANA KS PREDMEJA, PREDMEJA 93A ",
-      "udel": null,
+      "udel": {
+        "upr": 303,
+        "gl": 102,
+        "prc": 0.3366
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 26,
       "naz": "DVORANA KS VELIKE ŽABLJE, VELIKE ŽABLJE 88A",
-      "udel": null,
+      "udel": {
+        "upr": 266,
+        "gl": 77,
+        "prc": 0.2895
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 39,
       "naz": "DVORANA KS, GRADIŠČE PRI VIPAVI 35B",
-      "udel": null,
+      "udel": {
+        "upr": 195,
+        "gl": 51,
+        "prc": 0.2615
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 35,
       "naz": "ENOTA LAVRIČEVE KNJIŽNICE VIPAVA,BEBLERJEVA UL.17",
-      "udel": null,
+      "udel": {
+        "upr": 557,
+        "gl": 121,
+        "prc": 0.2172
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 23,
       "naz": "GASILSKI DOM ŠMARJE, ŠMARJE 48A",
-      "udel": null,
+      "udel": {
+        "upr": 330,
+        "gl": 60,
+        "prc": 0.1818
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 42,
       "naz": "KRAJEVNA SKUPNOST (STARA ŠOLA), ERZELJ 17",
-      "udel": null,
+      "udel": {
+        "upr": 67,
+        "gl": 18,
+        "prc": 0.2687
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 46,
       "naz": "KRAJEVNA SKUPNOST (STARA ŠOLA), LOZICE 34",
-      "udel": null,
+      "udel": {
+        "upr": 209,
+        "gl": 65,
+        "prc": 0.311
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 41,
       "naz": "KRAJEVNA SKUPNOST (STARA ŠOLA), LOŽE 53",
-      "udel": null,
+      "udel": {
+        "upr": 292,
+        "gl": 74,
+        "prc": 0.2534
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 20,
       "naz": "KRAJEVNA SKUPNOST VIPAVSKI KRIŽ, VIPAVSKI KRIŽ 8",
-      "udel": null,
+      "udel": {
+        "upr": 377,
+        "gl": 73,
+        "prc": 0.1936
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 44,
       "naz": "KULTURNA DVORANA PODRAGA, PODRAGA 7",
-      "udel": null,
+      "udel": {
+        "upr": 273,
+        "gl": 86,
+        "prc": 0.315
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 27,
       "naz": "KULTURNI DOM DOBRAVLJE, DOBRAVLJE 34A",
-      "udel": null,
+      "udel": {
+        "upr": 378,
+        "gl": 113,
+        "prc": 0.2989
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 45,
       "naz": "KULTURNI DOM JANKA PREMRLA - VOJKA, PODNANOS 71",
-      "udel": null,
+      "udel": {
+        "upr": 656,
+        "gl": 158,
+        "prc": 0.2409
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 32,
       "naz": "KULTURNI DOM SELO, SELO 39A",
-      "udel": null,
+      "udel": {
+        "upr": 341,
+        "gl": 97,
+        "prc": 0.2845
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 22,
       "naz": "MARTINOVA DVORANA V GABERJAH, GABERJE 37",
-      "udel": null,
+      "udel": {
+        "upr": 141,
+        "gl": 40,
+        "prc": 0.2837
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 15,
       "naz": "OSNOVNA ŠOLA COL, COL 35",
-      "udel": null,
+      "udel": {
+        "upr": 716,
+        "gl": 178,
+        "prc": 0.2486
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 43,
       "naz": "OSNOVNA ŠOLA NA GOČAH, GOČE 6",
-      "udel": null,
+      "udel": {
+        "upr": 156,
+        "gl": 52,
+        "prc": 0.3333
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 6,
       "naz": "OSNOVNA ŠOLA ŠTURJE, BEVKOVA ULICA 22, AJDOVŠČINA",
-      "udel": null,
+      "udel": {
+        "upr": 862,
+        "gl": 167,
+        "prc": 0.1937
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 34,
       "naz": "OSNOVNA ŠOLA V ČRNIČAH, ČRNIČE 27",
-      "udel": null,
+      "udel": {
+        "upr": 473,
+        "gl": 100,
+        "prc": 0.2114
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 16,
       "naz": "OSNOVNA ŠOLA V PODKRAJU, PODKRAJ 9",
-      "udel": null,
+      "udel": {
+        "upr": 573,
+        "gl": 161,
+        "prc": 0.281
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 38,
       "naz": "OSNOVNA ŠOLA V VRHPOLJU, VRHPOLJE 41",
-      "udel": null,
+      "udel": {
+        "upr": 728,
+        "gl": 160,
+        "prc": 0.2198
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 30,
       "naz": "OSNOVNA ŠOLA V VRTOVINU, VRTOVIN 74",
-      "udel": null,
+      "udel": {
+        "upr": 396,
+        "gl": 89,
+        "prc": 0.2247
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 1,
       "naz": "OŠ DANILA LOKARJA, CESTA 5. MAJA 15, AJDOVŠČINA",
-      "udel": null,
+      "udel": {
+        "upr": 623,
+        "gl": 132,
+        "prc": 0.2119
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 37,
       "naz": "OŠ DRAGA BAJCA VIPAVA, VINARSKA CESTA 4",
-      "udel": null,
+      "udel": {
+        "upr": 527,
+        "gl": 141,
+        "prc": 0.2676
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 4,
       "naz": "OTROŠKI VRTEC OB HUBLJU, OB HUBLJU 1, AJDOVŠČINA",
-      "udel": null,
+      "udel": {
+        "upr": 563,
+        "gl": 150,
+        "prc": 0.2664
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 7,
       "naz": "OTROŠKI VRTEC RIBNIK, POT V ŽAPUŽE 14, AJDOVŠČINA",
-      "udel": null,
+      "udel": {
+        "upr": 1144,
+        "gl": 241,
+        "prc": 0.2107
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 40,
       "naz": "PROSTORI KRAJEVNE SKUPNOSTI SLAP, SLAP 58",
-      "udel": null,
+      "udel": {
+        "upr": 320,
+        "gl": 80,
+        "prc": 0.25
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 18,
       "naz": "PROSTORI KS SKRILJE, SKRILJE 39",
-      "udel": null,
+      "udel": {
+        "upr": 259,
+        "gl": 60,
+        "prc": 0.2317
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 3,
       "naz": "PROSTOVOLJNO GASILSKO DRUŠTVO, TOVARNIŠKA C. 3 G",
-      "udel": null,
+      "udel": {
+        "upr": 476,
+        "gl": 125,
+        "prc": 0.2626
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 10,
       "naz": "STARA ŠOLA BUDANJE, BUDANJE 37",
-      "udel": null,
+      "udel": {
+        "upr": 681,
+        "gl": 138,
+        "prc": 0.2026
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 2,
       "naz": "STAVBA OBČINE AJDOVŠČINA, CESTA 5. MAJA 6A",
-      "udel": null,
+      "udel": {
+        "upr": 533,
+        "gl": 125,
+        "prc": 0.2345
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 33,
       "naz": "STAVBA V ŠPORTNEM PARKU BATUJE, BATUJE 38B",
-      "udel": null,
+      "udel": {
+        "upr": 281,
+        "gl": 61,
+        "prc": 0.2171
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 28,
       "naz": "UČNI CENTER BRJE, BRJE 53",
-      "udel": null,
+      "udel": {
+        "upr": 305,
+        "gl": 79,
+        "prc": 0.259
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 24,
       "naz": "VEČNAMENSKI PROSTOR NA USTJAH, USTJE 18",
-      "udel": null,
+      "udel": {
+        "upr": 371,
+        "gl": 96,
+        "prc": 0.2588
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 901,
       "naz": "PREDČASNO GLASOVANJE",
-      "udel": null,
+      "udel": {
+        "upr": null,
+        "gl": 0,
+        "prc": null
+      },
       "rez": null,
       "prestetih_glasov": null
     }
@@ -503,10 +691,10 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T10:00:20.6416653+02:00",
-    "datum": "2022-04-24T07:20:00+02:00",
+    "timestamp": "2022-04-24T12:36:38.0650501+02:00",
+    "datum": "2022-04-24T12:35:00+02:00",
     "cas_udelezba": "11:00",
-    "has_udelezba": false,
+    "has_udelezba": true,
     "has_rezultat": false,
     "is_final": false,
     "has_kandidati_removed": false

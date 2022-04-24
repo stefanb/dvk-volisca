@@ -7,357 +7,561 @@
     {
       "st": 11,
       "naz": "BAR KOČANIJA, TRPČANE",
-      "udel": null,
+      "udel": {
+        "upr": 111,
+        "gl": 41,
+        "prc": 0.3694
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 14,
       "naz": "BIVŠA GOSTILNA, NOVOKRAČINE 46",
-      "udel": null,
+      "udel": {
+        "upr": 173,
+        "gl": 39,
+        "prc": 0.2254
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 41,
       "naz": "BIVŠA OŠ, PREM",
-      "udel": null,
+      "udel": {
+        "upr": 136,
+        "gl": 33,
+        "prc": 0.2426
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 36,
       "naz": "BIVŠA ŠOLSKA STAVBA OSTROŽNO BRDO",
-      "udel": null,
+      "udel": {
+        "upr": 79,
+        "gl": 21,
+        "prc": 0.2658
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 17,
       "naz": "BIVŠA ŠOLSKA STAVBA, VELIKO BRDO",
-      "udel": null,
+      "udel": {
+        "upr": 74,
+        "gl": 24,
+        "prc": 0.3243
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 42,
       "naz": "ČELJE - DVORANA KS",
-      "udel": null,
+      "udel": {
+        "upr": 50,
+        "gl": 20,
+        "prc": 0.4
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 16,
       "naz": "DOLENJE PRI JELŠANAH 6",
-      "udel": null,
+      "udel": {
+        "upr": 156,
+        "gl": 21,
+        "prc": 0.1346
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 12,
       "naz": "DOM NA SELIH, PODGRAJE 75",
-      "udel": null,
+      "udel": {
+        "upr": 451,
+        "gl": 97,
+        "prc": 0.2151
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 33,
       "naz": "DRUŠTVENI PROSTORI , TOMINJE",
-      "udel": null,
+      "udel": {
+        "upr": 84,
+        "gl": 11,
+        "prc": 0.131
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 50,
       "naz": "GASILSKI DOM  KORITNICE",
-      "udel": null,
+      "udel": {
+        "upr": 113,
+        "gl": 31,
+        "prc": 0.2743
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 15,
       "naz": "GASILSKI DOM JELŠANE",
-      "udel": null,
+      "udel": {
+        "upr": 247,
+        "gl": 36,
+        "prc": 0.1457
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 48,
       "naz": "GASILSKI DOM KNEŽAK",
-      "udel": null,
+      "udel": {
+        "upr": 369,
+        "gl": 68,
+        "prc": 0.1843
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 7,
       "naz": "GASILSKI DOM VRBOVO",
-      "udel": null,
+      "udel": {
+        "upr": 244,
+        "gl": 46,
+        "prc": 0.1885
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 13,
       "naz": "GOSTILNA \"SABRINA\" SUŠAK",
-      "udel": null,
+      "udel": {
+        "upr": 75,
+        "gl": 22,
+        "prc": 0.2933
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 10,
       "naz": "GOSTILNA CELIN, KUTEŽEVO",
-      "udel": null,
+      "udel": {
+        "upr": 191,
+        "gl": 56,
+        "prc": 0.2932
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 35,
       "naz": "GOSTILNA PIZZERIA ŠKORPION REČICA 1A",
-      "udel": null,
+      "udel": {
+        "upr": 367,
+        "gl": 71,
+        "prc": 0.1935
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 21,
       "naz": "GRAD DOLNJI ZEMON -PROSTORI KS",
-      "udel": null,
+      "udel": {
+        "upr": 390,
+        "gl": 68,
+        "prc": 0.1744
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 9,
       "naz": "JABLANICA 32A",
-      "udel": null,
+      "udel": {
+        "upr": 125,
+        "gl": 47,
+        "prc": 0.376
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 37,
       "naz": "JANEŽEVO BRDO 12",
-      "udel": null,
+      "udel": {
+        "upr": 18,
+        "gl": 17,
+        "prc": 0.9444
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 4,
       "naz": "JURČIČEVA 1, ILIRSKA BISTRICA",
-      "udel": null,
+      "udel": {
+        "upr": 670,
+        "gl": 127,
+        "prc": 0.1896
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 38,
       "naz": "KILOVČE 13",
-      "udel": null,
+      "udel": {
+        "upr": 32,
+        "gl": 11,
+        "prc": 0.3438
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 2,
       "naz": "LEVSTIKOVA 5, ILIRSKA BISTRICA",
-      "udel": null,
+      "udel": {
+        "upr": 612,
+        "gl": 119,
+        "prc": 0.1944
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 45,
       "naz": "MEREČE 22",
-      "udel": null,
+      "udel": {
+        "upr": 58,
+        "gl": 20,
+        "prc": 0.3448
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 49,
       "naz": "NA BALINCU, BAČ",
-      "udel": null,
+      "udel": {
+        "upr": 370,
+        "gl": 81,
+        "prc": 0.2189
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 19,
       "naz": "NA BALINCU, KOSEZE",
-      "udel": null,
+      "udel": {
+        "upr": 285,
+        "gl": 65,
+        "prc": 0.2281
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 18,
       "naz": "NA BALINCU, MALA BUKOVICA ",
-      "udel": null,
+      "udel": {
+        "upr": 132,
+        "gl": 34,
+        "prc": 0.2576
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 1,
       "naz": "OSNOVNA ŠOLA ANTONA ŽNIDERŠIČA ILIRSKA BISTRICA",
-      "udel": null,
+      "udel": {
+        "upr": 614,
+        "gl": 116,
+        "prc": 0.1889
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 3,
       "naz": "OSNOVNA ŠOLA DRAGOTINA KETTEJA, ILIRSKA BISTRICA",
-      "udel": null,
+      "udel": {
+        "upr": 654,
+        "gl": 145,
+        "prc": 0.2217
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 25,
       "naz": "OSNOVNA ŠOLA PODGRAD",
-      "udel": null,
+      "udel": {
+        "upr": 469,
+        "gl": 78,
+        "prc": 0.1663
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 30,
       "naz": "OSNOVNA ŠOLA PREGARJE",
-      "udel": null,
+      "udel": {
+        "upr": 305,
+        "gl": 95,
+        "prc": 0.3115
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 23,
       "naz": "PAVLICA 6",
-      "udel": null,
+      "udel": {
+        "upr": 28,
+        "gl": 8,
+        "prc": 0.2857
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 46,
       "naz": "POMOŽNI VAŠKI PROSTOR PODSTENJE",
-      "udel": null,
+      "udel": {
+        "upr": 59,
+        "gl": 19,
+        "prc": 0.322
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 5,
       "naz": "PREDAVALNICA-VHOD BIVŠI TRANSPORT, ŠERCERJEVA 17",
-      "udel": null,
+      "udel": {
+        "upr": 673,
+        "gl": 97,
+        "prc": 0.1441
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 39,
       "naz": "PREM 1",
-      "udel": null,
+      "udel": {
+        "upr": 106,
+        "gl": 32,
+        "prc": 0.3019
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 47,
       "naz": "PROSTORI KS ŠEMBIJE",
-      "udel": null,
+      "udel": {
+        "upr": 228,
+        "gl": 57,
+        "prc": 0.25
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 27,
       "naz": "RAČICE, NA PLESIŠČU",
-      "udel": null,
+      "udel": {
+        "upr": 124,
+        "gl": 32,
+        "prc": 0.2581
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 40,
       "naz": "RATEČEVO BRDO 2",
-      "udel": null,
+      "udel": {
+        "upr": 32,
+        "gl": 14,
+        "prc": 0.4375
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 43,
       "naz": "SMRJE 56",
-      "udel": null,
+      "udel": {
+        "upr": 98,
+        "gl": 25,
+        "prc": 0.2551
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 24,
       "naz": "STAROD 49 A",
-      "udel": null,
+      "udel": {
+        "upr": 42,
+        "gl": 21,
+        "prc": 0.5
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 34,
       "naz": "STAVBA BIVŠE ŠOLE HARIJE",
-      "udel": null,
+      "udel": {
+        "upr": 248,
+        "gl": 47,
+        "prc": 0.1895
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 44,
       "naz": "TOPOLC, GOSTILNA KAMBRA, TOPOLC 8A",
-      "udel": null,
+      "udel": {
+        "upr": 275,
+        "gl": 61,
+        "prc": 0.2218
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 31,
       "naz": "VAŠKA BRUNARICA PRELOŽE",
-      "udel": null,
+      "udel": {
+        "upr": 54,
+        "gl": 5,
+        "prc": 0.0926
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 22,
       "naz": "VAŠKI DOM GORNJI ZEMON ",
-      "udel": null,
+      "udel": {
+        "upr": 80,
+        "gl": 16,
+        "prc": 0.2
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 29,
       "naz": "VAŠKI DOM HRUŠICA",
-      "udel": null,
+      "udel": {
+        "upr": 259,
+        "gl": 49,
+        "prc": 0.1892
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 6,
       "naz": "VAŠKI DOM JASEN, JASEN 15C",
-      "udel": null,
+      "udel": {
+        "upr": 228,
+        "gl": 82,
+        "prc": 0.3596
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 26,
       "naz": "VAŠKI DOM PODBEŽE ",
-      "udel": null,
+      "udel": {
+        "upr": 67,
+        "gl": 13,
+        "prc": 0.194
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 28,
       "naz": "VAŠKI DOM SABONJE, SABONJE 47",
-      "udel": null,
+      "udel": {
+        "upr": 55,
+        "gl": 19,
+        "prc": 0.3455
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 20,
       "naz": "VAŠKI DOM VELIKA BUKOVICA",
-      "udel": null,
+      "udel": {
+        "upr": 206,
+        "gl": 37,
+        "prc": 0.1796
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 32,
       "naz": "VAŠKI DOM ZAJELŠJE",
-      "udel": null,
+      "udel": {
+        "upr": 49,
+        "gl": 4,
+        "prc": 0.0816
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 8,
       "naz": "VAŠKI DOM, VRBICA 24",
-      "udel": null,
+      "udel": {
+        "upr": 133,
+        "gl": 38,
+        "prc": 0.2857
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 901,
       "naz": "PREDČASNO GLASOVANJE",
-      "udel": null,
+      "udel": {
+        "upr": null,
+        "gl": 0,
+        "prc": null
+      },
       "rez": null,
       "prestetih_glasov": null
     }
@@ -531,10 +735,10 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T10:00:20.6416653+02:00",
-    "datum": "2022-04-24T07:20:00+02:00",
+    "timestamp": "2022-04-24T12:36:38.0650501+02:00",
+    "datum": "2022-04-24T12:35:00+02:00",
     "cas_udelezba": "11:00",
-    "has_udelezba": false,
+    "has_udelezba": true,
     "has_rezultat": false,
     "is_final": false,
     "has_kandidati_removed": false

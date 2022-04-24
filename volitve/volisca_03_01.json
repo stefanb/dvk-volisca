@@ -7,301 +7,473 @@
     {
       "st": 20,
       "naz": "ANA ŽNIDARŠIČ, BLOČICE 5",
-      "udel": null,
+      "udel": {
+        "upr": 156,
+        "gl": 53,
+        "prc": 0.3397
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 35,
       "naz": "BRUNARICA NA OVINKU GREAREVEC 2A",
-      "udel": null,
+      "udel": {
+        "upr": 201,
+        "gl": 61,
+        "prc": 0.3035
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 10,
       "naz": "GASILSKI DOM BEZULJAK",
-      "udel": null,
+      "udel": {
+        "upr": 176,
+        "gl": 55,
+        "prc": 0.3125
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 15,
       "naz": "GASILSKI DOM CAJNARJE",
-      "udel": null,
+      "udel": {
+        "upr": 220,
+        "gl": 71,
+        "prc": 0.3227
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 4,
       "naz": "GASILSKI DOM DOLENJA VAS",
-      "udel": null,
+      "udel": {
+        "upr": 380,
+        "gl": 90,
+        "prc": 0.2368
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 5,
       "naz": "GASILSKI DOM DOLENJE JEZERO",
-      "udel": null,
+      "udel": {
+        "upr": 194,
+        "gl": 50,
+        "prc": 0.2577
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 18,
       "naz": "GASILSKI DOM GORENJE JEZERO",
-      "udel": null,
+      "udel": {
+        "upr": 119,
+        "gl": 28,
+        "prc": 0.2353
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 13,
       "naz": "GASILSKI DOM GORENJE OTAVE",
-      "udel": null,
+      "udel": {
+        "upr": 105,
+        "gl": 23,
+        "prc": 0.219
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 9,
       "naz": "GASILSKI DOM IVANJE SELO",
-      "udel": null,
+      "udel": {
+        "upr": 177,
+        "gl": 40,
+        "prc": 0.226
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 17,
       "naz": "GASILSKI DOM MARTINJAK",
-      "udel": null,
+      "udel": {
+        "upr": 242,
+        "gl": 75,
+        "prc": 0.3099
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 24,
       "naz": "GASILSKI DOM MEDVEDJE BRDO",
-      "udel": null,
+      "udel": {
+        "upr": 161,
+        "gl": 41,
+        "prc": 0.2547
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 14,
       "naz": "GASILSKI DOM SVETI VID",
-      "udel": null,
+      "udel": {
+        "upr": 188,
+        "gl": 44,
+        "prc": 0.234
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 8,
       "naz": "GASILSKI DOM UNEC",
-      "udel": null,
+      "udel": {
+        "upr": 621,
+        "gl": 163,
+        "prc": 0.2625
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 45,
       "naz": "GASILSKI DOM VELIKE BLOKE",
-      "udel": null,
+      "udel": {
+        "upr": 330,
+        "gl": 73,
+        "prc": 0.2212
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 16,
       "naz": "GASILSKI DOM ŽEROVNICA",
-      "udel": null,
+      "udel": {
+        "upr": 323,
+        "gl": 77,
+        "prc": 0.2384
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 40,
       "naz": "GOSTIŠČE MLAKAR, MARKOVEC 15A",
-      "udel": null,
+      "udel": {
+        "upr": 315,
+        "gl": 104,
+        "prc": 0.3302
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 49,
       "naz": "KRAŠEVEC BOJAN, STUDENEC NA BLOKAH 12A",
-      "udel": null,
+      "udel": {
+        "upr": 212,
+        "gl": 62,
+        "prc": 0.2925
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 11,
       "naz": "KULTURNO DRUŽABNO SREDIŠČE, TD MENIŠIJA, BEGUNJE",
-      "udel": null,
+      "udel": {
+        "upr": 840,
+        "gl": 232,
+        "prc": 0.2762
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 37,
       "naz": "MEDGENERACIJSKI CENTER GABER, STARI TRG PRI LOŽU",
-      "udel": null,
+      "udel": {
+        "upr": 896,
+        "gl": 230,
+        "prc": 0.2567
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 38,
       "naz": "OKREPČEVALNICA, LOŽ",
-      "udel": null,
+      "udel": {
+        "upr": 468,
+        "gl": 106,
+        "prc": 0.2265
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 28,
       "naz": "OŠ 8 TALCEV LOGATEC",
-      "udel": null,
+      "udel": {
+        "upr": 1339,
+        "gl": 272,
+        "prc": 0.2031
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 30,
       "naz": "OŠ 8 TALCEV LOGATEC",
-      "udel": null,
+      "udel": {
+        "upr": 1757,
+        "gl": 380,
+        "prc": 0.2163
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 6,
       "naz": "OŠ JOŽETA KRAJCA RAKEK",
-      "udel": null,
+      "udel": {
+        "upr": 934,
+        "gl": 173,
+        "prc": 0.1852
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 3,
       "naz": "OŠ NOTRANJSKI ODRED CERKNICA",
-      "udel": null,
+      "udel": {
+        "upr": 1010,
+        "gl": 260,
+        "prc": 0.2574
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 44,
       "naz": "OŠ NOVA VAS",
-      "udel": null,
+      "udel": {
+        "upr": 532,
+        "gl": 126,
+        "prc": 0.2368
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 22,
       "naz": "OŠ ROVTE",
-      "udel": null,
+      "udel": {
+        "upr": 1014,
+        "gl": 245,
+        "prc": 0.2416
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 34,
       "naz": "OŠ TABOR LOGATEC",
-      "udel": null,
+      "udel": {
+        "upr": 1561,
+        "gl": 375,
+        "prc": 0.2402
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 7,
       "naz": "PISARNA KRAJEVNEGA URADA RAKEK",
-      "udel": null,
+      "udel": {
+        "upr": 727,
+        "gl": 163,
+        "prc": 0.2242
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 19,
       "naz": "POŠ 11.MAJ GRAHOVO",
-      "udel": null,
+      "udel": {
+        "upr": 377,
+        "gl": 95,
+        "prc": 0.252
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 33,
       "naz": "POŠ HOTEDRŠICA",
-      "udel": null,
+      "udel": {
+        "upr": 654,
+        "gl": 173,
+        "prc": 0.2645
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 39,
       "naz": "POŠ IGA VAS",
-      "udel": null,
+      "udel": {
+        "upr": 880,
+        "gl": 224,
+        "prc": 0.2545
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 26,
       "naz": "POŠ LAZE",
-      "udel": null,
+      "udel": {
+        "upr": 327,
+        "gl": 78,
+        "prc": 0.2385
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 25,
       "naz": "POŠ ROVTARSKE ŽIBRŠE",
-      "udel": null,
+      "udel": {
+        "upr": 186,
+        "gl": 44,
+        "prc": 0.2366
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 27,
       "naz": "POŠ VRH SVETIH TREH KRALJEV",
-      "udel": null,
+      "udel": {
+        "upr": 272,
+        "gl": 52,
+        "prc": 0.1912
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 1,
       "naz": "STAVBA OBČINE CERKNICA, CESTA 4.MAJA 53",
-      "udel": null,
+      "udel": {
+        "upr": 1049,
+        "gl": 180,
+        "prc": 0.1716
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 2,
       "naz": "STAVBA UPRAVNE ENOTE CERKNICA, CESTA 4. MAJA 24",
-      "udel": null,
+      "udel": {
+        "upr": 1042,
+        "gl": 218,
+        "prc": 0.2092
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 23,
       "naz": "ŠOLA LOG, ZAPLANA",
-      "udel": null,
+      "udel": {
+        "upr": 191,
+        "gl": 65,
+        "prc": 0.3403
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 31,
       "naz": "UPRAVNI CENTER LOGATEC",
-      "udel": null,
+      "udel": {
+        "upr": 986,
+        "gl": 234,
+        "prc": 0.2373
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 32,
       "naz": "UPRAVNI CENTER LOGATEC",
-      "udel": null,
+      "udel": {
+        "upr": 1340,
+        "gl": 260,
+        "prc": 0.194
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 47,
       "naz": "VEČNAMENSKI OBJEKT SVETA TROJICA",
-      "udel": null,
+      "udel": {
+        "upr": 195,
+        "gl": 51,
+        "prc": 0.2615
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 43,
       "naz": "VEČNAMENSKI OBJEKT-BIVŠA POŠ BABNO POLJE",
-      "udel": null,
+      "udel": {
+        "upr": 244,
+        "gl": 61,
+        "prc": 0.25
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 36,
       "naz": "ZAVOD ZA VZGOJO IN IZOBRAŽEVANJE LOGATEC",
-      "udel": null,
+      "udel": {
+        "upr": 566,
+        "gl": 120,
+        "prc": 0.212
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 901,
       "naz": "PREDČASNO GLASOVANJE",
-      "udel": null,
+      "udel": {
+        "upr": null,
+        "gl": 0,
+        "prc": null
+      },
       "rez": null,
       "prestetih_glasov": null
     }
@@ -473,10 +645,10 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T10:00:20.6416653+02:00",
-    "datum": "2022-04-24T07:20:00+02:00",
+    "timestamp": "2022-04-24T12:36:38.0650501+02:00",
+    "datum": "2022-04-24T12:35:00+02:00",
     "cas_udelezba": "11:00",
-    "has_udelezba": false,
+    "has_udelezba": true,
     "has_rezultat": false,
     "is_final": false,
     "has_kandidati_removed": false

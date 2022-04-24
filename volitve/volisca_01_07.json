@@ -7,112 +7,176 @@
     {
       "st": 1,
       "naz": "BISTRICA I, OSNOVNA ŠOLA BISTRICA, BEGUNJSKA C. 2",
-      "udel": null,
+      "udel": {
+        "upr": 1330,
+        "gl": 305,
+        "prc": 0.2293
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 2,
       "naz": "BISTRICA II, OSNOVNA ŠOLA BISTRICA, BEGUNJSKA C.2",
-      "udel": null,
+      "udel": {
+        "upr": 1267,
+        "gl": 285,
+        "prc": 0.2249
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 3,
       "naz": "BREZJE, DOM KRAJANOV, BREZJE PRI TRŽIČU 55, TRŽIČ",
-      "udel": null,
+      "udel": {
+        "upr": 427,
+        "gl": 141,
+        "prc": 0.3302
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 4,
       "naz": "JELENDOL, DOM KRAJANOV, JELENDOL 8, TRŽIČ",
-      "udel": null,
+      "udel": {
+        "upr": 165,
+        "gl": 48,
+        "prc": 0.2909
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 5,
       "naz": "KOVOR, KRAJEVNA SKUPNOST, GLAVNA CESTA 24, KOVOR",
-      "udel": null,
+      "udel": {
+        "upr": 1390,
+        "gl": 276,
+        "prc": 0.1986
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 6,
       "naz": "KRIŽE, OSNOVNA ŠOLA KRIŽE, C. KOKRŠKEGA ODREDA 16",
-      "udel": null,
+      "udel": {
+        "upr": 847,
+        "gl": 250,
+        "prc": 0.2952
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 7,
       "naz": "LEŠE, GASILSKI DOM LEŠE, LEŠE 3, TRŽIČ ",
-      "udel": null,
+      "udel": {
+        "upr": 269,
+        "gl": 67,
+        "prc": 0.2491
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 8,
       "naz": "LOM POD STORŽIČEM,DOM KRAJANOV,LOM POD STORŽIČ.56",
-      "udel": null,
+      "udel": {
+        "upr": 458,
+        "gl": 112,
+        "prc": 0.2445
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 9,
       "naz": "PODLJUBELJ, DOM KRAJANOV, PODLJUBELJ 242, TRŽIČ ",
-      "udel": null,
+      "udel": {
+        "upr": 712,
+        "gl": 198,
+        "prc": 0.2781
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 10,
       "naz": "PRISTAVA, FUNDACIJA V.DRAKSLERJA, PRISTAVŠKA C.16",
-      "udel": null,
+      "udel": {
+        "upr": 705,
+        "gl": 165,
+        "prc": 0.234
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 11,
       "naz": "RAVNE,KRAJEVNA SKUPNOST RAVNE, POT NA ZALI ROVT 3",
-      "udel": null,
+      "udel": {
+        "upr": 842,
+        "gl": 166,
+        "prc": 0.1971
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 12,
       "naz": "SEBENJE, DOM KRAJANOV, SEBENJE 43, KRIŽE",
-      "udel": null,
+      "udel": {
+        "upr": 921,
+        "gl": 227,
+        "prc": 0.2465
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 13,
       "naz": "SENIČNO, KRAJEVNA SKUPNOST, SENIČNO 30, KRIŽE   ",
-      "udel": null,
+      "udel": {
+        "upr": 367,
+        "gl": 98,
+        "prc": 0.267
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 14,
       "naz": "TRŽIČ I,GALERIJA ATRIJ OBČINE TRŽIČ,TRG SVOBODE18",
-      "udel": null,
+      "udel": {
+        "upr": 1230,
+        "gl": 221,
+        "prc": 0.1797
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 15,
       "naz": "TRŽIČ II, DRUŠTVO UPOKOJENCEV TRŽIČ,TRG SVOBODE18",
-      "udel": null,
+      "udel": {
+        "upr": 867,
+        "gl": 121,
+        "prc": 0.1396
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 901,
       "naz": "PREDČASNO GLASOVANJE",
-      "udel": null,
+      "udel": {
+        "upr": null,
+        "gl": 0,
+        "prc": null
+      },
       "rez": null,
       "prestetih_glasov": null
     }
@@ -286,10 +350,10 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T10:00:20.6416653+02:00",
-    "datum": "2022-04-24T07:20:00+02:00",
+    "timestamp": "2022-04-24T12:36:38.0650501+02:00",
+    "datum": "2022-04-24T12:35:00+02:00",
     "cas_udelezba": "11:00",
-    "has_udelezba": false,
+    "has_udelezba": true,
     "has_rezultat": false,
     "is_final": false,
     "has_kandidati_removed": false

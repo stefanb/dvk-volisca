@@ -7,469 +7,737 @@
     {
       "st": 55,
       "naz": "ARTVIŽE, VAŠKI DOM, ARTVIŽE 6A",
-      "udel": null,
+      "udel": {
+        "upr": 53,
+        "gl": 16,
+        "prc": 0.3019
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 1,
       "naz": "AVBER, BIVŠA ŠOLA",
-      "udel": null,
+      "udel": {
+        "upr": 251,
+        "gl": 46,
+        "prc": 0.1833
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 57,
       "naz": "BAČ PRI MATERIJI ŠT. 28B, GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 338,
+        "gl": 91,
+        "prc": 0.2692
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 46,
       "naz": "BARKA, STARA OSNOVNA ŠOLA",
-      "udel": null,
+      "udel": {
+        "upr": 79,
+        "gl": 35,
+        "prc": 0.443
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 35,
       "naz": "BRESTOVICA PRI KOMNU,VAŠKA SKUPNOST, ŠT.55",
-      "udel": null,
+      "udel": {
+        "upr": 158,
+        "gl": 38,
+        "prc": 0.2405
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 58,
       "naz": "BREZOVICA, VAŠKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 69,
+        "gl": 21,
+        "prc": 0.3043
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 33,
       "naz": "BRJE PRI KOMNU, VAŠKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 94,
+        "gl": 26,
+        "prc": 0.2766
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 43,
       "naz": "DANE PRI DIVAČI, VAŠKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 157,
+        "gl": 40,
+        "prc": 0.2548
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 2,
       "naz": "DANE PRI SEŽANI, DOM NA PADULU",
-      "udel": null,
+      "udel": {
+        "upr": 336,
+        "gl": 86,
+        "prc": 0.256
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 40,
       "naz": "DIVAČA, OSNOVNA ŠOLA",
-      "udel": null,
+      "udel": {
+        "upr": 1185,
+        "gl": 297,
+        "prc": 0.2506
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 20,
       "naz": "DOL PRI VOGLJAH, ZADRUŽNI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 209,
+        "gl": 36,
+        "prc": 0.1722
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 49,
       "naz": "DOLENJA VAS, V ZADRUŽNEM DOMU",
-      "udel": null,
+      "udel": {
+        "upr": 239,
+        "gl": 80,
+        "prc": 0.3347
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 41,
       "naz": "DOLJNE LEŽEČE, GOSTILNA PRI ČOTNIKU",
-      "udel": null,
+      "udel": {
+        "upr": 237,
+        "gl": 63,
+        "prc": 0.2658
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 3,
       "naz": "DUTOVLJE,  BUNČETOVA DOMAČIJA, DUTOVLJE 65",
-      "udel": null,
+      "udel": {
+        "upr": 505,
+        "gl": 105,
+        "prc": 0.2079
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 44,
       "naz": "FAMLJE, V OBJEKTU NEKDANJEGA LIV-A",
-      "udel": null,
+      "udel": {
+        "upr": 496,
+        "gl": 118,
+        "prc": 0.2379
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 27,
       "naz": "GABROVICA PRI KOMNU 47,V PROSTORIH VAŠKE SKUPNOST",
-      "udel": null,
+      "udel": {
+        "upr": 155,
+        "gl": 34,
+        "prc": 0.2194
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 34,
       "naz": "GORJANSKO, V KOTIČKU KULTURNEGA DOMA",
-      "udel": null,
+      "udel": {
+        "upr": 264,
+        "gl": 81,
+        "prc": 0.3068
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 45,
       "naz": "GORNJE LEŽEČE 16,V PRIVAT HIŠI JOŽETA ČEPERJA",
-      "udel": null,
+      "udel": {
+        "upr": 35,
+        "gl": 20,
+        "prc": 0.5714
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 56,
       "naz": "GRADIŠČE PRI MATERIJI,PROSTORI KRAJEVNE SKUPNOSTI",
-      "udel": null,
+      "udel": {
+        "upr": 112,
+        "gl": 36,
+        "prc": 0.3214
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 50,
       "naz": "HRPELJE, VAŠKI DOM HRPELJE, NA  GORICI 2A",
-      "udel": null,
+      "udel": {
+        "upr": 646,
+        "gl": 169,
+        "prc": 0.2616
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 39,
       "naz": "HRUŠEVICA, VAŠKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 119,
+        "gl": 38,
+        "prc": 0.3193
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 32,
       "naz": "IVANJI GRAD, VAŠKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 94,
+        "gl": 26,
+        "prc": 0.2766
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 69,
       "naz": "JAVORJE, VAŠKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 116,
+        "gl": 29,
+        "prc": 0.25
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 8,
       "naz": "KAZLJE, V DOMU KS",
-      "udel": null,
+      "udel": {
+        "upr": 149,
+        "gl": 49,
+        "prc": 0.3289
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 68,
       "naz": "KLANEC PRI KOZINI, V PROSTORIH VAŠKEGA DOMA",
-      "udel": null,
+      "udel": {
+        "upr": 128,
+        "gl": 34,
+        "prc": 0.2656
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 38,
       "naz": "KOBJEGLAVA, VAŠKI DOM, ŠT.75",
-      "udel": null,
+      "udel": {
+        "upr": 205,
+        "gl": 63,
+        "prc": 0.3073
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 37,
       "naz": "KODRETI, VAŠKA SKUPNOST GORNJA BRANICA,KODRETI 10",
-      "udel": null,
+      "udel": {
+        "upr": 134,
+        "gl": 36,
+        "prc": 0.2687
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 26,
       "naz": "KOMEN, DVORANA KULTURNEGA DOMA, KOMEN 118",
-      "udel": null,
+      "udel": {
+        "upr": 636,
+        "gl": 119,
+        "prc": 0.1871
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 6,
       "naz": "KOPRIVA,DVORANA VAŠKE SKUPNOSTI",
-      "udel": null,
+      "udel": {
+        "upr": 172,
+        "gl": 41,
+        "prc": 0.2384
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 53,
       "naz": "KOZINA, V PROSTORIH KNJIŽNICE, ISTRSKA 19",
-      "udel": null,
+      "udel": {
+        "upr": 515,
+        "gl": 149,
+        "prc": 0.2893
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 7,
       "naz": "KRAJNA VAS 40,V PROSTORIH VAŠKE HIŠE GEC CVETKE",
-      "udel": null,
+      "udel": {
+        "upr": 98,
+        "gl": 35,
+        "prc": 0.3571
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 4,
       "naz": "KREPLJE, VAŠKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 125,
+        "gl": 39,
+        "prc": 0.312
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 24,
       "naz": "KRIŽ, VAŠKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 684,
+        "gl": 183,
+        "prc": 0.2675
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 52,
       "naz": "KRVAVI POTOK, VAŠKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 134,
+        "gl": 35,
+        "prc": 0.2612
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 9,
       "naz": "LOKEV, KULTURNI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 646,
+        "gl": 184,
+        "prc": 0.2848
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 42,
       "naz": "NAKLO, VAŠKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 98,
+        "gl": 28,
+        "prc": 0.2857
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 60,
       "naz": "OBROV, V PROSTORIH BALINIŠČA",
-      "udel": null,
+      "udel": {
+        "upr": 242,
+        "gl": 38,
+        "prc": 0.157
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 59,
       "naz": "OCIZLA-V VAŠKI HIŠI,OCIZLA 36",
-      "udel": null,
+      "udel": {
+        "upr": 115,
+        "gl": 46,
+        "prc": 0.4
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 17,
       "naz": "OSNOVNA ŠOLA SEŽANA (V JEDILNICI), KOSOVELOVA 6",
-      "udel": null,
+      "udel": {
+        "upr": 397,
+        "gl": 66,
+        "prc": 0.1662
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 15,
       "naz": "OTROŠKI VRTEC, ULICA JOŽETA PAHORJA 1",
-      "udel": null,
+      "udel": {
+        "upr": 713,
+        "gl": 165,
+        "prc": 0.2314
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 10,
       "naz": "PLISKOVICA, PROSTOR BALINARSKEGA KLUBA",
-      "udel": null,
+      "udel": {
+        "upr": 212,
+        "gl": 80,
+        "prc": 0.3774
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 13,
       "naz": "POVIR, V PROSTORIH ZADRUŽNEGA DOMA",
-      "udel": null,
+      "udel": {
+        "upr": 541,
+        "gl": 168,
+        "prc": 0.3105
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 61,
       "naz": "PREŠNICA, OSNOVNA ŠOLA",
-      "udel": null,
+      "udel": {
+        "upr": 147,
+        "gl": 68,
+        "prc": 0.4626
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 62,
       "naz": "RODIK, PROSTORI VAŠKEGA DOMA, RODIK 6",
-      "udel": null,
+      "udel": {
+        "upr": 246,
+        "gl": 60,
+        "prc": 0.2439
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 14,
       "naz": "SEDEŽ OBČINE SEŽANA, PARTIZANSKA CESTA 4",
-      "udel": null,
+      "udel": {
+        "upr": 643,
+        "gl": 119,
+        "prc": 0.1851
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 48,
       "naz": "SENOŽEČE, VEČNAMENSKA DVORANA RUDOLFA  CVETKA",
-      "udel": null,
+      "udel": {
+        "upr": 557,
+        "gl": 145,
+        "prc": 0.2603
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 5,
       "naz": "SKOPO, VAŠKA DVORANA",
-      "udel": null,
+      "udel": {
+        "upr": 190,
+        "gl": 56,
+        "prc": 0.2947
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 63,
       "naz": "SLIVJE, KRAJEVNA SKUPNOST",
-      "udel": null,
+      "udel": {
+        "upr": 385,
+        "gl": 73,
+        "prc": 0.1896
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 18,
       "naz": "STARA OSNOVNA ŠOLA V SEŽANI",
-      "udel": null,
+      "udel": {
+        "upr": 968,
+        "gl": 182,
+        "prc": 0.188
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 30,
       "naz": "SVETO, STARA ŠOLA, ŠT.68",
-      "udel": null,
+      "udel": {
+        "upr": 176,
+        "gl": 42,
+        "prc": 0.2386
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 31,
       "naz": "ŠKRBINA, STARA ŠOLA",
-      "udel": null,
+      "udel": {
+        "upr": 176,
+        "gl": 53,
+        "prc": 0.3011
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 36,
       "naz": "ŠTANJEL, ZADRUŽNI DOM, ŠT.59A",
-      "udel": null,
+      "udel": {
+        "upr": 522,
+        "gl": 105,
+        "prc": 0.2011
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 21,
       "naz": "ŠTJAK, V BIVŠI ŠOLI",
-      "udel": null,
+      "udel": {
+        "upr": 173,
+        "gl": 38,
+        "prc": 0.2197
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 22,
       "naz": "ŠTORJE, ZADRUŽNI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 367,
+        "gl": 96,
+        "prc": 0.2616
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 25,
       "naz": "TABOR, V PROSTORIH ŠOLE, TABOR ŠT.9",
-      "udel": null,
+      "udel": {
+        "upr": 249,
+        "gl": 48,
+        "prc": 0.1928
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 64,
       "naz": "TATRE, VAŠKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 41,
+        "gl": 15,
+        "prc": 0.3659
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 29,
       "naz": "TOMAČEVICA, VAŠKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 130,
+        "gl": 46,
+        "prc": 0.3538
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 23,
       "naz": "TOMAJ,SEDEŽ KRAJEVNE SKUPNOSTI",
-      "udel": null,
+      "udel": {
+        "upr": 248,
+        "gl": 69,
+        "prc": 0.2782
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 51,
       "naz": "TUBLJE PRI HRPELJAH, GOSTILNA KRIŽMAN, TUBLJE 24",
-      "udel": null,
+      "udel": {
+        "upr": 161,
+        "gl": 41,
+        "prc": 0.2547
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 12,
       "naz": "TUBLJE PRI KOMNU,VAŠKA HIŠA KNEZ DRAGICE,H.ŠT.16",
-      "udel": null,
+      "udel": {
+        "upr": 47,
+        "gl": 18,
+        "prc": 0.383
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 47,
       "naz": "VAREJE, VAŠKI DOM OB BALINIŠČU",
-      "udel": null,
+      "udel": {
+        "upr": 74,
+        "gl": 10,
+        "prc": 0.1351
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 16,
       "naz": "VDC KOPER -ENOTA SEŽANA,UL. J.PAHORJA 3",
-      "udel": null,
+      "udel": {
+        "upr": 797,
+        "gl": 150,
+        "prc": 0.1882
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 11,
       "naz": "VELIKI DOL, DVORANA STARE ŠOLE",
-      "udel": null,
+      "udel": {
+        "upr": 99,
+        "gl": 37,
+        "prc": 0.3737
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 28,
       "naz": "VOLČJI GRAD ŠT.24",
-      "udel": null,
+      "udel": {
+        "upr": 73,
+        "gl": 32,
+        "prc": 0.4384
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 54,
       "naz": "VRHPOLJE, VAŠKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 61,
+        "gl": 8,
+        "prc": 0.1311
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 19,
       "naz": "ZAV. ZA GAS. IN REŠ.SL. SEŽANA, BAZOVIŠKA UL. 13",
-      "udel": null,
+      "udel": {
+        "upr": 591,
+        "gl": 128,
+        "prc": 0.2166
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 901,
       "naz": "PREDČASNO GLASOVANJE",
-      "udel": null,
+      "udel": {
+        "upr": null,
+        "gl": 0,
+        "prc": null
+      },
       "rez": null,
       "prestetih_glasov": null
     }
@@ -643,10 +911,10 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T10:00:20.6416653+02:00",
-    "datum": "2022-04-24T07:20:00+02:00",
+    "timestamp": "2022-04-24T12:36:38.0650501+02:00",
+    "datum": "2022-04-24T12:35:00+02:00",
     "cas_udelezba": "11:00",
-    "has_udelezba": false,
+    "has_udelezba": true,
     "has_rezultat": false,
     "is_final": false,
     "has_kandidati_removed": false

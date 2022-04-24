@@ -7,287 +7,451 @@
     {
       "st": 23,
       "naz": "BAŠELJ, BRUNARICA TD BAŠELJ",
-      "udel": null,
+      "udel": {
+        "upr": 393,
+        "gl": 96,
+        "prc": 0.2443
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 2,
       "naz": "CERKLJE NA GOR. I, OŠ D.JENKO, KRVAVŠKA CESTA 4",
-      "udel": null,
+      "udel": {
+        "upr": 1060,
+        "gl": 258,
+        "prc": 0.2434
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 3,
       "naz": "CERKLJE NA GOR. II, OŠ D.JENKO, KRVAVŠKA CESTA 4",
-      "udel": null,
+      "udel": {
+        "upr": 929,
+        "gl": 214,
+        "prc": 0.2304
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 4,
       "naz": "ČEŠNJEVEK, VAŠKI DOM, ČEŠNJEVEK 11 A",
-      "udel": null,
+      "udel": {
+        "upr": 135,
+        "gl": 34,
+        "prc": 0.2519
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 19,
       "naz": "DUPLJE, GASILSKI DOM DUPLJE, ZGORNJE DUPLJE 8",
-      "udel": null,
+      "udel": {
+        "upr": 930,
+        "gl": 313,
+        "prc": 0.3366
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 14,
       "naz": "GOLNIK, KRANJSKI VRTCI-ENOTA OSTRŽEK, GOLNIK 54",
-      "udel": null,
+      "udel": {
+        "upr": 882,
+        "gl": 229,
+        "prc": 0.2596
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 15,
       "naz": "GORIČE,OŠ S.JENKO-TELOVADNICA,SREDNJA VAS-GORIČE1",
-      "udel": null,
+      "udel": {
+        "upr": 568,
+        "gl": 150,
+        "prc": 0.2641
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 40,
       "naz": "HOTEMAŽE, VAŠKI GASILSKI DOM, HOTEMAŽE 80",
-      "udel": null,
+      "udel": {
+        "upr": 389,
+        "gl": 114,
+        "prc": 0.2931
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 16,
       "naz": "HRASTJE, ŠPORTNI CENTER GRABEN, HRASTJE 209",
-      "udel": null,
+      "udel": {
+        "upr": 823,
+        "gl": 204,
+        "prc": 0.2479
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 24,
       "naz": "KOKRA, OSNOVNA ŠOLA, KOKRA 23",
-      "udel": null,
+      "udel": {
+        "upr": 211,
+        "gl": 46,
+        "prc": 0.218
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 5,
       "naz": "LAHOVČE, GASILSKI DOM, LAHOVČE 74",
-      "udel": null,
+      "udel": {
+        "upr": 344,
+        "gl": 110,
+        "prc": 0.3198
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 28,
       "naz": "LUŽE, GASILSKI DOM, LUŽE 27",
-      "udel": null,
+      "udel": {
+        "upr": 220,
+        "gl": 76,
+        "prc": 0.3455
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 20,
       "naz": "NAKLO I, DOM JANEZA FILIPIČA, KRANJSKA C.1, NAKLO",
-      "udel": null,
+      "udel": {
+        "upr": 1389,
+        "gl": 338,
+        "prc": 0.2433
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 21,
       "naz": "NAKLO II, VEČNAMENSKI OBJEKT NAKLO, STARA C. 61  ",
-      "udel": null,
+      "udel": {
+        "upr": 1153,
+        "gl": 350,
+        "prc": 0.3036
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 29,
       "naz": "OLŠEVEK, GASILSKO DRUŠTVO OLŠEVEK, OLŠEVEK 18    ",
-      "udel": null,
+      "udel": {
+        "upr": 292,
+        "gl": 91,
+        "prc": 0.3116
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 22,
       "naz": "PODBREZJE, KULTURNI DOM, PODBREZJE 147",
-      "udel": null,
+      "udel": {
+        "upr": 745,
+        "gl": 220,
+        "prc": 0.2953
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 7,
       "naz": "POŽENIK, VAŠKI DOM POŽENIK, POŽENIK 6",
-      "udel": null,
+      "udel": {
+        "upr": 419,
+        "gl": 120,
+        "prc": 0.2864
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 6,
       "naz": "PRAPROTNA POLICA, VAŠKI DOM PRAPROTNA POLICA",
-      "udel": null,
+      "udel": {
+        "upr": 160,
+        "gl": 57,
+        "prc": 0.3562
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 30,
       "naz": "PREBAČEVO, GASILSKI DOM, PREBAČEVO 63",
-      "udel": null,
+      "udel": {
+        "upr": 405,
+        "gl": 105,
+        "prc": 0.2593
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 25,
       "naz": "PREDDVOR, VEČNAMENSKI INFO CENTER, DVORSKI TRG 3",
-      "udel": null,
+      "udel": {
+        "upr": 1181,
+        "gl": 328,
+        "prc": 0.2777
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 38,
       "naz": "SP. JEZERSKO, GOSTILNA KANONIR, SP. JEZERSKO 5",
-      "udel": null,
+      "udel": {
+        "upr": 60,
+        "gl": 22,
+        "prc": 0.3667
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 8,
       "naz": "SPODNJI BRNIK, GASILSKI DOM SP.BRNIK, SP.BRNIK 5A",
-      "udel": null,
+      "udel": {
+        "upr": 479,
+        "gl": 125,
+        "prc": 0.261
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 31,
       "naz": "SREDNJA VAS, GASILSKI DOM, SREDNJA VAS PRI Š. 68",
-      "udel": null,
+      "udel": {
+        "upr": 602,
+        "gl": 171,
+        "prc": 0.2841
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 32,
       "naz": "ŠENČUR I, OŠ ŠENČUR, PIPANOVA C.43, ŠENČUR",
-      "udel": null,
+      "udel": {
+        "upr": 1159,
+        "gl": 265,
+        "prc": 0.2286
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 33,
       "naz": "ŠENČUR II, OŠ ŠENČUR, PIPANOVA C. 43, ŠENČUR",
-      "udel": null,
+      "udel": {
+        "upr": 1111,
+        "gl": 288,
+        "prc": 0.2592
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 9,
       "naz": "ŠENTURŠKA GORA, KRAJEVNI DOM, ŠENTURŠKA GORA 11",
-      "udel": null,
+      "udel": {
+        "upr": 523,
+        "gl": 140,
+        "prc": 0.2677
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 10,
       "naz": "ŠTEFANJA GORA, GASILSKI DOM, ŠTEFANJA GORA 30",
-      "udel": null,
+      "udel": {
+        "upr": 88,
+        "gl": 49,
+        "prc": 0.5568
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 17,
       "naz": "TENETIŠE, DOM DRUŽ. POL. ORG., TENETIŠE 80",
-      "udel": null,
+      "udel": {
+        "upr": 340,
+        "gl": 94,
+        "prc": 0.2765
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 37,
       "naz": "TRBOJE, DOM KRAJANOV, TRBOJE 39",
-      "udel": null,
+      "udel": {
+        "upr": 564,
+        "gl": 115,
+        "prc": 0.2039
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 18,
       "naz": "TRSTENIK, DOM KRAJEVNE SKUPNOSTI, TRSTENIK 8 A",
-      "udel": null,
+      "udel": {
+        "upr": 606,
+        "gl": 189,
+        "prc": 0.3119
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 26,
       "naz": "TUPALIČE, PENSION ZAPLATA, TUPALIČE 32",
-      "udel": null,
+      "udel": {
+        "upr": 492,
+        "gl": 150,
+        "prc": 0.3049
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 11,
       "naz": "VELESOVO, GASILSKI DOM, VELESOVO 53",
-      "udel": null,
+      "udel": {
+        "upr": 300,
+        "gl": 89,
+        "prc": 0.2967
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 34,
       "naz": "VISOKO, DOM KRAJANOV, VISOKO 67",
-      "udel": null,
+      "udel": {
+        "upr": 1086,
+        "gl": 311,
+        "prc": 0.2864
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 35,
       "naz": "VOGLJE, DOM VAŠČANOV VOGLJE, NA VASI 21, VOGLJE",
-      "udel": null,
+      "udel": {
+        "upr": 549,
+        "gl": 137,
+        "prc": 0.2495
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 36,
       "naz": "VOKLO, ŠPORTNO KULTURNI DOM, VOKLO 28",
-      "udel": null,
+      "udel": {
+        "upr": 390,
+        "gl": 113,
+        "prc": 0.2897
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 1,
       "naz": "VOLIŠČE ADERGAS,  ADERGAS 12 ",
-      "udel": null,
+      "udel": {
+        "upr": 298,
+        "gl": 92,
+        "prc": 0.3087
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 12,
       "naz": "ZALOG, OSNOVNA ŠOLA, ZALOG PRI CERKLJAH 29",
-      "udel": null,
+      "udel": {
+        "upr": 583,
+        "gl": 120,
+        "prc": 0.2058
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 39,
       "naz": "ZG. JEZERSKO, KOROTAN, ZGORNJE JEZERSKO 57",
-      "udel": null,
+      "udel": {
+        "upr": 465,
+        "gl": 120,
+        "prc": 0.2581
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 27,
       "naz": "ZGORNJA BELA, DOM KRAJANOV, ZGORNJA BELA 67",
-      "udel": null,
+      "udel": {
+        "upr": 633,
+        "gl": 172,
+        "prc": 0.2717
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 13,
       "naz": "ZGORNJI BRNIK, GASILSKI DOM, ZGORNJI BRNIK 8",
-      "udel": null,
+      "udel": {
+        "upr": 549,
+        "gl": 161,
+        "prc": 0.2933
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 901,
       "naz": "PREDČASNO GLASOVANJE",
-      "udel": null,
+      "udel": {
+        "upr": null,
+        "gl": 0,
+        "prc": null
+      },
       "rez": null,
       "prestetih_glasov": null
     }
@@ -461,10 +625,10 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T10:00:20.6416653+02:00",
-    "datum": "2022-04-24T07:20:00+02:00",
+    "timestamp": "2022-04-24T12:36:38.0650501+02:00",
+    "datum": "2022-04-24T12:35:00+02:00",
     "cas_udelezba": "11:00",
-    "has_udelezba": false,
+    "has_udelezba": true,
     "has_rezultat": false,
     "is_final": false,
     "has_kandidati_removed": false

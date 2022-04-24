@@ -1,3 +1,723 @@
 {
-  "datum": "2022-04-24T07:20:00Z"
+  "datum": "2022-04-24T12:35:00Z",
+  "cas_udelezba": "11:00",
+  "slovenija": {
+    "upr_red": 1695766,
+    "upr_pos": 0,
+    "gl_ime": 356974,
+    "gl_pot": 2,
+    "gl_pos": 0,
+    "gl_inv": 0,
+    "gl_vol_omnia": 670,
+    "gl_vol_inv": null,
+    "upr": 1695768,
+    "gl": 356976,
+    "prc": 0.2105
+  },
+  "enote": [
+    {
+      "okraji": [
+        {
+          "st": 1,
+          "naz": "Jesenice",
+          "upr": 26220,
+          "gl": 5858,
+          "prc": 0.2234
+        },
+        {
+          "st": 2,
+          "naz": "Radovljica 1",
+          "upr": 13434,
+          "gl": 3220,
+          "prc": 0.2397
+        },
+        {
+          "st": 3,
+          "naz": "Radovljica 2",
+          "upr": 15916,
+          "gl": 3434,
+          "prc": 0.2158
+        },
+        {
+          "st": 4,
+          "naz": "Kranj 1",
+          "upr": 20382,
+          "gl": 4517,
+          "prc": 0.2216
+        },
+        {
+          "st": 5,
+          "naz": "Kranj 2",
+          "upr": 20455,
+          "gl": 4200,
+          "prc": 0.2053
+        },
+        {
+          "st": 6,
+          "naz": "Kranj 3",
+          "upr": 24293,
+          "gl": 6377,
+          "prc": 0.2625
+        },
+        {
+          "st": 7,
+          "naz": "Tržič",
+          "upr": 12493,
+          "gl": 2693,
+          "prc": 0.2156
+        },
+        {
+          "st": 8,
+          "naz": "Škofja Loka 1",
+          "upr": 18615,
+          "gl": 4254,
+          "prc": 0.2285
+        },
+        {
+          "st": 9,
+          "naz": "Škofja Loka 2",
+          "upr": 15419,
+          "gl": 4100,
+          "prc": 0.2659
+        },
+        {
+          "st": 10,
+          "naz": "Kamnik",
+          "upr": 27960,
+          "gl": 5774,
+          "prc": 0.2065
+        },
+        {
+          "st": 11,
+          "naz": "Idrija",
+          "upr": 13497,
+          "gl": 3291,
+          "prc": 0.2438
+        }
+      ],
+      "st": 1,
+      "naz": "Kranj",
+      "upr": 208684,
+      "gl": 47718,
+      "prc": 0.2287
+    },
+    {
+      "okraji": [
+        {
+          "st": 1,
+          "naz": "Tolmin",
+          "upr": 16066,
+          "gl": 4278,
+          "prc": 0.2663
+        },
+        {
+          "st": 2,
+          "naz": "Piran",
+          "upr": 14706,
+          "gl": 2446,
+          "prc": 0.1663
+        },
+        {
+          "st": 3,
+          "naz": "Izola",
+          "upr": 12644,
+          "gl": 2421,
+          "prc": 0.1915
+        },
+        {
+          "st": 4,
+          "naz": "Koper 1",
+          "upr": 18483,
+          "gl": 3354,
+          "prc": 0.1815
+        },
+        {
+          "st": 5,
+          "naz": "Koper 2",
+          "upr": 24984,
+          "gl": 5222,
+          "prc": 0.209
+        },
+        {
+          "st": 6,
+          "naz": "Sežana",
+          "upr": 21965,
+          "gl": 4728,
+          "prc": 0.2153
+        },
+        {
+          "st": 7,
+          "naz": "Ilirska Bistrica",
+          "upr": 12706,
+          "gl": 2336,
+          "prc": 0.1839
+        },
+        {
+          "st": 8,
+          "naz": "Postojna",
+          "upr": 18119,
+          "gl": 3845,
+          "prc": 0.2122
+        },
+        {
+          "st": 9,
+          "naz": "Nova Gorica 1",
+          "upr": 25098,
+          "gl": 5477,
+          "prc": 0.2182
+        },
+        {
+          "st": 10,
+          "naz": "Nova Gorica 2",
+          "upr": 23879,
+          "gl": 4850,
+          "prc": 0.2031
+        },
+        {
+          "st": 11,
+          "naz": "Ajdovščina",
+          "upr": 20656,
+          "gl": 4711,
+          "prc": 0.2281
+        }
+      ],
+      "st": 2,
+      "naz": "Postojna",
+      "upr": 209306,
+      "gl": 43668,
+      "prc": 0.2086
+    },
+    {
+      "okraji": [
+        {
+          "st": 1,
+          "naz": "Logatec",
+          "upr": 25039,
+          "gl": 5529,
+          "prc": 0.2208
+        },
+        {
+          "st": 2,
+          "naz": "Vrhnika",
+          "upr": 20084,
+          "gl": 4730,
+          "prc": 0.2355
+        },
+        {
+          "st": 3,
+          "naz": "Ljubljana Vič - Rudnik 1",
+          "upr": 25494,
+          "gl": 6359,
+          "prc": 0.2494
+        },
+        {
+          "st": 4,
+          "naz": "Ljubljana Vič - Rudnik 2",
+          "upr": 16849,
+          "gl": 3127,
+          "prc": 0.1856
+        },
+        {
+          "st": 5,
+          "naz": "Ljubljana Vič - Rudnik 3",
+          "upr": 16335,
+          "gl": 3836,
+          "prc": 0.2348
+        },
+        {
+          "st": 6,
+          "naz": "Ljubljana Vič - Rudnik 4",
+          "upr": 21800,
+          "gl": 4948,
+          "prc": 0.227
+        },
+        {
+          "st": 7,
+          "naz": "Ljubljana Center",
+          "upr": 22220,
+          "gl": 3332,
+          "prc": 0.15
+        },
+        {
+          "st": 8,
+          "naz": "Ljubljana Šiška 1",
+          "upr": 14089,
+          "gl": 2776,
+          "prc": 0.197
+        },
+        {
+          "st": 9,
+          "naz": "Ljubljana Šiška 2",
+          "upr": 18147,
+          "gl": 3792,
+          "prc": 0.209
+        },
+        {
+          "st": 10,
+          "naz": "Ljubljana Šiška 3",
+          "upr": 16955,
+          "gl": 3779,
+          "prc": 0.2229
+        },
+        {
+          "st": 11,
+          "naz": "Ljubljana Šiška 4",
+          "upr": 21686,
+          "gl": 5793,
+          "prc": 0.2671
+        }
+      ],
+      "st": 3,
+      "naz": "Ljubljana Center",
+      "upr": 218698,
+      "gl": 48001,
+      "prc": 0.2195
+    },
+    {
+      "okraji": [
+        {
+          "st": 1,
+          "naz": "Kočevje",
+          "upr": 14210,
+          "gl": 2874,
+          "prc": 0.2023
+        },
+        {
+          "st": 2,
+          "naz": "Ribnica - Dobrepolje",
+          "upr": 14528,
+          "gl": 3157,
+          "prc": 0.2173
+        },
+        {
+          "st": 3,
+          "naz": "Grosuplje",
+          "upr": 15897,
+          "gl": 3368,
+          "prc": 0.2119
+        },
+        {
+          "st": 4,
+          "naz": "Ivančna Gorica",
+          "upr": 13132,
+          "gl": 2930,
+          "prc": 0.2231
+        },
+        {
+          "st": 5,
+          "naz": "Ljubljana Moste - Polje 1",
+          "upr": 23329,
+          "gl": 5325,
+          "prc": 0.2283
+        },
+        {
+          "st": 6,
+          "naz": "Ljubljana Moste - Polje 2",
+          "upr": 15336,
+          "gl": 3430,
+          "prc": 0.2237
+        },
+        {
+          "st": 7,
+          "naz": "Ljubljana Moste - Polje 3",
+          "upr": 20250,
+          "gl": 4058,
+          "prc": 0.2004
+        },
+        {
+          "st": 8,
+          "naz": "Ljubljana Bežigrad 1",
+          "upr": 23372,
+          "gl": 5451,
+          "prc": 0.2332
+        },
+        {
+          "st": 9,
+          "naz": "Ljubljana Bežigrad 2",
+          "upr": 21133,
+          "gl": 3805,
+          "prc": 0.1801
+        },
+        {
+          "st": 10,
+          "naz": "Domžale 1",
+          "upr": 24506,
+          "gl": 3901,
+          "prc": 0.1592
+        },
+        {
+          "st": 11,
+          "naz": "Domžale 2",
+          "upr": 23591,
+          "gl": 3335,
+          "prc": 0.1414
+        }
+      ],
+      "st": 4,
+      "naz": "Ljubljana Bežigrad",
+      "upr": 209284,
+      "gl": 41634,
+      "prc": 0.1989
+    },
+    {
+      "okraji": [
+        {
+          "st": 1,
+          "naz": "Šentjur",
+          "upr": 17077,
+          "gl": 3174,
+          "prc": 0.1859
+        },
+        {
+          "st": 2,
+          "naz": "Celje 1",
+          "upr": 29422,
+          "gl": 6570,
+          "prc": 0.2233
+        },
+        {
+          "st": 3,
+          "naz": "Celje 2",
+          "upr": 21855,
+          "gl": 4382,
+          "prc": 0.2005
+        },
+        {
+          "st": 4,
+          "naz": "Žalec 1",
+          "upr": 18004,
+          "gl": 4103,
+          "prc": 0.2279
+        },
+        {
+          "st": 5,
+          "naz": "Žalec 2",
+          "upr": 18630,
+          "gl": 4482,
+          "prc": 0.2406
+        },
+        {
+          "st": 6,
+          "naz": "Mozirje",
+          "upr": 13700,
+          "gl": 2909,
+          "prc": 0.2123
+        },
+        {
+          "st": 7,
+          "naz": "Velenje 1",
+          "upr": 16320,
+          "gl": 3334,
+          "prc": 0.2043
+        },
+        {
+          "st": 8,
+          "naz": "Velenje 2",
+          "upr": 17458,
+          "gl": 3791,
+          "prc": 0.2171
+        },
+        {
+          "st": 9,
+          "naz": "Slovenj Gradec",
+          "upr": 17942,
+          "gl": 3649,
+          "prc": 0.2034
+        },
+        {
+          "st": 10,
+          "naz": "Ravne na Koroškem",
+          "upr": 20946,
+          "gl": 4613,
+          "prc": 0.2202
+        },
+        {
+          "st": 11,
+          "naz": "Radlje",
+          "upr": 20624,
+          "gl": 3972,
+          "prc": 0.1926
+        }
+      ],
+      "st": 5,
+      "naz": "Celje",
+      "upr": 211978,
+      "gl": 44979,
+      "prc": 0.2122
+    },
+    {
+      "okraji": [
+        {
+          "st": 1,
+          "naz": "Črnomelj",
+          "upr": 22803,
+          "gl": 4928,
+          "prc": 0.2161
+        },
+        {
+          "st": 2,
+          "naz": "Novo mesto 1",
+          "upr": 24415,
+          "gl": 5388,
+          "prc": 0.2207
+        },
+        {
+          "st": 3,
+          "naz": "Novo mesto 2",
+          "upr": 25700,
+          "gl": 5606,
+          "prc": 0.2181
+        },
+        {
+          "st": 4,
+          "naz": "Trebnje",
+          "upr": 16877,
+          "gl": 3610,
+          "prc": 0.2139
+        },
+        {
+          "st": 5,
+          "naz": "Brežice",
+          "upr": 21220,
+          "gl": 4199,
+          "prc": 0.1979
+        },
+        {
+          "st": 6,
+          "naz": "Krško",
+          "upr": 23408,
+          "gl": 4784,
+          "prc": 0.2044
+        },
+        {
+          "st": 7,
+          "naz": "Sevnica",
+          "upr": 17115,
+          "gl": 3808,
+          "prc": 0.2225
+        },
+        {
+          "st": 8,
+          "naz": "Laško",
+          "upr": 14854,
+          "gl": 2990,
+          "prc": 0.2013
+        },
+        {
+          "st": 9,
+          "naz": "Litija",
+          "upr": 17194,
+          "gl": 3981,
+          "prc": 0.2315
+        },
+        {
+          "st": 10,
+          "naz": "Hrastnik - Trbovlje",
+          "upr": 21223,
+          "gl": 4654,
+          "prc": 0.2193
+        },
+        {
+          "st": 11,
+          "naz": "Zagorje",
+          "upr": 13694,
+          "gl": 3326,
+          "prc": 0.2429
+        }
+      ],
+      "st": 6,
+      "naz": "Novo mesto",
+      "upr": 218503,
+      "gl": 47274,
+      "prc": 0.2164
+    },
+    {
+      "okraji": [
+        {
+          "st": 1,
+          "naz": "Šmarje pri Jelšah",
+          "upr": 27716,
+          "gl": 3497,
+          "prc": 0.1262
+        },
+        {
+          "st": 2,
+          "naz": "Slovenska Bistrica",
+          "upr": 25292,
+          "gl": 5702,
+          "prc": 0.2254
+        },
+        {
+          "st": 3,
+          "naz": "Slovenske Konjice",
+          "upr": 19048,
+          "gl": 4048,
+          "prc": 0.2125
+        },
+        {
+          "st": 4,
+          "naz": "Ruše",
+          "upr": 12684,
+          "gl": 2621,
+          "prc": 0.2066
+        },
+        {
+          "st": 5,
+          "naz": "Maribor 1",
+          "upr": 23510,
+          "gl": 5143,
+          "prc": 0.2188
+        },
+        {
+          "st": 6,
+          "naz": "Maribor 2",
+          "upr": 21181,
+          "gl": 4586,
+          "prc": 0.2165
+        },
+        {
+          "st": 7,
+          "naz": "Maribor 3",
+          "upr": 17439,
+          "gl": 3654,
+          "prc": 0.2095
+        },
+        {
+          "st": 8,
+          "naz": "Maribor 4",
+          "upr": 14209,
+          "gl": 2498,
+          "prc": 0.1758
+        },
+        {
+          "st": 9,
+          "naz": "Maribor 5",
+          "upr": 16736,
+          "gl": 3366,
+          "prc": 0.2011
+        },
+        {
+          "st": 10,
+          "naz": "Maribor 6",
+          "upr": 16215,
+          "gl": 3398,
+          "prc": 0.2096
+        },
+        {
+          "st": 11,
+          "naz": "Maribor 7",
+          "upr": 14247,
+          "gl": 2854,
+          "prc": 0.2003
+        }
+      ],
+      "st": 7,
+      "naz": "Maribor",
+      "upr": 208277,
+      "gl": 41367,
+      "prc": 0.1986
+    },
+    {
+      "okraji": [
+        {
+          "st": 1,
+          "naz": "Lendava",
+          "upr": 21397,
+          "gl": 3640,
+          "prc": 0.1701
+        },
+        {
+          "st": 2,
+          "naz": "Ormož",
+          "upr": 14290,
+          "gl": 2788,
+          "prc": 0.1951
+        },
+        {
+          "st": 3,
+          "naz": "Ljutomer",
+          "upr": 15207,
+          "gl": 3212,
+          "prc": 0.2112
+        },
+        {
+          "st": 4,
+          "naz": "Murska Sobota 1",
+          "upr": 24689,
+          "gl": 4564,
+          "prc": 0.1849
+        },
+        {
+          "st": 5,
+          "naz": "Murska Sobota 2",
+          "upr": 25086,
+          "gl": 4959,
+          "prc": 0.1977
+        },
+        {
+          "st": 6,
+          "naz": "Gornja Radgona",
+          "upr": 17861,
+          "gl": 5033,
+          "prc": 0.2818
+        },
+        {
+          "st": 7,
+          "naz": "Lenart",
+          "upr": 16338,
+          "gl": 3455,
+          "prc": 0.2115
+        },
+        {
+          "st": 8,
+          "naz": "Pesnica",
+          "upr": 17937,
+          "gl": 3556,
+          "prc": 0.1982
+        },
+        {
+          "st": 9,
+          "naz": "Ptuj 1",
+          "upr": 21444,
+          "gl": 4069,
+          "prc": 0.1898
+        },
+        {
+          "st": 10,
+          "naz": "Ptuj 2",
+          "upr": 17082,
+          "gl": 3169,
+          "prc": 0.1855
+        },
+        {
+          "st": 11,
+          "naz": "Ptuj 3",
+          "upr": 19707,
+          "gl": 3890,
+          "prc": 0.1974
+        }
+      ],
+      "st": 8,
+      "naz": "Ptuj",
+      "upr": 211038,
+      "gl": 42335,
+      "prc": 0.2006
+    }
+  ],
+  "posebna_volisca": [
+    {
+      "tip": 1,
+      "naz": "Volišča OMNIA",
+      "upr": null,
+      "gl": 670,
+      "prc": null
+    },
+    {
+      "tip": 2,
+      "naz": "Volišča dostopna invalidom",
+      "upr": null,
+      "gl": 0,
+      "prc": null
+    }
+  ]
 }

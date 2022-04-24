@@ -7,154 +7,242 @@
     {
       "st": 17,
       "naz": "BITNJE II, GASILSKI DOM, ZGORNJE BITNJE 33",
-      "udel": null,
+      "udel": {
+        "upr": 686,
+        "gl": 150,
+        "prc": 0.2187
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 13,
       "naz": "BREG OB SAVI,GASIL.DOM BREG OB SAVI,BR.OB SAVI 34",
-      "udel": null,
+      "udel": {
+        "upr": 417,
+        "gl": 110,
+        "prc": 0.2638
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 2,
       "naz": "HUJE I, OŠ STANE ŽAGAR, C. 1.MAJA 10 A, KRANJ",
-      "udel": null,
+      "udel": {
+        "upr": 537,
+        "gl": 105,
+        "prc": 0.1955
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 1,
       "naz": "HUJE II, OŠ JAKOB ALJAŽ, UL.TONČKADEŽMANA 1,KRANJ",
-      "udel": null,
+      "udel": {
+        "upr": 1411,
+        "gl": 280,
+        "prc": 0.1984
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 14,
       "naz": "MAVČIČE, KS MAVČIČE, MAVČIČE 69",
-      "udel": null,
+      "udel": {
+        "upr": 731,
+        "gl": 230,
+        "prc": 0.3146
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 11,
       "naz": "OREHEK I, OSNOVNA ŠOLA, ZASAVSKA CESTA 53 A,KRANJ",
-      "udel": null,
+      "udel": {
+        "upr": 1007,
+        "gl": 292,
+        "prc": 0.29
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 12,
       "naz": "OREHEK II, OSNOVNA ŠOLA, ZASAVSKA CESTA 53A,KRANJ",
-      "udel": null,
+      "udel": {
+        "upr": 1261,
+        "gl": 280,
+        "prc": 0.222
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 4,
       "naz": "PLANINA I, OŠ STANE ŽAGAR, C. 1. MAJA 10 A, KRANJ",
-      "udel": null,
+      "udel": {
+        "upr": 1454,
+        "gl": 252,
+        "prc": 0.1733
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 3,
       "naz": "PLANINA II, OŠ STANE ŽAGAR, C. 1. MAJA 10A, KRANJ",
-      "udel": null,
+      "udel": {
+        "upr": 1413,
+        "gl": 350,
+        "prc": 0.2477
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 21,
       "naz": "PODBLICA, GASILSKI DOM BESNICA, NA HRIBU 7",
-      "udel": null,
+      "udel": {
+        "upr": 228,
+        "gl": 50,
+        "prc": 0.2193
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 15,
       "naz": "PODREČA, KRELJ THOMAS, PODREČA 74",
-      "udel": null,
+      "udel": {
+        "upr": 414,
+        "gl": 104,
+        "prc": 0.2512
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 19,
       "naz": "PŠEVO, DOM KS JOŠT, PŠEVO 3",
-      "udel": null,
+      "udel": {
+        "upr": 220,
+        "gl": 45,
+        "prc": 0.2045
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 8,
       "naz": "SMUČARSKI SKAKALNI CENTER GORENJA SAVA, KRANJ",
-      "udel": null,
+      "udel": {
+        "upr": 304,
+        "gl": 70,
+        "prc": 0.2303
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 20,
       "naz": "SP. BESNICA,GASILSKI DOM BESNICA,NA HRIBU 7,SP.B.",
-      "udel": null,
+      "udel": {
+        "upr": 1521,
+        "gl": 364,
+        "prc": 0.2393
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 9,
       "naz": "STRAŽIŠČE I, ŠMARTINSKI DOM,ŠKOFJELOŠKA C.18, KR",
-      "udel": null,
+      "udel": {
+        "upr": 1691,
+        "gl": 300,
+        "prc": 0.1774
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 10,
       "naz": "STRAŽIŠČE II, ŠMARTINSKI DOM,ŠKOFJELOŠKA C.18, KR",
-      "udel": null,
+      "udel": {
+        "upr": 1651,
+        "gl": 180,
+        "prc": 0.109
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 7,
       "naz": "STRUŽEVO, DOM KS",
-      "udel": null,
+      "udel": {
+        "upr": 522,
+        "gl": 130,
+        "prc": 0.249
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 18,
       "naz": "ZGORNJE BITNJE, GASILSKI DOM, ZGORNJE BITNJE 33",
-      "udel": null,
+      "udel": {
+        "upr": 1188,
+        "gl": 253,
+        "prc": 0.213
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 5,
       "naz": "ZLATO POLJE I, OŠ F.PREŠEREN,KIDRIČEVA C.49,KRANJ",
-      "udel": null,
+      "udel": {
+        "upr": 910,
+        "gl": 195,
+        "prc": 0.2143
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 6,
       "naz": "ZLATO POLJE II, OŠ F.PREŠEREN,KIDRIČEVA C. 49, KR",
-      "udel": null,
+      "udel": {
+        "upr": 1238,
+        "gl": 255,
+        "prc": 0.206
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 16,
       "naz": "ŽABNICA, TELOVADNICA, ŽABNICA 20",
-      "udel": null,
+      "udel": {
+        "upr": 597,
+        "gl": 204,
+        "prc": 0.3417
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 901,
       "naz": "PREDČASNO GLASOVANJE",
-      "udel": null,
+      "udel": {
+        "upr": null,
+        "gl": 0,
+        "prc": null
+      },
       "rez": null,
       "prestetih_glasov": null
     }
@@ -328,10 +416,10 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T10:00:20.6416653+02:00",
-    "datum": "2022-04-24T07:20:00+02:00",
+    "timestamp": "2022-04-24T12:36:38.0650501+02:00",
+    "datum": "2022-04-24T12:35:00+02:00",
     "cas_udelezba": "11:00",
-    "has_udelezba": false,
+    "has_udelezba": true,
     "has_rezultat": false,
     "is_final": false,
     "has_kandidati_removed": false

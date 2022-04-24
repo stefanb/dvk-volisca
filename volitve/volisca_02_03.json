@@ -7,105 +7,165 @@
     {
       "st": 9,
       "naz": "BAREDI - STARA ŠOLA",
-      "udel": null,
+      "udel": {
+        "upr": 128,
+        "gl": 33,
+        "prc": 0.2578
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 11,
       "naz": "CETORE - ZADRUŽNI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 134,
+        "gl": 36,
+        "prc": 0.2687
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 1,
       "naz": "DVORANA RDEČEGA KRIŽA",
-      "udel": null,
+      "udel": {
+        "upr": 1084,
+        "gl": 229,
+        "prc": 0.2113
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 13,
       "naz": "KORTE - ZADRUŽNI DOM - TD ŠPARŽIN",
-      "udel": null,
+      "udel": {
+        "upr": 665,
+        "gl": 143,
+        "prc": 0.215
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 8,
       "naz": "KS JAGODJE - DOBRAVA",
-      "udel": null,
+      "udel": {
+        "upr": 491,
+        "gl": 108,
+        "prc": 0.22
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 4,
       "naz": "KULTURNI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 1358,
+        "gl": 238,
+        "prc": 0.1753
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 12,
       "naz": "MALIJA - STARA ŠOLA",
-      "udel": null,
+      "udel": {
+        "upr": 466,
+        "gl": 101,
+        "prc": 0.2167
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 14,
       "naz": "MEDGENERACIJSKI CENTER IZOLA",
-      "udel": null,
+      "udel": {
+        "upr": 1301,
+        "gl": 230,
+        "prc": 0.1768
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 5,
       "naz": "MESTNA KNJIŽNICA IZOLA",
-      "udel": null,
+      "udel": {
+        "upr": 1305,
+        "gl": 241,
+        "prc": 0.1847
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 6,
       "naz": "OSNOVNA ŠOLA LIVADE",
-      "udel": null,
+      "udel": {
+        "upr": 1369,
+        "gl": 265,
+        "prc": 0.1936
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 7,
       "naz": "OSNOVNA ŠOLA LIVADE - PRIZIDEK ŠOLE",
-      "udel": null,
+      "udel": {
+        "upr": 1283,
+        "gl": 350,
+        "prc": 0.2728
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 2,
       "naz": "PALAČA MANZIOLI",
-      "udel": null,
+      "udel": {
+        "upr": 1058,
+        "gl": 180,
+        "prc": 0.1701
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 10,
       "naz": "ŠARED - VEČNAMENSKO IGRIŠČE",
-      "udel": null,
+      "udel": {
+        "upr": 495,
+        "gl": 125,
+        "prc": 0.2525
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 3,
       "naz": "ŠPORTNA DVORANA, KRAŠKA 1A",
-      "udel": null,
+      "udel": {
+        "upr": 696,
+        "gl": 141,
+        "prc": 0.2026
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 901,
       "naz": "PREDČASNO GLASOVANJE",
-      "udel": null,
+      "udel": {
+        "upr": null,
+        "gl": 0,
+        "prc": null
+      },
       "rez": null,
       "prestetih_glasov": null
     }
@@ -279,10 +339,10 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T10:00:20.6416653+02:00",
-    "datum": "2022-04-24T07:20:00+02:00",
+    "timestamp": "2022-04-24T12:36:38.0650501+02:00",
+    "datum": "2022-04-24T12:35:00+02:00",
     "cas_udelezba": "11:00",
-    "has_udelezba": false,
+    "has_udelezba": true,
     "has_rezultat": false,
     "is_final": false,
     "has_kandidati_removed": false

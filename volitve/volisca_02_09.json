@@ -7,455 +7,715 @@
     {
       "st": 53,
       "naz": "AVTOBUSNA ČAKALNICA, BATE",
-      "udel": null,
+      "udel": {
+        "upr": 121,
+        "gl": 33,
+        "prc": 0.2727
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 2,
       "naz": "BIVŠA CARINARNICA, BREG PRI GOLEM BRDU 1A",
-      "udel": null,
+      "udel": {
+        "upr": 47,
+        "gl": 16,
+        "prc": 0.3404
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 55,
       "naz": "BIVŠA OŠ, LOKOVEC 82",
-      "udel": null,
+      "udel": {
+        "upr": 162,
+        "gl": 34,
+        "prc": 0.2099
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 56,
       "naz": "BIVŠA OŠ, LOKVE 30",
-      "udel": null,
+      "udel": {
+        "upr": 97,
+        "gl": 24,
+        "prc": 0.2474
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 46,
       "naz": "BIVŠA OŠ, SPODNJA BRANICA 29",
-      "udel": null,
+      "udel": {
+        "upr": 87,
+        "gl": 20,
+        "prc": 0.2299
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 42,
       "naz": "BIVŠA OŠ, VOJŠČICA 37",
-      "udel": null,
+      "udel": {
+        "upr": 179,
+        "gl": 75,
+        "prc": 0.419
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 18,
       "naz": "BIVŠI MARKET MERCATOR ANHOVO, ANHOVO 67",
-      "udel": null,
+      "udel": {
+        "upr": 220,
+        "gl": 41,
+        "prc": 0.1864
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 27,
       "naz": "BODREŽ 2",
-      "udel": null,
+      "udel": {
+        "upr": 85,
+        "gl": 24,
+        "prc": 0.2824
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 17,
       "naz": "BRIŠKI DOM PRI ŽUPNIŠČU BILJANA, BILJANA 12",
-      "udel": null,
+      "udel": {
+        "upr": 184,
+        "gl": 59,
+        "prc": 0.3207
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 34,
       "naz": "DOM KRAJANOV NEGOVAN NEMEC, BILJE",
-      "udel": null,
+      "udel": {
+        "upr": 961,
+        "gl": 185,
+        "prc": 0.1925
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 13,
       "naz": "DOM UPOKOJENCEV, PODSABOTIN 27",
-      "udel": null,
+      "udel": {
+        "upr": 178,
+        "gl": 61,
+        "prc": 0.3427
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 32,
       "naz": "DOM VALENTINA STANIČA, ROČINJ 59",
-      "udel": null,
+      "udel": {
+        "upr": 245,
+        "gl": 59,
+        "prc": 0.2408
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 25,
       "naz": "DVORANA ŠPORTNEGA PARKA MORSKO",
-      "udel": null,
+      "udel": {
+        "upr": 166,
+        "gl": 25,
+        "prc": 0.1506
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 36,
       "naz": "HIŠA DOBRE VOLJE (PRITLIČJE), MIREN 138",
-      "udel": null,
+      "udel": {
+        "upr": 1217,
+        "gl": 289,
+        "prc": 0.2375
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 15,
       "naz": "HIŠA KULTURE, ŠMARTNO 38",
-      "udel": null,
+      "udel": {
+        "upr": 406,
+        "gl": 119,
+        "prc": 0.2931
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 26,
       "naz": "INFORMACIJSKA TOČKA PRI JEZERU, KANALSKI VRH",
-      "udel": null,
+      "udel": {
+        "upr": 53,
+        "gl": 23,
+        "prc": 0.434
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 50,
       "naz": "KULTURNI DOM (NA HRIBU), GRADIŠČE NAD PRVAČINO 95",
-      "udel": null,
+      "udel": {
+        "upr": 291,
+        "gl": 68,
+        "prc": 0.2337
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 51,
       "naz": "KULTURNI DOM (PRITLIČJE), GRGAR 47",
-      "udel": null,
+      "udel": {
+        "upr": 656,
+        "gl": 110,
+        "prc": 0.1677
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 21,
       "naz": "KULTURNI DOM DESKLE, SREBRNIČEVA UL. 18",
-      "udel": null,
+      "udel": {
+        "upr": 944,
+        "gl": 214,
+        "prc": 0.2267
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 31,
       "naz": "KULTURNI DOM LIG, LIG 1",
-      "udel": null,
+      "udel": {
+        "upr": 133,
+        "gl": 21,
+        "prc": 0.1579
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 44,
       "naz": "KULTURNI DOM, BRANIK 75",
-      "udel": null,
+      "udel": {
+        "upr": 827,
+        "gl": 185,
+        "prc": 0.2237
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 12,
       "naz": "KULTURNI DOM, HUM 54",
-      "udel": null,
+      "udel": {
+        "upr": 329,
+        "gl": 81,
+        "prc": 0.2462
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 35,
       "naz": "KULTURNI DOM, KOSTANJEVICA NA KRASU 75",
-      "udel": null,
+      "udel": {
+        "upr": 262,
+        "gl": 61,
+        "prc": 0.2328
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 63,
       "naz": "KULTURNI DOM, ŠEMPAS 29",
-      "udel": null,
+      "udel": {
+        "upr": 932,
+        "gl": 236,
+        "prc": 0.2532
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 1,
       "naz": "OŠ ALOJZA GRADNIKA DOBROVO, TRG 25. MAJA 9",
-      "udel": null,
+      "udel": {
+        "upr": 419,
+        "gl": 77,
+        "prc": 0.1838
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 47,
       "naz": "OŠ ČEPOVAN, ČEPOVAN 87",
-      "udel": null,
+      "udel": {
+        "upr": 289,
+        "gl": 92,
+        "prc": 0.3183
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 48,
       "naz": "OŠ DORNBERK, GREGORČIČEVA UL. 30A",
-      "udel": null,
+      "udel": {
+        "upr": 962,
+        "gl": 23,
+        "prc": 0.0239
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 49,
       "naz": "OŠ DORNBERK, GREGORČIČEVA UL. 30A",
-      "udel": null,
+      "udel": {
+        "upr": 458,
+        "gl": 107,
+        "prc": 0.2336
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 28,
       "naz": "OŠ KANAL - VOLIŠČE ŠT. 1, GRADNIKOVA UL. 25",
-      "udel": null,
+      "udel": {
+        "upr": 764,
+        "gl": 167,
+        "prc": 0.2186
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 29,
       "naz": "OŠ KANAL - VOLIŠČE ŠT. 2, GRADNIKOVA UL. 25",
-      "udel": null,
+      "udel": {
+        "upr": 440,
+        "gl": 147,
+        "prc": 0.3341
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 61,
       "naz": "OŠ RENČE, TRG 31",
-      "udel": null,
+      "udel": {
+        "upr": 866,
+        "gl": 220,
+        "prc": 0.254
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 62,
       "naz": "OŠ RENČE, TRG 31",
-      "udel": null,
+      "udel": {
+        "upr": 869,
+        "gl": 166,
+        "prc": 0.191
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 22,
       "naz": "PROSTOR PGD AVČE, AVČE 26",
-      "udel": null,
+      "udel": {
+        "upr": 189,
+        "gl": 57,
+        "prc": 0.3016
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 24,
       "naz": "PROSTOR TR DRUŠTVO GLOBOČAK, KAMBREŠKO 12",
-      "udel": null,
+      "udel": {
+        "upr": 87,
+        "gl": 16,
+        "prc": 0.1839
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 43,
       "naz": "SEDEŽ KS (PRI TRGOVINI), BANJŠICE 86",
-      "udel": null,
+      "udel": {
+        "upr": 203,
+        "gl": 48,
+        "prc": 0.2365
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 52,
       "naz": "SEDEŽ KS, GRGARSKE RAVNE 30",
-      "udel": null,
+      "udel": {
+        "upr": 145,
+        "gl": 35,
+        "prc": 0.2414
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 23,
       "naz": "SEDEŽ KS, KAL NAD KANALOM 111E",
-      "udel": null,
+      "udel": {
+        "upr": 275,
+        "gl": 32,
+        "prc": 0.1164
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 38,
       "naz": "SEDEŽ KS, OPATJE SELO 14",
-      "udel": null,
+      "udel": {
+        "upr": 488,
+        "gl": 142,
+        "prc": 0.291
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 57,
       "naz": "SEDEŽ KS, OSEK 46F",
-      "udel": null,
+      "udel": {
+        "upr": 796,
+        "gl": 184,
+        "prc": 0.2312
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 39,
       "naz": "SEDEŽ KS, SELA NA KRASU 35",
-      "udel": null,
+      "udel": {
+        "upr": 181,
+        "gl": 49,
+        "prc": 0.2707
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 64,
       "naz": "SEDEŽ KS, TRNOVO 39",
-      "udel": null,
+      "udel": {
+        "upr": 428,
+        "gl": 102,
+        "prc": 0.2383
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 3,
       "naz": "SEDEŽ VS, KOŽBANA 6A",
-      "udel": null,
+      "udel": {
+        "upr": 96,
+        "gl": 35,
+        "prc": 0.3646
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 40,
       "naz": "STARA ŠOLA, TEMNICA 10",
-      "udel": null,
+      "udel": {
+        "upr": 178,
+        "gl": 33,
+        "prc": 0.1854
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 58,
       "naz": "ŠOLA GLASBE IN UMETNOSTI OZLINKA, OZELJAN 49B",
-      "udel": null,
+      "udel": {
+        "upr": 849,
+        "gl": 204,
+        "prc": 0.2403
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 33,
       "naz": "ŠPORTNI PARK DOBLAR",
-      "udel": null,
+      "udel": {
+        "upr": 65,
+        "gl": 17,
+        "prc": 0.2615
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 37,
       "naz": "ŠPORTNI PARK OREHOVLJE",
-      "udel": null,
+      "udel": {
+        "upr": 381,
+        "gl": 100,
+        "prc": 0.2625
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 4,
       "naz": "ŠPORTNO IGRIŠČE \"ČELO\", HRUŠEVLJE",
-      "udel": null,
+      "udel": {
+        "upr": 535,
+        "gl": 144,
+        "prc": 0.2692
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 19,
       "naz": "ŠPORTNO REKREATIVNO DRUŠTVO LOŽICE, LOŽICE 8",
-      "udel": null,
+      "udel": {
+        "upr": 239,
+        "gl": 72,
+        "prc": 0.3013
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 8,
       "naz": "VAŠKI DOM, VIŠNJEVIK 33",
-      "udel": null,
+      "udel": {
+        "upr": 249,
+        "gl": 66,
+        "prc": 0.2651
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 10,
       "naz": "VAŠKI DOM, VRHOVLJE PRI KOJSKEM 18",
-      "udel": null,
+      "udel": {
+        "upr": 90,
+        "gl": 28,
+        "prc": 0.3111
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 30,
       "naz": "VEČNAMENSKI OBJEKT, LEVPA 27",
-      "udel": null,
+      "udel": {
+        "upr": 236,
+        "gl": 53,
+        "prc": 0.2246
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 41,
       "naz": "VEČNAMENSKI OBJEKT, LIPA 17",
-      "udel": null,
+      "udel": {
+        "upr": 87,
+        "gl": 20,
+        "prc": 0.2299
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 54,
       "naz": "VEČNAMENSKI OBJEKT, LOKOVEC 205A",
-      "udel": null,
+      "udel": {
+        "upr": 64,
+        "gl": 22,
+        "prc": 0.3438
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 14,
       "naz": "VEČNAMENSKI PROSTOR, GORNJE CEROVO 12C",
-      "udel": null,
+      "udel": {
+        "upr": 350,
+        "gl": 96,
+        "prc": 0.2743
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 6,
       "naz": "VEČNAMENSKI PROSTOR, KOZANA 59",
-      "udel": null,
+      "udel": {
+        "upr": 311,
+        "gl": 88,
+        "prc": 0.283
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 5,
       "naz": "VILA VIPOLŽE, VIPOLŽE 29",
-      "udel": null,
+      "udel": {
+        "upr": 364,
+        "gl": 86,
+        "prc": 0.2363
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 9,
       "naz": "VRTEC KOJSKO, KOJSKO 69",
-      "udel": null,
+      "udel": {
+        "upr": 257,
+        "gl": 69,
+        "prc": 0.2685
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 59,
       "naz": "VRTEC PRVAČINA, PRVAČINA 48A",
-      "udel": null,
+      "udel": {
+        "upr": 958,
+        "gl": 196,
+        "prc": 0.2046
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 7,
       "naz": "ZADRUŽNI DOM, FOJANA 25",
-      "udel": null,
+      "udel": {
+        "upr": 179,
+        "gl": 55,
+        "prc": 0.3073
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 16,
       "naz": "ZADRUŽNI DOM, MEDANA 16",
-      "udel": null,
+      "udel": {
+        "upr": 472,
+        "gl": 103,
+        "prc": 0.2182
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 45,
       "naz": "ZADRUŽNI DOM, PRESERJE 25",
-      "udel": null,
+      "udel": {
+        "upr": 379,
+        "gl": 85,
+        "prc": 0.2243
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 11,
       "naz": "ZADRUŽNI DOM, VEDRIJAN 34",
-      "udel": null,
+      "udel": {
+        "upr": 142,
+        "gl": 53,
+        "prc": 0.3732
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 20,
       "naz": "ŽELEZNIŠKA POSTAJA PLAVE, VOJKOVA ULICA 28",
-      "udel": null,
+      "udel": {
+        "upr": 267,
+        "gl": 80,
+        "prc": 0.2996
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 60,
       "naz": "ŽUPNIŠČE RAVNICA, RAVNICA 12",
-      "udel": null,
+      "udel": {
+        "upr": 229,
+        "gl": 44,
+        "prc": 0.1921
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 901,
       "naz": "PREDČASNO GLASOVANJE",
-      "udel": null,
+      "udel": {
+        "upr": null,
+        "gl": 0,
+        "prc": null
+      },
       "rez": null,
       "prestetih_glasov": null
     }
@@ -629,10 +889,10 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T10:00:20.6416653+02:00",
-    "datum": "2022-04-24T07:20:00+02:00",
+    "timestamp": "2022-04-24T12:36:38.0650501+02:00",
+    "datum": "2022-04-24T12:35:00+02:00",
     "cas_udelezba": "11:00",
-    "has_udelezba": false,
+    "has_udelezba": true,
     "has_rezultat": false,
     "is_final": false,
     "has_kandidati_removed": false

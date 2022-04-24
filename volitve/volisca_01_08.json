@@ -7,168 +7,264 @@
     {
       "st": 11,
       "naz": "GASILSKI DOM GOSTEČE, GOSTEČE 10, ŠKOFJA LOKA",
-      "udel": null,
+      "udel": {
+        "upr": 375,
+        "gl": 120,
+        "prc": 0.32
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 6,
       "naz": "GASILSKI DOM ŠKOFJA LOKA, STUDENEC 5",
-      "udel": null,
+      "udel": {
+        "upr": 894,
+        "gl": 250,
+        "prc": 0.2796
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 2,
       "naz": "GASILSKI DOM VIRMAŠE, VIRMAŠE 14, ŠKOFJA LOKA",
-      "udel": null,
+      "udel": {
+        "upr": 769,
+        "gl": 204,
+        "prc": 0.2653
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 1,
       "naz": "KRAJEVNA SKUPNOST GODEŠIČ, GODEŠIČ 100, ŠK. LOKA",
-      "udel": null,
+      "udel": {
+        "upr": 495,
+        "gl": 150,
+        "prc": 0.303
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 23,
       "naz": "KRAJEVNA SKUPNOST LENART, SV. LENART 21, SELCA",
-      "udel": null,
+      "udel": {
+        "upr": 302,
+        "gl": 100,
+        "prc": 0.3311
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 16,
       "naz": "KRAJEVNA SKUPNOST PODLUBNIK, PODLUBNIK 139",
-      "udel": null,
+      "udel": {
+        "upr": 1584,
+        "gl": 273,
+        "prc": 0.1723
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 3,
       "naz": "KULTURNI DOM SV. DUH, SV. DUH 10, ŠKOFJA LOKA",
-      "udel": null,
+      "udel": {
+        "upr": 1227,
+        "gl": 332,
+        "prc": 0.2706
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 25,
       "naz": "OSNOVNA ŠOLA BUKOVICA, BUKOVICA 20, SELCA",
-      "udel": null,
+      "udel": {
+        "upr": 590,
+        "gl": 142,
+        "prc": 0.2407
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 24,
       "naz": "OSNOVNA ŠOLA BUKOVŠČICA, BUKOVŠČICA 4, SELCA",
-      "udel": null,
+      "udel": {
+        "upr": 267,
+        "gl": 73,
+        "prc": 0.2734
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 7,
       "naz": "OSNOVNA ŠOLA RETEČE, RETEČE 43, ŠKOFJA LOKA",
-      "udel": null,
+      "udel": {
+        "upr": 874,
+        "gl": 215,
+        "prc": 0.246
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 8,
       "naz": "OŠ CVETKO GOLAR I., FRANKOVO NASELJE 51, ŠK. LOKA",
-      "udel": null,
+      "udel": {
+        "upr": 1274,
+        "gl": 270,
+        "prc": 0.2119
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 9,
       "naz": "OŠ CVETKO GOLAR II., FRANKOVO NASELJE 51,ŠK.LOKA",
-      "udel": null,
+      "udel": {
+        "upr": 1030,
+        "gl": 257,
+        "prc": 0.2495
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 10,
       "naz": "OŠ CVETKO GOLAR III., FRANKOVO NASELJE 51,ŠK.LOKA",
-      "udel": null,
+      "udel": {
+        "upr": 537,
+        "gl": 130,
+        "prc": 0.2421
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 12,
       "naz": "OŠ IVANA GROHARJA, PODLUBNIK 1, ŠKOFJA LOKA",
-      "udel": null,
+      "udel": {
+        "upr": 1270,
+        "gl": 355,
+        "prc": 0.2795
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 4,
       "naz": "OŠ ŠKOFJA LOKA-MESTO, ŠOLSKA ULICA 1, ŠK. LOKA",
-      "udel": null,
+      "udel": {
+        "upr": 639,
+        "gl": 130,
+        "prc": 0.2034
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 5,
       "naz": "PROSTORI DRUŠTVA UPOKOJENCEV,PARTIZANSKA C.1,Š.L.",
-      "udel": null,
+      "udel": {
+        "upr": 804,
+        "gl": 205,
+        "prc": 0.255
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 14,
       "naz": "PUŠTALSKI GRAD, PUŠTAL 21, ŠKOFJA LOKA",
-      "udel": null,
+      "udel": {
+        "upr": 542,
+        "gl": 126,
+        "prc": 0.2325
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 13,
       "naz": "SOKOLSKI DOM ŠKOFJA LOKA, MESTNI TRG 17, ŠK. LOKA",
-      "udel": null,
+      "udel": {
+        "upr": 1096,
+        "gl": 205,
+        "prc": 0.187
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 21,
       "naz": "ŠOLA GABRK, GABRK 1, ŠKOFJA LOKA",
-      "udel": null,
+      "udel": {
+        "upr": 228,
+        "gl": 74,
+        "prc": 0.3246
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 15,
       "naz": "TRGOVINA KMEČKI STROJI, SV. BARBARA 23, ŠK. LOKA",
-      "udel": null,
+      "udel": {
+        "upr": 315,
+        "gl": 83,
+        "prc": 0.2635
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 18,
       "naz": "TRŽNICA ŠKOFJA LOKA, PARTIZANSKA CESTA 1, ŠK.LOKA",
-      "udel": null,
+      "udel": {
+        "upr": 1324,
+        "gl": 250,
+        "prc": 0.1888
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 20,
       "naz": "ZADRUŽNI DOM LOG NAD ŠKOFJO LOKO, LOG NAD ŠK.L.31",
-      "udel": null,
+      "udel": {
+        "upr": 429,
+        "gl": 116,
+        "prc": 0.2704
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 22,
       "naz": "ZADRUŽNI DOM ZMINEC, ZMINEC 35, ŠKOFJA LOKA",
-      "udel": null,
+      "udel": {
+        "upr": 737,
+        "gl": 193,
+        "prc": 0.2619
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 901,
       "naz": "PREDČASNO GLASOVANJE",
-      "udel": null,
+      "udel": {
+        "upr": null,
+        "gl": 0,
+        "prc": null
+      },
       "rez": null,
       "prestetih_glasov": null
     }
@@ -342,10 +438,10 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T10:00:20.6416653+02:00",
-    "datum": "2022-04-24T07:20:00+02:00",
+    "timestamp": "2022-04-24T12:36:38.0650501+02:00",
+    "datum": "2022-04-24T12:35:00+02:00",
     "cas_udelezba": "11:00",
-    "has_udelezba": false,
+    "has_udelezba": true,
     "has_rezultat": false,
     "is_final": false,
     "has_kandidati_removed": false

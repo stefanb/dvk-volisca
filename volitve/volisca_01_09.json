@@ -7,231 +7,363 @@
     {
       "st": 18,
       "naz": "BERCE MIRKO, LAJŠE 12, SELCA",
-      "udel": null,
+      "udel": {
+        "upr": 89,
+        "gl": 39,
+        "prc": 0.4382
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 10,
       "naz": "DEMŠAR SLAVKO, DOLENJE BRDO 7, POLJANE ",
-      "udel": null,
+      "udel": {
+        "upr": 135,
+        "gl": 36,
+        "prc": 0.2667
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 27,
       "naz": "DRUŽBENI DOM PARTIZAN ŽIRI, LOŠKA C. 17, ŽIRI",
-      "udel": null,
+      "udel": {
+        "upr": 1063,
+        "gl": 307,
+        "prc": 0.2888
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 13,
       "naz": "ETNOGRAFSKI MUZEJ DAVČA, DAVČA 25 A, ŽELEZNIKI",
-      "udel": null,
+      "udel": {
+        "upr": 227,
+        "gl": 38,
+        "prc": 0.1674
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 30,
       "naz": "GASILSKI DOM BREKOVICE, BREKOVICE 14, ŽIRI",
-      "udel": null,
+      "udel": {
+        "upr": 103,
+        "gl": 42,
+        "prc": 0.4078
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 32,
       "naz": "GASILSKI DOM DOBRAČEVA, LOŠKA C. 64, ŽIRI",
-      "udel": null,
+      "udel": {
+        "upr": 741,
+        "gl": 198,
+        "prc": 0.2672
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 3,
       "naz": "GASILSKI DOM HOTAVLJE, HOTAVLJE 112, GORENJA VAS",
-      "udel": null,
+      "udel": {
+        "upr": 616,
+        "gl": 140,
+        "prc": 0.2273
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 31,
       "naz": "GASILSKI DOM RAČEVA, RAČEVA 41, ŽIRI",
-      "udel": null,
+      "udel": {
+        "upr": 249,
+        "gl": 69,
+        "prc": 0.2771
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 16,
       "naz": "GASILSKI DOM RUDNO, RUDNO 5, ŽELEZNIKI",
-      "udel": null,
+      "udel": {
+        "upr": 188,
+        "gl": 84,
+        "prc": 0.4468
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 7,
       "naz": "GASILSKI DOM TREBIJA, TREBIJA 4, GORENJA VAS",
-      "udel": null,
+      "udel": {
+        "upr": 440,
+        "gl": 120,
+        "prc": 0.2727
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 19,
       "naz": "KRAJEVNA SKUPNOST SORICA,SPODNJA SORICA 16,SORICA",
-      "udel": null,
+      "udel": {
+        "upr": 269,
+        "gl": 68,
+        "prc": 0.2528
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 12,
       "naz": "KULTURNA DVORANA SOVODENJ, SOVODENJ 23, SOVODENJ",
-      "udel": null,
+      "udel": {
+        "upr": 463,
+        "gl": 131,
+        "prc": 0.2829
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 6,
       "naz": "KULTURNI DOM LUČINE, LUČINE 11A, GORENJA VAS",
-      "udel": null,
+      "udel": {
+        "upr": 420,
+        "gl": 117,
+        "prc": 0.2786
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 9,
       "naz": "KULTURNI DOM POLJANE-PISARNA KRAJ.SKUP,POLJANE 77",
-      "udel": null,
+      "udel": {
+        "upr": 1409,
+        "gl": 350,
+        "prc": 0.2484
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 23,
       "naz": "KULTURNI DOM ZALI LOG, ZALI LOG 46 A, ŽELEZNIKI",
-      "udel": null,
+      "udel": {
+        "upr": 269,
+        "gl": 85,
+        "prc": 0.316
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 20,
       "naz": "KULTURNI DOM ŽELEZNIKI, TRNJE 39, ŽELEZNIKI",
-      "udel": null,
+      "udel": {
+        "upr": 739,
+        "gl": 204,
+        "prc": 0.276
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 14,
       "naz": "OBJEKT NA ŠPORTNRM IGRIŠČU V DOLENJI VASI, SELCA",
-      "udel": null,
+      "udel": {
+        "upr": 372,
+        "gl": 115,
+        "prc": 0.3091
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 24,
       "naz": "OBJEKT PRI ŠOLI V PODLONKU, ŽELEZNIKI",
-      "udel": null,
+      "udel": {
+        "upr": 147,
+        "gl": 50,
+        "prc": 0.3401
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 15,
       "naz": "OSNOVNA ŠOLA DRAŽGOŠE, DRAŽGOŠE 35, ŽELEZNIKI",
-      "udel": null,
+      "udel": {
+        "upr": 258,
+        "gl": 96,
+        "prc": 0.3721
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 5,
       "naz": "OSNOVNA ŠOLA JAVORJE, JAVORJE 6, POLJANE",
-      "udel": null,
+      "udel": {
+        "upr": 495,
+        "gl": 129,
+        "prc": 0.2606
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 4,
       "naz": "OSNOVNA ŠOLA LESKOVICA, LESKOVICA 1, GORENJA VAS",
-      "udel": null,
+      "udel": {
+        "upr": 265,
+        "gl": 56,
+        "prc": 0.2113
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 25,
       "naz": "OSNOVNA ŠOLA MARTINJ VRH,MARTINJ VRH 21,ŽELEZNIKI",
-      "udel": null,
+      "udel": {
+        "upr": 171,
+        "gl": 53,
+        "prc": 0.3099
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 17,
       "naz": "OSNOVNA ŠOLA SELCA, SELCA 95, SELCA",
-      "udel": null,
+      "udel": {
+        "upr": 728,
+        "gl": 192,
+        "prc": 0.2637
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 21,
       "naz": "OSNOVNA ŠOLA ŽELEZNIKI, OTOKI 13, ŽELEZNIKI",
-      "udel": null,
+      "udel": {
+        "upr": 1154,
+        "gl": 310,
+        "prc": 0.2686
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 26,
       "naz": "OŠ ŽIRI-VEČNAM.PROSTOR-NOVI D.,JOBSTOVA C.22,ŽIRI",
-      "udel": null,
+      "udel": {
+        "upr": 619,
+        "gl": 139,
+        "prc": 0.2246
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 22,
       "naz": "RESTAVRACIJA LUŠINA, ČEŠNJICA 54, ŽELEZNIKI",
-      "udel": null,
+      "udel": {
+        "upr": 681,
+        "gl": 202,
+        "prc": 0.2966
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 1,
       "naz": "RUDNIK ŽIROVSKI VRH-TODRAŽ, TODRAŽ 1, GORENJA VAS",
-      "udel": null,
+      "udel": {
+        "upr": 252,
+        "gl": 53,
+        "prc": 0.2103
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 2,
       "naz": "SOKOLSKI DOM GORENJA VAS-MALA DVORANA,POLJAN.C.87",
-      "udel": null,
+      "udel": {
+        "upr": 1167,
+        "gl": 261,
+        "prc": 0.2237
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 8,
       "naz": "STAVBA OB ŽUPNIŠČU V STARI OSELICI,ST.OSELICA 33",
-      "udel": null,
+      "udel": {
+        "upr": 95,
+        "gl": 34,
+        "prc": 0.3579
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 11,
       "naz": "ŠOLA MALENSKI VRH, MALENSKI VRH 14, POLJANE",
-      "udel": null,
+      "udel": {
+        "upr": 63,
+        "gl": 22,
+        "prc": 0.3492
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 29,
       "naz": "TRGOVINA NA SELU, SELO 2, ŽIRI",
-      "udel": null,
+      "udel": {
+        "upr": 388,
+        "gl": 120,
+        "prc": 0.3093
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 28,
       "naz": "ZADRUŽNI DOM ŽIRI,AVLA DVORANE,TRG SVOBODE 6,ŽIRI",
-      "udel": null,
+      "udel": {
+        "upr": 798,
+        "gl": 240,
+        "prc": 0.3008
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 901,
       "naz": "PREDČASNO GLASOVANJE",
-      "udel": null,
+      "udel": {
+        "upr": null,
+        "gl": 0,
+        "prc": null
+      },
       "rez": null,
       "prestetih_glasov": null
     }
@@ -405,10 +537,10 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T10:00:20.6416653+02:00",
-    "datum": "2022-04-24T07:20:00+02:00",
+    "timestamp": "2022-04-24T12:36:38.0650501+02:00",
+    "datum": "2022-04-24T12:35:00+02:00",
     "cas_udelezba": "11:00",
-    "has_udelezba": false,
+    "has_udelezba": true,
     "has_rezultat": false,
     "is_final": false,
     "has_kandidati_removed": false
