@@ -2449,30 +2449,30 @@
       "naz": "OŠ VIDE PREGARC, BAZOVIŠKA UL. 1",
       "udel": {
         "upr": 1351,
-        "gl": 625,
-        "prc": 0.4626
+        "gl": 794,
+        "prc": 0.5877
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0025
           },
           {
             "st": 2,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0013
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 20,
+            "prc": 0.0253
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 359,
+            "prc": 0.4544
           },
           {
             "st": 5,
@@ -2481,78 +2481,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 62,
+            "prc": 0.0785
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0038
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 37,
+            "prc": 0.0468
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0025
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 11,
+            "prc": 0.0139
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 11,
+            "prc": 0.0139
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 41,
+            "prc": 0.0519
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 11,
+            "prc": 0.0139
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 20,
+            "prc": 0.0253
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 90,
+            "prc": 0.1139
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0051
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 64,
+            "prc": 0.081
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 34,
+            "prc": 0.043
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 13,
+            "prc": 0.0165
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0063
           },
           {
             "st": 21,
@@ -2560,11 +2560,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 794,
+        "velj": 790,
+        "nev": 4
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 26,
@@ -3345,8 +3345,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T23:10:03.9106136+02:00",
-    "datum": "2022-04-24T23:10:00+02:00",
+    "timestamp": "2022-04-24T23:25:15.8666739+02:00",
+    "datum": "2022-04-24T23:25:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,
