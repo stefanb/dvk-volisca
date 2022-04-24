@@ -3059,30 +3059,30 @@
       "naz": "VERŽEJ - PROSTORI OBČINE VERŽEJ",
       "udel": {
         "upr": 1113,
-        "gl": 670,
-        "prc": 0.602
+        "gl": 821,
+        "prc": 0.7376
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 12,
+            "prc": 0.0149
           },
           {
             "st": 2,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 22,
+            "prc": 0.0273
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 283,
+            "prc": 0.3516
           },
           {
             "st": 5,
@@ -3091,90 +3091,90 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 20,
+            "prc": 0.0248
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0012
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 18,
+            "prc": 0.0224
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 17,
+            "prc": 0.0211
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 12,
+            "prc": 0.0149
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 16,
+            "prc": 0.0199
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 43,
+            "prc": 0.0534
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.005
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 22,
+            "prc": 0.0273
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 258,
+            "prc": 0.3205
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 14,
+            "prc": 0.0174
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 40,
+            "prc": 0.0497
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 13,
+            "prc": 0.0161
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 10,
+            "prc": 0.0124
           },
           {
             "st": 20,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 21,
             "gl": 0,
-            "prc": null
+            "prc": 0
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 821,
+        "velj": 805,
+        "nev": 16
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 24,
@@ -3835,8 +3835,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T22:55:13.6475056+02:00",
-    "datum": "2022-04-24T22:55:00+02:00",
+    "timestamp": "2022-04-24T23:15:05.8199187+02:00",
+    "datum": "2022-04-24T23:15:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

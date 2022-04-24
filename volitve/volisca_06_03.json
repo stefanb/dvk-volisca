@@ -863,30 +863,30 @@
       "naz": "NM, ŠENTJERNEJSKA C. 10-DOM KRAJANOV KS ŽABJA VAS",
       "udel": {
         "upr": 1121,
-        "gl": 424,
-        "prc": 0.3782
+        "gl": 783,
+        "prc": 0.6985
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0103
           },
           {
             "st": 2,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0013
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 14,
+            "prc": 0.0181
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 285,
+            "prc": 0.3677
           },
           {
             "st": 5,
@@ -895,78 +895,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 38,
+            "prc": 0.049
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0039
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 27,
+            "prc": 0.0348
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0077
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0052
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 23,
+            "prc": 0.0297
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 67,
+            "prc": 0.0865
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 15,
+            "prc": 0.0194
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 11,
+            "prc": 0.0142
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 169,
+            "prc": 0.2181
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 12,
+            "prc": 0.0155
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 55,
+            "prc": 0.071
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 18,
+            "prc": 0.0232
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 13,
+            "prc": 0.0168
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0077
           },
           {
             "st": 21,
@@ -974,11 +974,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 783,
+        "velj": 775,
+        "nev": 8
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 35,
@@ -3878,6 +3878,7 @@
     {
       "ime": "Mark Boris",
       "pri": "Andrijanič",
+      "man": true,
       "st": 12,
       "naz": "NOVA SLOVENIJA - KRŠČANSKI DEMOKRATI",
       "knaz": "NSi",
@@ -3955,8 +3956,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T22:55:13.6475056+02:00",
-    "datum": "2022-04-24T22:55:00+02:00",
+    "timestamp": "2022-04-24T23:15:05.8199187+02:00",
+    "datum": "2022-04-24T23:15:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,
