@@ -7,280 +7,440 @@
     {
       "st": 20,
       "naz": "BAKOVCI I - VAŠKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 660,
+        "gl": 157,
+        "prc": 0.2379
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 21,
       "naz": "BAKOVCI II - VAŠKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 601,
+        "gl": 114,
+        "prc": 0.1897
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 1,
       "naz": "BELTINCI I, KULTURNI DOM, UL.ŠTEFANA KOVAČA 3",
-      "udel": null,
+      "udel": {
+        "upr": 831,
+        "gl": 166,
+        "prc": 0.1998
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 2,
       "naz": "BELTINCI II, KULTURNI DOM, UL. ŠTEFANA KOVAČA 3",
-      "udel": null,
+      "udel": {
+        "upr": 1195,
+        "gl": 247,
+        "prc": 0.2067
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 10,
       "naz": "BOGOJINA - KULTURNA DVORANA VAŠKO GASILSKEGA DOMA",
-      "udel": null,
+      "udel": {
+        "upr": 450,
+        "gl": 75,
+        "prc": 0.1667
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 3,
       "naz": "BRATONCI - TURISTIČNA HIŠA ŽLICA, BRATONCI 81A",
-      "udel": null,
+      "udel": {
+        "upr": 574,
+        "gl": 144,
+        "prc": 0.2509
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 11,
       "naz": "BUKOVNICA - VAŠKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 37,
+        "gl": 20,
+        "prc": 0.5405
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 30,
       "naz": "CENTER III - LJUDSKA UNIVERZA, SLOMŠKOVA UL. 33",
-      "udel": null,
+      "udel": {
+        "upr": 1183,
+        "gl": 191,
+        "prc": 0.1615
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 29,
       "naz": "CENTER II-POKRAJINSKA IN ŠTUDIJSKA KNJIŽNICA",
-      "udel": null,
+      "udel": {
+        "upr": 1226,
+        "gl": 246,
+        "prc": 0.2007
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 28,
       "naz": "CENTER I-POKRAJINSKA IN ŠTUDIJSKA KNJIŽNICA",
-      "udel": null,
+      "udel": {
+        "upr": 1039,
+        "gl": 231,
+        "prc": 0.2223
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 31,
       "naz": "CENTER IV - LJUDSKA UNIVERZA, SLOMŠKOVA ULICA 33",
-      "udel": null,
+      "udel": {
+        "upr": 278,
+        "gl": 65,
+        "prc": 0.2338
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 22,
       "naz": "ČERNELAVCI - ZADRUŽNI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 1080,
+        "gl": 220,
+        "prc": 0.2037
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 4,
       "naz": "DOKLEŽOVJE - VAŠKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 703,
+        "gl": 146,
+        "prc": 0.2077
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 12,
       "naz": "FILOVCI - VAŠKO-GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 420,
+        "gl": 92,
+        "prc": 0.219
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 5,
       "naz": "GANČANI, ŠRC GANČANI",
-      "udel": null,
+      "udel": {
+        "upr": 825,
+        "gl": 158,
+        "prc": 0.1915
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 13,
       "naz": "IVANCI - VEČNAMENSKA DVORANA",
-      "udel": null,
+      "udel": {
+        "upr": 202,
+        "gl": 59,
+        "prc": 0.2921
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 6,
       "naz": "IŽAKOVCI - VAŠKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 649,
+        "gl": 136,
+        "prc": 0.2096
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 24,
       "naz": "KUPŠINCI - STARA ŠOLA",
-      "udel": null,
+      "udel": {
+        "upr": 315,
+        "gl": 63,
+        "prc": 0.2
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 32,
       "naz": "LEDAVA I - ZAVAROVALNICA TRIGLAV,LENDAVSKA UL. 5 ",
-      "udel": null,
+      "udel": {
+        "upr": 652,
+        "gl": 136,
+        "prc": 0.2086
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 33,
       "naz": "LEDAVA II- ZAVAROVALNICA TRIGLAV,LENDAVSKA UL. 5",
-      "udel": null,
+      "udel": {
+        "upr": 563,
+        "gl": 134,
+        "prc": 0.238
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 7,
       "naz": "LIPA - CIMPRANA IŽA, LIPA 78A",
-      "udel": null,
+      "udel": {
+        "upr": 495,
+        "gl": 115,
+        "prc": 0.2323
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 8,
       "naz": "LIPOVCI-GASILSKI DOM LIPOVCI, LIPOVCI 138",
-      "udel": null,
+      "udel": {
+        "upr": 877,
+        "gl": 212,
+        "prc": 0.2417
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 9,
       "naz": "MELINCI - VAŠKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 642,
+        "gl": 112,
+        "prc": 0.1745
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 17,
       "naz": "MLAJTINCI - VAŠKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 213,
+        "gl": 56,
+        "prc": 0.2629
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 15,
       "naz": "MORAVSKE TOPLICE II - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 124,
+        "gl": 28,
+        "prc": 0.2258
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 14,
       "naz": "MORAVSKE TOPLICE I-VRTEC MORAVSKE TOPLICE",
-      "udel": null,
+      "udel": {
+        "upr": 556,
+        "gl": 108,
+        "prc": 0.1942
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 34,
       "naz": "PARK I - OSNOVNA ŠOLA I, ULICA ŠTEFANA KOVAČA 32",
-      "udel": null,
+      "udel": {
+        "upr": 853,
+        "gl": 186,
+        "prc": 0.2181
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 35,
       "naz": "PARK II - OSNOVNA ŠOLA I, ULICA ŠTEFANA KOVAČA 32",
-      "udel": null,
+      "udel": {
+        "upr": 844,
+        "gl": 211,
+        "prc": 0.25
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 37,
       "naz": "PARTIZAN II-OSNOVNA ŠOLA III,TRSTENJAKOVA UL. 73",
-      "udel": null,
+      "udel": {
+        "upr": 618,
+        "gl": 124,
+        "prc": 0.2006
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 36,
       "naz": "PARTIZAN I-OSNOVNA ŠOLA III, TRSTENJAKOVA UL. 73",
-      "udel": null,
+      "udel": {
+        "upr": 788,
+        "gl": 154,
+        "prc": 0.1954
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 25,
       "naz": "POLANA - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 162,
+        "gl": 42,
+        "prc": 0.2593
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 23,
       "naz": "PUŠČA - VEČNAMENSKA DVORANA, ULICA OB KAPELICI 63",
-      "udel": null,
+      "udel": {
+        "upr": 396,
+        "gl": 42,
+        "prc": 0.1061
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 27,
       "naz": "RAKIČAN - VAŠKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 1130,
+        "gl": 280,
+        "prc": 0.2478
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 18,
       "naz": "SUHI VRH - VAŠKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 100,
+        "gl": 34,
+        "prc": 0.34
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 16,
       "naz": "TEŠANOVCI - VAŠKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 298,
+        "gl": 60,
+        "prc": 0.2013
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 39,
       "naz": "TUROPOLJE II-OSNOVNA ŠOLA II,CANKARJEVA ULICA 91",
-      "udel": null,
+      "udel": {
+        "upr": 669,
+        "gl": 140,
+        "prc": 0.2093
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 38,
       "naz": "TUROPOLJE I-OSNOVNA ŠOLA II, CANKARJEVA ULICA 91",
-      "udel": null,
+      "udel": {
+        "upr": 537,
+        "gl": 148,
+        "prc": 0.2756
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 26,
       "naz": "VEŠČICA - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 347,
+        "gl": 70,
+        "prc": 0.2017
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 19,
       "naz": "VUČJA GOMILA - VAŠKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 225,
+        "gl": 36,
+        "prc": 0.16
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 901,
       "naz": "PREDČASNO GLASOVANJE",
-      "udel": null,
+      "udel": {
+        "upr": null,
+        "gl": 0,
+        "prc": null
+      },
       "rez": null,
       "prestetih_glasov": null
     }
@@ -454,10 +614,10 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T10:00:20.6416653+02:00",
-    "datum": "2022-04-24T07:20:00+02:00",
+    "timestamp": "2022-04-24T12:36:38.0650501+02:00",
+    "datum": "2022-04-24T12:35:00+02:00",
     "cas_udelezba": "11:00",
-    "has_udelezba": false,
+    "has_udelezba": true,
     "has_rezultat": false,
     "is_final": false,
     "has_kandidati_removed": false

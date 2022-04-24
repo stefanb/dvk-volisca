@@ -7,287 +7,451 @@
     {
       "st": 17,
       "naz": "BIVŠA OSNOVNA ŠOLA PODKRAJ",
-      "udel": null,
+      "udel": {
+        "upr": 104,
+        "gl": 21,
+        "prc": 0.2019
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 13,
       "naz": "BIVŠA OSNOVNA ŠOLA TURJE",
-      "udel": null,
+      "udel": {
+        "upr": 374,
+        "gl": 110,
+        "prc": 0.2941
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 22,
       "naz": "DELAVSKI DOM TRBOVLJE, TRG SVOBODE 11A, AVLA DOMA",
-      "udel": null,
+      "udel": {
+        "upr": 968,
+        "gl": 240,
+        "prc": 0.2479
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 23,
       "naz": "DKD SVOBODA DOBRNA, RIBNIK 17",
-      "udel": null,
+      "udel": {
+        "upr": 259,
+        "gl": 58,
+        "prc": 0.2239
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 39,
       "naz": "DOM TONČKE ČEČ, KLEK 32",
-      "udel": null,
+      "udel": {
+        "upr": 386,
+        "gl": 90,
+        "prc": 0.2332
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 25,
       "naz": "DOM UPOKOJENCEV FRANC SALAMON, KOL.1.MAJA 21",
-      "udel": null,
+      "udel": {
+        "upr": 1075,
+        "gl": 211,
+        "prc": 0.1963
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 2,
       "naz": "DRUŠTVO UPOKOJENCEV HRASTNIK, N.A. KAPLE 6A",
-      "udel": null,
+      "udel": {
+        "upr": 443,
+        "gl": 116,
+        "prc": 0.2619
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 3,
       "naz": "GALERIJA DELAVSKEGA DOMA HRASTNIK",
-      "udel": null,
+      "udel": {
+        "upr": 514,
+        "gl": 148,
+        "prc": 0.2879
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 37,
       "naz": "GASILSKI DOM ČEČE, ČEČE 4/A",
-      "udel": null,
+      "udel": {
+        "upr": 435,
+        "gl": 105,
+        "prc": 0.2414
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 31,
       "naz": "GASILSKO DRUŠTVOTRBOVLJE, SAVINJSKA CESTA 35",
-      "udel": null,
+      "udel": {
+        "upr": 527,
+        "gl": 108,
+        "prc": 0.2049
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 6,
       "naz": "GLASBENA ŠOLA HRASTNIK",
-      "udel": null,
+      "udel": {
+        "upr": 291,
+        "gl": 79,
+        "prc": 0.2715
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 36,
       "naz": "HIŠA ZARJA, BEVŠKO 19, TRBOVLJE",
-      "udel": null,
+      "udel": {
+        "upr": 342,
+        "gl": 63,
+        "prc": 0.1842
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 30,
       "naz": "JP KOMUNALA TRBOVLJE, SAVINJSKA CESTA 11A",
-      "udel": null,
+      "udel": {
+        "upr": 633,
+        "gl": 165,
+        "prc": 0.2607
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 29,
       "naz": "KD SVOBODA TRBOVLJE, TRG FRANCA FAKINA 4",
-      "udel": null,
+      "udel": {
+        "upr": 700,
+        "gl": 132,
+        "prc": 0.1886
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 1,
       "naz": "KNJIŽNICA ANTONA SOVRETA , TRG FRANCA KOZARJA 7",
-      "udel": null,
+      "udel": {
+        "upr": 644,
+        "gl": 136,
+        "prc": 0.2112
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 14,
       "naz": "KRAJEVNA SKUPNOST KOVK",
-      "udel": null,
+      "udel": {
+        "upr": 96,
+        "gl": 30,
+        "prc": 0.3125
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 20,
       "naz": "OSNOVNA ŠOLA ALOJZA HOHKRAUTA, TRG  REVOLUCIJE 19",
-      "udel": null,
+      "udel": {
+        "upr": 1054,
+        "gl": 226,
+        "prc": 0.2144
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 4,
       "naz": "OSNOVNA ŠOLA NARODNEGA HEROJA RAJKA HRASTNIK",
-      "udel": null,
+      "udel": {
+        "upr": 863,
+        "gl": 176,
+        "prc": 0.2039
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 5,
       "naz": "OSNOVNA ŠOLA NARODNEGA HEROJA RAJKA HRASTNIK",
-      "udel": null,
+      "udel": {
+        "upr": 706,
+        "gl": 141,
+        "prc": 0.1997
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 26,
       "naz": "OSNOVNA ŠOLA TONČKE ČEČ, KERŠIČEVA CESTA 50",
-      "udel": null,
+      "udel": {
+        "upr": 319,
+        "gl": 84,
+        "prc": 0.2633
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 34,
       "naz": "OSNOVNA ŠOLA TRBOVLJE, MESTNI TRG 6, TELOVADNICA",
-      "udel": null,
+      "udel": {
+        "upr": 518,
+        "gl": 97,
+        "prc": 0.1873
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 21,
       "naz": "OŠ ALOJZA HOHKRAUTA, TRG REVOLUCIJE 19, TRBOVLJE",
-      "udel": null,
+      "udel": {
+        "upr": 941,
+        "gl": 209,
+        "prc": 0.2221
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 9,
       "naz": "OŠ NH RAJKA HRASTNIK, PODRUŽNICA DOL PRI HRASTNIK",
-      "udel": null,
+      "udel": {
+        "upr": 636,
+        "gl": 170,
+        "prc": 0.2673
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 10,
       "naz": "OŠ NH RAJKA, PODRUŽNICA DOL PRI HRASTNIKU        ",
-      "udel": null,
+      "udel": {
+        "upr": 713,
+        "gl": 193,
+        "prc": 0.2707
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 15,
       "naz": "PROSTORI DRUŽINE MEJAČ, ŠAVNA PEČ 5",
-      "udel": null,
+      "udel": {
+        "upr": 73,
+        "gl": 34,
+        "prc": 0.4658
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 11,
       "naz": "PROSTORI PLANINSKEGA DOMA NA KALU",
-      "udel": null,
+      "udel": {
+        "upr": 33,
+        "gl": 13,
+        "prc": 0.3939
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 12,
       "naz": "PROSTORI PROSTOVOLJNEGA GASILSKEGA DRUŠTVA MARNO",
-      "udel": null,
+      "udel": {
+        "upr": 452,
+        "gl": 98,
+        "prc": 0.2168
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 16,
       "naz": "PROSTORI STANOVANJSKE HIŠE KMETIČ, KRNICE 15B",
-      "udel": null,
+      "udel": {
+        "upr": 109,
+        "gl": 38,
+        "prc": 0.3486
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 38,
       "naz": "PROSTOVOLJNO GASILSKO DRUŠTVO DOBOVEC, DOBOVEC 24",
-      "udel": null,
+      "udel": {
+        "upr": 392,
+        "gl": 89,
+        "prc": 0.227
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 33,
       "naz": "SEJNA DVORANA OBČINE TRBOVLJE, MESTNI TRG 4",
-      "udel": null,
+      "udel": {
+        "upr": 699,
+        "gl": 139,
+        "prc": 0.1989
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 28,
       "naz": "SEJNA DVORANA OBČINE TRBOVLJE, MESTNI TRG 4",
-      "udel": null,
+      "udel": {
+        "upr": 936,
+        "gl": 169,
+        "prc": 0.1806
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 35,
       "naz": "SEJNA SOBA KS FRANC SALAMON, GABRSKO 40/A",
-      "udel": null,
+      "udel": {
+        "upr": 478,
+        "gl": 129,
+        "prc": 0.2699
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 27,
       "naz": "SREDNJA TEHNIŠKA IN POKLICNA ŠOLA, NOVI DOM 60",
-      "udel": null,
+      "udel": {
+        "upr": 818,
+        "gl": 202,
+        "prc": 0.2469
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 24,
       "naz": "SREDNJA TEHNIŠKA IN POKLICNA ŠOLA, ŠUŠTARJEVA 7A",
-      "udel": null,
+      "udel": {
+        "upr": 644,
+        "gl": 152,
+        "prc": 0.236
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 32,
       "naz": "ŠD RUDAR, RUDARSKA CESTA 6, VHOD SPODAJ",
-      "udel": null,
+      "udel": {
+        "upr": 551,
+        "gl": 116,
+        "prc": 0.2105
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 40,
       "naz": "ŠOLA NA SVETI PLANINI, SVETA PLANINA 28",
-      "udel": null,
+      "udel": {
+        "upr": 107,
+        "gl": 42,
+        "prc": 0.3925
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 8,
       "naz": "VEČNAMENSKI OBJEKT PODKRAJ 91 A",
-      "udel": null,
+      "udel": {
+        "upr": 413,
+        "gl": 103,
+        "prc": 0.2494
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 19,
       "naz": "ZADRUŽNI DOM ČEČE",
-      "udel": null,
+      "udel": {
+        "upr": 424,
+        "gl": 107,
+        "prc": 0.2524
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 18,
       "naz": "ZADRUŽNI DOM PRAPRETNO",
-      "udel": null,
+      "udel": {
+        "upr": 191,
+        "gl": 66,
+        "prc": 0.3455
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 7,
       "naz": "ZB ZA VREDNOTE NOB HRASTNIK, CESTA 1. MAJA 52",
-      "udel": null,
+      "udel": {
+        "upr": 218,
+        "gl": 47,
+        "prc": 0.2156
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 901,
       "naz": "PREDČASNO GLASOVANJE",
-      "udel": null,
+      "udel": {
+        "upr": null,
+        "gl": 0,
+        "prc": null
+      },
       "rez": null,
       "prestetih_glasov": null
     }
@@ -459,10 +623,10 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T10:00:20.6416653+02:00",
-    "datum": "2022-04-24T07:20:00+02:00",
+    "timestamp": "2022-04-24T12:36:38.0650501+02:00",
+    "datum": "2022-04-24T12:35:00+02:00",
     "cas_udelezba": "11:00",
-    "has_udelezba": false,
+    "has_udelezba": true,
     "has_rezultat": false,
     "is_final": false,
     "has_kandidati_removed": false

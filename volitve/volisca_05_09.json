@@ -7,182 +7,286 @@
     {
       "st": 7,
       "naz": "BIVŠI MKC, CELJSKA CESTA 22, SLOVENJ GRADEC",
-      "udel": null,
+      "udel": {
+        "upr": 998,
+        "gl": 213,
+        "prc": 0.2134
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 19,
       "naz": "BUČINEK ŠMIKLAVŽ, VODRIŽ 6",
-      "udel": null,
+      "udel": {
+        "upr": 285,
+        "gl": 64,
+        "prc": 0.2246
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 8,
       "naz": "DOM UPOKOJENCEV SLOVENJ GRADEC, ŠOLSKA ULICA 10",
-      "udel": null,
+      "udel": {
+        "upr": 1389,
+        "gl": 270,
+        "prc": 0.1944
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 1,
       "naz": "GASILSKI DOM DOVŽE, DOVŽE 50",
-      "udel": null,
+      "udel": {
+        "upr": 423,
+        "gl": 126,
+        "prc": 0.2979
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 22,
       "naz": "GASILSKI DOM GOLAVABUKA, TOMAŠKA VAS 7",
-      "udel": null,
+      "udel": {
+        "upr": 187,
+        "gl": 35,
+        "prc": 0.1872
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 23,
       "naz": "GASILSKI DOM LEGEN, LEGEN 126",
-      "udel": null,
+      "udel": {
+        "upr": 785,
+        "gl": 145,
+        "prc": 0.1847
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 20,
       "naz": "GASILSKI DOM ŠMARTNO, ŠMARTNO PRI SLOV. GRADCU 70",
-      "udel": null,
+      "udel": {
+        "upr": 1261,
+        "gl": 250,
+        "prc": 0.1983
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 21,
       "naz": "GASILSKI DOM TURIŠKA VAS, TURIŠKA VAS 19B",
-      "udel": null,
+      "udel": {
+        "upr": 999,
+        "gl": 216,
+        "prc": 0.2162
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 13,
       "naz": "GRADIŠČE PROŠT, GRADIŠČE 38, 2380 SLOVENJ GRADEC",
-      "udel": null,
+      "udel": {
+        "upr": 262,
+        "gl": 31,
+        "prc": 0.1183
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 15,
       "naz": "KLANČNIK SELE, SELE 21",
-      "udel": null,
+      "udel": {
+        "upr": 147,
+        "gl": 24,
+        "prc": 0.1633
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 11,
       "naz": "KULTURNI DOM STARI TRG, STARI TRG 32",
-      "udel": null,
+      "udel": {
+        "upr": 1071,
+        "gl": 195,
+        "prc": 0.1821
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 3,
       "naz": "KULTURNI DOM ŠENTILJ, ŠENTILJ POD TURJAKOM 45",
-      "udel": null,
+      "udel": {
+        "upr": 596,
+        "gl": 125,
+        "prc": 0.2097
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 6,
       "naz": "OSNOVNA ŠOLA DOLIČ, SREDNJI DOLIČ 4",
-      "udel": null,
+      "udel": {
+        "upr": 640,
+        "gl": 156,
+        "prc": 0.2438
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 12,
       "naz": "OSNOVNA ŠOLA PAMEČE, PAMEČE 134",
-      "udel": null,
+      "udel": {
+        "upr": 1362,
+        "gl": 272,
+        "prc": 0.1997
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 16,
       "naz": "OSNOVNA ŠOLA PODGORJE, PODGORJE 172",
-      "udel": null,
+      "udel": {
+        "upr": 806,
+        "gl": 143,
+        "prc": 0.1774
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 17,
       "naz": "OSNOVNA ŠOLA RAZBOR, ZGORNJI RAZBOR 8",
-      "udel": null,
+      "udel": {
+        "upr": 216,
+        "gl": 55,
+        "prc": 0.2546
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 14,
       "naz": "OSNOVNA ŠOLA SELE - VRHE, SELE 1",
-      "udel": null,
+      "udel": {
+        "upr": 510,
+        "gl": 94,
+        "prc": 0.1843
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 4,
       "naz": "OSNOVNA ŠOLA ZAVRŠE, ZAVRŠE 55",
-      "udel": null,
+      "udel": {
+        "upr": 278,
+        "gl": 43,
+        "prc": 0.1547
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 2,
       "naz": "PC LOPAN, ŠOLSKA CESTA 55, MISLINJA",
-      "udel": null,
+      "udel": {
+        "upr": 1415,
+        "gl": 350,
+        "prc": 0.2473
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 18,
       "naz": "PRAPROTNIK - RIHTER, SPODNJI RAZBOR 48",
-      "udel": null,
+      "udel": {
+        "upr": 46,
+        "gl": 25,
+        "prc": 0.5435
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 10,
       "naz": "PRVA OSNOVNA ŠOLA, ŠERCERJEVA ULICA 7",
-      "udel": null,
+      "udel": {
+        "upr": 1112,
+        "gl": 198,
+        "prc": 0.1781
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 5,
       "naz": "ŠPORTNI DOM DOLIČ, GORNJI DOLIČ 42A",
-      "udel": null,
+      "udel": {
+        "upr": 442,
+        "gl": 78,
+        "prc": 0.1765
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 9,
       "naz": "VARST. DEL. CENTER SLOVENJ GRADEC, PREŠERNOVA 3B",
-      "udel": null,
+      "udel": {
+        "upr": 850,
+        "gl": 252,
+        "prc": 0.2965
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 24,
       "naz": "VORNŠEK RADUŠE, RADUŠE 36",
-      "udel": null,
+      "udel": {
+        "upr": 194,
+        "gl": 42,
+        "prc": 0.2165
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 25,
       "naz": "VRTEC SLOVENJ GRADEC, MAISTROVA ULICA 2A",
-      "udel": null,
+      "udel": {
+        "upr": 1001,
+        "gl": 246,
+        "prc": 0.2458
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 901,
       "naz": "PREDČASNO GLASOVANJE",
-      "udel": null,
+      "udel": {
+        "upr": null,
+        "gl": 0,
+        "prc": null
+      },
       "rez": null,
       "prestetih_glasov": null
     }
@@ -354,10 +458,10 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T10:00:20.6416653+02:00",
-    "datum": "2022-04-24T07:20:00+02:00",
+    "timestamp": "2022-04-24T12:36:38.0650501+02:00",
+    "datum": "2022-04-24T12:35:00+02:00",
     "cas_udelezba": "11:00",
-    "has_udelezba": false,
+    "has_udelezba": true,
     "has_rezultat": false,
     "is_final": false,
     "has_kandidati_removed": false

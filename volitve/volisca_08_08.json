@@ -7,161 +7,253 @@
     {
       "st": 7,
       "naz": "DVERI-PAX, POLIČKI VRH 1",
-      "udel": null,
+      "udel": {
+        "upr": 357,
+        "gl": 101,
+        "prc": 0.2829
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 21,
       "naz": "FARASIN BRANKA, TRATE 14",
-      "udel": null,
+      "udel": {
+        "upr": 211,
+        "gl": 51,
+        "prc": 0.2417
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 13,
       "naz": "JANUŠ JOŽE, SELNICA OB MURI 102 I",
-      "udel": null,
+      "udel": {
+        "upr": 971,
+        "gl": 220,
+        "prc": 0.2266
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 1,
       "naz": "KLUB SVEČINA, PLAČ 7",
-      "udel": null,
+      "udel": {
+        "upr": 736,
+        "gl": 0,
+        "prc": 0
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 18,
       "naz": "KRANVOGEL, KANIŽA 24",
-      "udel": null,
+      "udel": {
+        "upr": 265,
+        "gl": 53,
+        "prc": 0.2
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 12,
       "naz": "KS CERŠAK, CERŠAK 19",
-      "udel": null,
+      "udel": {
+        "upr": 686,
+        "gl": 186,
+        "prc": 0.2711
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 27,
       "naz": "KS PERNICA, PERNICA 8",
-      "udel": null,
+      "udel": {
+        "upr": 1245,
+        "gl": 323,
+        "prc": 0.2594
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 9,
       "naz": "KULTURNA DVORANA JAKOB, SP. JAKOBSKI DOL 2",
-      "udel": null,
+      "udel": {
+        "upr": 1065,
+        "gl": 200,
+        "prc": 0.1878
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 14,
       "naz": "KULTURNI DOM SLADKI VRH,SLADKI VRH 3",
-      "udel": null,
+      "udel": {
+        "upr": 948,
+        "gl": 224,
+        "prc": 0.2363
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 17,
       "naz": "KULTURNO PROSVETNI DOM ŠENTILJ, MAISTROVA UL. 7",
-      "udel": null,
+      "udel": {
+        "upr": 1859,
+        "gl": 400,
+        "prc": 0.2152
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 15,
       "naz": "LOVSKI DOM, VRANJI VRH 7",
-      "udel": null,
+      "udel": {
+        "upr": 272,
+        "gl": 72,
+        "prc": 0.2647
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 26,
       "naz": "MULEC, ROČICA 40",
-      "udel": null,
+      "udel": {
+        "upr": 289,
+        "gl": 77,
+        "prc": 0.2664
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 6,
       "naz": "OSNOVNA ŠOLA JARENINA, JARENINSKI DOL 26",
-      "udel": null,
+      "udel": {
+        "upr": 875,
+        "gl": 193,
+        "prc": 0.2206
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 20,
       "naz": "OSNOVNA ŠOLA ZG. VELKA, ZG. VELKA 41",
-      "udel": null,
+      "udel": {
+        "upr": 938,
+        "gl": 189,
+        "prc": 0.2015
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 5,
       "naz": "PODRUŽNICA OŠ KUNGOTA, GRADIŠKA 219",
-      "udel": null,
+      "udel": {
+        "upr": 1422,
+        "gl": 290,
+        "prc": 0.2039
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 19,
       "naz": "POLC, KRESNICA 41",
-      "udel": null,
+      "udel": {
+        "upr": 252,
+        "gl": 37,
+        "prc": 0.1468
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 22,
       "naz": "RAJŠP FRANC, SP. VELKA 61",
-      "udel": null,
+      "udel": {
+        "upr": 397,
+        "gl": 72,
+        "prc": 0.1814
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 10,
       "naz": "VEČNAMENSKI KTPC PESNICA, PESNICA PRI MARIBORU 41",
-      "udel": null,
+      "udel": {
+        "upr": 1424,
+        "gl": 284,
+        "prc": 0.1994
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 11,
       "naz": "VEČNAMENSKI KTPC PESNICA, PESNICA PRI MARIBORU 41",
-      "udel": null,
+      "udel": {
+        "upr": 798,
+        "gl": 174,
+        "prc": 0.218
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 3,
       "naz": "VS ZG. KUNGOTA, PLINTOVEC 1",
-      "udel": null,
+      "udel": {
+        "upr": 669,
+        "gl": 134,
+        "prc": 0.2003
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 25,
       "naz": "VS ZG. KUNGOTA, PLINTOVEC 1",
-      "udel": null,
+      "udel": {
+        "upr": 682,
+        "gl": 129,
+        "prc": 0.1891
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 4,
       "naz": "ŽUPNIJSKI URAD SV. JURIJ OB PESNICI, JURSKI VRH 5",
-      "udel": null,
+      "udel": {
+        "upr": 485,
+        "gl": 134,
+        "prc": 0.2763
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 901,
       "naz": "PREDČASNO GLASOVANJE",
-      "udel": null,
+      "udel": {
+        "upr": null,
+        "gl": 13,
+        "prc": null
+      },
       "rez": null,
       "prestetih_glasov": null
     }
@@ -335,10 +427,10 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T10:00:20.6416653+02:00",
-    "datum": "2022-04-24T07:20:00+02:00",
+    "timestamp": "2022-04-24T12:36:38.0650501+02:00",
+    "datum": "2022-04-24T12:35:00+02:00",
     "cas_udelezba": "11:00",
-    "has_udelezba": false,
+    "has_udelezba": true,
     "has_rezultat": false,
     "is_final": false,
     "has_kandidati_removed": false

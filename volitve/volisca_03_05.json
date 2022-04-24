@@ -7,126 +7,198 @@
     {
       "st": 8,
       "naz": "BIOTEHNIŠKI IZOBRAŽ. CENTER, C. V MESTNI LOG 47",
-      "udel": null,
+      "udel": {
+        "upr": 1101,
+        "gl": 250,
+        "prc": 0.2271
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 3,
       "naz": "DIJAŠKI DOM VIČ, GERBIČEVA UL. 51A, LJUBLJANA",
-      "udel": null,
+      "udel": {
+        "upr": 503,
+        "gl": 109,
+        "prc": 0.2167
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 7,
       "naz": "DOM GASILCEV, CESTA V MESTNI LOG 31",
-      "udel": null,
+      "udel": {
+        "upr": 844,
+        "gl": 223,
+        "prc": 0.2642
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 1,
       "naz": "DOM STAREJŠIH OBČANOV, KOPALIŠKA UL. 10",
-      "udel": null,
+      "udel": {
+        "upr": 820,
+        "gl": 196,
+        "prc": 0.239
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 9,
       "naz": "JP VOKA SNAGA D.O.O., CESTA DVEH CESARJEV 111, LJ",
-      "udel": null,
+      "udel": {
+        "upr": 645,
+        "gl": 111,
+        "prc": 0.1721
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 4,
       "naz": "OSNOVNA ŠOLA VIČ, TRŽAŠKA CESTA 74, LJUBLJANA",
-      "udel": null,
+      "udel": {
+        "upr": 876,
+        "gl": 177,
+        "prc": 0.2021
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 5,
       "naz": "OSNOVNA ŠOLA VIČ, TRŽAŠKA CESTA 74, LJUBLJANA",
-      "udel": null,
+      "udel": {
+        "upr": 1030,
+        "gl": 244,
+        "prc": 0.2369
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 2,
       "naz": "OŠ KOLEZIJA, CESTA V MESTNI LOG 46",
-      "udel": null,
+      "udel": {
+        "upr": 917,
+        "gl": 240,
+        "prc": 0.2617
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 6,
       "naz": "OŠ KOLEZIJA, SPLITSKA ULICA 13",
-      "udel": null,
+      "udel": {
+        "upr": 357,
+        "gl": 106,
+        "prc": 0.2969
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 12,
       "naz": "OŠ VIČ, ABRAMOVA UL. 26",
-      "udel": null,
+      "udel": {
+        "upr": 961,
+        "gl": 246,
+        "prc": 0.256
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 13,
       "naz": "OŠ VIČ, ABRAMOVA UL. 26",
-      "udel": null,
+      "udel": {
+        "upr": 1284,
+        "gl": 312,
+        "prc": 0.243
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 14,
       "naz": "OŠ VIČ, ABRAMOVA UL. 26",
-      "udel": null,
+      "udel": {
+        "upr": 836,
+        "gl": 196,
+        "prc": 0.2344
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 15,
       "naz": "OŠ VIČ, ABRAMOVA UL. 26",
-      "udel": null,
+      "udel": {
+        "upr": 1130,
+        "gl": 300,
+        "prc": 0.2655
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 16,
       "naz": "OŠ VRHOVCI, C. NA BOKALCE 1",
-      "udel": null,
+      "udel": {
+        "upr": 920,
+        "gl": 285,
+        "prc": 0.3098
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 17,
       "naz": "OŠ VRHOVCI, C. NA BOKALCE 1",
-      "udel": null,
+      "udel": {
+        "upr": 1478,
+        "gl": 420,
+        "prc": 0.2842
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 10,
       "naz": "PROSTORI MOL, TBILISIJSKA UL. 22A, LJUBLJANA",
-      "udel": null,
+      "udel": {
+        "upr": 909,
+        "gl": 215,
+        "prc": 0.2365
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 11,
       "naz": "PROSTORI MOL, TBILISIJSKA UL. 22A, LJUBLJANA",
-      "udel": null,
+      "udel": {
+        "upr": 798,
+        "gl": 204,
+        "prc": 0.2556
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 901,
       "naz": "PREDČASNO GLASOVANJE",
-      "udel": null,
+      "udel": {
+        "upr": null,
+        "gl": 0,
+        "prc": null
+      },
       "rez": null,
       "prestetih_glasov": null
     }
@@ -298,10 +370,10 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T10:00:20.6416653+02:00",
-    "datum": "2022-04-24T07:20:00+02:00",
+    "timestamp": "2022-04-24T12:36:38.0650501+02:00",
+    "datum": "2022-04-24T12:35:00+02:00",
     "cas_udelezba": "11:00",
-    "has_udelezba": false,
+    "has_udelezba": true,
     "has_rezultat": false,
     "is_final": false,
     "has_kandidati_removed": false

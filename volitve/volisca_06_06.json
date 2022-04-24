@@ -7,385 +7,605 @@
     {
       "st": 59,
       "naz": "BURJA BOŠTJANU, ŠUTNA 26",
-      "udel": null,
+      "udel": {
+        "upr": 181,
+        "gl": 61,
+        "prc": 0.337
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 47,
       "naz": "DOMU GASILCEV SMEDNIK",
-      "udel": null,
+      "udel": {
+        "upr": 554,
+        "gl": 109,
+        "prc": 0.1968
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 20,
       "naz": "DOMU KRAJANOV ZDOLE",
-      "udel": null,
+      "udel": {
+        "upr": 639,
+        "gl": 119,
+        "prc": 0.1862
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 26,
       "naz": "DOMU STAREJŠIH OBČANOV KRŠKO, KOVINARSKA 13",
-      "udel": null,
+      "udel": {
+        "upr": 783,
+        "gl": 151,
+        "prc": 0.1928
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 4,
       "naz": "DOMU XIV. DIVIZIJE SENOVO I",
-      "udel": null,
+      "udel": {
+        "upr": 548,
+        "gl": 107,
+        "prc": 0.1953
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 5,
       "naz": "DOMU XIV. DIVIZIJE SENOVO II",
-      "udel": null,
+      "udel": {
+        "upr": 535,
+        "gl": 113,
+        "prc": 0.2112
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 40,
       "naz": "DVORANI V VELIKEM PODLOGU",
-      "udel": null,
+      "udel": {
+        "upr": 309,
+        "gl": 81,
+        "prc": 0.2621
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 24,
       "naz": "GASILSKEM DOMU KRŠKO",
-      "udel": null,
+      "udel": {
+        "upr": 563,
+        "gl": 118,
+        "prc": 0.2096
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 56,
       "naz": "GASILSKEM DOMU MALO MRAŠEVO",
-      "udel": null,
+      "udel": {
+        "upr": 308,
+        "gl": 56,
+        "prc": 0.1818
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 36,
       "naz": "GASILSKEM DOMU NA BREGAH",
-      "udel": null,
+      "udel": {
+        "upr": 159,
+        "gl": 36,
+        "prc": 0.2264
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 35,
       "naz": "GASILSKEM DOMU NA DRNOVEM",
-      "udel": null,
+      "udel": {
+        "upr": 283,
+        "gl": 74,
+        "prc": 0.2615
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 22,
       "naz": "GASILSKEM DOMU NA GORI",
-      "udel": null,
+      "udel": {
+        "upr": 430,
+        "gl": 84,
+        "prc": 0.1953
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 7,
       "naz": "GASILSKEM DOMU NA MALEM KAMNU",
-      "udel": null,
+      "udel": {
+        "upr": 227,
+        "gl": 51,
+        "prc": 0.2247
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 51,
       "naz": "GASILSKEM DOMU NA PREKOPI, DOLNJA PREKOPA",
-      "udel": null,
+      "udel": {
+        "upr": 322,
+        "gl": 71,
+        "prc": 0.2205
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 3,
       "naz": "GASILSKEM DOMU NA VELIKEM KAMNU",
-      "udel": null,
+      "udel": {
+        "upr": 326,
+        "gl": 62,
+        "prc": 0.1902
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 38,
       "naz": "GASILSKEM DOMU NA VIHRAH",
-      "udel": null,
+      "udel": {
+        "upr": 129,
+        "gl": 28,
+        "prc": 0.2171
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 42,
       "naz": "GASILSKEM DOMU SENUŠE",
-      "udel": null,
+      "udel": {
+        "upr": 434,
+        "gl": 122,
+        "prc": 0.2811
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 9,
       "naz": "GASILSKEM DOMU STRANJE",
-      "udel": null,
+      "udel": {
+        "upr": 133,
+        "gl": 26,
+        "prc": 0.1955
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 43,
       "naz": "GASILSKEM DOMU V LESKOVCU",
-      "udel": null,
+      "udel": {
+        "upr": 937,
+        "gl": 242,
+        "prc": 0.2583
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 45,
       "naz": "GASILSKEM DOMU V VELIKI VASI",
-      "udel": null,
+      "udel": {
+        "upr": 561,
+        "gl": 136,
+        "prc": 0.2424
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 29,
       "naz": "KULTURNEM DOMU KRŠKO I",
-      "udel": null,
+      "udel": {
+        "upr": 529,
+        "gl": 101,
+        "prc": 0.1909
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 30,
       "naz": "KULTURNEM DOMU KRŠKO II",
-      "udel": null,
+      "udel": {
+        "upr": 532,
+        "gl": 92,
+        "prc": 0.1729
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 31,
       "naz": "KULTURNEM DOMU KRŠKO III",
-      "udel": null,
+      "udel": {
+        "upr": 851,
+        "gl": 142,
+        "prc": 0.1669
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 55,
       "naz": "KULTURNEM DOMU V PODBOČJU",
-      "udel": null,
+      "udel": {
+        "upr": 479,
+        "gl": 106,
+        "prc": 0.2213
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 10,
       "naz": "LOVSKEM DOMU BREZJE PRI DOVŠKEM",
-      "udel": null,
+      "udel": {
+        "upr": 137,
+        "gl": 30,
+        "prc": 0.219
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 15,
       "naz": "LOVSKI KOČI DOLENJI LESKOVEC",
-      "udel": null,
+      "udel": {
+        "upr": 246,
+        "gl": 58,
+        "prc": 0.2358
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 25,
       "naz": "MLADINSKEM CENTRU KRŠKO",
-      "udel": null,
+      "udel": {
+        "upr": 620,
+        "gl": 154,
+        "prc": 0.2484
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 12,
       "naz": "OŠ ADAM BOHORIČ BRESTANICA, ŠOLSKA CESTA 29",
-      "udel": null,
+      "udel": {
+        "upr": 949,
+        "gl": 230,
+        "prc": 0.2424
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 28,
       "naz": "OŠ DR. M. ROSTOHARJA",
-      "udel": null,
+      "udel": {
+        "upr": 503,
+        "gl": 102,
+        "prc": 0.2028
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 52,
       "naz": "OŠ JOŽETA GORJUPA, GORJANSKA C. 2, KOSTAN.NA KRKI",
-      "udel": null,
+      "udel": {
+        "upr": 950,
+        "gl": 227,
+        "prc": 0.2389
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 32,
       "naz": "OŠ JURIJA DALMATINA KRŠKO",
-      "udel": null,
+      "udel": {
+        "upr": 769,
+        "gl": 175,
+        "prc": 0.2276
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 1,
       "naz": "OŠ KOPRIVNICA, KOPRIVNICA 2",
-      "udel": null,
+      "udel": {
+        "upr": 223,
+        "gl": 73,
+        "prc": 0.3274
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 44,
       "naz": "PRI ARH ZVONETU, SELCE 6",
-      "udel": null,
+      "udel": {
+        "upr": 223,
+        "gl": 55,
+        "prc": 0.2466
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 21,
       "naz": "PRI BOGDANU DULARJU, KOSTANJEK 20",
-      "udel": null,
+      "udel": {
+        "upr": 102,
+        "gl": 34,
+        "prc": 0.3333
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 53,
       "naz": "PRI COLARIČ MILANU, OREHOVEC 37",
-      "udel": null,
+      "udel": {
+        "upr": 220,
+        "gl": 37,
+        "prc": 0.1682
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 54,
       "naz": "PRI GRUBAR JOŽETU, KOČARIJA 14",
-      "udel": null,
+      "udel": {
+        "upr": 170,
+        "gl": 29,
+        "prc": 0.1706
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 49,
       "naz": "PRI JARKOVIČ ANTONU, AVGUŠTINE 11 ",
-      "udel": null,
+      "udel": {
+        "upr": 247,
+        "gl": 63,
+        "prc": 0.2551
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 50,
       "naz": "PRI JERNEJKI GOBEC, ČRNEČA VAS 9",
-      "udel": null,
+      "udel": {
+        "upr": 133,
+        "gl": 28,
+        "prc": 0.2105
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 11,
       "naz": "PRI JOŽEFI MACUR MARCONATO",
-      "udel": null,
+      "udel": {
+        "upr": 490,
+        "gl": 104,
+        "prc": 0.2122
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 58,
       "naz": "PRI KODRIČ JOŽETU, BREZJE 2",
-      "udel": null,
+      "udel": {
+        "upr": 179,
+        "gl": 46,
+        "prc": 0.257
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 16,
       "naz": "PRI MIRT JOŽETU, ANŽE 12",
-      "udel": null,
+      "udel": {
+        "upr": 131,
+        "gl": 36,
+        "prc": 0.2748
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 27,
       "naz": "PRI RADEJ VIDI, SREMIČ 37",
-      "udel": null,
+      "udel": {
+        "upr": 217,
+        "gl": 36,
+        "prc": 0.1659
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 34,
       "naz": "PRI SLAVKU BOŽIČU, GORNJE PIJAVŠKO 30",
-      "udel": null,
+      "udel": {
+        "upr": 86,
+        "gl": 27,
+        "prc": 0.314
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 6,
       "naz": "PROSTORIH GASILSKEGA DOMA SENOVO",
-      "udel": null,
+      "udel": {
+        "upr": 537,
+        "gl": 108,
+        "prc": 0.2011
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 46,
       "naz": "PROSTORIH KS RAKA",
-      "udel": null,
+      "udel": {
+        "upr": 960,
+        "gl": 154,
+        "prc": 0.1604
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 19,
       "naz": "PROSTORIH KS ROŽNO - PRESLADOL",
-      "udel": null,
+      "udel": {
+        "upr": 322,
+        "gl": 59,
+        "prc": 0.1832
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 37,
       "naz": "PROSTORIH MLEKARNE MRTVICE",
-      "udel": null,
+      "udel": {
+        "upr": 173,
+        "gl": 48,
+        "prc": 0.2775
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 48,
       "naz": "PROSVETNI DVORANI NA VELIKEM TRNU",
-      "udel": null,
+      "udel": {
+        "upr": 559,
+        "gl": 186,
+        "prc": 0.3327
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 17,
       "naz": "RIBIŠKE DRUŽINE (RIBNIK) BRESTANICA PRI J.DULARJU",
-      "udel": null,
+      "udel": {
+        "upr": 232,
+        "gl": 38,
+        "prc": 0.1638
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 57,
       "naz": "VAŠKEM DOMU VELIKO MRAŠEVO",
-      "udel": null,
+      "udel": {
+        "upr": 219,
+        "gl": 41,
+        "prc": 0.1872
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 39,
       "naz": "VAŠKI SOBI NA GORICI",
-      "udel": null,
+      "udel": {
+        "upr": 356,
+        "gl": 62,
+        "prc": 0.1742
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 41,
       "naz": "VAŠKI SOBI V GRŽEČI VASI",
-      "udel": null,
+      "udel": {
+        "upr": 160,
+        "gl": 35,
+        "prc": 0.2188
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 8,
       "naz": "VAŠKI SOBI V STROJNICI REŠTANJ",
-      "udel": null,
+      "udel": {
+        "upr": 161,
+        "gl": 21,
+        "prc": 0.1304
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 18,
       "naz": "VEČNAMENSKEM DOMU V DOLENJI VASI, DOLENJA VAS 88",
-      "udel": null,
+      "udel": {
+        "upr": 843,
+        "gl": 199,
+        "prc": 0.2361
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 901,
       "naz": "PREDČASNO GLASOVANJE",
-      "udel": null,
+      "udel": {
+        "upr": null,
+        "gl": 0,
+        "prc": null
+      },
       "rez": null,
       "prestetih_glasov": null
     }
@@ -557,10 +777,10 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T10:00:20.6416653+02:00",
-    "datum": "2022-04-24T07:20:00+02:00",
+    "timestamp": "2022-04-24T12:36:38.0650501+02:00",
+    "datum": "2022-04-24T12:35:00+02:00",
     "cas_udelezba": "11:00",
-    "has_udelezba": false,
+    "has_udelezba": true,
     "has_rezultat": false,
     "is_final": false,
     "has_kandidati_removed": false

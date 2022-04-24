@@ -7,224 +7,352 @@
     {
       "st": 9,
       "naz": "AVLA ŠC PTUJ, VOLKMERJEVA 19",
-      "udel": null,
+      "udel": {
+        "upr": 536,
+        "gl": 115,
+        "prc": 0.2146
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 10,
       "naz": "AVLA ŠOLSKEGA CENTRA PTUJ, VOKLMERJEVA CESTA 19",
-      "udel": null,
+      "udel": {
+        "upr": 628,
+        "gl": 100,
+        "prc": 0.1592
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 12,
       "naz": "DIJAŠKI DOM PTUJ, ARBAJTERJEVA  UL. 6",
-      "udel": null,
+      "udel": {
+        "upr": 680,
+        "gl": 123,
+        "prc": 0.1809
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 14,
       "naz": "DOM KRAJ. B. REŠ, VOLKMERJEVA 26",
-      "udel": null,
+      "udel": {
+        "upr": 398,
+        "gl": 54,
+        "prc": 0.1357
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 13,
       "naz": "DOM KRAJ. B.REŠ,VOLKMERJEVA 26",
-      "udel": null,
+      "udel": {
+        "upr": 623,
+        "gl": 153,
+        "prc": 0.2456
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 23,
       "naz": "DOM KRAJ.TURNIŠČE, SELSKA C. 2",
-      "udel": null,
+      "udel": {
+        "upr": 572,
+        "gl": 105,
+        "prc": 0.1836
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 24,
       "naz": "DOM KRAJ.TURNIŠČE, SELSKA C. 2",
-      "udel": null,
+      "udel": {
+        "upr": 536,
+        "gl": 141,
+        "prc": 0.2631
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 18,
       "naz": "DOM KRAJANOV MČ JEZERO, BELŠAKOVA UL. 20 A",
-      "udel": null,
+      "udel": {
+        "upr": 392,
+        "gl": 74,
+        "prc": 0.1888
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 17,
       "naz": "DOM KRAJANOV MČ JEZERO, BELŠAKOVA UL.20A",
-      "udel": null,
+      "udel": {
+        "upr": 478,
+        "gl": 90,
+        "prc": 0.1883
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 15,
       "naz": "DOM KRAJANOV MČ PANORAMA, VIČAVA 46",
-      "udel": null,
+      "udel": {
+        "upr": 732,
+        "gl": 177,
+        "prc": 0.2418
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 28,
       "naz": "DOM KRAJANOV SKORBA, SKORBA 36A",
-      "udel": null,
+      "udel": {
+        "upr": 309,
+        "gl": 85,
+        "prc": 0.2751
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 30,
       "naz": "DOM UPOKOJENCEV, ZG. HAJDINA 45",
-      "udel": null,
+      "udel": {
+        "upr": 675,
+        "gl": 125,
+        "prc": 0.1852
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 25,
       "naz": "DOM VAŠČANOV DRAŽENCI, DRAŽENCI 74B",
-      "udel": null,
+      "udel": {
+        "upr": 451,
+        "gl": 102,
+        "prc": 0.2262
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 22,
       "naz": "DU IVAN RUDOLF BREG-PTUJ, ZADRUŽNI TRG 12 A",
-      "udel": null,
+      "udel": {
+        "upr": 722,
+        "gl": 157,
+        "prc": 0.2175
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 26,
       "naz": "GASILSKI DOM GEREČJA VAS, GEREČJA VAS 14A",
-      "udel": null,
+      "udel": {
+        "upr": 469,
+        "gl": 91,
+        "prc": 0.194
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 27,
       "naz": "GASILSKI DOM HAJDOŠE, HAJDOŠE 41B",
-      "udel": null,
+      "udel": {
+        "upr": 549,
+        "gl": 120,
+        "prc": 0.2186
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 31,
       "naz": "IGRIŠČE SP. HAJDINA (PROST. SLAČ. ŠD SP. HAJDINA)",
-      "udel": null,
+      "udel": {
+        "upr": 192,
+        "gl": 32,
+        "prc": 0.1667
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 1,
       "naz": "MAGISTRAT, SPREJEMNA PISARNA, MESTNI TRG 1",
-      "udel": null,
+      "udel": {
+        "upr": 552,
+        "gl": 95,
+        "prc": 0.1721
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 20,
       "naz": "OŠ BREG, ROGAŠKA C. 6",
-      "udel": null,
+      "udel": {
+        "upr": 530,
+        "gl": 129,
+        "prc": 0.2434
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 21,
       "naz": "OŠ BREG, ROGAŠKA C. 6",
-      "udel": null,
+      "udel": {
+        "upr": 432,
+        "gl": 69,
+        "prc": 0.1597
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 6,
       "naz": "OŠ LJUDSKI VRT, ŽUPANČIČEVA 10",
-      "udel": null,
+      "udel": {
+        "upr": 526,
+        "gl": 107,
+        "prc": 0.2034
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 7,
       "naz": "OŠ LJUDSKI VRT, ŽUPANČIČEVA 10",
-      "udel": null,
+      "udel": {
+        "upr": 541,
+        "gl": 104,
+        "prc": 0.1922
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 8,
       "naz": "OŠ LJUDSKI VRT, ŽUPANČIČEVA 10",
-      "udel": null,
+      "udel": {
+        "upr": 415,
+        "gl": 81,
+        "prc": 0.1952
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 16,
       "naz": "ŠPORTNA DVORANA MLADIKA,SEJNA SOBA,ČUČKOVA UL.8",
-      "udel": null,
+      "udel": {
+        "upr": 325,
+        "gl": 72,
+        "prc": 0.2215
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 29,
       "naz": "ŠPORTNI OBJEKT NK SLOVENJA VAS,SLOVENJA VAS 54",
-      "udel": null,
+      "udel": {
+        "upr": 456,
+        "gl": 90,
+        "prc": 0.1974
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 2,
       "naz": "TELOVADNICA OŠ OLGE MEGLIČ, VHOD PREŠERNOVA U.29",
-      "udel": null,
+      "udel": {
+        "upr": 444,
+        "gl": 67,
+        "prc": 0.1509
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 19,
       "naz": "VEČNAMENSKA DVORANA SPUHLJA, SPUHLJA 12 A",
-      "udel": null,
+      "udel": {
+        "upr": 712,
+        "gl": 125,
+        "prc": 0.1756
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 4,
       "naz": "VRTEC PTUJ, ENOTA MAČICE, POTRČEVA CESTA 9 A",
-      "udel": null,
+      "udel": {
+        "upr": 538,
+        "gl": 99,
+        "prc": 0.184
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 3,
       "naz": "VRTEC PTUJ, ENOTA MAČICE, POTRČEVA CESTA 9A",
-      "udel": null,
+      "udel": {
+        "upr": 536,
+        "gl": 110,
+        "prc": 0.2052
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 11,
       "naz": "VRTEC PTUJ, ENOTA MAČICE,POTRČEVA CESTA 9A",
-      "udel": null,
+      "udel": {
+        "upr": 523,
+        "gl": 122,
+        "prc": 0.2333
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 5,
       "naz": "VRTEC PTUJ, ENOTA TULIPAN,  MED VRTI 2",
-      "udel": null,
+      "udel": {
+        "upr": 324,
+        "gl": 55,
+        "prc": 0.1698
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 901,
       "naz": "PREDČASNO GLASOVANJE",
-      "udel": null,
+      "udel": {
+        "upr": null,
+        "gl": 0,
+        "prc": null
+      },
       "rez": null,
       "prestetih_glasov": null
     }
@@ -398,10 +526,10 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T10:00:20.6416653+02:00",
-    "datum": "2022-04-24T07:20:00+02:00",
+    "timestamp": "2022-04-24T12:36:38.0650501+02:00",
+    "datum": "2022-04-24T12:35:00+02:00",
     "cas_udelezba": "11:00",
-    "has_udelezba": false,
+    "has_udelezba": true,
     "has_rezultat": false,
     "is_final": false,
     "has_kandidati_removed": false

@@ -7,322 +7,506 @@
     {
       "st": 17,
       "naz": "DOM KRAJANOV RAZBOR",
-      "udel": null,
+      "udel": {
+        "upr": 205,
+        "gl": 34,
+        "prc": 0.1659
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 21,
       "naz": "DROŽANJE 13 - IVAN JAZBEC",
-      "udel": null,
+      "udel": {
+        "upr": 216,
+        "gl": 31,
+        "prc": 0.1435
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 42,
       "naz": "DVORANA METELKOVEGA DOMA - ŠKOCJAN 35",
-      "udel": null,
+      "udel": {
+        "upr": 760,
+        "gl": 150,
+        "prc": 0.1974
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 44,
       "naz": "GASILSKI DOM - DOBRAVA PRI ŠKOCJANU 59",
-      "udel": null,
+      "udel": {
+        "upr": 183,
+        "gl": 59,
+        "prc": 0.3224
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 41,
       "naz": "GASILSKI DOM - DOLENJE DOLE 24B",
-      "udel": null,
+      "udel": {
+        "upr": 171,
+        "gl": 24,
+        "prc": 0.1404
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 43,
       "naz": "GASILSKI DOM - GRMOVLJE 28",
-      "udel": null,
+      "udel": {
+        "upr": 501,
+        "gl": 98,
+        "prc": 0.1956
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 45,
       "naz": "GASILSKI DOM - TOMAŽJA VAS 35",
-      "udel": null,
+      "udel": {
+        "upr": 160,
+        "gl": 41,
+        "prc": 0.2562
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 40,
       "naz": "GASILSKI DOM - ZAGRAD 36",
-      "udel": null,
+      "udel": {
+        "upr": 367,
+        "gl": 89,
+        "prc": 0.2425
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 15,
       "naz": "GASILSKI DOM BREG",
-      "udel": null,
+      "udel": {
+        "upr": 182,
+        "gl": 30,
+        "prc": 0.1648
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 16,
       "naz": "GASILSKI DOM LOKA PRI ZIDANEM MOSTU",
-      "udel": null,
+      "udel": {
+        "upr": 567,
+        "gl": 155,
+        "prc": 0.2734
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 22,
       "naz": "GASILSKI DOM OREŠJE",
-      "udel": null,
+      "udel": {
+        "upr": 281,
+        "gl": 72,
+        "prc": 0.2562
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 2,
       "naz": "GASILSKI DOM POKLEK",
-      "udel": null,
+      "udel": {
+        "upr": 231,
+        "gl": 53,
+        "prc": 0.2294
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 18,
       "naz": "GASILSKI DOM PRIMOŽ",
-      "udel": null,
+      "udel": {
+        "upr": 240,
+        "gl": 68,
+        "prc": 0.2833
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 23,
       "naz": "GASILSKI DOM SEVNICA",
-      "udel": null,
+      "udel": {
+        "upr": 380,
+        "gl": 73,
+        "prc": 0.1921
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 27,
       "naz": "GASILSKI DOM STUDENEC",
-      "udel": null,
+      "udel": {
+        "upr": 502,
+        "gl": 122,
+        "prc": 0.243
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 35,
       "naz": "GASILSKI DOM TELČE",
-      "udel": null,
+      "udel": {
+        "upr": 316,
+        "gl": 87,
+        "prc": 0.2753
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 37,
       "naz": "GASILSKI DOM TRNOVEC",
-      "udel": null,
+      "udel": {
+        "upr": 340,
+        "gl": 75,
+        "prc": 0.2206
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 31,
       "naz": "GASILSKI DOM VELIKI CIRNIK",
-      "udel": null,
+      "udel": {
+        "upr": 105,
+        "gl": 26,
+        "prc": 0.2476
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 36,
       "naz": "GASILSKI DOM ZABUKOVJE",
-      "udel": null,
+      "udel": {
+        "upr": 241,
+        "gl": 55,
+        "prc": 0.2282
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 19,
       "naz": "GOSTILNA KREGL, GORNJE BREZOVO 3, SEVNICA",
-      "udel": null,
+      "udel": {
+        "upr": 589,
+        "gl": 143,
+        "prc": 0.2428
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 29,
       "naz": "KLADJE PRI KRMELJU 10 - ŽAN BUNDERŠEK",
-      "udel": null,
+      "udel": {
+        "upr": 107,
+        "gl": 27,
+        "prc": 0.2523
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 11,
       "naz": "KONJSKO 10 -  JOŽE MERVIČ",
-      "udel": null,
+      "udel": {
+        "upr": 89,
+        "gl": 31,
+        "prc": 0.3483
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 30,
       "naz": "KULTURNA DVORANA ŠENTJANŽ",
-      "udel": null,
+      "udel": {
+        "upr": 955,
+        "gl": 221,
+        "prc": 0.2314
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 1,
       "naz": "KULTURNI DOM BLANCA",
-      "udel": null,
+      "udel": {
+        "upr": 655,
+        "gl": 155,
+        "prc": 0.2366
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 12,
       "naz": "KULTURNI DOM LUKOVEC",
-      "udel": null,
+      "udel": {
+        "upr": 155,
+        "gl": 29,
+        "prc": 0.1871
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 20,
       "naz": "LEDINA 80 - STANISLAV MOŽIČ",
-      "udel": null,
+      "udel": {
+        "upr": 173,
+        "gl": 35,
+        "prc": 0.2023
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 39,
       "naz": "OSNOVNA ŠOLA BUČKA",
-      "udel": null,
+      "udel": {
+        "upr": 490,
+        "gl": 105,
+        "prc": 0.2143
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 14,
       "naz": "OSNOVNA ŠOLA KRMELJ",
-      "udel": null,
+      "udel": {
+        "upr": 749,
+        "gl": 201,
+        "prc": 0.2684
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 25,
       "naz": "OSNOVNA ŠOLA SAVA KLADNIKA",
-      "udel": null,
+      "udel": {
+        "upr": 439,
+        "gl": 100,
+        "prc": 0.2278
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 33,
       "naz": "PIJAVICE 3 - HENRIK HOČEVAR",
-      "udel": null,
+      "udel": {
+        "upr": 294,
+        "gl": 78,
+        "prc": 0.2653
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 9,
       "naz": "POD VAŠKIM KOZOLCEM NA JABLANICI",
-      "udel": null,
+      "udel": {
+        "upr": 187,
+        "gl": 33,
+        "prc": 0.1765
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 38,
       "naz": "PODGORJE OB SEVNIČNI 17B, JANEZ PODLESNIK",
-      "udel": null,
+      "udel": {
+        "upr": 98,
+        "gl": 30,
+        "prc": 0.3061
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 26,
       "naz": "PROST. KOMUNALE SEVNICA, NASELJE HEROJA MAROKA 17",
-      "udel": null,
+      "udel": {
+        "upr": 1027,
+        "gl": 232,
+        "prc": 0.2259
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 32,
       "naz": "PROSTOR LOVSKE DRUŽINE TRŽIŠČE",
-      "udel": null,
+      "udel": {
+        "upr": 435,
+        "gl": 126,
+        "prc": 0.2897
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 13,
       "naz": "SEJNA SOBA OBČINE SEVNICA",
-      "udel": null,
+      "udel": {
+        "upr": 782,
+        "gl": 150,
+        "prc": 0.1918
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 3,
       "naz": "TVD PARTIZAN",
-      "udel": null,
+      "udel": {
+        "upr": 877,
+        "gl": 193,
+        "prc": 0.2201
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 4,
       "naz": "VEČNAMENSKI DOM KOMPOLJE",
-      "udel": null,
+      "udel": {
+        "upr": 130,
+        "gl": 47,
+        "prc": 0.3615
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 5,
       "naz": "VEČNAMENSKI DOM ŠMARČNA",
-      "udel": null,
+      "udel": {
+        "upr": 76,
+        "gl": 20,
+        "prc": 0.2632
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 7,
       "naz": "VEČNAMENSKI OBJEKT LOG",
-      "udel": null,
+      "udel": {
+        "upr": 246,
+        "gl": 66,
+        "prc": 0.2683
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 34,
       "naz": "VINSKI DVOR MALKOVEC, MALKOVEC 11",
-      "udel": null,
+      "udel": {
+        "upr": 304,
+        "gl": 68,
+        "prc": 0.2237
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 6,
       "naz": "VRH 23 - GOSTIŠČE DOLINŠEK",
-      "udel": null,
+      "udel": {
+        "upr": 192,
+        "gl": 39,
+        "prc": 0.2031
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 24,
       "naz": "VVO CICIBAN SEVNICA",
-      "udel": null,
+      "udel": {
+        "upr": 701,
+        "gl": 165,
+        "prc": 0.2354
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 8,
       "naz": "ZAVETIŠČE POD SVETIM ROKOM, TABORNIŠKA ULICA 14",
-      "udel": null,
+      "udel": {
+        "upr": 348,
+        "gl": 101,
+        "prc": 0.2902
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 28,
       "naz": "ZAVRATEC 10 - MARKO RUPAR",
-      "udel": null,
+      "udel": {
+        "upr": 126,
+        "gl": 38,
+        "prc": 0.3016
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 10,
       "naz": "ŽELEZNIŠKA POSTAJA JELOVEC 5",
-      "udel": null,
+      "udel": {
+        "upr": 127,
+        "gl": 33,
+        "prc": 0.2598
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 901,
       "naz": "PREDČASNO GLASOVANJE",
-      "udel": null,
+      "udel": {
+        "upr": null,
+        "gl": 0,
+        "prc": null
+      },
       "rez": null,
       "prestetih_glasov": null
     }
@@ -494,10 +678,10 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T10:00:20.6416653+02:00",
-    "datum": "2022-04-24T07:20:00+02:00",
+    "timestamp": "2022-04-24T12:36:38.0650501+02:00",
+    "datum": "2022-04-24T12:35:00+02:00",
     "cas_udelezba": "11:00",
-    "has_udelezba": false,
+    "has_udelezba": true,
     "has_rezultat": false,
     "is_final": false,
     "has_kandidati_removed": false

@@ -7,259 +7,407 @@
     {
       "st": 5,
       "naz": "AVLA GIMNAZIJE, LJUBLJANSKA 12",
-      "udel": null,
+      "udel": {
+        "upr": 848,
+        "gl": 161,
+        "prc": 0.1899
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 39,
       "naz": "BANJA LOKA, V HIŠI ŠT. 7",
-      "udel": null,
+      "udel": {
+        "upr": 130,
+        "gl": 32,
+        "prc": 0.2462
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 48,
       "naz": "BELICA 7-V HIŠI MIKLIČ ANGELCE",
-      "udel": null,
+      "udel": {
+        "upr": 42,
+        "gl": 11,
+        "prc": 0.2619
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 27,
       "naz": "BIVŠA GOSTILNA RADAR, KOČEVSKA CESTA 6",
-      "udel": null,
+      "udel": {
+        "upr": 683,
+        "gl": 144,
+        "prc": 0.2108
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 49,
       "naz": "BOSLJIVA LOKA 15A, PROSTORI PRI BIVŠI TRGOVINI AN",
-      "udel": null,
+      "udel": {
+        "upr": 59,
+        "gl": 18,
+        "prc": 0.3051
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 20,
       "naz": "CVIŠLERJI - PROSTORI VAŠKEGA DOMA",
-      "udel": null,
+      "udel": {
+        "upr": 207,
+        "gl": 47,
+        "prc": 0.2271
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 9,
       "naz": "GASILSKI DOM NA ROŠKI CESTI 10",
-      "udel": null,
+      "udel": {
+        "upr": 254,
+        "gl": 47,
+        "prc": 0.185
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 24,
       "naz": "GASILSKI DOM, DOLNJE LOŽINE 1A",
-      "udel": null,
+      "udel": {
+        "upr": 271,
+        "gl": 70,
+        "prc": 0.2583
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 19,
       "naz": "GASILSKI DOM, KLINJA VAS 46",
-      "udel": null,
+      "udel": {
+        "upr": 177,
+        "gl": 45,
+        "prc": 0.2542
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 21,
       "naz": "GASILSKI DOM, KOPRIVNIK 31",
-      "udel": null,
+      "udel": {
+        "upr": 80,
+        "gl": 17,
+        "prc": 0.2125
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 15,
       "naz": "GASILSKI DOM, MAHOVNIK 37",
-      "udel": null,
+      "udel": {
+        "upr": 257,
+        "gl": 56,
+        "prc": 0.2179
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 38,
       "naz": "GASILSKI DOM, MORAVA 14A",
-      "udel": null,
+      "udel": {
+        "upr": 112,
+        "gl": 49,
+        "prc": 0.4375
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 33,
       "naz": "GASILSKI DOM, PREDGRAD 41",
-      "udel": null,
+      "udel": {
+        "upr": 238,
+        "gl": 52,
+        "prc": 0.2185
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 37,
       "naz": "GASILSKI DOM, ŠTALCERJI 10A",
-      "udel": null,
+      "udel": {
+        "upr": 244,
+        "gl": 67,
+        "prc": 0.2746
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 35,
       "naz": "KOČEVSKA REKA 5 - KULTURNI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 278,
+        "gl": 67,
+        "prc": 0.241
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 42,
       "naz": "KUŽELJ 24A - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 48,
+        "gl": 12,
+        "prc": 0.25
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 34,
       "naz": "LAZE PRI PREDGRADU 1A",
-      "udel": null,
+      "udel": {
+        "upr": 17,
+        "gl": 8,
+        "prc": 0.4706
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 47,
       "naz": "OSILNICA 11B-BIVŠI OBRAT TEKSTILANE",
-      "udel": null,
+      "udel": {
+        "upr": 213,
+        "gl": 46,
+        "prc": 0.216
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 22,
       "naz": "OSNOVNA ŠOLA STARA CERKEV, STARA CERKEV 21",
-      "udel": null,
+      "udel": {
+        "upr": 835,
+        "gl": 189,
+        "prc": 0.2263
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 1,
       "naz": "POLOM, PROSTORI VAŠKEGA DOMA",
-      "udel": null,
+      "udel": {
+        "upr": 43,
+        "gl": 15,
+        "prc": 0.3488
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 30,
       "naz": "PROSTORI GASILSKEGA DOMA, MOZELJ 4A",
-      "udel": null,
+      "udel": {
+        "upr": 226,
+        "gl": 51,
+        "prc": 0.2257
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 8,
       "naz": "PROSTORI KOMUNALE KOČEVJE, TESARSKA 10",
-      "udel": null,
+      "udel": {
+        "upr": 389,
+        "gl": 88,
+        "prc": 0.2262
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 10,
       "naz": "PROSTORI KS KOČEVJE MESTO, TRG SVETEGA JERNEJA 2",
-      "udel": null,
+      "udel": {
+        "upr": 685,
+        "gl": 126,
+        "prc": 0.1839
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 29,
       "naz": "PROSVETNI DOM, ČRNI POTOK PRI KOČEVJU 1",
-      "udel": null,
+      "udel": {
+        "upr": 161,
+        "gl": 47,
+        "prc": 0.2919
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 28,
       "naz": "PROSVETNI DOM, LIVOLD 18D",
-      "udel": null,
+      "udel": {
+        "upr": 366,
+        "gl": 92,
+        "prc": 0.2514
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 11,
       "naz": "REŠKA CESTA 16-GLASBENA ŠOLA",
-      "udel": null,
+      "udel": {
+        "upr": 348,
+        "gl": 80,
+        "prc": 0.2299
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 17,
       "naz": "ŠALKA VAS 50 B-GASILNI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 1139,
+        "gl": 250,
+        "prc": 0.2195
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 13,
       "naz": "ŠEŠKOV DOM , PREŠERNOVA ULICA 11",
-      "udel": null,
+      "udel": {
+        "upr": 1106,
+        "gl": 241,
+        "prc": 0.2179
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 14,
       "naz": "TRATA XIV 6A-PROSTORI PODJETNIŠKEGA INKUBATORJA",
-      "udel": null,
+      "udel": {
+        "upr": 651,
+        "gl": 132,
+        "prc": 0.2028
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 3,
       "naz": "UPRAVNI PROSTORI OBČINE, LJUBLJANSKA 26",
-      "udel": null,
+      "udel": {
+        "upr": 1464,
+        "gl": 234,
+        "prc": 0.1598
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 41,
       "naz": "VAS - V HIŠI ŠT. 1",
-      "udel": null,
+      "udel": {
+        "upr": 256,
+        "gl": 52,
+        "prc": 0.2031
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 23,
       "naz": "VAŠKI DOM KOBLARJI",
-      "udel": null,
+      "udel": {
+        "upr": 270,
+        "gl": 83,
+        "prc": 0.3074
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 25,
       "naz": "VAŠKI DOM MLAKA",
-      "udel": null,
+      "udel": {
+        "upr": 519,
+        "gl": 103,
+        "prc": 0.1985
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 26,
       "naz": "VAŠKI DOM STARI LOG",
-      "udel": null,
+      "udel": {
+        "upr": 120,
+        "gl": 29,
+        "prc": 0.2417
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 40,
       "naz": "VRH PRI FARI 1-LUKČEVA DOMAČIJA",
-      "udel": null,
+      "udel": {
+        "upr": 98,
+        "gl": 18,
+        "prc": 0.1837
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 18,
       "naz": "ŽELJNE - VAŠKI DOM, ŽELJNE 12 B",
-      "udel": null,
+      "udel": {
+        "upr": 443,
+        "gl": 78,
+        "prc": 0.1761
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 901,
       "naz": "PREDČASNO GLASOVANJE",
-      "udel": null,
+      "udel": {
+        "upr": null,
+        "gl": 0,
+        "prc": null
+      },
       "rez": null,
       "prestetih_glasov": null
     }
@@ -431,10 +579,10 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T10:00:20.6416653+02:00",
-    "datum": "2022-04-24T07:20:00+02:00",
+    "timestamp": "2022-04-24T12:36:38.0650501+02:00",
+    "datum": "2022-04-24T12:35:00+02:00",
     "cas_udelezba": "11:00",
-    "has_udelezba": false,
+    "has_udelezba": true,
     "has_rezultat": false,
     "is_final": false,
     "has_kandidati_removed": false

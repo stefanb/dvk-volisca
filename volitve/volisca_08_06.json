@@ -7,210 +7,330 @@
     {
       "st": 4,
       "naz": "APAČE -  AVLA KULTURNEGA DOMA APAČE 36",
-      "udel": null,
+      "udel": {
+        "upr": 987,
+        "gl": 237,
+        "prc": 0.2401
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 29,
       "naz": "BOLEHNEČICI - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 155,
+        "gl": 44,
+        "prc": 0.2839
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 7,
       "naz": "ČREŠNJEVCI - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 887,
+        "gl": 244,
+        "prc": 0.2751
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 11,
       "naz": "G.RADGONA - UPRAVA POMURSKEGA SEJMA D.D.",
-      "udel": null,
+      "udel": {
+        "upr": 760,
+        "gl": 168,
+        "prc": 0.2211
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 10,
       "naz": "GORNJA RADGONA - ANDY BAR (PRI MIČU-TISK)",
-      "udel": null,
+      "udel": {
+        "upr": 864,
+        "gl": 204,
+        "prc": 0.2361
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 13,
       "naz": "GORNJA RADGONA - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 611,
+        "gl": 159,
+        "prc": 0.2602
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 12,
       "naz": "GORNJA RADGONA - KULTURNI DOM (KINODVORANA)",
-      "udel": null,
+      "udel": {
+        "upr": 966,
+        "gl": 201,
+        "prc": 0.2081
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 20,
       "naz": "HRASTJE MOTA-GASILSKO VAŠKI DOM HRASTJE MOTA 36A",
-      "udel": null,
+      "udel": {
+        "upr": 390,
+        "gl": 92,
+        "prc": 0.2359
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 21,
       "naz": "HRAŠENSKI VRH - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 377,
+        "gl": 98,
+        "prc": 0.2599
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 16,
       "naz": "IVANJŠEVCI OB ŠČAVNICI - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 245,
+        "gl": 87,
+        "prc": 0.3551
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 22,
       "naz": "KAPELA - OSNOVNA ŠOLA ",
-      "udel": null,
+      "udel": {
+        "upr": 697,
+        "gl": 173,
+        "prc": 0.2482
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 5,
       "naz": "LUTVERCI - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 390,
+        "gl": 113,
+        "prc": 0.2897
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 15,
       "naz": "NEGOVA - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 716,
+        "gl": 147,
+        "prc": 0.2053
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 19,
       "naz": "OBČINA RADENCI-RADGONSKA C. 9G-NOVI PROST. OBČINE",
-      "udel": null,
+      "udel": {
+        "upr": 686,
+        "gl": 185,
+        "prc": 0.2697
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 23,
       "naz": "OKOSLAVCI - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 221,
+        "gl": 65,
+        "prc": 0.2941
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 1,
       "naz": "PODGORJE - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 433,
+        "gl": 97,
+        "prc": 0.224
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 9,
       "naz": "POLICE - MILAN KOLARIČ, POLICE 108",
-      "udel": null,
+      "udel": {
+        "upr": 323,
+        "gl": 71,
+        "prc": 0.2198
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 18,
       "naz": "RADENCI - OSNOVNA ŠOLA",
-      "udel": null,
+      "udel": {
+        "upr": 974,
+        "gl": 266,
+        "prc": 0.2731
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 17,
       "naz": "RADENCI - VRTEC",
-      "udel": null,
+      "udel": {
+        "upr": 899,
+        "gl": 261,
+        "prc": 0.2903
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 25,
       "naz": "ROŽIČKI VRH - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 290,
+        "gl": 86,
+        "prc": 0.2966
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 26,
       "naz": "SLAPTINCI- GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 253,
+        "gl": 73,
+        "prc": 0.2885
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 28,
       "naz": "SOVJAK - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 485,
+        "gl": 136,
+        "prc": 0.2804
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 6,
       "naz": "SPODNJA ŠČAVNICA - DOM OBČANOV",
-      "udel": null,
+      "udel": {
+        "upr": 760,
+        "gl": 156,
+        "prc": 0.2053
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 14,
       "naz": "SPODNJI IVANJCI - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 505,
+        "gl": 108,
+        "prc": 0.2139
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 27,
       "naz": "STARA GORA  - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 307,
+        "gl": 77,
+        "prc": 0.2508
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 2,
       "naz": "STOGOVCI - OSNOVNA ŠOLA",
-      "udel": null,
+      "udel": {
+        "upr": 507,
+        "gl": 123,
+        "prc": 0.2426
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 24,
       "naz": "SVETI JURIJ OB ŠČAVNICI - BIVŠI PROSTORI OBČINE",
-      "udel": null,
+      "udel": {
+        "upr": 845,
+        "gl": 230,
+        "prc": 0.2722
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 8,
       "naz": "ZBIGOVCI - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 320,
+        "gl": 93,
+        "prc": 0.2906
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 3,
       "naz": "ŽEPOVCI - VAŠKI-GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 636,
+        "gl": 164,
+        "prc": 0.2579
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 901,
       "naz": "PREDČASNO GLASOVANJE",
-      "udel": null,
+      "udel": {
+        "upr": null,
+        "gl": 873,
+        "prc": null
+      },
       "rez": null,
       "prestetih_glasov": null
     }
@@ -384,10 +504,10 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T10:00:20.6416653+02:00",
-    "datum": "2022-04-24T07:20:00+02:00",
+    "timestamp": "2022-04-24T12:36:38.0650501+02:00",
+    "datum": "2022-04-24T12:35:00+02:00",
     "cas_udelezba": "11:00",
-    "has_udelezba": false,
+    "has_udelezba": true,
     "has_rezultat": false,
     "is_final": false,
     "has_kandidati_removed": false

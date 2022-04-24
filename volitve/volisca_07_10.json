@@ -7,112 +7,176 @@
     {
       "st": 19,
       "naz": "DOM KRAJANOV, RAZVANJSKA 22",
-      "udel": null,
+      "udel": {
+        "upr": 1102,
+        "gl": 203,
+        "prc": 0.1842
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 5,
       "naz": "DRAŠ CENTER, POHORSKA 57",
-      "udel": null,
+      "udel": {
+        "upr": 847,
+        "gl": 194,
+        "prc": 0.229
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 2,
       "naz": "HIŠNI SVET, BOROVA VAS 24",
-      "udel": null,
+      "udel": {
+        "upr": 1341,
+        "gl": 337,
+        "prc": 0.2513
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 15,
       "naz": "HIŠNI SVET, KNAFELČEVA 28",
-      "udel": null,
+      "udel": {
+        "upr": 1358,
+        "gl": 326,
+        "prc": 0.2401
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 16,
       "naz": "JZ GASILSKA BRIGADA, C. PROLETARSKIH BRIGAD 21",
-      "udel": null,
+      "udel": {
+        "upr": 599,
+        "gl": 127,
+        "prc": 0.212
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 17,
       "naz": "JZ GASILSKA BRIGADA, C. PROLETARSKIH BRIGAD 21",
-      "udel": null,
+      "udel": {
+        "upr": 1170,
+        "gl": 217,
+        "prc": 0.1855
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 3,
       "naz": "MČ RADVANJE, LACKOVA 43",
-      "udel": null,
+      "udel": {
+        "upr": 1101,
+        "gl": 232,
+        "prc": 0.2107
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 11,
       "naz": "OŠ LEONA ŠTUKLJA,KLINETOVA 18",
-      "udel": null,
+      "udel": {
+        "upr": 792,
+        "gl": 220,
+        "prc": 0.2778
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 12,
       "naz": "OŠ LEONA ŠTUKLJA,KLINETOVA 18",
-      "udel": null,
+      "udel": {
+        "upr": 827,
+        "gl": 233,
+        "prc": 0.2817
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 1,
       "naz": "OŠ LUDVIKA PLIBERŠKA, LACKOVA 4",
-      "udel": null,
+      "udel": {
+        "upr": 1435,
+        "gl": 300,
+        "prc": 0.2091
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 14,
       "naz": "OŠ TABOR I, A. TOVORNIKA 21",
-      "udel": null,
+      "udel": {
+        "upr": 782,
+        "gl": 165,
+        "prc": 0.211
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 9,
       "naz": "OŠ TABOR I, A. TOVORNIKA 21",
-      "udel": null,
+      "udel": {
+        "upr": 1388,
+        "gl": 250,
+        "prc": 0.1801
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 8,
       "naz": "PROSTORI MČ, RADVANJSKA 65",
-      "udel": null,
+      "udel": {
+        "upr": 833,
+        "gl": 220,
+        "prc": 0.2641
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 4,
       "naz": "VRTEC RADVANJE, GRIZOLDOVA 1",
-      "udel": null,
+      "udel": {
+        "upr": 844,
+        "gl": 186,
+        "prc": 0.2204
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 10,
       "naz": "ZD POSTAJA, CESTA PROLETARSKIH BRIGAD 71",
-      "udel": null,
+      "udel": {
+        "upr": 727,
+        "gl": 188,
+        "prc": 0.2586
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 901,
       "naz": "PREDČASNO GLASOVANJE",
-      "udel": null,
+      "udel": {
+        "upr": null,
+        "gl": 0,
+        "prc": null
+      },
       "rez": null,
       "prestetih_glasov": null
     }
@@ -286,10 +350,10 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T10:00:20.6416653+02:00",
-    "datum": "2022-04-24T07:20:00+02:00",
+    "timestamp": "2022-04-24T12:36:38.0650501+02:00",
+    "datum": "2022-04-24T12:35:00+02:00",
     "cas_udelezba": "11:00",
-    "has_udelezba": false,
+    "has_udelezba": true,
     "has_rezultat": false,
     "is_final": false,
     "has_kandidati_removed": false

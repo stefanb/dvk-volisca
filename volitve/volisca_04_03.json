@@ -7,133 +7,209 @@
     {
       "st": 5,
       "naz": "DOM OBRTNIKOV GROSUPLJE, OB GROSUPELJŠČICI 1B",
-      "udel": null,
+      "udel": {
+        "upr": 1501,
+        "gl": 312,
+        "prc": 0.2079
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 1,
       "naz": "DRUŽBENI DOM GROSUPLJE I, TABORSKA CESTA 1",
-      "udel": null,
+      "udel": {
+        "upr": 679,
+        "gl": 168,
+        "prc": 0.2474
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 2,
       "naz": "DRUŽBENI DOM GROSUPLJE II, TABORSKA CESTA 1",
-      "udel": null,
+      "udel": {
+        "upr": 1444,
+        "gl": 228,
+        "prc": 0.1579
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 9,
       "naz": "DRUŽBENI DOM RAČNA, VELIKA RAČNA 24B",
-      "udel": null,
+      "udel": {
+        "upr": 595,
+        "gl": 181,
+        "prc": 0.3042
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 15,
       "naz": "GASILSKI DOM LUČE, LUČE 22A",
-      "udel": null,
+      "udel": {
+        "upr": 239,
+        "gl": 52,
+        "prc": 0.2176
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 6,
       "naz": "GASILSKI DOM MALA ILOVA GORA, M.ILOVA GORA 21",
-      "udel": null,
+      "udel": {
+        "upr": 163,
+        "gl": 51,
+        "prc": 0.3129
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 8,
       "naz": "GASILSKI DOM POLICA, POLICA 41",
-      "udel": null,
+      "udel": {
+        "upr": 1380,
+        "gl": 278,
+        "prc": 0.2014
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 12,
       "naz": "GASILSKI DOM PONOVA VAS, PONOVA VAS 27",
-      "udel": null,
+      "udel": {
+        "upr": 494,
+        "gl": 115,
+        "prc": 0.2328
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 7,
       "naz": "GASILSKI DOM VELIKO MLAČEVO, VELIKO MLAČEVO 6A",
-      "udel": null,
+      "udel": {
+        "upr": 894,
+        "gl": 180,
+        "prc": 0.2013
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 11,
       "naz": "KRAJEVNA SKUPNOST ŠKOCJAN, ŠKOCJAN 20",
-      "udel": null,
+      "udel": {
+        "upr": 362,
+        "gl": 110,
+        "prc": 0.3039
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 4,
       "naz": "OSNOVNA ŠOLA BRINJE, LJUBLJANSKA CESTA 40A",
-      "udel": null,
+      "udel": {
+        "upr": 1474,
+        "gl": 345,
+        "prc": 0.2341
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 3,
       "naz": "OSNOVNA ŠOLA LOUISA ADAMIČA, TOVARNIŠKA CESTA 14",
-      "udel": null,
+      "udel": {
+        "upr": 1269,
+        "gl": 281,
+        "prc": 0.2214
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 16,
       "naz": "OSNOVNA ŠOLA ŠMARJE-SAP I., LJUBLJANSKA CESTA 49",
-      "udel": null,
+      "udel": {
+        "upr": 997,
+        "gl": 255,
+        "prc": 0.2558
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 17,
       "naz": "OSNOVNA ŠOLA ŠMARJE-SAP II., LJUBLJANSKA CESTA 49",
-      "udel": null,
+      "udel": {
+        "upr": 668,
+        "gl": 158,
+        "prc": 0.2365
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 18,
       "naz": "OSNOVNA ŠOLA ŠMARJE-SAP III., LJUBLJANSKA C. 49",
-      "udel": null,
+      "udel": {
+        "upr": 925,
+        "gl": 200,
+        "prc": 0.2162
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 13,
       "naz": "OSNOVNA ŠOLA ŠT. JURIJ, ŠT. JURIJ 14",
-      "udel": null,
+      "udel": {
+        "upr": 1011,
+        "gl": 206,
+        "prc": 0.2038
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 14,
       "naz": "PODRUŽNIČNA ŠOLA ŽALNA, ŽALNA 1",
-      "udel": null,
+      "udel": {
+        "upr": 625,
+        "gl": 142,
+        "prc": 0.2272
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 10,
       "naz": "ZADRUŽNI DOM SP. SLIVNICA, SPODNJA SLIVNICA 16",
-      "udel": null,
+      "udel": {
+        "upr": 422,
+        "gl": 106,
+        "prc": 0.2512
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 901,
       "naz": "PREDČASNO GLASOVANJE",
-      "udel": null,
+      "udel": {
+        "upr": null,
+        "gl": 0,
+        "prc": null
+      },
       "rez": null,
       "prestetih_glasov": null
     }
@@ -305,10 +381,10 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T10:00:20.6416653+02:00",
-    "datum": "2022-04-24T07:20:00+02:00",
+    "timestamp": "2022-04-24T12:36:38.0650501+02:00",
+    "datum": "2022-04-24T12:35:00+02:00",
     "cas_udelezba": "11:00",
-    "has_udelezba": false,
+    "has_udelezba": true,
     "has_rezultat": false,
     "is_final": false,
     "has_kandidati_removed": false

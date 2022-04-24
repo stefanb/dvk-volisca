@@ -7,210 +7,330 @@
     {
       "st": 9,
       "naz": "BUČEČOVCI - GASILSKI DOM BUČEČOVCI, BUČEČOVCI 19",
-      "udel": null,
+      "udel": {
+        "upr": 257,
+        "gl": 51,
+        "prc": 0.1984
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 1,
       "naz": "CEZANJEVCI - GASILSKI DOM CEZANJEVCI 46A",
-      "udel": null,
+      "udel": {
+        "upr": 325,
+        "gl": 78,
+        "prc": 0.24
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 3,
       "naz": "CVEN - GASILSKI DOM CVEN, CVEN 49A",
-      "udel": null,
+      "udel": {
+        "upr": 492,
+        "gl": 131,
+        "prc": 0.2663
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 11,
       "naz": "KLJUČAROVCI PRI LJUTOMERU-SKZ LJUTOMER-KRIŽEVCI",
-      "udel": null,
+      "udel": {
+        "upr": 382,
+        "gl": 84,
+        "prc": 0.2199
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 5,
       "naz": "KRAPJE - GASILSKI DOM SPODNJE KRAPJE, KRAPJE 43",
-      "udel": null,
+      "udel": {
+        "upr": 231,
+        "gl": 47,
+        "prc": 0.2035
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 7,
       "naz": "KRIŽEVCI PRI LJUTOMERU - KULTURNI DOM KRIŽEVCI",
-      "udel": null,
+      "udel": {
+        "upr": 838,
+        "gl": 178,
+        "prc": 0.2124
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 13,
       "naz": "LJUTOMER - DOM KULTURE NA PREŠERNOVI ULICI 20",
-      "udel": null,
+      "udel": {
+        "upr": 950,
+        "gl": 185,
+        "prc": 0.1947
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 14,
       "naz": "LJUTOMER - GIMNAZIJA FRANA MIKLOŠIČA",
-      "udel": null,
+      "udel": {
+        "upr": 537,
+        "gl": 124,
+        "prc": 0.2309
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 15,
       "naz": "LJUTOMER-DOM UPOKOJENCEV NA ORMOŠKI CESTI 33",
-      "udel": null,
+      "udel": {
+        "upr": 1093,
+        "gl": 264,
+        "prc": 0.2415
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 18,
       "naz": "LOGAROVCI-PROSTORI BIVŠE KS, LOGAROVCI 22",
-      "udel": null,
+      "udel": {
+        "upr": 500,
+        "gl": 130,
+        "prc": 0.26
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 12,
       "naz": "LUKAVCI - GASILSKI DOM LUKAVCI, LUKAVCI 8",
-      "udel": null,
+      "udel": {
+        "upr": 322,
+        "gl": 75,
+        "prc": 0.2329
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 19,
       "naz": "MALA NEDELJA - KULTURNI DOM MALA NEDELJA",
-      "udel": null,
+      "udel": {
+        "upr": 622,
+        "gl": 123,
+        "prc": 0.1977
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 20,
       "naz": "MORAVCI V SLOV.GORICAH-HOTEL BIOTERME M. NEDELJA",
-      "udel": null,
+      "udel": {
+        "upr": 292,
+        "gl": 49,
+        "prc": 0.1678
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 4,
       "naz": "MOTA - GASILSKI DOM MOTA, MOTA 16B",
-      "udel": null,
+      "udel": {
+        "upr": 276,
+        "gl": 71,
+        "prc": 0.2572
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 16,
       "naz": "NORŠINCI PRI LJUTOMERU-VAŠKO GASILSKI DOM BABINCI",
-      "udel": null,
+      "udel": {
+        "upr": 407,
+        "gl": 102,
+        "prc": 0.2506
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 28,
       "naz": "PODGRADJE - GASILSKI DOM PODGRADJE, PODGRADJE 17",
-      "udel": null,
+      "udel": {
+        "upr": 515,
+        "gl": 109,
+        "prc": 0.2117
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 27,
       "naz": "PRISTAVA - GASILSKI DOM PRISTAVA, PRISTAVA 30D",
-      "udel": null,
+      "udel": {
+        "upr": 196,
+        "gl": 53,
+        "prc": 0.2704
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 30,
       "naz": "RADOMERJE - GASILSKI DOM RADOMERJE, RADOMERJE 2",
-      "udel": null,
+      "udel": {
+        "upr": 571,
+        "gl": 156,
+        "prc": 0.2732
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 21,
       "naz": "RADOSLAVCI - GASILSKI DOM, RADOSLAVCI 15C",
-      "udel": null,
+      "udel": {
+        "upr": 456,
+        "gl": 91,
+        "prc": 0.1996
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 17,
       "naz": "SPODNJI KAMENŠČAK-GASILLSKI DOM SP. KAMENŠČAK 35F",
-      "udel": null,
+      "udel": {
+        "upr": 323,
+        "gl": 81,
+        "prc": 0.2508
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 25,
       "naz": "STARA CESTA - GASILSKI DOM MEKOTNJAK 29",
-      "udel": null,
+      "udel": {
+        "upr": 520,
+        "gl": 115,
+        "prc": 0.2212
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 8,
       "naz": "STARA NOVA VAS-VAŠKO GAS. DOM STARA NOVA VAS 27A",
-      "udel": null,
+      "udel": {
+        "upr": 317,
+        "gl": 101,
+        "prc": 0.3186
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 26,
       "naz": "STROČJA VAS - OSNOVNA ŠOLA, STROČJA VAS 101",
-      "udel": null,
+      "udel": {
+        "upr": 789,
+        "gl": 170,
+        "prc": 0.2155
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 23,
       "naz": "ŠAFARSKO - DOM KULTURE RAZKRIŽJE, ŠAFARSKO 42",
-      "udel": null,
+      "udel": {
+        "upr": 610,
+        "gl": 122,
+        "prc": 0.2
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 6,
       "naz": "ŠALINCI - GASILSKI DOM ŠALINCI, ŠALINCI 29",
-      "udel": null,
+      "udel": {
+        "upr": 302,
+        "gl": 84,
+        "prc": 0.2781
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 29,
       "naz": "VERŽEJ - PROSTORI OBČINE VERŽEJ",
-      "udel": null,
+      "udel": {
+        "upr": 1113,
+        "gl": 257,
+        "prc": 0.2309
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 24,
       "naz": "VEŠČICA - OKREPČEVALNICA MARINKA,VEŠČICA 5",
-      "udel": null,
+      "udel": {
+        "upr": 392,
+        "gl": 82,
+        "prc": 0.2092
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 2,
       "naz": "VOGRIČEVCI-GASILSKI DOM VOGRIČEVCI,VOGRIČEVCI 13A",
-      "udel": null,
+      "udel": {
+        "upr": 256,
+        "gl": 51,
+        "prc": 0.1992
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 10,
       "naz": "VUČJA VAS - GASILSKI DOM VUČJA VAS, VUČJA VAS 2",
-      "udel": null,
+      "udel": {
+        "upr": 185,
+        "gl": 48,
+        "prc": 0.2595
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 901,
       "naz": "PREDČASNO GLASOVANJE",
-      "udel": null,
+      "udel": {
+        "upr": null,
+        "gl": 0,
+        "prc": null
+      },
       "rez": null,
       "prestetih_glasov": null
     }
@@ -384,10 +504,10 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T10:00:20.6416653+02:00",
-    "datum": "2022-04-24T07:20:00+02:00",
+    "timestamp": "2022-04-24T12:36:38.0650501+02:00",
+    "datum": "2022-04-24T12:35:00+02:00",
     "cas_udelezba": "11:00",
-    "has_udelezba": false,
+    "has_udelezba": true,
     "has_rezultat": false,
     "is_final": false,
     "has_kandidati_removed": false

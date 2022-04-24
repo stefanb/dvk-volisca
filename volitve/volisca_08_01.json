@@ -5,338 +5,519 @@
   "naz": "Lendava",
   "vol": [
     {
-      "st": 45,
-      "naz": "BENICA - V PROST. ZADRUŽNEGA DOMA V PINCE MAROFU",
-      "udel": null,
-      "rez": null,
-      "prestetih_glasov": null
-    },
-    {
       "st": 3,
       "naz": "BREZOVICA - V PROSTORIH MEDGENERACIJSKEGA CENTRA",
-      "udel": null,
+      "udel": {
+        "upr": 170,
+        "gl": 27,
+        "prc": 0.1588
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 14,
       "naz": "ČENTIBA - VAŠKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 664,
+        "gl": 118,
+        "prc": 0.1777
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 4,
       "naz": "ČRENŠOVCI I - V PROSTORIH KULTURNE DVORANE",
-      "udel": null,
+      "udel": {
+        "upr": 402,
+        "gl": 106,
+        "prc": 0.2637
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 46,
       "naz": "ČRENŠOVCI II - V PROSTORIH KULTURNE DVORANE",
-      "udel": null,
+      "udel": {
+        "upr": 518,
+        "gl": 83,
+        "prc": 0.1602
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 30,
       "naz": "DOBROVNIK I - KULTURNI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 266,
+        "gl": 38,
+        "prc": 0.1429
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 44,
       "naz": "DOBROVNIK II - V PROSTORIH DOŠ V DOBROVNIKU",
-      "udel": null,
+      "udel": {
+        "upr": 530,
+        "gl": 120,
+        "prc": 0.2264
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 18,
       "naz": "DOLG. GORICE-VEČNAMENSKI OBJEKT V LENDAV. GORICAH",
-      "udel": null,
+      "udel": {
+        "upr": 248,
+        "gl": 38,
+        "prc": 0.1532
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 19,
       "naz": "DOLGA VAS - VAŠKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 511,
+        "gl": 80,
+        "prc": 0.1566
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 13,
       "naz": "DOLINA  - VAŠKO-GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 286,
+        "gl": 46,
+        "prc": 0.1608
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 7,
       "naz": "DOLNJA BISTRICA - VAŠKO GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 463,
+        "gl": 105,
+        "prc": 0.2268
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 32,
       "naz": "DOLNJI LAKOŠ - VAŠKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 190,
+        "gl": 57,
+        "prc": 0.3
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 33,
       "naz": "GABERJE - VAŠKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 420,
+        "gl": 77,
+        "prc": 0.1833
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 25,
       "naz": "GENTEROVCI - DVOJEZIČNA OSNOVNA ŠOLA",
-      "udel": null,
+      "udel": {
+        "upr": 149,
+        "gl": 27,
+        "prc": 0.1812
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 40,
       "naz": "GOMILICA - VAŠKI, KULTURNI IN GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 508,
+        "gl": 100,
+        "prc": 0.1969
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 9,
       "naz": "GORNJA BISTRICA - PROSTORI GASILSKEGA DOMA",
-      "udel": null,
+      "udel": {
+        "upr": 616,
+        "gl": 121,
+        "prc": 0.1964
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 31,
       "naz": "GORNJI LAKOŠ - STARA ŠOLA",
-      "udel": null,
+      "udel": {
+        "upr": 309,
+        "gl": 50,
+        "prc": 0.1618
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 36,
       "naz": "HOTIZA - ZADRUŽNI DOM V HOTIZI",
-      "udel": null,
+      "udel": {
+        "upr": 635,
+        "gl": 131,
+        "prc": 0.2063
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 26,
       "naz": "KAMOVCI - VAŠKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 84,
+        "gl": 18,
+        "prc": 0.2143
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 34,
       "naz": "KAPCA - STARA ŠOLA",
-      "udel": null,
+      "udel": {
+        "upr": 348,
+        "gl": 79,
+        "prc": 0.227
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 10,
       "naz": "KOBILJE - ŠPORTNO MEDGENERACIJSKI CENTER",
-      "udel": null,
+      "udel": {
+        "upr": 454,
+        "gl": 91,
+        "prc": 0.2004
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 35,
       "naz": "KOT - VAŠKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 94,
+        "gl": 30,
+        "prc": 0.3191
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 21,
       "naz": "LENDAVA I - DVOJEZIČNA OSNOVNA ŠOLA I LENDAVA",
-      "udel": null,
+      "udel": {
+        "upr": 688,
+        "gl": 141,
+        "prc": 0.2049
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 22,
       "naz": "LENDAVA II-CENTER ZA ZAŠČITO IN REŠEVANJE",
-      "udel": null,
+      "udel": {
+        "upr": 660,
+        "gl": 164,
+        "prc": 0.2485
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 23,
       "naz": "LENDAVA III-DOŠ II LENDAVA, UL. HEROJA MOHORJA 1",
-      "udel": null,
+      "udel": {
+        "upr": 826,
+        "gl": 120,
+        "prc": 0.1453
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 17,
       "naz": "LENDAVSKE GORICE - VEČNAMENSKI OBJEKT",
-      "udel": null,
+      "udel": {
+        "upr": 544,
+        "gl": 92,
+        "prc": 0.1691
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 2,
       "naz": "MALA POLANA-MEDGENERACIJSKI CENTER (BUKOVJE)",
-      "udel": null,
+      "udel": {
+        "upr": 281,
+        "gl": 54,
+        "prc": 0.1922
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 24,
       "naz": "MOSTJE - V PROSTORIH NK MOSTJE, MOSTJE 39",
-      "udel": null,
+      "udel": {
+        "upr": 328,
+        "gl": 57,
+        "prc": 0.1738
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 41,
       "naz": "NEDELICA - VAŠKO GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 456,
+        "gl": 77,
+        "prc": 0.1689
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 37,
       "naz": "ODRANCI I - VAŠKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 450,
+        "gl": 72,
+        "prc": 0.16
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 38,
       "naz": "ODRANCI II - VAŠKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 428,
+        "gl": 76,
+        "prc": 0.1776
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 39,
       "naz": "ODRANCI III - VAŠKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 452,
+        "gl": 92,
+        "prc": 0.2035
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 15,
       "naz": "PETIŠOVCI I - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 485,
+        "gl": 91,
+        "prc": 0.1876
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 16,
       "naz": "PETIŠOVCI II - VAŠKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 160,
+        "gl": 30,
+        "prc": 0.1875
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 12,
       "naz": "PINCE - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 166,
+        "gl": 32,
+        "prc": 0.1928
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 11,
       "naz": "PINCE MAROF - ZADRUŽNI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 118,
+        "gl": 33,
+        "prc": 0.2797
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 28,
       "naz": "RADMOŽANCI - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 178,
+        "gl": 24,
+        "prc": 0.1348
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 42,
       "naz": "RENKOVCI - VAŠKO GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 512,
+        "gl": 127,
+        "prc": 0.248
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 8,
       "naz": "SREDNJA BISTRICA - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 371,
+        "gl": 87,
+        "prc": 0.2345
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 29,
       "naz": "STREHOVCI - VAŠKO GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 193,
+        "gl": 57,
+        "prc": 0.2953
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 20,
       "naz": "TRIMLINI - VAŠKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 255,
+        "gl": 66,
+        "prc": 0.2588
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 5,
       "naz": "TRNJE - VAŠKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 464,
+        "gl": 98,
+        "prc": 0.2112
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 43,
       "naz": "TURNIŠČE I - VAŠKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 621,
+        "gl": 97,
+        "prc": 0.1562
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 47,
       "naz": "TURNIŠČE II - OŠ TURNIŠČE",
-      "udel": null,
+      "udel": {
+        "upr": 584,
+        "gl": 125,
+        "prc": 0.214
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 1,
       "naz": "VELIKA POLANA - CENTER ZA ZAŠČITO IN REŠEVANJE ",
-      "udel": null,
+      "udel": {
+        "upr": 723,
+        "gl": 151,
+        "prc": 0.2089
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 27,
       "naz": "ŽITKOVCI - VAŠKO GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 91,
+        "gl": 20,
+        "prc": 0.2198
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 6,
       "naz": "ŽIŽKI - VAŠKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 455,
+        "gl": 115,
+        "prc": 0.2527
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 901,
       "naz": "PREDČASNO GLASOVANJE",
-      "udel": null,
+      "udel": {
+        "upr": null,
+        "gl": 0,
+        "prc": null
+      },
       "rez": null,
       "prestetih_glasov": null
     }
@@ -510,10 +691,10 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T10:00:20.6416653+02:00",
-    "datum": "2022-04-24T07:20:00+02:00",
+    "timestamp": "2022-04-24T12:36:38.0650501+02:00",
+    "datum": "2022-04-24T12:35:00+02:00",
     "cas_udelezba": "11:00",
-    "has_udelezba": false,
+    "has_udelezba": true,
     "has_rezultat": false,
     "is_final": false,
     "has_kandidati_removed": false

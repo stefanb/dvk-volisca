@@ -7,231 +7,363 @@
     {
       "st": 32,
       "naz": " KS VRHOVO, VRHOVO 43A, RADEČE",
-      "udel": null,
+      "udel": {
+        "upr": 418,
+        "gl": 103,
+        "prc": 0.2464
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 19,
       "naz": "ANTON VRESK, POLANA 21, JURKLOŠTER",
-      "udel": null,
+      "udel": {
+        "upr": 234,
+        "gl": 31,
+        "prc": 0.1325
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 18,
       "naz": "BIFE RACMAN, MRZLO POLJE 8A, JURKLOŠTER",
-      "udel": null,
+      "udel": {
+        "upr": 202,
+        "gl": 51,
+        "prc": 0.2525
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 1,
       "naz": "CENTER STAREJŠIH, SAVINJSKO NABREŽJE 6, LAŠKO",
-      "udel": null,
+      "udel": {
+        "upr": 1172,
+        "gl": 200,
+        "prc": 0.1706
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 23,
       "naz": "DOM KULTURE RADEČE, GLEDALIŠKA POT 2, RADEČE",
-      "udel": null,
+      "udel": {
+        "upr": 409,
+        "gl": 104,
+        "prc": 0.2543
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 30,
       "naz": "GASILSKI DOM, JAGNJENICA 14, RADEČE",
-      "udel": null,
+      "udel": {
+        "upr": 345,
+        "gl": 80,
+        "prc": 0.2319
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 10,
       "naz": "GASILSKI DOM, ŠENTRUPERT 93E, ŠENTRUPERT",
-      "udel": null,
+      "udel": {
+        "upr": 330,
+        "gl": 49,
+        "prc": 0.1485
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 9,
       "naz": "GASILSKI DOM, VRH NAD LAŠKIM 9A, LAŠKO",
-      "udel": null,
+      "udel": {
+        "upr": 633,
+        "gl": 138,
+        "prc": 0.218
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 22,
       "naz": "GASILSKI DOM, ZIDANI MOST 12, ZIDANI MOST",
-      "udel": null,
+      "udel": {
+        "upr": 229,
+        "gl": 58,
+        "prc": 0.2533
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 28,
       "naz": "GOSTILNA STRNAD, HOTEMEŽ 6, RADEČE",
-      "udel": null,
+      "udel": {
+        "upr": 182,
+        "gl": 44,
+        "prc": 0.2418
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 15,
       "naz": "KAREL VEBER, BRODNICE 12, RIMSKE TOPLICE",
-      "udel": null,
+      "udel": {
+        "upr": 198,
+        "gl": 36,
+        "prc": 0.1818
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 24,
       "naz": "KNJIŽNICA RADEČE, UL. OF 2, RADEČE",
-      "udel": null,
+      "udel": {
+        "upr": 494,
+        "gl": 108,
+        "prc": 0.2186
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 2,
       "naz": "KULTURNI CENTER, TRG SVOBODE 6, LAŠKO",
-      "udel": null,
+      "udel": {
+        "upr": 919,
+        "gl": 180,
+        "prc": 0.1959
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 6,
       "naz": "KULTURNI DOM, MARIJA GRADEC 29,LAŠKO",
-      "udel": null,
+      "udel": {
+        "upr": 747,
+        "gl": 136,
+        "prc": 0.1821
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 12,
       "naz": "KULTURNI DOM,TROBNI DOL 38A,ŠENTRUPERT",
-      "udel": null,
+      "udel": {
+        "upr": 155,
+        "gl": 16,
+        "prc": 0.1032
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 16,
       "naz": "MATEVŽ DEŽELAK, LOŽE 1, RIMSKE TOPLICE",
-      "udel": null,
+      "udel": {
+        "upr": 146,
+        "gl": 36,
+        "prc": 0.2466
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 8,
       "naz": "NA SLOGAH, TEVČE 2, LAŠKO",
-      "udel": null,
+      "udel": {
+        "upr": 554,
+        "gl": 106,
+        "prc": 0.1913
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 3,
       "naz": "OSNOVNA ŠOLA DEBRO, POŽENELOVA 26, LAŠKO",
-      "udel": null,
+      "udel": {
+        "upr": 1314,
+        "gl": 257,
+        "prc": 0.1956
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 13,
       "naz": "OŠ ANTON AŠKERC, AŠKERČEVA CESTA 1,RIMSKE TOPLICE",
-      "udel": null,
+      "udel": {
+        "upr": 993,
+        "gl": 260,
+        "prc": 0.2618
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 31,
       "naz": "PGD SVIBNO, SVIBNO 18A, RADEČE",
-      "udel": null,
+      "udel": {
+        "upr": 306,
+        "gl": 94,
+        "prc": 0.3072
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 29,
       "naz": "PLAZNIK LEOPOLD,  JELOVO 7, RADEČE",
-      "udel": null,
+      "udel": {
+        "upr": 134,
+        "gl": 36,
+        "prc": 0.2687
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 17,
       "naz": "PODRUŽNIČNA ŠOLA, JURKLOŠTER 23, JURKLOŠTER",
-      "udel": null,
+      "udel": {
+        "upr": 198,
+        "gl": 42,
+        "prc": 0.2121
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 20,
       "naz": "PODRUŽNIČNA ŠOLA, SEDRAŽ 21, LAŠKO",
-      "udel": null,
+      "udel": {
+        "upr": 563,
+        "gl": 123,
+        "prc": 0.2185
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 21,
       "naz": "PODRUŽNIČNA ŠOLA, ZIDANI MOST 34, ZIDANI MOST",
-      "udel": null,
+      "udel": {
+        "upr": 325,
+        "gl": 64,
+        "prc": 0.1969
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 25,
       "naz": "PROSTOR DRUŠTVA INVALIDOV, TITOVA UL. 107, RADEČE",
-      "udel": null,
+      "udel": {
+        "upr": 542,
+        "gl": 132,
+        "prc": 0.2435
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 27,
       "naz": "RIBIČ RADO, OBREŽJE 21, RADEČE",
-      "udel": null,
+      "udel": {
+        "upr": 125,
+        "gl": 31,
+        "prc": 0.248
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 5,
       "naz": "SINDIKALNI DOM, HUDA JAMA 1, LAŠKO",
-      "udel": null,
+      "udel": {
+        "upr": 631,
+        "gl": 123,
+        "prc": 0.1949
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 11,
       "naz": "STRELSKI DOM, MALA BREZA 37C, ŠENTRUPERT",
-      "udel": null,
+      "udel": {
+        "upr": 166,
+        "gl": 23,
+        "prc": 0.1386
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 14,
       "naz": "ŠOLA LAŽIŠE, LAZIŠE 27, RIMSKE TOPLICE",
-      "udel": null,
+      "udel": {
+        "upr": 140,
+        "gl": 25,
+        "prc": 0.1786
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 7,
       "naz": "TURISTIČNA KMETIJA PIRC, LAHOMŠEK 1,  LAŠKO",
-      "udel": null,
+      "udel": {
+        "upr": 321,
+        "gl": 68,
+        "prc": 0.2118
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 26,
       "naz": "VRTEC RADEČE, KOLENOV GRABEN 6, RADEČE",
-      "udel": null,
+      "udel": {
+        "upr": 542,
+        "gl": 120,
+        "prc": 0.2214
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 4,
       "naz": "ZASTOR D.O.O., SPODNJA REČICA 87, LAŠKO",
-      "udel": null,
+      "udel": {
+        "upr": 518,
+        "gl": 116,
+        "prc": 0.2239
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 901,
       "naz": "PREDČASNO GLASOVANJE",
-      "udel": null,
+      "udel": {
+        "upr": null,
+        "gl": 0,
+        "prc": null
+      },
       "rez": null,
       "prestetih_glasov": null
     }
@@ -403,10 +535,10 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T10:00:20.6416653+02:00",
-    "datum": "2022-04-24T07:20:00+02:00",
+    "timestamp": "2022-04-24T12:36:38.0650501+02:00",
+    "datum": "2022-04-24T12:35:00+02:00",
     "cas_udelezba": "11:00",
-    "has_udelezba": false,
+    "has_udelezba": true,
     "has_rezultat": false,
     "is_final": false,
     "has_kandidati_removed": false

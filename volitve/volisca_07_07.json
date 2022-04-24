@@ -7,140 +7,220 @@
     {
       "st": 12,
       "naz": "BIVŠA KS, RUPERČE 1",
-      "udel": null,
+      "udel": {
+        "upr": 556,
+        "gl": 97,
+        "prc": 0.1745
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 20,
       "naz": "DOM KRAJANOV, POČEHOVSKA 19",
-      "udel": null,
+      "udel": {
+        "upr": 828,
+        "gl": 230,
+        "prc": 0.2778
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 7,
       "naz": "GD BREZJE, DUPLEŠKA 35",
-      "udel": null,
+      "udel": {
+        "upr": 914,
+        "gl": 184,
+        "prc": 0.2013
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 9,
       "naz": "GD DOGOŠE, DUPLEŠKA 237",
-      "udel": null,
+      "udel": {
+        "upr": 590,
+        "gl": 102,
+        "prc": 0.1729
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 16,
       "naz": "GD ZRKOVCI, ZRKOVCI 73",
-      "udel": null,
+      "udel": {
+        "upr": 527,
+        "gl": 139,
+        "prc": 0.2638
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 6,
       "naz": "KULTURNI DOM KORENA, ZG.KORENA 38",
-      "udel": null,
+      "udel": {
+        "upr": 1141,
+        "gl": 240,
+        "prc": 0.2103
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 4,
       "naz": "KULTURNI DOM VURBERK, VURBERK 94",
-      "udel": null,
+      "udel": {
+        "upr": 329,
+        "gl": 75,
+        "prc": 0.228
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 8,
       "naz": "MČ BREZJE, NA TRATI 2",
-      "udel": null,
+      "udel": {
+        "upr": 990,
+        "gl": 200,
+        "prc": 0.202
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 2,
       "naz": "OBČINA DUPLEK, TRG SLOVENSKE OSAMOSVOJITVE 1",
-      "udel": null,
+      "udel": {
+        "upr": 1402,
+        "gl": 280,
+        "prc": 0.1997
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 3,
       "naz": "OSNOVNA ŠOLA DVORJANE, DVORJANE 15",
-      "udel": null,
+      "udel": {
+        "upr": 792,
+        "gl": 165,
+        "prc": 0.2083
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 11,
       "naz": "OŠ MALEČNIK, MALEČNIK 61",
-      "udel": null,
+      "udel": {
+        "upr": 1023,
+        "gl": 230,
+        "prc": 0.2248
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 17,
       "naz": "OŠ TONE ČUFAR, ZRKOVSKA 67",
-      "udel": null,
+      "udel": {
+        "upr": 744,
+        "gl": 160,
+        "prc": 0.2151
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 13,
       "naz": "OŠ TONE ČUFAR, ZRKOVSKA 67",
-      "udel": null,
+      "udel": {
+        "upr": 921,
+        "gl": 210,
+        "prc": 0.228
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 14,
       "naz": "OŠ TONE ČUFAR, ZRKOVSKA 67",
-      "udel": null,
+      "udel": {
+        "upr": 898,
+        "gl": 210,
+        "prc": 0.2339
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 15,
       "naz": "OŠ TONE ČUFAR, ZRKOVSKA 67",
-      "udel": null,
+      "udel": {
+        "upr": 973,
+        "gl": 212,
+        "prc": 0.2179
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 1,
       "naz": "OŠ ŽITEČKA VAS, ZG. DUPLEK 98",
-      "udel": null,
+      "udel": {
+        "upr": 1498,
+        "gl": 398,
+        "prc": 0.2657
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 10,
       "naz": "PROSTORI KS MALEČNIK, MALEČNIK 51",
-      "udel": null,
+      "udel": {
+        "upr": 742,
+        "gl": 185,
+        "prc": 0.2493
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 5,
       "naz": "VEČNAMENSKI PROSTOR PRI IGRIŠČU ZIMICA 46C",
-      "udel": null,
+      "udel": {
+        "upr": 480,
+        "gl": 96,
+        "prc": 0.2
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 18,
       "naz": "WALDORFSKI VRTEC, WILSONOVA 18",
-      "udel": null,
+      "udel": {
+        "upr": 1048,
+        "gl": 240,
+        "prc": 0.229
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 901,
       "naz": "PREDČASNO GLASOVANJE",
-      "udel": null,
+      "udel": {
+        "upr": null,
+        "gl": 0,
+        "prc": null
+      },
       "rez": null,
       "prestetih_glasov": null
     }
@@ -314,10 +394,10 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T10:00:20.6416653+02:00",
-    "datum": "2022-04-24T07:20:00+02:00",
+    "timestamp": "2022-04-24T12:36:38.0650501+02:00",
+    "datum": "2022-04-24T12:35:00+02:00",
     "cas_udelezba": "11:00",
-    "has_udelezba": false,
+    "has_udelezba": true,
     "has_rezultat": false,
     "is_final": false,
     "has_kandidati_removed": false

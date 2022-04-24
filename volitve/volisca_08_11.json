@@ -7,532 +7,836 @@
     {
       "st": 13,
       "naz": "ARBEITER MITJA, MEJE16A",
-      "udel": null,
+      "udel": {
+        "upr": 39,
+        "gl": 10,
+        "prc": 0.2564
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 71,
       "naz": "ARNUŠ FRANC, PODLEHNIK 80A",
-      "udel": null,
+      "udel": {
+        "upr": 72,
+        "gl": 18,
+        "prc": 0.25
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 74,
       "naz": "BAR ALBERT, ZAKL 38A, PODLEHNIK",
-      "udel": null,
+      "udel": {
+        "upr": 41,
+        "gl": 11,
+        "prc": 0.2683
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 43,
       "naz": "BEDENIK STANKO, DOKLECE 7A",
-      "udel": null,
+      "udel": {
+        "upr": 166,
+        "gl": 22,
+        "prc": 0.1325
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 78,
       "naz": "BRODNJAK IVANA, KOZMINCI 25A",
-      "udel": null,
+      "udel": {
+        "upr": 188,
+        "gl": 36,
+        "prc": 0.1915
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 62,
       "naz": "CAFUTA ANDREJ, VELIKA VARNICA 53",
-      "udel": null,
+      "udel": {
+        "upr": 72,
+        "gl": 18,
+        "prc": 0.25
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 51,
       "naz": "DOM KRAJANOV DOLENA, BOLEČKA VAS 3C",
-      "udel": null,
+      "udel": {
+        "upr": 313,
+        "gl": 59,
+        "prc": 0.1885
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 38,
       "naz": "DOM KRAJANOV IN GASILCEV PTUJSKA GORA 82/B",
-      "udel": null,
+      "udel": {
+        "upr": 669,
+        "gl": 110,
+        "prc": 0.1644
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 19,
       "naz": "DOM KRAJANOV KUNGOTA PRI PTUJU",
-      "udel": null,
+      "udel": {
+        "upr": 304,
+        "gl": 60,
+        "prc": 0.1974
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 27,
       "naz": "DOM KRAJANOV MIHOVCE",
-      "udel": null,
+      "udel": {
+        "upr": 164,
+        "gl": 44,
+        "prc": 0.2683
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 44,
       "naz": "DOM KRAJANOV STOPERCE 13B",
-      "udel": null,
+      "udel": {
+        "upr": 457,
+        "gl": 111,
+        "prc": 0.2429
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 66,
       "naz": "DOM VAŠČANOV POBREŽJE, POBREŽJE 104A",
-      "udel": null,
+      "udel": {
+        "upr": 718,
+        "gl": 160,
+        "prc": 0.2228
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 21,
       "naz": "DVORANA LOVRENC NA DR. POLJU,LOVRENC NA DR. P.8",
-      "udel": null,
+      "udel": {
+        "upr": 559,
+        "gl": 105,
+        "prc": 0.1878
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 11,
       "naz": "EMERŠIČ OLGA, SLATINA 31     ",
-      "udel": null,
+      "udel": {
+        "upr": 79,
+        "gl": 14,
+        "prc": 0.1772
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 59,
       "naz": "FRIC EDVARD, SKORIŠNJAK 25",
-      "udel": null,
+      "udel": {
+        "upr": 49,
+        "gl": 9,
+        "prc": 0.1837
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 26,
       "naz": "GASILSKI DOM DRAGONJA VAS",
-      "udel": null,
+      "udel": {
+        "upr": 135,
+        "gl": 30,
+        "prc": 0.2222
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 29,
       "naz": "GASILSKI DOM JABLANE, SP. JABLANE 20A",
-      "udel": null,
+      "udel": {
+        "upr": 336,
+        "gl": 75,
+        "prc": 0.2232
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 36,
       "naz": "GASILSKI DOM MAJŠPERK-BREG, BREG 4",
-      "udel": null,
+      "udel": {
+        "upr": 668,
+        "gl": 165,
+        "prc": 0.247
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 37,
       "naz": "GASILSKI DOM MEDVEDCE 19A",
-      "udel": null,
+      "udel": {
+        "upr": 334,
+        "gl": 74,
+        "prc": 0.2216
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 23,
       "naz": "GASILSKI DOM PLETERJE, PLETERJE 33A",
-      "udel": null,
+      "udel": {
+        "upr": 184,
+        "gl": 33,
+        "prc": 0.1793
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 30,
       "naz": "GASILSKI DOM STAROŠINCE",
-      "udel": null,
+      "udel": {
+        "upr": 174,
+        "gl": 31,
+        "prc": 0.1782
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 31,
       "naz": "GASILSKI DOM ŠIKOLE, ŠIKOLE 24",
-      "udel": null,
+      "udel": {
+        "upr": 258,
+        "gl": 61,
+        "prc": 0.2364
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 84,
       "naz": "GASILSKI DOM ZAVRČ, GORIČAK1",
-      "udel": null,
+      "udel": {
+        "upr": 387,
+        "gl": 64,
+        "prc": 0.1654
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 45,
       "naz": "GASILSKI DOM ŽETALE, ŽETALE 5",
-      "udel": null,
+      "udel": {
+        "upr": 246,
+        "gl": 43,
+        "prc": 0.1748
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 33,
       "naz": "GASILSKI DOM, MAJŠPERK 32A",
-      "udel": null,
+      "udel": {
+        "upr": 765,
+        "gl": 161,
+        "prc": 0.2105
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 75,
       "naz": "GOSTILNA MAUČIČ NEŽKA, ZAKL 31",
-      "udel": null,
+      "udel": {
+        "upr": 122,
+        "gl": 29,
+        "prc": 0.2377
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 85,
       "naz": "GOSTILNA TEŽAK, TURŠKI VRH 51",
-      "udel": null,
+      "udel": {
+        "upr": 412,
+        "gl": 74,
+        "prc": 0.1796
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 57,
       "naz": "HABJANIČ JAKOB, REPIŠČE",
-      "udel": null,
+      "udel": {
+        "upr": 113,
+        "gl": 22,
+        "prc": 0.1947
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 8,
       "naz": "HERCOG JOŽEF, PARADIŽ 89B, CIRKULANE",
-      "udel": null,
+      "udel": {
+        "upr": 69,
+        "gl": 11,
+        "prc": 0.1594
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 86,
       "naz": "HRNČIČ DARINKA, TURŠKI VRH 75",
-      "udel": null,
+      "udel": {
+        "upr": 182,
+        "gl": 41,
+        "prc": 0.2253
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 4,
       "naz": "JURGEC MILAN, GRADIŠČA 29A",
-      "udel": null,
+      "udel": {
+        "upr": 287,
+        "gl": 51,
+        "prc": 0.1777
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 3,
       "naz": "KOKOL HERMAN, DOLANE 8",
-      "udel": null,
+      "udel": {
+        "upr": 222,
+        "gl": 42,
+        "prc": 0.1892
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 6,
       "naz": "KOLEDNIK MARTINA MEDRIBNIK14A",
-      "udel": null,
+      "udel": {
+        "upr": 105,
+        "gl": 36,
+        "prc": 0.3429
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 7,
       "naz": "KOLEDNIK MIHAEL, PARADIŽ 47",
-      "udel": null,
+      "udel": {
+        "upr": 84,
+        "gl": 13,
+        "prc": 0.1548
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 82,
       "naz": "KOZEL ANGELA, ZG. GRUŠKOVJE 26",
-      "udel": null,
+      "udel": {
+        "upr": 56,
+        "gl": 18,
+        "prc": 0.3214
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 48,
       "naz": "KRUŠIČ ANTON, KOČICE 43A",
-      "udel": null,
+      "udel": {
+        "upr": 82,
+        "gl": 14,
+        "prc": 0.1707
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 68,
       "naz": "KS TRŽEC, TRŽEC 47",
-      "udel": null,
+      "udel": {
+        "upr": 492,
+        "gl": 102,
+        "prc": 0.2073
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 53,
       "naz": "KULTURNI DOM SELA, SELA 31B",
-      "udel": null,
+      "udel": {
+        "upr": 348,
+        "gl": 159,
+        "prc": 0.4569
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 60,
       "naz": "LESJAK MARIJA, GRADIŠČE 29",
-      "udel": null,
+      "udel": {
+        "upr": 36,
+        "gl": 4,
+        "prc": 0.1111
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 10,
       "naz": "LESJAK RAJKO, MALI OKIČ 20A",
-      "udel": null,
+      "udel": {
+        "upr": 90,
+        "gl": 21,
+        "prc": 0.2333
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 1,
       "naz": "LOVSKI DOM BREZOVEC, BREZOVEC 92",
-      "udel": null,
+      "udel": {
+        "upr": 187,
+        "gl": 22,
+        "prc": 0.1176
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 12,
       "naz": "MAJHEN NEVENKA, PRISTAVA 4A",
-      "udel": null,
+      "udel": {
+        "upr": 152,
+        "gl": 29,
+        "prc": 0.1908
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 5,
       "naz": "MILAN KELC, GRUŠKOVEC 80",
-      "udel": null,
+      "udel": {
+        "upr": 110,
+        "gl": 15,
+        "prc": 0.1364
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 72,
       "naz": "MURKO JOŽEF, GORCA 11",
-      "udel": null,
+      "udel": {
+        "upr": 149,
+        "gl": 46,
+        "prc": 0.3087
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 15,
       "naz": "OBČINA KIDRIČEVO (POROČNA DVORANA)KOPALIŠKA UL.14",
-      "udel": null,
+      "udel": {
+        "upr": 553,
+        "gl": 122,
+        "prc": 0.2206
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 69,
       "naz": "OBČINA VIDEM, VIDEM PRI PT. 54",
-      "udel": null,
+      "udel": {
+        "upr": 706,
+        "gl": 136,
+        "prc": 0.1926
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 14,
       "naz": "OŠ BORIS KIDRIČ-KIDRIČEVO",
-      "udel": null,
+      "udel": {
+        "upr": 323,
+        "gl": 76,
+        "prc": 0.2353
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 81,
       "naz": "PERNEK ŠTEFAN, LOŽINA 8",
-      "udel": null,
+      "udel": {
+        "upr": 39,
+        "gl": 4,
+        "prc": 0.1026
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 67,
       "naz": "POSLANČECEVA DOMAČIJA, VAREJA 12",
-      "udel": null,
+      "udel": {
+        "upr": 323,
+        "gl": 67,
+        "prc": 0.2074
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 49,
       "naz": "POTOČNIK JANEZ, NADOLE 50",
-      "udel": null,
+      "udel": {
+        "upr": 121,
+        "gl": 15,
+        "prc": 0.124
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 2,
       "naz": "PROSTORI OBČINE CIRKULANE, CIRKULANE 58",
-      "udel": null,
+      "udel": {
+        "upr": 317,
+        "gl": 64,
+        "prc": 0.2019
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 25,
       "naz": "PROSTORI OBČINE KIDRIČEVO, CIRKOVCE 2C(PRI MIPU)",
-      "udel": null,
+      "udel": {
+        "upr": 316,
+        "gl": 61,
+        "prc": 0.193
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 9,
       "naz": "PROSTORI RADIOKLUBA CIRKULANE, POHORJE 25A",
-      "udel": null,
+      "udel": {
+        "upr": 86,
+        "gl": 20,
+        "prc": 0.2326
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 54,
       "naz": "PROSTORI TUR.DRUŠTVA KLOPOTEC,ZG.LESKOVEC 10 C",
-      "udel": null,
+      "udel": {
+        "upr": 608,
+        "gl": 120,
+        "prc": 0.1974
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 18,
       "naz": "PROSVETNI DOM APAČE",
-      "udel": null,
+      "udel": {
+        "upr": 657,
+        "gl": 126,
+        "prc": 0.1918
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 77,
       "naz": "SARDINŠEK VALERIJA, STRAJNA 28 (BIVŠE VEČERIČEVO)",
-      "udel": null,
+      "udel": {
+        "upr": 75,
+        "gl": 14,
+        "prc": 0.1867
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 55,
       "naz": "SLAVKO MLAKAR, BELAVŠEK 36",
-      "udel": null,
+      "udel": {
+        "upr": 58,
+        "gl": 22,
+        "prc": 0.3793
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 17,
       "naz": "ŠPORTNI PARK NJIVERCE (BRUNARICA)",
-      "udel": null,
+      "udel": {
+        "upr": 612,
+        "gl": 120,
+        "prc": 0.1961
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 39,
       "naz": "ŠPORTNO DRUŠTVO PODLOŽE, PODLOŽE 49",
-      "udel": null,
+      "udel": {
+        "upr": 203,
+        "gl": 56,
+        "prc": 0.2759
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 20,
       "naz": "ŠPORTNO DRUŠTVO STRNIŠČE",
-      "udel": null,
+      "udel": {
+        "upr": 95,
+        "gl": 23,
+        "prc": 0.2421
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 83,
       "naz": "ŠTRUCL MARJANCA, SP. GRUŠKOVJE 18",
-      "udel": null,
+      "udel": {
+        "upr": 75,
+        "gl": 18,
+        "prc": 0.24
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 76,
       "naz": "TERTINEK DOMINIKA, ZAKL 13 A",
-      "udel": null,
+      "udel": {
+        "upr": 119,
+        "gl": 34,
+        "prc": 0.2857
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 64,
       "naz": "VAŠKA SKUPNOST, MAJSKI VRH 50",
-      "udel": null,
+      "udel": {
+        "upr": 136,
+        "gl": 37,
+        "prc": 0.2721
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 63,
       "naz": "VAŠKI DOM LANCOVA VAS, LANCOVA VAS 44 A",
-      "udel": null,
+      "udel": {
+        "upr": 516,
+        "gl": 83,
+        "prc": 0.1609
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 28,
       "naz": "VAŠKI DOM PONGRCE, PONGRCE 22",
-      "udel": null,
+      "udel": {
+        "upr": 114,
+        "gl": 27,
+        "prc": 0.2368
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 32,
       "naz": "VAŠKI DOM STRAŽGONJCA NH",
-      "udel": null,
+      "udel": {
+        "upr": 256,
+        "gl": 59,
+        "prc": 0.2305
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 24,
       "naz": "VAŠKI DOM ŽUPEČJA VAS, BRUNARICA PRI HŠ Ž.VAS 29",
-      "udel": null,
+      "udel": {
+        "upr": 218,
+        "gl": 58,
+        "prc": 0.2661
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 79,
       "naz": "VAUPOTIČ DRAGO, STANOŠINA 27",
-      "udel": null,
+      "udel": {
+        "upr": 132,
+        "gl": 28,
+        "prc": 0.2121
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 73,
       "naz": "VAUPOTIČ JOŽE, JABLOVEC 21",
-      "udel": null,
+      "udel": {
+        "upr": 66,
+        "gl": 13,
+        "prc": 0.197
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 50,
       "naz": "VEČNAMENSKA DVORANA ŽETALE, ŽETALE 1",
-      "udel": null,
+      "udel": {
+        "upr": 308,
+        "gl": 42,
+        "prc": 0.1364
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 80,
       "naz": "VTKC PODLEHNIK, KONF. DVORANA, PODLEHNIK 9",
-      "udel": null,
+      "udel": {
+        "upr": 44,
+        "gl": 4,
+        "prc": 0.0909
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 70,
       "naz": "VTKC PODLEHNIK,KONFERENČNA DVORANA, PODLEHNIK9",
-      "udel": null,
+      "udel": {
+        "upr": 357,
+        "gl": 83,
+        "prc": 0.2325
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 46,
       "naz": "VUKOVA DOMAČIJA, DOBRINA 11",
-      "udel": null,
+      "udel": {
+        "upr": 193,
+        "gl": 30,
+        "prc": 0.1554
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 87,
       "naz": "VUZEM IVAN, HRASTOVEC 129",
-      "udel": null,
+      "udel": {
+        "upr": 133,
+        "gl": 25,
+        "prc": 0.188
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 47,
       "naz": "ŽELEZNIK MARTIN, KOČICE 1",
-      "udel": null,
+      "udel": {
+        "upr": 115,
+        "gl": 28,
+        "prc": 0.2435
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 901,
       "naz": "PREDČASNO GLASOVANJE",
-      "udel": null,
+      "udel": {
+        "upr": null,
+        "gl": 0,
+        "prc": null
+      },
       "rez": null,
       "prestetih_glasov": null
     }
@@ -706,10 +1010,10 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T10:00:20.6416653+02:00",
-    "datum": "2022-04-24T07:20:00+02:00",
+    "timestamp": "2022-04-24T12:36:38.0650501+02:00",
+    "datum": "2022-04-24T12:35:00+02:00",
     "cas_udelezba": "11:00",
-    "has_udelezba": false,
+    "has_udelezba": true,
     "has_rezultat": false,
     "is_final": false,
     "has_kandidati_removed": false

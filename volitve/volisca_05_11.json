@@ -7,266 +7,418 @@
     {
       "st": 29,
       "naz": "BAR VAS, VAS 32, RADLJE OB DRAVI",
-      "udel": null,
+      "udel": {
+        "upr": 357,
+        "gl": 70,
+        "prc": 0.1961
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 36,
       "naz": "DOM KRAJANOV, SV.PRIMOŽ NA POHORJU 22, VUZENICA",
-      "udel": null,
+      "udel": {
+        "upr": 186,
+        "gl": 31,
+        "prc": 0.1667
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 35,
       "naz": "DRUŠTVENI PROSTORI SV. VID",
-      "udel": null,
+      "udel": {
+        "upr": 337,
+        "gl": 63,
+        "prc": 0.1869
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 26,
       "naz": "DRUŠTVO UPOKOJENCEV, MARIBORSKA CESTA 26",
-      "udel": null,
+      "udel": {
+        "upr": 1345,
+        "gl": 262,
+        "prc": 0.1948
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 16,
       "naz": "DRUŽBENI DOM GORTINA, GORTINA 78, MUTA",
-      "udel": null,
+      "udel": {
+        "upr": 547,
+        "gl": 114,
+        "prc": 0.2084
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 32,
       "naz": "DVORANA KS REMŠNIK, REMŠNIK 5, PODVELKA",
-      "udel": null,
+      "udel": {
+        "upr": 447,
+        "gl": 107,
+        "prc": 0.2394
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 20,
       "naz": "DVORANA OŽBALT, OŽBALT 3, OŽBALT",
-      "udel": null,
+      "udel": {
+        "upr": 374,
+        "gl": 60,
+        "prc": 0.1604
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 4,
       "naz": "FURS URAD DRAVOGRAD, MARIBORSKA CESTA 3",
-      "udel": null,
+      "udel": {
+        "upr": 617,
+        "gl": 111,
+        "prc": 0.1799
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 13,
       "naz": "GASILSKI DOM ČRNEČE, ČRNEČE 145, DRAVOGRAD",
-      "udel": null,
+      "udel": {
+        "upr": 736,
+        "gl": 139,
+        "prc": 0.1889
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 17,
       "naz": "GLASBENI DOM BISTRIŠKI JAREK, PERNICE 10A, MUTA",
-      "udel": null,
+      "udel": {
+        "upr": 234,
+        "gl": 44,
+        "prc": 0.188
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 15,
       "naz": "GODBENI DOM MUTA, LIVARSKA ULICA 4",
-      "udel": null,
+      "udel": {
+        "upr": 878,
+        "gl": 189,
+        "prc": 0.2153
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 37,
       "naz": "GOSTIŠČE PRODNAR, SV. PRIMOŽ NA POHORJU 1",
-      "udel": null,
+      "udel": {
+        "upr": 224,
+        "gl": 41,
+        "prc": 0.183
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 8,
       "naz": "JAMNIK OTIŠKI VRH, OTIŠKI VRH 56",
-      "udel": null,
+      "udel": {
+        "upr": 221,
+        "gl": 53,
+        "prc": 0.2398
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 34,
       "naz": "KKGZ ZADRUGA VUZENICA, LIVARSKA CESTA 10",
-      "udel": null,
+      "udel": {
+        "upr": 751,
+        "gl": 161,
+        "prc": 0.2144
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 12,
       "naz": "KMETIJA BUČ, LIBELIČE 16",
-      "udel": null,
+      "udel": {
+        "upr": 461,
+        "gl": 102,
+        "prc": 0.2213
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 30,
       "naz": "KS SV. ANTON NA POHORJU, SV. ANTON NA POHORJU 59",
-      "udel": null,
+      "udel": {
+        "upr": 152,
+        "gl": 28,
+        "prc": 0.1842
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 24,
       "naz": "KULTURNA DVORANA JOSIPDOL, JOSIPDOL 29",
-      "udel": null,
+      "udel": {
+        "upr": 327,
+        "gl": 78,
+        "prc": 0.2385
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 18,
       "naz": "KULTURNI DOM PODVELKA, PODVELKA 55, PODVELKA",
-      "udel": null,
+      "udel": {
+        "upr": 367,
+        "gl": 81,
+        "prc": 0.2207
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 1,
       "naz": "OBČINA DRAVOGRAD, TRG 4. JULIJA 7, DRAVOGRAD",
-      "udel": null,
+      "udel": {
+        "upr": 487,
+        "gl": 93,
+        "prc": 0.191
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 19,
       "naz": "OŠ BREZNO-PODVELKA, BREZNO 78, PODVELKA",
-      "udel": null,
+      "udel": {
+        "upr": 485,
+        "gl": 122,
+        "prc": 0.2515
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 2,
       "naz": "OŠ DRAVOGRAD, TRG 4. JULIJA 64, DRAVOGRAD",
-      "udel": null,
+      "udel": {
+        "upr": 535,
+        "gl": 107,
+        "prc": 0.2
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 14,
       "naz": "OŠ MUTA, ŠOLSKA ULICA 6, MUTA",
-      "udel": null,
+      "udel": {
+        "upr": 1157,
+        "gl": 293,
+        "prc": 0.2532
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 27,
       "naz": "OŠ RADLJE OB DRAVI, KOROŠKA CESTA 17",
-      "udel": null,
+      "udel": {
+        "upr": 687,
+        "gl": 133,
+        "prc": 0.1936
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 23,
       "naz": "OŠ RIBNICA NA POHORJU, RIBNICA NA POHORJU 29",
-      "udel": null,
+      "udel": {
+        "upr": 621,
+        "gl": 127,
+        "prc": 0.2045
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 10,
       "naz": "OŠ ŠENTJANŽ PRI DRAVOGRADU, ŠENTJANŽ PRI D. 88",
-      "udel": null,
+      "udel": {
+        "upr": 1204,
+        "gl": 209,
+        "prc": 0.1736
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 33,
       "naz": "OŠ VUZENICA, MLADINSKA ULICA 3",
-      "udel": null,
+      "udel": {
+        "upr": 707,
+        "gl": 171,
+        "prc": 0.2419
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 11,
       "naz": "PODRUŽIČNA ŠOLA TRBONJE, TRBONJE 26",
-      "udel": null,
+      "udel": {
+        "upr": 579,
+        "gl": 106,
+        "prc": 0.1831
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 21,
       "naz": "PODRUŽNIČNA ŠOLA KAPLA, SP. KAPLA 2, KAPLA",
-      "udel": null,
+      "udel": {
+        "upr": 427,
+        "gl": 65,
+        "prc": 0.1522
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 22,
       "naz": "PODRUŽNIČNA ŠOLA LEHEN, LEHEN NA POHORJU 49",
-      "udel": null,
+      "udel": {
+        "upr": 299,
+        "gl": 52,
+        "prc": 0.1739
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 7,
       "naz": "PODRUŽNIČNA ŠOLA OJSTRICA, OJSTRICA 27, DRAVOGRAD",
-      "udel": null,
+      "udel": {
+        "upr": 224,
+        "gl": 34,
+        "prc": 0.1518
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 28,
       "naz": "RIBIŠKI DOM RADLJE, ZGORNJA VIŽINGA 1",
-      "udel": null,
+      "udel": {
+        "upr": 376,
+        "gl": 51,
+        "prc": 0.1356
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 6,
       "naz": "TURISTIČNA KMETIJA VRAJENK, VIČ 16, DRAVOGRAD",
-      "udel": null,
+      "udel": {
+        "upr": 303,
+        "gl": 42,
+        "prc": 0.1386
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 3,
       "naz": "UPRAVNA ENOTA DRAVOGRAD, MEŽA 10, DRAVOGRAD",
-      "udel": null,
+      "udel": {
+        "upr": 584,
+        "gl": 120,
+        "prc": 0.2055
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 31,
       "naz": "VEČNAMENSKA DVORANA, VUHRED 1",
-      "udel": null,
+      "udel": {
+        "upr": 672,
+        "gl": 174,
+        "prc": 0.2589
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 5,
       "naz": "VRTEC ROBINDVOR, ROBINDVOR 60, DRAVOGRAD",
-      "udel": null,
+      "udel": {
+        "upr": 612,
+        "gl": 143,
+        "prc": 0.2337
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 25,
       "naz": "ZDRAVSTVENI DOM RADLJE, MARIBORSKA C. 37, RADLJE",
-      "udel": null,
+      "udel": {
+        "upr": 749,
+        "gl": 135,
+        "prc": 0.1802
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 9,
       "naz": "ŽUPNIŠČE ŠEMPETER, OTIŠKI VRH 92",
-      "udel": null,
+      "udel": {
+        "upr": 255,
+        "gl": 60,
+        "prc": 0.2353
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 901,
       "naz": "PREDČASNO GLASOVANJE",
-      "udel": null,
+      "udel": {
+        "upr": null,
+        "gl": 0,
+        "prc": null
+      },
       "rez": null,
       "prestetih_glasov": null
     }
@@ -438,10 +590,10 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T10:00:20.6416653+02:00",
-    "datum": "2022-04-24T07:20:00+02:00",
+    "timestamp": "2022-04-24T12:36:38.0650501+02:00",
+    "datum": "2022-04-24T12:35:00+02:00",
     "cas_udelezba": "11:00",
-    "has_udelezba": false,
+    "has_udelezba": true,
     "has_rezultat": false,
     "is_final": false,
     "has_kandidati_removed": false

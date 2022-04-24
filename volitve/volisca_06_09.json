@@ -7,266 +7,418 @@
     {
       "st": 35,
       "naz": "ČERNE FRANC, GOZD REKA 1",
-      "udel": null,
+      "udel": {
+        "upr": 125,
+        "gl": 29,
+        "prc": 0.232
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 30,
       "naz": "DOM KRAJANOV GRADIŠČE",
-      "udel": null,
+      "udel": {
+        "upr": 94,
+        "gl": 35,
+        "prc": 0.3723
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 17,
       "naz": "DOM KRAJANOV KONJŠICA",
-      "udel": null,
+      "udel": {
+        "upr": 119,
+        "gl": 28,
+        "prc": 0.2353
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 34,
       "naz": "DOM KRAJANOV VELIKA ŠTANGA ",
-      "udel": null,
+      "udel": {
+        "upr": 173,
+        "gl": 51,
+        "prc": 0.2948
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 27,
       "naz": "DOM KS RIBČE",
-      "udel": null,
+      "udel": {
+        "upr": 208,
+        "gl": 53,
+        "prc": 0.2548
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 23,
       "naz": "DOM TISJE",
-      "udel": null,
+      "udel": {
+        "upr": 441,
+        "gl": 91,
+        "prc": 0.2063
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 4,
       "naz": "DVORANA TRG NA STAVBAH 8",
-      "udel": null,
+      "udel": {
+        "upr": 706,
+        "gl": 157,
+        "prc": 0.2224
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 15,
       "naz": "DVORANA V OŠ POLŠNIK, POLŠNIK 25C",
-      "udel": null,
+      "udel": {
+        "upr": 457,
+        "gl": 104,
+        "prc": 0.2276
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 18,
       "naz": "GASILSKI DOM BREG",
-      "udel": null,
+      "udel": {
+        "upr": 325,
+        "gl": 97,
+        "prc": 0.2985
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 24,
       "naz": "GASILSKI DOM JAVORJE",
-      "udel": null,
+      "udel": {
+        "upr": 151,
+        "gl": 28,
+        "prc": 0.1854
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 26,
       "naz": "GASILSKI DOM LIBERGA",
-      "udel": null,
+      "udel": {
+        "upr": 226,
+        "gl": 52,
+        "prc": 0.2301
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 1,
       "naz": "GASILSKI DOM SOBRAČE",
-      "udel": null,
+      "udel": {
+        "upr": 191,
+        "gl": 45,
+        "prc": 0.2356
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 9,
       "naz": "GASILSKI DOM SPODNJI HOTIČ",
-      "udel": null,
+      "udel": {
+        "upr": 303,
+        "gl": 95,
+        "prc": 0.3135
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 22,
       "naz": "GASILSKI DOM ŠTANGARSKE POLJANE",
-      "udel": null,
+      "udel": {
+        "upr": 251,
+        "gl": 58,
+        "prc": 0.2311
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 32,
       "naz": "GASILSKI DOM TIHABOJ",
-      "udel": null,
+      "udel": {
+        "upr": 141,
+        "gl": 30,
+        "prc": 0.2128
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 25,
       "naz": "GASILSKI DOM VELIKA KOSTREVNICA",
-      "udel": null,
+      "udel": {
+        "upr": 545,
+        "gl": 161,
+        "prc": 0.2954
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 21,
       "naz": "GASILSKI DOM ZAVRSTNIK",
-      "udel": null,
+      "udel": {
+        "upr": 310,
+        "gl": 77,
+        "prc": 0.2484
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 19,
       "naz": "GASILSKI DOM ZG. JABLANICA",
-      "udel": null,
+      "udel": {
+        "upr": 592,
+        "gl": 163,
+        "prc": 0.2753
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 2,
       "naz": "GRAŠKA CESTA 64 PRI KOVAČU",
-      "udel": null,
+      "udel": {
+        "upr": 814,
+        "gl": 182,
+        "prc": 0.2236
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 20,
       "naz": "KULTURNI DOM ŠMARTNO",
-      "udel": null,
+      "udel": {
+        "upr": 549,
+        "gl": 154,
+        "prc": 0.2805
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 16,
       "naz": "MEDVED FRANC, MAMOLJ 18A, POLŠNIK",
-      "udel": null,
+      "udel": {
+        "upr": 132,
+        "gl": 32,
+        "prc": 0.2424
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 5,
       "naz": "OBČINA LITIJA, JEREBOVA 14",
-      "udel": null,
+      "udel": {
+        "upr": 446,
+        "gl": 63,
+        "prc": 0.1413
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 31,
       "naz": "OSNOVNA ŠOLA GABROVKA",
-      "udel": null,
+      "udel": {
+        "upr": 523,
+        "gl": 116,
+        "prc": 0.2218
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 3,
       "naz": "OSNOVNA ŠOLA GRADEC, BEVKOVA 3",
-      "udel": null,
+      "udel": {
+        "upr": 800,
+        "gl": 165,
+        "prc": 0.2062
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 13,
       "naz": "OSNOVNA ŠOLA KRESNICE",
-      "udel": null,
+      "udel": {
+        "upr": 775,
+        "gl": 221,
+        "prc": 0.2852
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 6,
       "naz": "OSNOVNA ŠOLA LITIJA, ULICA MIRE PREGLJEVE 3",
-      "udel": null,
+      "udel": {
+        "upr": 828,
+        "gl": 145,
+        "prc": 0.1751
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 28,
       "naz": "OSNOVNA ŠOLA PRIMSKOVO",
-      "udel": null,
+      "udel": {
+        "upr": 403,
+        "gl": 108,
+        "prc": 0.268
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 14,
       "naz": "OSNOVNA ŠOLA SAVA",
-      "udel": null,
+      "udel": {
+        "upr": 439,
+        "gl": 111,
+        "prc": 0.2528
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 37,
       "naz": "OSNOVNA ŠOLA ŠMARTNO",
-      "udel": null,
+      "udel": {
+        "upr": 643,
+        "gl": 196,
+        "prc": 0.3048
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 11,
       "naz": "OSNOVNA ŠOLA VAČE",
-      "udel": null,
+      "udel": {
+        "upr": 789,
+        "gl": 176,
+        "prc": 0.2231
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 10,
       "naz": "OSNOVNA ŠOLA ZGORNJI HOTIČ",
-      "udel": null,
+      "udel": {
+        "upr": 384,
+        "gl": 91,
+        "prc": 0.237
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 33,
       "naz": "RESNIK D. MORAVČE 16 STARA HIŠA",
-      "udel": null,
+      "udel": {
+        "upr": 517,
+        "gl": 120,
+        "prc": 0.2321
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 36,
       "naz": "SPODNJI LOG-BRUNARICA PRI IGRIŠČU",
-      "udel": null,
+      "udel": {
+        "upr": 186,
+        "gl": 65,
+        "prc": 0.3495
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 7,
       "naz": "ŠPORT. DVORANA ULICA MIRE PREGLJEVE 1",
-      "udel": null,
+      "udel": {
+        "upr": 553,
+        "gl": 99,
+        "prc": 0.179
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 29,
       "naz": "TIC-BIVŠA POŠTA, DOLE PRI LITIJI 8A",
-      "udel": null,
+      "udel": {
+        "upr": 483,
+        "gl": 136,
+        "prc": 0.2816
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 12,
       "naz": "ZADRUŽNI DOM JEVNICA",
-      "udel": null,
+      "udel": {
+        "upr": 870,
+        "gl": 210,
+        "prc": 0.2414
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 8,
       "naz": "ZDRAVSTVENI DOM LITIJA, PARTIZANSKA 8A",
-      "udel": null,
+      "udel": {
+        "upr": 1066,
+        "gl": 237,
+        "prc": 0.2223
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 901,
       "naz": "PREDČASNO GLASOVANJE",
-      "udel": null,
+      "udel": {
+        "upr": null,
+        "gl": 0,
+        "prc": null
+      },
       "rez": null,
       "prestetih_glasov": null
     }
@@ -438,10 +590,10 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T10:00:20.6416653+02:00",
-    "datum": "2022-04-24T07:20:00+02:00",
+    "timestamp": "2022-04-24T12:36:38.0650501+02:00",
+    "datum": "2022-04-24T12:35:00+02:00",
     "cas_udelezba": "11:00",
-    "has_udelezba": false,
+    "has_udelezba": true,
     "has_rezultat": false,
     "is_final": false,
     "has_kandidati_removed": false

@@ -7,273 +7,429 @@
     {
       "st": 30,
       "naz": "BRODEJ JOŽE, BREZEN 55, VITANJE",
-      "udel": null,
+      "udel": {
+        "upr": 134,
+        "gl": 32,
+        "prc": 0.2388
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 32,
       "naz": "CENTER NOORDUNG, NA VASI 18, VITANJE",
-      "udel": null,
+      "udel": {
+        "upr": 144,
+        "gl": 31,
+        "prc": 0.2153
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 39,
       "naz": "CENTER ŠOLSKIH IN OBŠOLSKIH DEJAV. GORENJE, ZREČE",
-      "udel": null,
+      "udel": {
+        "upr": 594,
+        "gl": 118,
+        "prc": 0.1987
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 12,
       "naz": "ČONČ NEŽA, LIČENCA 30, LOČE",
-      "udel": null,
+      "udel": {
+        "upr": 194,
+        "gl": 43,
+        "prc": 0.2216
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 1,
       "naz": "DOM KRAJANOV BEZINA, SLOV. KONJICE",
-      "udel": null,
+      "udel": {
+        "upr": 697,
+        "gl": 163,
+        "prc": 0.2339
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 43,
       "naz": "DOM KRAJANOV DOBROVLJE, DOBRAVA 78, ZREČE",
-      "udel": null,
+      "udel": {
+        "upr": 304,
+        "gl": 76,
+        "prc": 0.25
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 9,
       "naz": "DOM KRAJANOV DRAŽA VAS, LOČE",
-      "udel": null,
+      "udel": {
+        "upr": 391,
+        "gl": 84,
+        "prc": 0.2148
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 11,
       "naz": "DOM KRAJANOV JERNEJ, LOČE",
-      "udel": null,
+      "udel": {
+        "upr": 483,
+        "gl": 91,
+        "prc": 0.1884
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 5,
       "naz": "DOM KRAJANOV POLENE, SLOV. KONJICE",
-      "udel": null,
+      "udel": {
+        "upr": 181,
+        "gl": 43,
+        "prc": 0.2376
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 40,
       "naz": "DOM KRAJANOV RESNIK, ZREČE",
-      "udel": null,
+      "udel": {
+        "upr": 105,
+        "gl": 21,
+        "prc": 0.2
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 42,
       "naz": "DOM KRAJANOV STRANICE, ZREČE",
-      "udel": null,
+      "udel": {
+        "upr": 933,
+        "gl": 220,
+        "prc": 0.2358
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 15,
       "naz": "DOM KRAJANOV TEPANJE, SLOV. KONJICE",
-      "udel": null,
+      "udel": {
+        "upr": 750,
+        "gl": 165,
+        "prc": 0.22
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 2,
       "naz": "DOM KRAJANOV V GAJU, VEŠENIK, SLOV. KONJICE",
-      "udel": null,
+      "udel": {
+        "upr": 516,
+        "gl": 93,
+        "prc": 0.1802
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 13,
       "naz": "DOM KRAJANOV ZBELOVO, LOČE",
-      "udel": null,
+      "udel": {
+        "upr": 638,
+        "gl": 169,
+        "prc": 0.2649
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 10,
       "naz": "DOM KRAJANOV ŽIČE, LOČE",
-      "udel": null,
+      "udel": {
+        "upr": 458,
+        "gl": 86,
+        "prc": 0.1878
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 14,
       "naz": "DOM KRAJANOV,SP.GRUŠOVJE 30,SLOV. KONJICE",
-      "udel": null,
+      "udel": {
+        "upr": 158,
+        "gl": 40,
+        "prc": 0.2532
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 16,
       "naz": "DVORANA KONJIČANKA, STARI TRG, SLOV. KONJICE",
-      "udel": null,
+      "udel": {
+        "upr": 1123,
+        "gl": 186,
+        "prc": 0.1656
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 8,
       "naz": "GOSTIŠČE ULIPI, ZEČE 35, SLOV. KONJICE",
-      "udel": null,
+      "udel": {
+        "upr": 645,
+        "gl": 106,
+        "prc": 0.1643
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 25,
       "naz": "HIŠA DEDIŠČINE MLAČE, LOČE",
-      "udel": null,
+      "udel": {
+        "upr": 232,
+        "gl": 60,
+        "prc": 0.2586
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 34,
       "naz": "HOTEL DOBRAVA,BELA DVORANA,C.NA ROGLO15,ZREČE",
-      "udel": null,
+      "udel": {
+        "upr": 769,
+        "gl": 177,
+        "prc": 0.2302
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 35,
       "naz": "HOTEL DOBRAVA,RUMENA DVORANA,C.NA ROGLO15, ZREČE",
-      "udel": null,
+      "udel": {
+        "upr": 854,
+        "gl": 236,
+        "prc": 0.2763
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 29,
       "naz": "HROVAT MILAN, HUDINJA 23, VITANJE",
-      "udel": null,
+      "udel": {
+        "upr": 146,
+        "gl": 36,
+        "prc": 0.2466
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 31,
       "naz": "KOVŠE \"PRI VOLAVCU\", PAKA 40, VITANJE",
-      "udel": null,
+      "udel": {
+        "upr": 161,
+        "gl": 32,
+        "prc": 0.1988
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 18,
       "naz": "KULTURNI DOM SLOV. KONJICE, MESTNI TRG 4",
-      "udel": null,
+      "udel": {
+        "upr": 1233,
+        "gl": 237,
+        "prc": 0.1922
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 28,
       "naz": "KUŠAR ZDENKO, STENICA 44, VITANJE",
-      "udel": null,
+      "udel": {
+        "upr": 399,
+        "gl": 86,
+        "prc": 0.2155
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 27,
       "naz": "OBČINA VITANJE, GRAJSKI TRG 1, VITANJE",
-      "udel": null,
+      "udel": {
+        "upr": 810,
+        "gl": 220,
+        "prc": 0.2716
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 7,
       "naz": "OSNOVNA  ŠOLA ŠPITALIČ, SLOV. KONJICE",
-      "udel": null,
+      "udel": {
+        "upr": 294,
+        "gl": 62,
+        "prc": 0.2109
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 23,
       "naz": "OSNOVNA ŠOLA LOČE I.,ŠOLSKA ULICA 4, LOČE ",
-      "udel": null,
+      "udel": {
+        "upr": 928,
+        "gl": 191,
+        "prc": 0.2058
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 24,
       "naz": "OSNOVNA ŠOLA LOČE II., ŠOLSKA ULICA 4, LOČE ",
-      "udel": null,
+      "udel": {
+        "upr": 154,
+        "gl": 33,
+        "prc": 0.2143
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 37,
       "naz": "OSNOVNA ŠOLA ZREČE, ŠOLSKA 3, ZREČE",
-      "udel": null,
+      "udel": {
+        "upr": 1000,
+        "gl": 264,
+        "prc": 0.264
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 20,
       "naz": "OŠ OB DRAVINJI I., DUŠANA JEREBA 1, SLOV. KONJICE",
-      "udel": null,
+      "udel": {
+        "upr": 822,
+        "gl": 223,
+        "prc": 0.2713
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 22,
       "naz": "OŠ OB DRAVINJI II., DUŠANA JEREBA 1, SLOV.KONJICE",
-      "udel": null,
+      "udel": {
+        "upr": 368,
+        "gl": 61,
+        "prc": 0.1658
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 17,
       "naz": "OŠ POD GORO (AVLA), ŠOLSKA ULICA 3, SLOV. KONJICE",
-      "udel": null,
+      "udel": {
+        "upr": 455,
+        "gl": 100,
+        "prc": 0.2198
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 4,
       "naz": "PISARNA KS KONJIŠKA VAS, SLOV. KONJICE",
-      "udel": null,
+      "udel": {
+        "upr": 390,
+        "gl": 81,
+        "prc": 0.2077
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 6,
       "naz": "PRI POHORCU, SOJEK 1, SLOV. KONJICE",
-      "udel": null,
+      "udel": {
+        "upr": 177,
+        "gl": 48,
+        "prc": 0.2712
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 41,
       "naz": "TABORNIŠKI DOM, SKOMARJE 32, ZREČE",
-      "udel": null,
+      "udel": {
+        "upr": 133,
+        "gl": 33,
+        "prc": 0.2481
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 33,
       "naz": "ZELENI APARTMA, LOŠKA GORA PRI ZREČAH 39, ZREČE",
-      "udel": null,
+      "udel": {
+        "upr": 316,
+        "gl": 71,
+        "prc": 0.2247
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 3,
       "naz": "ZZ VERTAČNIK,DOBRAVA PRI KONJICAH 3B,SLOV.KONJICE",
-      "udel": null,
+      "udel": {
+        "upr": 117,
+        "gl": 27,
+        "prc": 0.2308
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 901,
       "naz": "PREDČASNO GLASOVANJE",
-      "udel": null,
+      "udel": {
+        "upr": null,
+        "gl": 0,
+        "prc": null
+      },
       "rez": null,
       "prestetih_glasov": null
     }
@@ -447,10 +603,10 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T10:00:20.6416653+02:00",
-    "datum": "2022-04-24T07:20:00+02:00",
+    "timestamp": "2022-04-24T12:36:38.0650501+02:00",
+    "datum": "2022-04-24T12:35:00+02:00",
     "cas_udelezba": "11:00",
-    "has_udelezba": false,
+    "has_udelezba": true,
     "has_rezultat": false,
     "is_final": false,
     "has_kandidati_removed": false

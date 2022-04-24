@@ -7,119 +7,187 @@
     {
       "st": 14,
       "naz": "DOM KRAJANOV TEMENICA, TEMENICA 2A",
-      "udel": null,
+      "udel": {
+        "upr": 585,
+        "gl": 130,
+        "prc": 0.2222
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 17,
       "naz": "DRUŽBENI CENTER KRKA, KRKA 1D",
-      "udel": null,
+      "udel": {
+        "upr": 1088,
+        "gl": 273,
+        "prc": 0.2509
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 12,
       "naz": "GASILSKI DOM DOB, DOB PRI ŠENTVIDU 8",
-      "udel": null,
+      "udel": {
+        "upr": 458,
+        "gl": 104,
+        "prc": 0.2271
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 8,
       "naz": "GASILSKI DOM KRIŠKA VAS, KRIŠKA VAS 10",
-      "udel": null,
+      "udel": {
+        "upr": 403,
+        "gl": 115,
+        "prc": 0.2854
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 6,
       "naz": "GASILSKI DOM METNAJ, METNAJ 2",
-      "udel": null,
+      "udel": {
+        "upr": 453,
+        "gl": 85,
+        "prc": 0.1876
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 5,
       "naz": "GASILSKI DOM STIČNA, STIČNA 144",
-      "udel": null,
+      "udel": {
+        "upr": 1209,
+        "gl": 333,
+        "prc": 0.2754
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 9,
       "naz": "GASILSKI DOM VRH PRI V.G., VRH PRI VIŠNJI GORI 2",
-      "udel": null,
+      "udel": {
+        "upr": 288,
+        "gl": 72,
+        "prc": 0.25
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 15,
       "naz": "KULTURNI DOM AMBRUS, AMBRUS 56",
-      "udel": null,
+      "udel": {
+        "upr": 592,
+        "gl": 125,
+        "prc": 0.2111
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 2,
       "naz": "KULTURNI DOM IVANČNA GORICA I., SOKOLSKA ULICA 4",
-      "udel": null,
+      "udel": {
+        "upr": 1487,
+        "gl": 354,
+        "prc": 0.2381
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 3,
       "naz": "KULTURNI DOM IVANČNA GORICA II., SOKOLSKA ULICA 4",
-      "udel": null,
+      "udel": {
+        "upr": 770,
+        "gl": 168,
+        "prc": 0.2182
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 4,
       "naz": "KULTURNI DOM MULJAVA, MULJAVA 20",
-      "udel": null,
+      "udel": {
+        "upr": 711,
+        "gl": 170,
+        "prc": 0.2391
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 10,
       "naz": "KULTURNI DOM ŠENTVID I., ŠENTVID PRI STIČNI 70",
-      "udel": null,
+      "udel": {
+        "upr": 1062,
+        "gl": 195,
+        "prc": 0.1836
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 11,
       "naz": "KULTURNI DOM ŠENTVID II., ŠENTVID PRI STIČNI 70",
-      "udel": null,
+      "udel": {
+        "upr": 970,
+        "gl": 235,
+        "prc": 0.2423
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 7,
       "naz": "MESTNA HIŠA VIŠNJA GORA, MESTNI TRG 21",
-      "udel": null,
+      "udel": {
+        "upr": 1419,
+        "gl": 306,
+        "prc": 0.2156
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 16,
       "naz": "OSNOVNA ŠOLA ZAGRADEC, ZAGRADEC 33",
-      "udel": null,
+      "udel": {
+        "upr": 1018,
+        "gl": 240,
+        "prc": 0.2358
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 13,
       "naz": "VEČNAMENSKI OBJEKT HRASTOV DOL, HRASTOV DOL 2",
-      "udel": null,
+      "udel": {
+        "upr": 164,
+        "gl": 25,
+        "prc": 0.1524
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 901,
       "naz": "PREDČASNO GLASOVANJE",
-      "udel": null,
+      "udel": {
+        "upr": null,
+        "gl": 0,
+        "prc": null
+      },
       "rez": null,
       "prestetih_glasov": null
     }
@@ -291,10 +359,10 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T10:00:20.6416653+02:00",
-    "datum": "2022-04-24T07:20:00+02:00",
+    "timestamp": "2022-04-24T12:36:38.0650501+02:00",
+    "datum": "2022-04-24T12:35:00+02:00",
     "cas_udelezba": "11:00",
-    "has_udelezba": false,
+    "has_udelezba": true,
     "has_rezultat": false,
     "is_final": false,
     "has_kandidati_removed": false

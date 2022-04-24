@@ -7,231 +7,363 @@
     {
       "st": 4,
       "naz": "BOBNAR, PLETOVARJE 3A, DRAMLJE",
-      "udel": null,
+      "udel": {
+        "upr": 245,
+        "gl": 55,
+        "prc": 0.2245
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 27,
       "naz": "DOM GABERNICA",
-      "udel": null,
+      "udel": {
+        "upr": 113,
+        "gl": 26,
+        "prc": 0.2301
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 28,
       "naz": "GASILSKI DOM BUKOVJE",
-      "udel": null,
+      "udel": {
+        "upr": 124,
+        "gl": 24,
+        "prc": 0.1935
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 12,
       "naz": "GASILSKI DOM DOBRINA",
-      "udel": null,
+      "udel": {
+        "upr": 273,
+        "gl": 53,
+        "prc": 0.1941
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 7,
       "naz": "GASILSKI DOM DOLGA GORA",
-      "udel": null,
+      "udel": {
+        "upr": 223,
+        "gl": 43,
+        "prc": 0.1928
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 11,
       "naz": "GASILSKI DOM LOKA PRI ŽUSMU",
-      "udel": null,
+      "udel": {
+        "upr": 325,
+        "gl": 71,
+        "prc": 0.2185
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 2,
       "naz": "GASILSKI DOM LOKARJE",
-      "udel": null,
+      "udel": {
+        "upr": 565,
+        "gl": 153,
+        "prc": 0.2708
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 25,
       "naz": "GASILSKI DOM PARIDOL",
-      "udel": null,
+      "udel": {
+        "upr": 183,
+        "gl": 34,
+        "prc": 0.1858
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 30,
       "naz": "GASILSKI DOM ŠENTJUR",
-      "udel": null,
+      "udel": {
+        "upr": 773,
+        "gl": 146,
+        "prc": 0.1889
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 24,
       "naz": "GASILSKO VAŠKI DOM JAVORJE",
-      "udel": null,
+      "udel": {
+        "upr": 201,
+        "gl": 37,
+        "prc": 0.1841
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 22,
       "naz": "GOSTIŠČE OBREZ MILAN, ŽEGAR",
-      "udel": null,
+      "udel": {
+        "upr": 203,
+        "gl": 25,
+        "prc": 0.1232
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 32,
       "naz": "GOSTIŠČE ZANZIBAR,C.KOZJANSKEGA ODREDA87A,ŠENTJUR",
-      "udel": null,
+      "udel": {
+        "upr": 917,
+        "gl": 32,
+        "prc": 0.0349
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 34,
       "naz": "KOVAČ-REBERŠAK, VRBNO 16, ŠENTJUR",
-      "udel": null,
+      "udel": {
+        "upr": 541,
+        "gl": 93,
+        "prc": 0.1719
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 26,
       "naz": "KRAJNC, VODUCE 22A, GORICA PRI SLIVNICI",
-      "udel": null,
+      "udel": {
+        "upr": 145,
+        "gl": 26,
+        "prc": 0.1793
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 36,
       "naz": "KULTURNI DOM DOBJE",
-      "udel": null,
+      "udel": {
+        "upr": 395,
+        "gl": 70,
+        "prc": 0.1772
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 23,
       "naz": "KULTURNI DOM GORICA",
-      "udel": null,
+      "udel": {
+        "upr": 705,
+        "gl": 164,
+        "prc": 0.2326
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 17,
       "naz": "KULTURNI DOM ŠENTVID",
-      "udel": null,
+      "udel": {
+        "upr": 500,
+        "gl": 117,
+        "prc": 0.234
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 20,
       "naz": "LAVBIČ, PONIKVA 29, PONIKVA",
-      "udel": null,
+      "udel": {
+        "upr": 403,
+        "gl": 80,
+        "prc": 0.1985
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 6,
       "naz": "LENIČ, RAZBOR 30A, DRAMLJE",
-      "udel": null,
+      "udel": {
+        "upr": 153,
+        "gl": 47,
+        "prc": 0.3072
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 1,
       "naz": "OSNOVNA ŠOLA BLAGOVNA",
-      "udel": null,
+      "udel": {
+        "upr": 780,
+        "gl": 169,
+        "prc": 0.2167
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 18,
       "naz": "OSNOVNA ŠOLA BLAŽA KOCENA, PONIKVA",
-      "udel": null,
+      "udel": {
+        "upr": 1323,
+        "gl": 252,
+        "prc": 0.1905
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 40,
       "naz": "OSNOVNA ŠOLA DOBJE",
-      "udel": null,
+      "udel": {
+        "upr": 392,
+        "gl": 79,
+        "prc": 0.2015
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 3,
       "naz": "OSNOVNA ŠOLA DRAMLJE",
-      "udel": null,
+      "udel": {
+        "upr": 1415,
+        "gl": 299,
+        "prc": 0.2113
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 39,
       "naz": "OSNOVNA ŠOLA FRANJA MALGAJA ŠENTJUR",
-      "udel": null,
+      "udel": {
+        "upr": 664,
+        "gl": 101,
+        "prc": 0.1521
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 31,
       "naz": "OSNOVNA ŠOLA HRUŠEVEC - VOLIŠČE 1",
-      "udel": null,
+      "udel": {
+        "upr": 670,
+        "gl": 170,
+        "prc": 0.2537
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 33,
       "naz": "OSNOVNA ŠOLA HRUŠEVEC - VOLIŠČE 2",
-      "udel": null,
+      "udel": {
+        "upr": 788,
+        "gl": 170,
+        "prc": 0.2157
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 9,
       "naz": "OSNOVNA ŠOLA KALOBJE",
-      "udel": null,
+      "udel": {
+        "upr": 401,
+        "gl": 75,
+        "prc": 0.187
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 14,
       "naz": "OSNOVNA ŠOLA PLANINA PRI SEVNICI",
-      "udel": null,
+      "udel": {
+        "upr": 755,
+        "gl": 150,
+        "prc": 0.1987
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 8,
       "naz": "PROSTORI KSGROBELNO,TRATNA /GROBELNEM 46,GROBELNO",
-      "udel": null,
+      "udel": {
+        "upr": 771,
+        "gl": 155,
+        "prc": 0.201
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 29,
       "naz": "SEJNA DVORANA OBČINE ŠENTJUR,MESTNI TRG10,ŠENTJUR",
-      "udel": null,
+      "udel": {
+        "upr": 1037,
+        "gl": 154,
+        "prc": 0.1485
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 10,
       "naz": "ŠUSTER, OSREDEK 3, ŠENTJUR",
-      "udel": null,
+      "udel": {
+        "upr": 118,
+        "gl": 27,
+        "prc": 0.2288
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 21,
       "naz": "VEČNAMENSKI OBJEKT PREVORJE",
-      "udel": null,
+      "udel": {
+        "upr": 379,
+        "gl": 75,
+        "prc": 0.1979
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 901,
       "naz": "PREDČASNO GLASOVANJE",
-      "udel": null,
+      "udel": {
+        "upr": null,
+        "gl": 0,
+        "prc": null
+      },
       "rez": null,
       "prestetih_glasov": null
     }
@@ -403,10 +535,10 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T10:00:20.6416653+02:00",
-    "datum": "2022-04-24T07:20:00+02:00",
+    "timestamp": "2022-04-24T12:36:38.0650501+02:00",
+    "datum": "2022-04-24T12:35:00+02:00",
     "cas_udelezba": "11:00",
-    "has_udelezba": false,
+    "has_udelezba": true,
     "has_rezultat": false,
     "is_final": false,
     "has_kandidati_removed": false

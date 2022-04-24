@@ -7,217 +7,341 @@
     {
       "st": 2,
       "naz": "DOLENJE KARTELJEVO - STARA OŠ",
-      "udel": null,
+      "udel": {
+        "upr": 229,
+        "gl": 66,
+        "prc": 0.2882
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 8,
       "naz": "DOM KRAJANOV KS GOTNA VAS, JEDINŠČICA 58",
-      "udel": null,
+      "udel": {
+        "upr": 863,
+        "gl": 221,
+        "prc": 0.2561
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 26,
       "naz": "DRGANJA SELA - MLADINSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 214,
+        "gl": 47,
+        "prc": 0.2196
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 6,
       "naz": "GORENJE KAMENCE 9 - JANEZ MIKLIČ",
-      "udel": null,
+      "udel": {
+        "upr": 252,
+        "gl": 74,
+        "prc": 0.2937
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 10,
       "naz": "KRIŽE 27 - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 376,
+        "gl": 98,
+        "prc": 0.2606
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 9,
       "naz": "MALI SLATNIK 7 - OSNOVNA ŠOLA",
-      "udel": null,
+      "udel": {
+        "upr": 1159,
+        "gl": 307,
+        "prc": 0.2649
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 29,
       "naz": "NA ŽAGO 4 - KULTURNI DOM STRAŽA",
-      "udel": null,
+      "udel": {
+        "upr": 1106,
+        "gl": 250,
+        "prc": 0.226
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 22,
       "naz": "NM, ŠENTJERNEJSKA C. 10-DOM KRAJANOV KS ŽABJA VAS",
-      "udel": null,
+      "udel": {
+        "upr": 1121,
+        "gl": 255,
+        "prc": 0.2275
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 35,
       "naz": "NOVO MESTO, BAJČEVA ULICA 20 -GASILSKI DOM ŠMIHEL",
-      "udel": null,
+      "udel": {
+        "upr": 1240,
+        "gl": 244,
+        "prc": 0.1968
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 24,
       "naz": "NOVO MESTO, BRŠLJIN 37 - GOSTILNA GEDŽO",
-      "udel": null,
+      "udel": {
+        "upr": 492,
+        "gl": 121,
+        "prc": 0.2459
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 14,
       "naz": "NOVO MESTO, DEFRANCESCHIJEVA UL.1 -PROSTORI UE NM",
-      "udel": null,
+      "udel": {
+        "upr": 590,
+        "gl": 114,
+        "prc": 0.1932
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 13,
       "naz": "NOVO MESTO, DOLENJE KAMENCE - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 1193,
+        "gl": 303,
+        "prc": 0.254
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 1,
       "naz": "NOVO MESTO, KANDIJSKA CESTA 5 - \"VAGON\"",
-      "udel": null,
+      "udel": {
+        "upr": 380,
+        "gl": 110,
+        "prc": 0.2895
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 17,
       "naz": "NOVO MESTO, KOČEVARJEVA ULICA 40 - OSNOVNA ŠOLA",
-      "udel": null,
+      "udel": {
+        "upr": 1082,
+        "gl": 265,
+        "prc": 0.2449
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 18,
       "naz": "NOVO MESTO, RAGOVSKA ULICA 18 - VRTEC",
-      "udel": null,
+      "udel": {
+        "upr": 1364,
+        "gl": 341,
+        "prc": 0.25
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 11,
       "naz": "NOVO MESTO, REGRČA VAS -  DOM KRAJANOV",
-      "udel": null,
+      "udel": {
+        "upr": 788,
+        "gl": 187,
+        "prc": 0.2373
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 19,
       "naz": "NOVO MESTO, SEIDLOVA CESTA - DRUŽBENI CENTER",
-      "udel": null,
+      "udel": {
+        "upr": 1224,
+        "gl": 300,
+        "prc": 0.2451
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 20,
       "naz": "NOVO MESTO, SEIDLOVA CESTA 9-GIMNAZIJA NOVO MESTO",
-      "udel": null,
+      "udel": {
+        "upr": 833,
+        "gl": 170,
+        "prc": 0.2041
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 4,
       "naz": "NOVO MESTO, ŠEGOVA ULICA 22 - VRTEC",
-      "udel": null,
+      "udel": {
+        "upr": 2052,
+        "gl": 420,
+        "prc": 0.2047
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 23,
       "naz": "NOVO MESTO, TRDINOVA ULICA 7 - OSNOVNA ŠOLA GRM",
-      "udel": null,
+      "udel": {
+        "upr": 1707,
+        "gl": 368,
+        "prc": 0.2156
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 5,
       "naz": "NOVO MESTO, ULICA SLAVKA GRUMA 9 - PROSTORI KS",
-      "udel": null,
+      "udel": {
+        "upr": 1096,
+        "gl": 246,
+        "prc": 0.2245
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 25,
       "naz": "NOVO MESTO, VRTEC ŽABJAK",
-      "udel": null,
+      "udel": {
+        "upr": 315,
+        "gl": 0,
+        "prc": 0
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 12,
       "naz": "NOVOMEŠKA CESTA 1 - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 589,
+        "gl": 149,
+        "prc": 0.253
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 27,
       "naz": "OTOČEC, ŠENTPETER - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 1498,
+        "gl": 330,
+        "prc": 0.2203
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 28,
       "naz": "PAHA 3 - MATJAŽEVA DOMAČIJA",
-      "udel": null,
+      "udel": {
+        "upr": 305,
+        "gl": 77,
+        "prc": 0.2525
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 31,
       "naz": "PRAPREČE 22 - MLADINSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 500,
+        "gl": 109,
+        "prc": 0.218
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 30,
       "naz": "PREČNA  8 - STARA OSNOVNA ŠOLA",
-      "udel": null,
+      "udel": {
+        "upr": 799,
+        "gl": 197,
+        "prc": 0.2466
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 33,
       "naz": "RUMANJA VAS - MLADINSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 208,
+        "gl": 43,
+        "prc": 0.2067
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 32,
       "naz": "VAVTA VAS 1 - OSNOVNA ŠOLA",
-      "udel": null,
+      "udel": {
+        "upr": 446,
+        "gl": 119,
+        "prc": 0.2668
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 36,
       "naz": "ŽDINJA VAS - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 305,
+        "gl": 73,
+        "prc": 0.2393
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 901,
       "naz": "PREDČASNO GLASOVANJE",
-      "udel": null,
+      "udel": {
+        "upr": null,
+        "gl": 0,
+        "prc": null
+      },
       "rez": null,
       "prestetih_glasov": null
     }
@@ -389,10 +513,10 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T10:00:20.6416653+02:00",
-    "datum": "2022-04-24T07:20:00+02:00",
+    "timestamp": "2022-04-24T12:36:38.0650501+02:00",
+    "datum": "2022-04-24T12:35:00+02:00",
     "cas_udelezba": "11:00",
-    "has_udelezba": false,
+    "has_udelezba": true,
     "has_rezultat": false,
     "is_final": false,
     "has_kandidati_removed": false

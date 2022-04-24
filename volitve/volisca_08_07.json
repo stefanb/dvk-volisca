@@ -7,210 +7,330 @@
     {
       "st": 13,
       "naz": "AVLA OBČINE LENART, TRG OSVOBODITVE 7",
-      "udel": null,
+      "udel": {
+        "upr": 1434,
+        "gl": 295,
+        "prc": 0.2057
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 14,
       "naz": "CENTER SLOVENSKIH GORIC, TRG OSVOBODITVE 9",
-      "udel": null,
+      "udel": {
+        "upr": 1009,
+        "gl": 209,
+        "prc": 0.2071
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 5,
       "naz": "DOM DRUŠTVA UPOKOJENCEV, CERKVENJAK 13 B",
-      "udel": null,
+      "udel": {
+        "upr": 451,
+        "gl": 71,
+        "prc": 0.1574
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 25,
       "naz": "GASILSKI DOM, GOČOVA",
-      "udel": null,
+      "udel": {
+        "upr": 202,
+        "gl": 61,
+        "prc": 0.302
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 24,
       "naz": "GASILSKI DOM, OSEK",
-      "udel": null,
+      "udel": {
+        "upr": 307,
+        "gl": 68,
+        "prc": 0.2215
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 27,
       "naz": "KS VOLIČINA, SP. VOLIČINA 81",
-      "udel": null,
+      "udel": {
+        "upr": 1060,
+        "gl": 256,
+        "prc": 0.2415
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 6,
       "naz": "KULTURNI DOM, CERKVENJAK 25",
-      "udel": null,
+      "udel": {
+        "upr": 372,
+        "gl": 72,
+        "prc": 0.1935
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 28,
       "naz": "KULTURNI DOM, SELCE 11",
-      "udel": null,
+      "udel": {
+        "upr": 561,
+        "gl": 144,
+        "prc": 0.2567
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 29,
       "naz": "KULTURNI DOM, ZAVRH 42",
-      "udel": null,
+      "udel": {
+        "upr": 614,
+        "gl": 129,
+        "prc": 0.2101
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 10,
       "naz": "LOVSKI DOM JUROVSKI DOL, MALNA 10",
-      "udel": null,
+      "udel": {
+        "upr": 430,
+        "gl": 112,
+        "prc": 0.2605
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 16,
       "naz": "LOVSKI DOM LENART, SP. PORČIČ 22",
-      "udel": null,
+      "udel": {
+        "upr": 683,
+        "gl": 146,
+        "prc": 0.2138
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 4,
       "naz": "OSNOVNA ŠOLA, CERKVENJAK 24",
-      "udel": null,
+      "udel": {
+        "upr": 601,
+        "gl": 125,
+        "prc": 0.208
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 8,
       "naz": "OSNOVNA ŠOLA, JUROVSKI DOL 13",
-      "udel": null,
+      "udel": {
+        "upr": 561,
+        "gl": 156,
+        "prc": 0.2781
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 9,
       "naz": "OSNOVNA ŠOLA, JUROVSKI DOL 13",
-      "udel": null,
+      "udel": {
+        "upr": 543,
+        "gl": 129,
+        "prc": 0.2376
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 18,
       "naz": "OSNOVNA ŠOLA, LOKAVEC 6",
-      "udel": null,
+      "udel": {
+        "upr": 300,
+        "gl": 55,
+        "prc": 0.1833
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 22,
       "naz": "OSNOVNA ŠOLA, MEZNARIČEVA 1",
-      "udel": null,
+      "udel": {
+        "upr": 666,
+        "gl": 170,
+        "prc": 0.2553
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 26,
       "naz": "OSNOVNA ŠOLA, MEZNARIČEVA 1",
-      "udel": null,
+      "udel": {
+        "upr": 313,
+        "gl": 57,
+        "prc": 0.1821
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 15,
       "naz": "OSNOVNA ŠOLA, PTUJSKA 25",
-      "udel": null,
+      "udel": {
+        "upr": 339,
+        "gl": 95,
+        "prc": 0.2802
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 19,
       "naz": "OSNOVNA ŠOLA, SV. ANA 14",
-      "udel": null,
+      "udel": {
+        "upr": 511,
+        "gl": 88,
+        "prc": 0.1722
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 20,
       "naz": "OSNOVNA ŠOLA, SV. ANA 14",
-      "udel": null,
+      "udel": {
+        "upr": 574,
+        "gl": 148,
+        "prc": 0.2578
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 1,
       "naz": "OSNOVNA ŠOLA, ŠOLSKA ULICA 2",
-      "udel": null,
+      "udel": {
+        "upr": 850,
+        "gl": 189,
+        "prc": 0.2224
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 2,
       "naz": "OSNOVNA ŠOLA, ŠOLSKA ULICA 2",
-      "udel": null,
+      "udel": {
+        "upr": 576,
+        "gl": 137,
+        "prc": 0.2378
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 3,
       "naz": "OSNOVNA ŠOLA, ŠOLSKA ULICA 2",
-      "udel": null,
+      "udel": {
+        "upr": 642,
+        "gl": 135,
+        "prc": 0.2103
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 23,
       "naz": "PROSTORI DRUŠTVA UPOKOJENCEV, TROJIŠKI TRG 25",
-      "udel": null,
+      "udel": {
+        "upr": 315,
+        "gl": 73,
+        "prc": 0.2317
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 21,
       "naz": "SEJNA SOBA OBČINE, SV. ANA 17",
-      "udel": null,
+      "udel": {
+        "upr": 463,
+        "gl": 83,
+        "prc": 0.1793
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 7,
       "naz": "SMOLINCI 88, PLOJ",
-      "udel": null,
+      "udel": {
+        "upr": 246,
+        "gl": 34,
+        "prc": 0.1382
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 17,
       "naz": "TRGOVINA, ZAMARKOVA 20",
-      "udel": null,
+      "udel": {
+        "upr": 623,
+        "gl": 150,
+        "prc": 0.2408
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 11,
       "naz": "ŽITENCE 23, SENEKOVIČ",
-      "udel": null,
+      "udel": {
+        "upr": 92,
+        "gl": 26,
+        "prc": 0.2826
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 12,
       "naz": "ŽITENCE 65, LEKEŽIČ",
-      "udel": null,
+      "udel": {
+        "upr": 120,
+        "gl": 42,
+        "prc": 0.35
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 901,
       "naz": "PREDČASNO GLASOVANJE",
-      "udel": null,
+      "udel": {
+        "upr": null,
+        "gl": 0,
+        "prc": null
+      },
       "rez": null,
       "prestetih_glasov": null
     }
@@ -384,10 +504,10 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T10:00:20.6416653+02:00",
-    "datum": "2022-04-24T07:20:00+02:00",
+    "timestamp": "2022-04-24T12:36:38.0650501+02:00",
+    "datum": "2022-04-24T12:35:00+02:00",
     "cas_udelezba": "11:00",
-    "has_udelezba": false,
+    "has_udelezba": true,
     "has_rezultat": false,
     "is_final": false,
     "has_kandidati_removed": false

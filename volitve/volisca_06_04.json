@@ -7,301 +7,473 @@
     {
       "st": 40,
       "naz": "BREGAR JANEZ, STEHANJA VAS 14",
-      "udel": null,
+      "udel": {
+        "upr": 117,
+        "gl": 22,
+        "prc": 0.188
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 41,
       "naz": "DOM GASILCEV ZAGORICA",
-      "udel": null,
+      "udel": {
+        "upr": 375,
+        "gl": 90,
+        "prc": 0.24
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 12,
       "naz": "DOM PARTIZAN MIRNA",
-      "udel": null,
+      "udel": {
+        "upr": 424,
+        "gl": 87,
+        "prc": 0.2052
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 36,
       "naz": "DOM STAREJŠIH OBČANOV, STARI TRG 63, TREBNJE",
-      "udel": null,
+      "udel": {
+        "upr": 669,
+        "gl": 146,
+        "prc": 0.2182
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 34,
       "naz": "DVORANA STIK, GOLIEV TRG 1, TREBNJE I.",
-      "udel": null,
+      "udel": {
+        "upr": 816,
+        "gl": 141,
+        "prc": 0.1728
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 35,
       "naz": "DVORANA STIK, GOLIEV TRG 1, TREBNJE II.",
-      "udel": null,
+      "udel": {
+        "upr": 753,
+        "gl": 150,
+        "prc": 0.1992
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 19,
       "naz": "GASILNI DOM BELI GRIČ",
-      "udel": null,
+      "udel": {
+        "upr": 266,
+        "gl": 68,
+        "prc": 0.2556
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 1,
       "naz": "GASILNI DOM ČATEŽ",
-      "udel": null,
+      "udel": {
+        "upr": 438,
+        "gl": 107,
+        "prc": 0.2443
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 25,
       "naz": "GASILNI DOM DOLENJE JESENICE",
-      "udel": null,
+      "udel": {
+        "upr": 222,
+        "gl": 40,
+        "prc": 0.1802
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 22,
       "naz": "GASILNI DOM LOG",
-      "udel": null,
+      "udel": {
+        "upr": 120,
+        "gl": 17,
+        "prc": 0.1417
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 18,
       "naz": "GASILNI DOM MOKRONOG",
-      "udel": null,
+      "udel": {
+        "upr": 350,
+        "gl": 107,
+        "prc": 0.3057
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 20,
       "naz": "GASILNI DOM RAČJE SELO",
-      "udel": null,
+      "udel": {
+        "upr": 446,
+        "gl": 60,
+        "prc": 0.1345
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 21,
       "naz": "GASILNI DOM SELA ŠUMBERK",
-      "udel": null,
+      "udel": {
+        "upr": 155,
+        "gl": 32,
+        "prc": 0.2065
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 14,
       "naz": "GASILNI DOM SELO",
-      "udel": null,
+      "udel": {
+        "upr": 165,
+        "gl": 52,
+        "prc": 0.3152
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 9,
       "naz": "GASILNI DOM ŠEVNICA",
-      "udel": null,
+      "udel": {
+        "upr": 194,
+        "gl": 53,
+        "prc": 0.2732
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 32,
       "naz": "GASILNI DOM ŠTATENBERK",
-      "udel": null,
+      "udel": {
+        "upr": 331,
+        "gl": 63,
+        "prc": 0.1903
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 33,
       "naz": "GASILNI DOM VELIKA STRMICA",
-      "udel": null,
+      "udel": {
+        "upr": 240,
+        "gl": 41,
+        "prc": 0.1708
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 38,
       "naz": "GASILNI DOM VRHTREBNJE",
-      "udel": null,
+      "udel": {
+        "upr": 169,
+        "gl": 38,
+        "prc": 0.2249
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 2,
       "naz": "GLIVAR DARKO, KORITA 6",
-      "udel": null,
+      "udel": {
+        "upr": 174,
+        "gl": 37,
+        "prc": 0.2126
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 29,
       "naz": "GOSTILNA JANEZ MIŠIČ, ŠTEFAN",
-      "udel": null,
+      "udel": {
+        "upr": 540,
+        "gl": 77,
+        "prc": 0.1426
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 37,
       "naz": "GOSTILNA MEGLIČ, OBRTNIŠKA 2, TREBNJE",
-      "udel": null,
+      "udel": {
+        "upr": 692,
+        "gl": 200,
+        "prc": 0.289
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 44,
       "naz": "KONČINA PETER, OKROG 11A",
-      "udel": null,
+      "udel": {
+        "upr": 107,
+        "gl": 24,
+        "prc": 0.2243
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 26,
       "naz": "KOVINOPRODAJA, SLOVENSKA VAS 5",
-      "udel": null,
+      "udel": {
+        "upr": 384,
+        "gl": 90,
+        "prc": 0.2344
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 42,
       "naz": "KRAJEVNA SKUPNOST VELIKI GABER",
-      "udel": null,
+      "udel": {
+        "upr": 613,
+        "gl": 145,
+        "prc": 0.2365
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 8,
       "naz": "KS KNEŽJA VAS, DOLENJE SELCE 21 (VAŠKO SREDIŠČE)",
-      "udel": null,
+      "udel": {
+        "upr": 338,
+        "gl": 63,
+        "prc": 0.1864
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 16,
       "naz": "KUČIČ DANIJEL, GORENJE LAKNICE 15A",
-      "udel": null,
+      "udel": {
+        "upr": 173,
+        "gl": 39,
+        "prc": 0.2254
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 4,
       "naz": "KULTURNI DOM DOBRNIČ",
-      "udel": null,
+      "udel": {
+        "upr": 337,
+        "gl": 73,
+        "prc": 0.2166
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 17,
       "naz": "KULTURNI DOM MOKRONOG",
-      "udel": null,
+      "udel": {
+        "upr": 555,
+        "gl": 117,
+        "prc": 0.2108
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 39,
       "naz": "KULTURNI DOM VELIKA LOKA",
-      "udel": null,
+      "udel": {
+        "upr": 481,
+        "gl": 142,
+        "prc": 0.2952
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 7,
       "naz": "NOVI GASILSKI DOM LUKOVEK",
-      "udel": null,
+      "udel": {
+        "upr": 477,
+        "gl": 117,
+        "prc": 0.2453
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 11,
       "naz": "OSNOVNA ŠOLA MIRNA I.",
-      "udel": null,
+      "udel": {
+        "upr": 635,
+        "gl": 168,
+        "prc": 0.2646
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 13,
       "naz": "OSNOVNA ŠOLA MIRNA II.",
-      "udel": null,
+      "udel": {
+        "upr": 635,
+        "gl": 165,
+        "prc": 0.2598
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 27,
       "naz": "OŠ DR. PAVLA LUNAČKA ŠENTRUPERT, ŠENTRUPERT I",
-      "udel": null,
+      "udel": {
+        "upr": 593,
+        "gl": 115,
+        "prc": 0.1939
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 28,
       "naz": "OŠ DR. PAVLA LUNAČKA ŠENTRUPERT, ŠENTRUPERT II",
-      "udel": null,
+      "udel": {
+        "upr": 686,
+        "gl": 151,
+        "prc": 0.2201
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 43,
       "naz": "PETER ŽIBERT, SV. VRH 3",
-      "udel": null,
+      "udel": {
+        "upr": 116,
+        "gl": 34,
+        "prc": 0.2931
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 23,
       "naz": "PGD VRHE (BIVŠA ŠOLA), GORENJI VRH PRI DOBRNIČU 1",
-      "udel": null,
+      "udel": {
+        "upr": 293,
+        "gl": 69,
+        "prc": 0.2355
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 24,
       "naz": "PROSTORI KULTURNEGA DOMA ŠENTLOVRENC",
-      "udel": null,
+      "udel": {
+        "upr": 586,
+        "gl": 100,
+        "prc": 0.1706
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 3,
       "naz": "SMOLIČ PAVLE, DOBRAVA 22",
-      "udel": null,
+      "udel": {
+        "upr": 188,
+        "gl": 46,
+        "prc": 0.2447
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 5,
       "naz": "TELOVADNICA OŠ DOLENJA NEMŠKA VAS I.",
-      "udel": null,
+      "udel": {
+        "upr": 381,
+        "gl": 98,
+        "prc": 0.2572
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 6,
       "naz": "TELOVADNICA OŠ DOLENJA NEMŠKA VAS II.",
-      "udel": null,
+      "udel": {
+        "upr": 417,
+        "gl": 108,
+        "prc": 0.259
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 30,
       "naz": "VEČNAMENSKI DOM TREBELNO",
-      "udel": null,
+      "udel": {
+        "upr": 276,
+        "gl": 61,
+        "prc": 0.221
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 31,
       "naz": "ŽAGAR ŠTEFAN, ČEŠNJICE 35",
-      "udel": null,
+      "udel": {
+        "upr": 206,
+        "gl": 57,
+        "prc": 0.2767
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 901,
       "naz": "PREDČASNO GLASOVANJE",
-      "udel": null,
+      "udel": {
+        "upr": null,
+        "gl": 0,
+        "prc": null
+      },
       "rez": null,
       "prestetih_glasov": null
     }
@@ -473,10 +645,10 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T10:00:20.6416653+02:00",
-    "datum": "2022-04-24T07:20:00+02:00",
+    "timestamp": "2022-04-24T12:36:38.0650501+02:00",
+    "datum": "2022-04-24T12:35:00+02:00",
     "cas_udelezba": "11:00",
-    "has_udelezba": false,
+    "has_udelezba": true,
     "has_rezultat": false,
     "is_final": false,
     "has_kandidati_removed": false

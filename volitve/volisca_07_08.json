@@ -7,105 +7,165 @@
     {
       "st": 6,
       "naz": "DOM KRAJANOV KRČEVINA, ŠUBIČEVA UL. 11",
-      "udel": null,
+      "udel": {
+        "upr": 746,
+        "gl": 186,
+        "prc": 0.2493
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 12,
       "naz": "DOM KRAJANOV, V ZAVOJU 40B",
-      "udel": null,
+      "udel": {
+        "upr": 997,
+        "gl": 236,
+        "prc": 0.2367
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 11,
       "naz": "OŠ B. POLANČIČ, PREŠERNOVA 19",
-      "udel": null,
+      "udel": {
+        "upr": 554,
+        "gl": 115,
+        "prc": 0.2076
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 7,
       "naz": "OŠ B. POLANČIČ, PREŠERNOVA 19",
-      "udel": null,
+      "udel": {
+        "upr": 738,
+        "gl": 160,
+        "prc": 0.2168
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 8,
       "naz": "OŠ F.R. STANE, KERSNIKOVA 10",
-      "udel": null,
+      "udel": {
+        "upr": 1025,
+        "gl": 284,
+        "prc": 0.2771
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 10,
       "naz": "OŠ F.R. STANE, KERSNIKOVA 10",
-      "udel": null,
+      "udel": {
+        "upr": 729,
+        "gl": 173,
+        "prc": 0.2373
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 15,
       "naz": "PROSTORI MČ CENTER, KACOVA 1",
-      "udel": null,
+      "udel": {
+        "upr": 1057,
+        "gl": 207,
+        "prc": 0.1958
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 2,
       "naz": "RAZSTAVNI SALON, GRAJSKA UL. 7",
-      "udel": null,
+      "udel": {
+        "upr": 1533,
+        "gl": 200,
+        "prc": 0.1305
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 3,
       "naz": "RAZSTAVNI SALON, GRAJSKA UL.7",
-      "udel": null,
+      "udel": {
+        "upr": 1056,
+        "gl": 183,
+        "prc": 0.1733
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 4,
       "naz": "SR.GRADBENA ŠOLA,SMETANOVA 35",
-      "udel": null,
+      "udel": {
+        "upr": 570,
+        "gl": 91,
+        "prc": 0.1596
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 17,
       "naz": "SR.GRADBENA ŠOLA,SMETANOVA 35",
-      "udel": null,
+      "udel": {
+        "upr": 568,
+        "gl": 116,
+        "prc": 0.2042
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 18,
       "naz": "SR.GRADBENA ŠOLA,SMETANOVA 35",
-      "udel": null,
+      "udel": {
+        "upr": 1075,
+        "gl": 197,
+        "prc": 0.1833
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 19,
       "naz": "SR.GRADBENA ŠOLA,SMETANOVA 35",
-      "udel": null,
+      "udel": {
+        "upr": 678,
+        "gl": 162,
+        "prc": 0.2389
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 20,
       "naz": "SR.GRADBENA ŠOLA,SMETANOVA 35",
-      "udel": null,
+      "udel": {
+        "upr": 825,
+        "gl": 187,
+        "prc": 0.2267
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 901,
       "naz": "PREDČASNO GLASOVANJE",
-      "udel": null,
+      "udel": {
+        "upr": null,
+        "gl": 0,
+        "prc": null
+      },
       "rez": null,
       "prestetih_glasov": null
     }
@@ -279,10 +339,10 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T10:00:20.6416653+02:00",
-    "datum": "2022-04-24T07:20:00+02:00",
+    "timestamp": "2022-04-24T12:36:38.0650501+02:00",
+    "datum": "2022-04-24T12:35:00+02:00",
     "cas_udelezba": "11:00",
-    "has_udelezba": false,
+    "has_udelezba": true,
     "has_rezultat": false,
     "is_final": false,
     "has_kandidati_removed": false

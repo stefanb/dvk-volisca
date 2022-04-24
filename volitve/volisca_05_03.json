@@ -7,147 +7,231 @@
     {
       "st": 23,
       "naz": "AMZS D.D., PE CELJE,  LJUBLJANSKA CESTA 35, CELJE",
-      "udel": null,
+      "udel": {
+        "upr": 1027,
+        "gl": 237,
+        "prc": 0.2308
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 21,
       "naz": "DIJAŠKI DOM, LJUBLJANSKA CESTA 21, CELJE",
-      "udel": null,
+      "udel": {
+        "upr": 1553,
+        "gl": 545,
+        "prc": 0.3509
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 8,
       "naz": "DOM KRAJANOV, ZAGRAD 90, CELJE",
-      "udel": null,
+      "udel": {
+        "upr": 1520,
+        "gl": 195,
+        "prc": 0.1283
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 15,
       "naz": "DON BOSKOV CENTER, DON BOSKOV TRG 1, CELJE",
-      "udel": null,
+      "udel": {
+        "upr": 1490,
+        "gl": 300,
+        "prc": 0.2013
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 26,
       "naz": "DRUŽBENI PROSTORI, UL.V.PREKOMOR.BRIGADE 4, CELJE",
-      "udel": null,
+      "udel": {
+        "upr": 783,
+        "gl": 208,
+        "prc": 0.2656
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 4,
       "naz": "FRANC DRAKSLER, TREMERJE 13, TREMERJE",
-      "udel": null,
+      "udel": {
+        "upr": 655,
+        "gl": 142,
+        "prc": 0.2168
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 27,
       "naz": "I.OŠ CELJE, DISLOC.ENOTA, KOSOVELOVA 14, CELJE",
-      "udel": null,
+      "udel": {
+        "upr": 555,
+        "gl": 112,
+        "prc": 0.2018
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 10,
       "naz": "III.OŠ CELJE - TELOVADNICA, VODNIKOVA  4, CELJE",
-      "udel": null,
+      "udel": {
+        "upr": 995,
+        "gl": 169,
+        "prc": 0.1698
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 11,
       "naz": "III.OŠ CELJE - TELOVADNICA, VODNIKOVA 4, CELJE",
-      "udel": null,
+      "udel": {
+        "upr": 1137,
+        "gl": 163,
+        "prc": 0.1434
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 19,
       "naz": "KS TRNOVLJE PRI CELJU, TRNOVELJSKA  82, CELJE",
-      "udel": null,
+      "udel": {
+        "upr": 563,
+        "gl": 165,
+        "prc": 0.2931
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 17,
       "naz": "PLAVA LAGUNA, LJUBLJANSKA  CESTA 58, CELJE",
-      "udel": null,
+      "udel": {
+        "upr": 815,
+        "gl": 195,
+        "prc": 0.2393
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 14,
       "naz": "RDEČI KRIŽ; OZ CELJE, DELAVSKA ULICA 21, CELJE",
-      "udel": null,
+      "udel": {
+        "upr": 776,
+        "gl": 108,
+        "prc": 0.1392
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 16,
       "naz": "SEDEŽ KS MEDLOG, BABNO 3A, CELJE",
-      "udel": null,
+      "udel": {
+        "upr": 549,
+        "gl": 128,
+        "prc": 0.2332
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 2,
       "naz": "SEDEŽ KS, VELIKA DVORANA, TEHARSKA 2A, CELJE",
-      "udel": null,
+      "udel": {
+        "upr": 1489,
+        "gl": 261,
+        "prc": 0.1753
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 31,
       "naz": "SEDEŽ MČ, ULICA BRATOV VOŠNJAKOV 1, CELJE",
-      "udel": null,
+      "udel": {
+        "upr": 1532,
+        "gl": 310,
+        "prc": 0.2023
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 32,
       "naz": "SEDEŽ MČ, ULICA BRATOV VOŠNJAKOV 1, CELJE",
-      "udel": null,
+      "udel": {
+        "upr": 1467,
+        "gl": 310,
+        "prc": 0.2113
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 25,
       "naz": "ŠOLSKI CENTER CELJE, POT NA LAVO 22, CELJE",
-      "udel": null,
+      "udel": {
+        "upr": 1222,
+        "gl": 303,
+        "prc": 0.248
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 28,
       "naz": "VRTEC ZARJA, ENOTA RINGA RAJA, NUŠIČEVA 2C, CELJE",
-      "udel": null,
+      "udel": {
+        "upr": 1496,
+        "gl": 278,
+        "prc": 0.1858
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 18,
       "naz": "ZARJA TRNOVLJE, KULTURNIŠKA ULICA 4, CELJE",
-      "udel": null,
+      "udel": {
+        "upr": 421,
+        "gl": 122,
+        "prc": 0.2898
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 7,
       "naz": "ŽUPNIJA CELJE; SV. CECILIJA, BREG 18, CELJE",
-      "udel": null,
+      "udel": {
+        "upr": 338,
+        "gl": 70,
+        "prc": 0.2071
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 901,
       "naz": "PREDČASNO GLASOVANJE",
-      "udel": null,
+      "udel": {
+        "upr": null,
+        "gl": 0,
+        "prc": null
+      },
       "rez": null,
       "prestetih_glasov": null
     }
@@ -319,10 +403,10 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T10:00:20.6416653+02:00",
-    "datum": "2022-04-24T07:20:00+02:00",
+    "timestamp": "2022-04-24T12:36:38.0650501+02:00",
+    "datum": "2022-04-24T12:35:00+02:00",
     "cas_udelezba": "11:00",
-    "has_udelezba": false,
+    "has_udelezba": true,
     "has_rezultat": false,
     "is_final": false,
     "has_kandidati_removed": false

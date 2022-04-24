@@ -7,168 +7,264 @@
     {
       "st": 2,
       "naz": "AVLA KULTURNEGA DOMA GORNJI GRAD, ATTEMSOV TRG 3",
-      "udel": null,
+      "udel": {
+        "upr": 1007,
+        "gl": 212,
+        "prc": 0.2105
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 10,
       "naz": "CENTER RINKA, SEJNA SOBA, SOLČAVA 29",
-      "udel": null,
+      "udel": {
+        "upr": 431,
+        "gl": 118,
+        "prc": 0.2738
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 23,
       "naz": "DOM KULTURE NAZARJE, SAVINJSKA CESTA 2",
-      "udel": null,
+      "udel": {
+        "upr": 1137,
+        "gl": 253,
+        "prc": 0.2225
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 21,
       "naz": "GASILSKI DOM LAČJA VAS, LAČJA VAS 8",
-      "udel": null,
+      "udel": {
+        "upr": 423,
+        "gl": 71,
+        "prc": 0.1678
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 6,
       "naz": "GASILSKI DOM OKONINA, OKONINA 21",
-      "udel": null,
+      "udel": {
+        "upr": 206,
+        "gl": 46,
+        "prc": 0.2233
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 20,
       "naz": "GASILSKI DOM SPODNJE POBREŽJE, SPODNJE POBREŽJE 2",
-      "udel": null,
+      "udel": {
+        "upr": 225,
+        "gl": 43,
+        "prc": 0.1911
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 18,
       "naz": "GOSTILNA MARKELJ, SPODNJA REČICA 63",
-      "udel": null,
+      "udel": {
+        "upr": 203,
+        "gl": 59,
+        "prc": 0.2906
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 9,
       "naz": "GOSTILNA POLANŠEK, PODVOLOVLJEK 35",
-      "udel": null,
+      "udel": {
+        "upr": 184,
+        "gl": 39,
+        "prc": 0.212
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 8,
       "naz": "GOSTILNA STRUGE, RADUHA 1",
-      "udel": null,
+      "udel": {
+        "upr": 208,
+        "gl": 50,
+        "prc": 0.2404
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 12,
       "naz": "KMETIJA LEVC, LOKE PRI MOZIRJU 19",
-      "udel": null,
+      "udel": {
+        "upr": 433,
+        "gl": 74,
+        "prc": 0.1709
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 16,
       "naz": "KMETIJA ŽAGAR, DOBROVLJE PRI MOZIRJU 17",
-      "udel": null,
+      "udel": {
+        "upr": 56,
+        "gl": 15,
+        "prc": 0.2679
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 1,
       "naz": "KULTURNI DOM BOČNA, BOČNA 63",
-      "udel": null,
+      "udel": {
+        "upr": 500,
+        "gl": 108,
+        "prc": 0.216
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 5,
       "naz": "KULTURNI DOM RADMIRJE, RADMIRJE 43",
-      "udel": null,
+      "udel": {
+        "upr": 460,
+        "gl": 121,
+        "prc": 0.263
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 3,
       "naz": "KULTURNI DOM ŠMIKLAVŽ, ŠMIKLAVŽ 3",
-      "udel": null,
+      "udel": {
+        "upr": 501,
+        "gl": 101,
+        "prc": 0.2016
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 17,
       "naz": "MEDGENERACIJSKI CENTER, REČICA OB SAVINJI 61",
-      "udel": null,
+      "udel": {
+        "upr": 978,
+        "gl": 244,
+        "prc": 0.2495
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 4,
       "naz": "OSNOVNA ŠOLA LJUBNO, CESTA V RASTKE 10",
-      "udel": null,
+      "udel": {
+        "upr": 1393,
+        "gl": 289,
+        "prc": 0.2075
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 7,
       "naz": "OSNOVNA ŠOLA LUČE, LUČE 77",
-      "udel": null,
+      "udel": {
+        "upr": 828,
+        "gl": 171,
+        "prc": 0.2065
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 11,
       "naz": "OSNOVNA ŠOLA MOZIRJE, ŠOLSKA ULICA 23",
-      "udel": null,
+      "udel": {
+        "upr": 1062,
+        "gl": 261,
+        "prc": 0.2458
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 14,
       "naz": "ŠOLA LEPA NJIVA, LEPA NJIVA 87",
-      "udel": null,
+      "udel": {
+        "upr": 404,
+        "gl": 69,
+        "prc": 0.1708
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 22,
       "naz": "ŠOLA ŠMARTNO OB DRETI, ŠMARTNO OB DRETI 27",
-      "udel": null,
+      "udel": {
+        "upr": 571,
+        "gl": 119,
+        "prc": 0.2084
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 15,
       "naz": "ŠOLA ŠMIHEL, ŠMIHEL NAD MOZIRJEM 28",
-      "udel": null,
+      "udel": {
+        "upr": 173,
+        "gl": 64,
+        "prc": 0.3699
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 19,
       "naz": "TEHNIČNO PREGLEDNI CENTER A.M. MIKLAVC",
-      "udel": null,
+      "udel": {
+        "upr": 400,
+        "gl": 101,
+        "prc": 0.2525
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 13,
       "naz": "UPRAV. C. MOZIRJE (SEJNA SOBA OBČINE), ŠMIHELSKA ",
-      "udel": null,
+      "udel": {
+        "upr": 1345,
+        "gl": 278,
+        "prc": 0.2067
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 901,
       "naz": "PREDČASNO GLASOVANJE",
-      "udel": null,
+      "udel": {
+        "upr": null,
+        "gl": 0,
+        "prc": null
+      },
       "rez": null,
       "prestetih_glasov": null
     }
@@ -340,10 +436,10 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T10:00:20.6416653+02:00",
-    "datum": "2022-04-24T07:20:00+02:00",
+    "timestamp": "2022-04-24T12:36:38.0650501+02:00",
+    "datum": "2022-04-24T12:35:00+02:00",
     "cas_udelezba": "11:00",
-    "has_udelezba": false,
+    "has_udelezba": true,
     "has_rezultat": false,
     "is_final": false,
     "has_kandidati_removed": false

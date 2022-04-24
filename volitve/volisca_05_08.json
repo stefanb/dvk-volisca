@@ -7,182 +7,286 @@
     {
       "st": 1,
       "naz": "BELE VODE - OSNOVNA ŠOLA",
-      "udel": null,
+      "udel": {
+        "upr": 209,
+        "gl": 69,
+        "prc": 0.3301
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 2,
       "naz": "GABERKE - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 580,
+        "gl": 142,
+        "prc": 0.2448
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 4,
       "naz": "GORENJE - KULTURNI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 352,
+        "gl": 81,
+        "prc": 0.2301
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 8,
       "naz": "KAVČE - PROSTORI KS",
-      "udel": null,
+      "udel": {
+        "upr": 418,
+        "gl": 140,
+        "prc": 0.3349
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 5,
       "naz": "LOKOVICA - DOM KS",
-      "udel": null,
+      "udel": {
+        "upr": 773,
+        "gl": 209,
+        "prc": 0.2704
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 14,
       "naz": "MLADINSKI CENTER ŠMARTNO OB PAKI",
-      "udel": null,
+      "udel": {
+        "upr": 546,
+        "gl": 117,
+        "prc": 0.2143
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 3,
       "naz": "PAŠKA VAS - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 612,
+        "gl": 143,
+        "prc": 0.2337
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 24,
       "naz": "PESJE - DOM KRAJANOV PESJE",
-      "udel": null,
+      "udel": {
+        "upr": 925,
+        "gl": 245,
+        "prc": 0.2649
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 6,
       "naz": "PLEŠIVEC - OSNOVNA ŠOLA",
-      "udel": null,
+      "udel": {
+        "upr": 343,
+        "gl": 73,
+        "prc": 0.2128
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 7,
       "naz": "PODKRAJ-AVTO KORELC, PODKRAJ PRI VELENJU 10R",
-      "udel": null,
+      "udel": {
+        "upr": 718,
+        "gl": 175,
+        "prc": 0.2437
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 10,
       "naz": "RAVNE - NOVI DOM REKS",
-      "udel": null,
+      "udel": {
+        "upr": 861,
+        "gl": 247,
+        "prc": 0.2869
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 12,
       "naz": "SKORNO-FLORJAN-GOSTIŠČE ACMAN",
-      "udel": null,
+      "udel": {
+        "upr": 613,
+        "gl": 117,
+        "prc": 0.1909
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 11,
       "naz": "SKORNO-FLORJAN-PROSTORI KS",
-      "udel": null,
+      "udel": {
+        "upr": 337,
+        "gl": 74,
+        "prc": 0.2196
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 25,
       "naz": "STARO VELENJE - VILA BIANCA",
-      "udel": null,
+      "udel": {
+        "upr": 861,
+        "gl": 147,
+        "prc": 0.1707
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 13,
       "naz": "ŠMARTNO OB PAKI - KULTURNI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 670,
+        "gl": 146,
+        "prc": 0.2179
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 15,
       "naz": "ŠMARTNO OB PAKI - OŠ BRATOV L.",
-      "udel": null,
+      "udel": {
+        "upr": 519,
+        "gl": 139,
+        "prc": 0.2678
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 16,
       "naz": "ŠOŠTANJ - OSNOVNA ŠOLA",
-      "udel": null,
+      "udel": {
+        "upr": 996,
+        "gl": 222,
+        "prc": 0.2229
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 17,
       "naz": "ŠOŠTANJ - OSNOVNA ŠOLA",
-      "udel": null,
+      "udel": {
+        "upr": 924,
+        "gl": 205,
+        "prc": 0.2219
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 18,
       "naz": "TOPOLŠICA - DOM KRAJANOV",
-      "udel": null,
+      "udel": {
+        "upr": 783,
+        "gl": 177,
+        "prc": 0.2261
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 19,
       "naz": "TOPOLŠICA - LETALIŠČE LAJŠE",
-      "udel": null,
+      "udel": {
+        "upr": 234,
+        "gl": 50,
+        "prc": 0.2137
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 20,
       "naz": "VELENJE - OŠ MPT",
-      "udel": null,
+      "udel": {
+        "upr": 1515,
+        "gl": 310,
+        "prc": 0.2046
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 21,
       "naz": "VELENJE - OŠ MPT",
-      "udel": null,
+      "udel": {
+        "upr": 845,
+        "gl": 132,
+        "prc": 0.1562
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 22,
       "naz": "VELENJE-PROST.MČ,KERSNIK.1",
-      "udel": null,
+      "udel": {
+        "upr": 900,
+        "gl": 157,
+        "prc": 0.1744
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 23,
       "naz": "VELENJE-PROST.MČ,KERSNIK.1",
-      "udel": null,
+      "udel": {
+        "upr": 865,
+        "gl": 202,
+        "prc": 0.2335
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 26,
       "naz": "ZAVODNJE - VEČNAMENSKI DOM ",
-      "udel": null,
+      "udel": {
+        "upr": 286,
+        "gl": 72,
+        "prc": 0.2517
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 901,
       "naz": "PREDČASNO GLASOVANJE",
-      "udel": null,
+      "udel": {
+        "upr": null,
+        "gl": 0,
+        "prc": null
+      },
       "rez": null,
       "prestetih_glasov": null
     }
@@ -354,10 +458,10 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T10:00:20.6416653+02:00",
-    "datum": "2022-04-24T07:20:00+02:00",
+    "timestamp": "2022-04-24T12:36:38.0650501+02:00",
+    "datum": "2022-04-24T12:35:00+02:00",
     "cas_udelezba": "11:00",
-    "has_udelezba": false,
+    "has_udelezba": true,
     "has_rezultat": false,
     "is_final": false,
     "has_kandidati_removed": false

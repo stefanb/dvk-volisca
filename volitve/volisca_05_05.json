@@ -7,273 +7,429 @@
     {
       "st": 34,
       "naz": "ALOJZ FERME LIMOVCE 3",
-      "udel": null,
+      "udel": {
+        "upr": 84,
+        "gl": 23,
+        "prc": 0.2738
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 36,
       "naz": "DOM KRAJANOV ČEPLJE",
-      "udel": null,
+      "udel": {
+        "upr": 147,
+        "gl": 39,
+        "prc": 0.2653
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 23,
       "naz": "DOM KRAJANOV GOMILSKO",
-      "udel": null,
+      "udel": {
+        "upr": 313,
+        "gl": 49,
+        "prc": 0.1565
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 5,
       "naz": "DOM KRAJANOV MALA PIREŠICA",
-      "udel": null,
+      "udel": {
+        "upr": 161,
+        "gl": 40,
+        "prc": 0.2484
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 27,
       "naz": "DOM KRAJANOV TABOR",
-      "udel": null,
+      "udel": {
+        "upr": 775,
+        "gl": 196,
+        "prc": 0.2529
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 37,
       "naz": "DOM KULTURE BRASLOVČE I.",
-      "udel": null,
+      "udel": {
+        "upr": 1009,
+        "gl": 221,
+        "prc": 0.219
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 20,
       "naz": "DOM KULTURE BRASLOVČE II.",
-      "udel": null,
+      "udel": {
+        "upr": 740,
+        "gl": 149,
+        "prc": 0.2014
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 11,
       "naz": "DOM KULTURE ŠEŠČE",
-      "udel": null,
+      "udel": {
+        "upr": 379,
+        "gl": 121,
+        "prc": 0.3193
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 4,
       "naz": "GASILSKI DOM ARJA VAS",
-      "udel": null,
+      "udel": {
+        "upr": 391,
+        "gl": 123,
+        "prc": 0.3146
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 22,
       "naz": "GASILSKI DOM DOBROVLJE",
-      "udel": null,
+      "udel": {
+        "upr": 107,
+        "gl": 31,
+        "prc": 0.2897
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 6,
       "naz": "GASILSKI DOM DREŠINJA VAS",
-      "udel": null,
+      "udel": {
+        "upr": 201,
+        "gl": 50,
+        "prc": 0.2488
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 25,
       "naz": "GASILSKI DOM GRAJSKA VAS",
-      "udel": null,
+      "udel": {
+        "upr": 286,
+        "gl": 71,
+        "prc": 0.2483
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 28,
       "naz": "GASILSKI DOM KAPLA",
-      "udel": null,
+      "udel": {
+        "upr": 356,
+        "gl": 82,
+        "prc": 0.2303
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 16,
       "naz": "GASILSKI DOM KAPLJA VAS",
-      "udel": null,
+      "udel": {
+        "upr": 248,
+        "gl": 73,
+        "prc": 0.2944
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 15,
       "naz": "GASILSKI DOM LATKOVA VAS",
-      "udel": null,
+      "udel": {
+        "upr": 812,
+        "gl": 214,
+        "prc": 0.2635
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 32,
       "naz": "GASILSKI DOM LOČICA",
-      "udel": null,
+      "udel": {
+        "upr": 236,
+        "gl": 61,
+        "prc": 0.2585
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 29,
       "naz": "GASILSKI DOM LOKE",
-      "udel": null,
+      "udel": {
+        "upr": 257,
+        "gl": 54,
+        "prc": 0.2101
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 12,
       "naz": "GASILSKI DOM MATKE",
-      "udel": null,
+      "udel": {
+        "upr": 298,
+        "gl": 76,
+        "prc": 0.255
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 21,
       "naz": "GASILSKI DOM PARIŽLJE",
-      "udel": null,
+      "udel": {
+        "upr": 703,
+        "gl": 184,
+        "prc": 0.2617
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 35,
       "naz": "GASILSKI DOM PREKOPA",
-      "udel": null,
+      "udel": {
+        "upr": 326,
+        "gl": 101,
+        "prc": 0.3098
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 17,
       "naz": "GASILSKI DOM SV. LOVRENC",
-      "udel": null,
+      "udel": {
+        "upr": 329,
+        "gl": 73,
+        "prc": 0.2219
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 31,
       "naz": "GASILSKI DOM TEŠOVA",
-      "udel": null,
+      "udel": {
+        "upr": 190,
+        "gl": 57,
+        "prc": 0.3
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 19,
       "naz": "GASILSKI DOM TRNAVA",
-      "udel": null,
+      "udel": {
+        "upr": 501,
+        "gl": 116,
+        "prc": 0.2315
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 9,
       "naz": "GASILSKI DOM ZABUKOVICA",
-      "udel": null,
+      "udel": {
+        "upr": 619,
+        "gl": 154,
+        "prc": 0.2488
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 33,
       "naz": "KOS MARIJA PRAPREČE 15",
-      "udel": null,
+      "udel": {
+        "upr": 240,
+        "gl": 49,
+        "prc": 0.2042
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 2,
       "naz": "KRAJEVNA SKUPNOST LIBOJE",
-      "udel": null,
+      "udel": {
+        "upr": 657,
+        "gl": 174,
+        "prc": 0.2648
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 26,
       "naz": "KULTURNI DOM LETUŠ",
-      "udel": null,
+      "udel": {
+        "upr": 813,
+        "gl": 218,
+        "prc": 0.2681
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 30,
       "naz": "KULTURNI DOM VRANSKO",
-      "udel": null,
+      "udel": {
+        "upr": 869,
+        "gl": 216,
+        "prc": 0.2486
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 14,
       "naz": "MUZEJ PREBOLD (REŽAJEVA DOMAČIJA)",
-      "udel": null,
+      "udel": {
+        "upr": 904,
+        "gl": 231,
+        "prc": 0.2555
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 8,
       "naz": "OSNOVNA ŠOLA GRIŽE I.",
-      "udel": null,
+      "udel": {
+        "upr": 718,
+        "gl": 177,
+        "prc": 0.2465
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 38,
       "naz": "OSNOVNA ŠOLA GRIŽE II.",
-      "udel": null,
+      "udel": {
+        "upr": 661,
+        "gl": 155,
+        "prc": 0.2345
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 1,
       "naz": "OSNOVNA ŠOLA LIBOJE",
-      "udel": null,
+      "udel": {
+        "upr": 632,
+        "gl": 147,
+        "prc": 0.2326
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 3,
       "naz": "OSNOVNA ŠOLA PETROVČE",
-      "udel": null,
+      "udel": {
+        "upr": 1147,
+        "gl": 281,
+        "prc": 0.245
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 13,
       "naz": "OSNOVNA ŠOLA PREBOLD",
-      "udel": null,
+      "udel": {
+        "upr": 778,
+        "gl": 197,
+        "prc": 0.2532
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 18,
       "naz": "PLANINSKI DOM MARIJA REKA",
-      "udel": null,
+      "udel": {
+        "upr": 242,
+        "gl": 61,
+        "prc": 0.2521
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 24,
       "naz": "ŠPORTNI DOM ŠMATEVŽ",
-      "udel": null,
+      "udel": {
+        "upr": 154,
+        "gl": 36,
+        "prc": 0.2338
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 7,
       "naz": "VRTEC LEVEC",
-      "udel": null,
+      "udel": {
+        "upr": 374,
+        "gl": 88,
+        "prc": 0.2353
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 10,
       "naz": "VRTEC PONGRAC",
-      "udel": null,
+      "udel": {
+        "upr": 351,
+        "gl": 93,
+        "prc": 0.265
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 901,
       "naz": "PREDČASNO GLASOVANJE",
-      "udel": null,
+      "udel": {
+        "upr": null,
+        "gl": 0,
+        "prc": null
+      },
       "rez": null,
       "prestetih_glasov": null
     }
@@ -445,10 +601,10 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T10:00:20.6416653+02:00",
-    "datum": "2022-04-24T07:20:00+02:00",
+    "timestamp": "2022-04-24T12:36:38.0650501+02:00",
+    "datum": "2022-04-24T12:35:00+02:00",
     "cas_udelezba": "11:00",
-    "has_udelezba": false,
+    "has_udelezba": true,
     "has_rezultat": false,
     "is_final": false,
     "has_kandidati_removed": false

@@ -7,406 +7,638 @@
     {
       "st": 44,
       "naz": "A MI GO, D.O.O., VINICE 8",
-      "udel": null,
+      "udel": {
+        "upr": 100,
+        "gl": 30,
+        "prc": 0.3
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 23,
       "naz": "DOM DRUŠTVA VETER BREG, BREG 17",
-      "udel": null,
+      "udel": {
+        "upr": 536,
+        "gl": 112,
+        "prc": 0.209
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 47,
       "naz": "DOM KRAJANOV PODPRESKA-V PROST.PGD, PODPRESKA 3 A",
-      "udel": null,
+      "udel": {
+        "upr": 99,
+        "gl": 30,
+        "prc": 0.303
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 11,
       "naz": "DRUŠTVO INVALIDOV RIBNICA, KNAFLJEV TRG 2",
-      "udel": null,
+      "udel": {
+        "upr": 208,
+        "gl": 43,
+        "prc": 0.2067
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 18,
       "naz": "GASILSKI DOM BUKOVICA, BUKOVICA 12",
-      "udel": null,
+      "udel": {
+        "upr": 91,
+        "gl": 25,
+        "prc": 0.2747
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 19,
       "naz": "GASILSKI DOM DANE",
-      "udel": null,
+      "udel": {
+        "upr": 49,
+        "gl": 17,
+        "prc": 0.3469
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 29,
       "naz": "GASILSKI DOM DOLENJA VAS, LONČARSKA ULICA 66",
-      "udel": null,
+      "udel": {
+        "upr": 259,
+        "gl": 50,
+        "prc": 0.1931
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 24,
       "naz": "GASILSKI DOM DOLENJI LAZI, DOLENJI LAZI 2 A",
-      "udel": null,
+      "udel": {
+        "upr": 244,
+        "gl": 65,
+        "prc": 0.2664
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 14,
       "naz": "GASILSKI DOM GORIČA VAS, GORIČA VAS 68 A",
-      "udel": null,
+      "udel": {
+        "upr": 303,
+        "gl": 56,
+        "prc": 0.1848
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 32,
       "naz": "GASILSKI DOM GRČARICE, GRČARICE 3",
-      "udel": null,
+      "udel": {
+        "upr": 140,
+        "gl": 40,
+        "prc": 0.2857
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 53,
       "naz": "GASILSKI DOM HOČEVJE, HOČEVJE 19",
-      "udel": null,
+      "udel": {
+        "upr": 146,
+        "gl": 49,
+        "prc": 0.3356
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 21,
       "naz": "GASILSKI DOM JURJEVICA, JURJEVICA 37 A",
-      "udel": null,
+      "udel": {
+        "upr": 160,
+        "gl": 50,
+        "prc": 0.3125
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 56,
       "naz": "GASILSKI DOM KOMPOLJE, KOMPOLJE 60",
-      "udel": null,
+      "udel": {
+        "upr": 367,
+        "gl": 95,
+        "prc": 0.2589
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 27,
       "naz": "GASILSKI DOM LIPOVEC, LIPOVEC 17",
-      "udel": null,
+      "udel": {
+        "upr": 123,
+        "gl": 36,
+        "prc": 0.2927
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 5,
       "naz": "GASILSKI DOM MALI LOG, MALI LOG 9",
-      "udel": null,
+      "udel": {
+        "upr": 176,
+        "gl": 45,
+        "prc": 0.2557
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 15,
       "naz": "GASILSKI DOM NEMŠKA VAS, NEMŠKA VAS 22",
-      "udel": null,
+      "udel": {
+        "upr": 196,
+        "gl": 55,
+        "prc": 0.2806
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 50,
       "naz": "GASILSKI DOM NOVI KOT",
-      "udel": null,
+      "udel": {
+        "upr": 51,
+        "gl": 18,
+        "prc": 0.3529
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 28,
       "naz": "GASILSKI DOM PRIGORICA, PRIGORICA 38",
-      "udel": null,
+      "udel": {
+        "upr": 317,
+        "gl": 91,
+        "prc": 0.2871
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 31,
       "naz": "GASILSKI DOM RAKITNICA, RAKITNICA 6A",
-      "udel": null,
+      "udel": {
+        "upr": 210,
+        "gl": 46,
+        "prc": 0.219
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 1,
       "naz": "GASILSKI DOM RETJE, RETJE 55 A",
-      "udel": null,
+      "udel": {
+        "upr": 329,
+        "gl": 75,
+        "prc": 0.228
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 17,
       "naz": "GASILSKI DOM SAJEVEC",
-      "udel": null,
+      "udel": {
+        "upr": 118,
+        "gl": 19,
+        "prc": 0.161
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 46,
       "naz": "GASILSKI DOM SODRAŽICA, TRG 25. MAJA 5, SODRAŽICA",
-      "udel": null,
+      "udel": {
+        "upr": 361,
+        "gl": 100,
+        "prc": 0.277
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 35,
       "naz": "GASILSKI DOM SVETI GREGOR, SVETI GREGOR 17",
-      "udel": null,
+      "udel": {
+        "upr": 337,
+        "gl": 117,
+        "prc": 0.3472
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 49,
       "naz": "GASILSKI DOM TRAVA, TRAVA 14",
-      "udel": null,
+      "udel": {
+        "upr": 106,
+        "gl": 22,
+        "prc": 0.2075
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 54,
       "naz": "GASILSKI DOM ZAGORICA, ZAGORICA 36A",
-      "udel": null,
+      "udel": {
+        "upr": 172,
+        "gl": 30,
+        "prc": 0.1744
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 38,
       "naz": "GASILSKI DOM ZAMOSTEC, ZAMOSTEC 8 A",
-      "udel": null,
+      "udel": {
+        "upr": 198,
+        "gl": 53,
+        "prc": 0.2677
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 36,
       "naz": "GASILSKI DOM ZAPOTOK, ZAPOTOK 2",
-      "udel": null,
+      "udel": {
+        "upr": 151,
+        "gl": 46,
+        "prc": 0.3046
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 40,
       "naz": "GASILSKI DOM ŽIMARICE, ŽIMARICE 76",
-      "udel": null,
+      "udel": {
+        "upr": 215,
+        "gl": 49,
+        "prc": 0.2279
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 6,
       "naz": "GLASBENA ŠOLA RIBNICA, KOLODVORSKA ULICA 10",
-      "udel": null,
+      "udel": {
+        "upr": 480,
+        "gl": 83,
+        "prc": 0.1729
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 4,
       "naz": "GOSTILNA \"PRI KAPCU\", TRAVNIK 74",
-      "udel": null,
+      "udel": {
+        "upr": 267,
+        "gl": 61,
+        "prc": 0.2285
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 34,
       "naz": "GOSTILNA MATJAK, ORTNEK 2, 1316 ORTNEK",
-      "udel": null,
+      "udel": {
+        "upr": 92,
+        "gl": 18,
+        "prc": 0.1957
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 13,
       "naz": "GOSTILNA PRI ANDOLJŠKU,HROVAČA 30",
-      "udel": null,
+      "udel": {
+        "upr": 272,
+        "gl": 74,
+        "prc": 0.2721
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 51,
       "naz": "GOSTIŠČE - PENZION MAKŠAR, BREŽE 18A",
-      "udel": null,
+      "udel": {
+        "upr": 126,
+        "gl": 23,
+        "prc": 0.1825
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 25,
       "naz": "GOSTIŠČE VRBA, ŽLEBIČ 15A, 1310 RIBNICA",
-      "udel": null,
+      "udel": {
+        "upr": 321,
+        "gl": 26,
+        "prc": 0.081
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 52,
       "naz": "JAKLIČEV DOM DOBREPOLJE, VIDEM 34",
-      "udel": null,
+      "udel": {
+        "upr": 1013,
+        "gl": 229,
+        "prc": 0.2261
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 48,
       "naz": "LOVSKI DOM DRAGA, DRAGA 33A",
-      "udel": null,
+      "udel": {
+        "upr": 72,
+        "gl": 14,
+        "prc": 0.1944
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 16,
       "naz": "OBORA - ANDOLJŠEK ALOJZ, OTAVICE 31 B",
-      "udel": null,
+      "udel": {
+        "upr": 91,
+        "gl": 18,
+        "prc": 0.1978
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 39,
       "naz": "OSNOVNA ŠOLA DR. IVAN PRIJATELJ SODRAŽICA, CNO 10",
-      "udel": null,
+      "udel": {
+        "upr": 313,
+        "gl": 76,
+        "prc": 0.2428
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 9,
       "naz": "OSNOVNA ŠOLA FRANCETA PREŠERNA RIBNICA,ŠOLSKA UL ",
-      "udel": null,
+      "udel": {
+        "upr": 647,
+        "gl": 119,
+        "prc": 0.1839
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 26,
       "naz": "OSNOVNA ŠOLA SUŠJE, SUŠJE 2",
-      "udel": null,
+      "udel": {
+        "upr": 89,
+        "gl": 39,
+        "prc": 0.4382
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 45,
       "naz": "OŠ DR.F. PREŠERNA-PODRUŽ. DOLENJA VAS, ŠOLSKA UL ",
-      "udel": null,
+      "udel": {
+        "upr": 344,
+        "gl": 75,
+        "prc": 0.218
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 58,
       "naz": "OŠ STRUGE, LIPA 16",
-      "udel": null,
+      "udel": {
+        "upr": 416,
+        "gl": 100,
+        "prc": 0.2404
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 30,
       "naz": "PRI DRAGU MERHARJU, BLATE 1",
-      "udel": null,
+      "udel": {
+        "upr": 50,
+        "gl": 14,
+        "prc": 0.28
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 22,
       "naz": "PRI GORNIK IVANKI, KOT 11",
-      "udel": null,
+      "udel": {
+        "upr": 92,
+        "gl": 40,
+        "prc": 0.4348
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 37,
       "naz": "PRI JOŽETU LUŠINU, LIPOVŠICA 1",
-      "udel": null,
+      "udel": {
+        "upr": 94,
+        "gl": 27,
+        "prc": 0.2872
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 42,
       "naz": "PRI JULIJANI MIHELIČ, PODKLANEC 7",
-      "udel": null,
+      "udel": {
+        "upr": 101,
+        "gl": 21,
+        "prc": 0.2079
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 3,
       "naz": "PRI LAVRIČ SLAVKU, ŠEGOVA VAS 11",
-      "udel": null,
+      "udel": {
+        "upr": 87,
+        "gl": 26,
+        "prc": 0.2989
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 41,
       "naz": "PRI MIRKU ORAŽMU, GLOBEL 8",
-      "udel": null,
+      "udel": {
+        "upr": 93,
+        "gl": 34,
+        "prc": 0.3656
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 57,
       "naz": "PRIZMA PONIKVE POSEBNI SOC. VAR. ZAVOD, PONIKVE 7",
-      "udel": null,
+      "udel": {
+        "upr": 359,
+        "gl": 99,
+        "prc": 0.2758
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 8,
       "naz": "ROKODELSKI CENTER RIBNICA (RCR-A) CESTA NA UGAR 6",
-      "udel": null,
+      "udel": {
+        "upr": 472,
+        "gl": 93,
+        "prc": 0.197
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 10,
       "naz": "ROKODELSKI CENTER RIBNICA (RCR-B), CESTA NA UGAR ",
-      "udel": null,
+      "udel": {
+        "upr": 424,
+        "gl": 71,
+        "prc": 0.1675
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 33,
       "naz": "ŠOLA VELIKE POLJANE, VELIKE POLJANE 45",
-      "udel": null,
+      "udel": {
+        "upr": 138,
+        "gl": 47,
+        "prc": 0.3406
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 7,
       "naz": "ŠPORTNI CENTER RIBNICA (ŠCR-A), MAJNIKOVA 2",
-      "udel": null,
+      "udel": {
+        "upr": 176,
+        "gl": 32,
+        "prc": 0.1818
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 12,
       "naz": "TURISTIČNO DRUŠTVO RIBNICA, GALLUSOVO NABREŽJE 10",
-      "udel": null,
+      "udel": {
+        "upr": 206,
+        "gl": 30,
+        "prc": 0.1456
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 43,
       "naz": "TURISTIČNO ŠPORTNO DRUŠTVO GORA, PETRINCI 10 A",
-      "udel": null,
+      "udel": {
+        "upr": 118,
+        "gl": 23,
+        "prc": 0.1949
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 55,
       "naz": "VAŠKI PROSTOR PREDSTRUGE, PREDSTRUGE 60",
-      "udel": null,
+      "udel": {
+        "upr": 459,
+        "gl": 125,
+        "prc": 0.2723
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 2,
       "naz": "VEČNAMENSKI OBJEKT HRIB, HRIB 19A, LOŠKI POTOK",
-      "udel": null,
+      "udel": {
+        "upr": 270,
+        "gl": 56,
+        "prc": 0.2074
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 901,
       "naz": "PREDČASNO GLASOVANJE",
-      "udel": null,
+      "udel": {
+        "upr": null,
+        "gl": 0,
+        "prc": null
+      },
       "rez": null,
       "prestetih_glasov": null
     }
@@ -578,10 +810,10 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T10:00:20.6416653+02:00",
-    "datum": "2022-04-24T07:20:00+02:00",
+    "timestamp": "2022-04-24T12:36:38.0650501+02:00",
+    "datum": "2022-04-24T12:35:00+02:00",
     "cas_udelezba": "11:00",
-    "has_udelezba": false,
+    "has_udelezba": true,
     "has_rezultat": false,
     "is_final": false,
     "has_kandidati_removed": false

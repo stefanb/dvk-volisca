@@ -7,126 +7,198 @@
     {
       "st": 1,
       "naz": "BEVČE  - DOM KRAJANOV BEVČE",
-      "udel": null,
+      "udel": {
+        "upr": 288,
+        "gl": 86,
+        "prc": 0.2986
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 2,
       "naz": "CIRKOVCE - OŠ CIRKOVCE",
-      "udel": null,
+      "udel": {
+        "upr": 203,
+        "gl": 44,
+        "prc": 0.2167
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 13,
       "naz": "GORICA - OŠ GORICA",
-      "udel": null,
+      "udel": {
+        "upr": 875,
+        "gl": 173,
+        "prc": 0.1977
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 14,
       "naz": "GORICA - OŠ GORICA",
-      "udel": null,
+      "udel": {
+        "upr": 985,
+        "gl": 212,
+        "prc": 0.2152
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 15,
       "naz": "GORICA - PROST.KS, GORIŠKA 46",
-      "udel": null,
+      "udel": {
+        "upr": 1420,
+        "gl": 330,
+        "prc": 0.2324
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 10,
       "naz": "KONOVO - DOM KRAJANOV",
-      "udel": null,
+      "udel": {
+        "upr": 814,
+        "gl": 179,
+        "prc": 0.2199
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 3,
       "naz": "PAKA PRI VELENJU-DOM KRAJANOV PAKA, PAKA 68",
-      "udel": null,
+      "udel": {
+        "upr": 641,
+        "gl": 118,
+        "prc": 0.1841
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 11,
       "naz": "SELO-AVTOCENTER CELEIA, PE JAKOPEC, KOSOVELOVA 16",
-      "udel": null,
+      "udel": {
+        "upr": 815,
+        "gl": 180,
+        "prc": 0.2209
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 12,
       "naz": "STARA VAS-KOMUNALNO PODJETJE VELENJE, KOROŠKA 37B",
-      "udel": null,
+      "udel": {
+        "upr": 745,
+        "gl": 180,
+        "prc": 0.2416
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 21,
       "naz": "ŠALEK - OSNOVNA ŠOLA ŠALEK",
-      "udel": null,
+      "udel": {
+        "upr": 1392,
+        "gl": 295,
+        "prc": 0.2119
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 4,
       "naz": "ŠENTILJ - DOM KRAJANOV",
-      "udel": null,
+      "udel": {
+        "upr": 923,
+        "gl": 270,
+        "prc": 0.2925
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 5,
       "naz": "ŠKALE - GASILSKI DOM ",
-      "udel": null,
+      "udel": {
+        "upr": 985,
+        "gl": 230,
+        "prc": 0.2335
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 17,
       "naz": "ŠMARTNO - DOM KRAJANOV",
-      "udel": null,
+      "udel": {
+        "upr": 1143,
+        "gl": 249,
+        "prc": 0.2178
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 8,
       "naz": "VELENJE - PROSTORI MČ, FOITOVA 2",
-      "udel": null,
+      "udel": {
+        "upr": 1246,
+        "gl": 240,
+        "prc": 0.1926
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 7,
       "naz": "VELENJE - SEJNA DVORANA MO VELENJE",
-      "udel": null,
+      "udel": {
+        "upr": 1119,
+        "gl": 187,
+        "prc": 0.1671
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 18,
       "naz": "VELENJE-PROSTOR MČ, KARDELJEV TRG 7",
-      "udel": null,
+      "udel": {
+        "upr": 810,
+        "gl": 149,
+        "prc": 0.184
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 20,
       "naz": "VELENJE-PROSTOR MČ-KARDELJEV TRG 5",
-      "udel": null,
+      "udel": {
+        "upr": 963,
+        "gl": 211,
+        "prc": 0.2191
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 901,
       "naz": "PREDČASNO GLASOVANJE",
-      "udel": null,
+      "udel": {
+        "upr": null,
+        "gl": 0,
+        "prc": null
+      },
       "rez": null,
       "prestetih_glasov": null
     }
@@ -298,10 +370,10 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T10:00:20.6416653+02:00",
-    "datum": "2022-04-24T07:20:00+02:00",
+    "timestamp": "2022-04-24T12:36:38.0650501+02:00",
+    "datum": "2022-04-24T12:35:00+02:00",
     "cas_udelezba": "11:00",
-    "has_udelezba": false,
+    "has_udelezba": true,
     "has_rezultat": false,
     "is_final": false,
     "has_kandidati_removed": false

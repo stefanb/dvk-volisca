@@ -7,245 +7,385 @@
     {
       "st": 14,
       "naz": "CENTER ZALOG, ZALOŠKA C. 267, LJ., 1. NADST.",
-      "udel": null,
+      "udel": {
+        "upr": 1062,
+        "gl": 231,
+        "prc": 0.2175
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 15,
       "naz": "CENTER ZALOG, ZALOŠKA C. 267, LJ., 1. NADST.",
-      "udel": null,
+      "udel": {
+        "upr": 841,
+        "gl": 210,
+        "prc": 0.2497
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 16,
       "naz": "DOM PODGRAD, PODGRAJSKA C.6E",
-      "udel": null,
+      "udel": {
+        "upr": 215,
+        "gl": 41,
+        "prc": 0.1907
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 34,
       "naz": "GASILSKI DOM SLAPE, SLAPE 50",
-      "udel": null,
+      "udel": {
+        "upr": 103,
+        "gl": 34,
+        "prc": 0.3301
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 31,
       "naz": "GASILSKI DOM SLAPE, SLAPE 50",
-      "udel": null,
+      "udel": {
+        "upr": 701,
+        "gl": 163,
+        "prc": 0.2325
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 5,
       "naz": "GD KLOPCE, KLOPCE 40, DOL PRI LJUBLJANI",
-      "udel": null,
+      "udel": {
+        "upr": 205,
+        "gl": 39,
+        "prc": 0.1902
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 4,
       "naz": "GD LAZE, LAZE, DOL PRI LJUBLJANI",
-      "udel": null,
+      "udel": {
+        "upr": 176,
+        "gl": 47,
+        "prc": 0.267
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 2,
       "naz": "GD SENOŽETI 25, DOL PRI LJUBLJANI",
-      "udel": null,
+      "udel": {
+        "upr": 670,
+        "gl": 162,
+        "prc": 0.2418
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 3,
       "naz": "GD VINJE, VINJE, DOL PRI LJUBLJANI",
-      "udel": null,
+      "udel": {
+        "upr": 402,
+        "gl": 114,
+        "prc": 0.2836
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 17,
       "naz": "GD ZGORNJI KAŠELJ, KAŠELJSKA C.95",
-      "udel": null,
+      "udel": {
+        "upr": 761,
+        "gl": 185,
+        "prc": 0.2431
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 1,
       "naz": "KULTURNI DOM DOLSKO, DOLSKO 55, DOL PRI LJUBLJANI",
-      "udel": null,
+      "udel": {
+        "upr": 938,
+        "gl": 290,
+        "prc": 0.3092
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 6,
       "naz": "OŠ BESNICA, BESNICA 23, LJUBLJANA",
-      "udel": null,
+      "udel": {
+        "upr": 312,
+        "gl": 91,
+        "prc": 0.2917
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 7,
       "naz": "OŠ JANČE, GABRJE PRI JANČAH 16, LJUBLJANA",
-      "udel": null,
+      "udel": {
+        "upr": 317,
+        "gl": 61,
+        "prc": 0.1924
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 29,
       "naz": "OŠ POLJE, ZALOŠKA 189, 1000 LJUBLJANA",
-      "udel": null,
+      "udel": {
+        "upr": 1104,
+        "gl": 129,
+        "prc": 0.1168
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 30,
       "naz": "OŠ POLJE, ZALOŠKA 189, 1000 LJUBLJANA",
-      "udel": null,
+      "udel": {
+        "upr": 581,
+        "gl": 143,
+        "prc": 0.2461
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 8,
       "naz": "OŠ PREŽGANJE, PREŽGANJE 7, LJUBLJANA",
-      "udel": null,
+      "udel": {
+        "upr": 637,
+        "gl": 150,
+        "prc": 0.2355
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 24,
       "naz": "OŠ SOSTRO, CESTA II. GRUPE ODREDOV 47",
-      "udel": null,
+      "udel": {
+        "upr": 709,
+        "gl": 147,
+        "prc": 0.2073
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 25,
       "naz": "OŠ SOSTRO, CESTA II. GRUPE ODREDOV 47",
-      "udel": null,
+      "udel": {
+        "upr": 749,
+        "gl": 196,
+        "prc": 0.2617
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 21,
       "naz": "OŠ SOSTRO, CESTA II.GRUPE ODREDOV 47",
-      "udel": null,
+      "udel": {
+        "upr": 701,
+        "gl": 170,
+        "prc": 0.2425
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 20,
       "naz": "OŠ ZADOBROVA, ZADOBROVŠKA C.35",
-      "udel": null,
+      "udel": {
+        "upr": 982,
+        "gl": 245,
+        "prc": 0.2495
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 12,
       "naz": "OŠ ZALOG, CERUTOVA UL. 7",
-      "udel": null,
+      "udel": {
+        "upr": 388,
+        "gl": 102,
+        "prc": 0.2629
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 13,
       "naz": "OŠ ZALOG, CERUTOVA UL. 7",
-      "udel": null,
+      "udel": {
+        "upr": 654,
+        "gl": 139,
+        "prc": 0.2125
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 11,
       "naz": "OŠ ZALOG, CERUTOVA ULICA 7, 1000 LJUBLJANA",
-      "udel": null,
+      "udel": {
+        "upr": 623,
+        "gl": 137,
+        "prc": 0.2199
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 22,
       "naz": "OŠ ZGORNJI KAŠELJ, KAŠELJSKA CESTA 119A",
-      "udel": null,
+      "udel": {
+        "upr": 702,
+        "gl": 173,
+        "prc": 0.2464
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 18,
       "naz": "OŠ ZGORNJI KAŠELJ, KAŠELJSKA CESTA 119A",
-      "udel": null,
+      "udel": {
+        "upr": 795,
+        "gl": 183,
+        "prc": 0.2302
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 19,
       "naz": "OŠ ZGORNJI KAŠELJ, KAŠELJSKA CESTA 119A",
-      "udel": null,
+      "udel": {
+        "upr": 1032,
+        "gl": 304,
+        "prc": 0.2946
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 27,
       "naz": "PGD BIZOVIK, BIZOVIŠKA C. 15A, LJUBLJANA",
-      "udel": null,
+      "udel": {
+        "upr": 1179,
+        "gl": 282,
+        "prc": 0.2392
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 32,
       "naz": "PODRUŽNIČNA ŠOLA HRUŠICA, POT DO ŠOLE 1,LJUBLJANA",
-      "udel": null,
+      "udel": {
+        "upr": 1123,
+        "gl": 306,
+        "prc": 0.2725
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 10,
       "naz": "PODRUŽNIČNA ŠOLA LIPOGLAV, MALI LIPOGLAV 8",
-      "udel": null,
+      "udel": {
+        "upr": 506,
+        "gl": 144,
+        "prc": 0.2846
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 33,
       "naz": "PROSTORI MOL (POLJE), ZALOŠKA CESTA 160,LJUBLJANA",
-      "udel": null,
+      "udel": {
+        "upr": 949,
+        "gl": 153,
+        "prc": 0.1612
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 28,
       "naz": "PROSTORI MOL (POLJE), ZALOŠKA CESTA 160,LJUBLJANA",
-      "udel": null,
+      "udel": {
+        "upr": 691,
+        "gl": 138,
+        "prc": 0.1997
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 23,
       "naz": "SPOMINSKA HIŠA PODLIPOGLAV, PODLIPOGLAV 19",
-      "udel": null,
+      "udel": {
+        "upr": 627,
+        "gl": 186,
+        "prc": 0.2967
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 26,
       "naz": "ZADRUŽNI DOM ZADVOR, CESTA II. GRUPE ODREDOV 43",
-      "udel": null,
+      "udel": {
+        "upr": 636,
+        "gl": 165,
+        "prc": 0.2594
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 9,
       "naz": "ŽUPNIŠČE JAVOR, JAVOR 1, LJUBLJANA",
-      "udel": null,
+      "udel": {
+        "upr": 201,
+        "gl": 64,
+        "prc": 0.3184
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 901,
       "naz": "PREDČASNO GLASOVANJE",
-      "udel": null,
+      "udel": {
+        "upr": null,
+        "gl": 0,
+        "prc": null
+      },
       "rez": null,
       "prestetih_glasov": null
     }
@@ -417,10 +557,10 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T10:00:20.6416653+02:00",
-    "datum": "2022-04-24T07:20:00+02:00",
+    "timestamp": "2022-04-24T12:36:38.0650501+02:00",
+    "datum": "2022-04-24T12:35:00+02:00",
     "cas_udelezba": "11:00",
-    "has_udelezba": false,
+    "has_udelezba": true,
     "has_rezultat": false,
     "is_final": false,
     "has_kandidati_removed": false

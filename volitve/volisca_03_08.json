@@ -7,126 +7,198 @@
     {
       "st": 5,
       "naz": "GIMNAZIJA LJUBLJANA - ŠIŠKA, ALJAŽEVA UL.32",
-      "udel": null,
+      "udel": {
+        "upr": 819,
+        "gl": 169,
+        "prc": 0.2063
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 7,
       "naz": "GIMNAZIJA LJUBLJANA - ŠIŠKA, ALJAŽEVA UL.32",
-      "udel": null,
+      "udel": {
+        "upr": 657,
+        "gl": 177,
+        "prc": 0.2694
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 9,
       "naz": "OŠ RIHARDA JAKOPIČA, DERČEVA UL.1",
-      "udel": null,
+      "udel": {
+        "upr": 507,
+        "gl": 103,
+        "prc": 0.2032
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 10,
       "naz": "OŠ RIHARDA JAKOPIČA, DERČEVA UL.1",
-      "udel": null,
+      "udel": {
+        "upr": 449,
+        "gl": 100,
+        "prc": 0.2227
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 18,
       "naz": "OŠ RIHARDA JAKOPIČA, DERČEVA UL.1",
-      "udel": null,
+      "udel": {
+        "upr": 419,
+        "gl": 105,
+        "prc": 0.2506
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 19,
       "naz": "OŠ RIHARDA JAKOPIČA, DERČEVA UL.1",
-      "udel": null,
+      "udel": {
+        "upr": 1134,
+        "gl": 250,
+        "prc": 0.2205
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 12,
       "naz": "OŠ RIHARDA JAKOPIČA, DERČEVA ULICA 1",
-      "udel": null,
+      "udel": {
+        "upr": 1015,
+        "gl": 232,
+        "prc": 0.2286
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 11,
       "naz": "OŠ SP. ŠIŠKA, GASILSKA C. 17",
-      "udel": null,
+      "udel": {
+        "upr": 468,
+        "gl": 95,
+        "prc": 0.203
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 2,
       "naz": "OŠ SP. ŠIŠKA, GASILSKA C. 17",
-      "udel": null,
+      "udel": {
+        "upr": 1239,
+        "gl": 260,
+        "prc": 0.2098
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 1,
       "naz": "OŠ SP. ŠIŠKA, GASILSKA C.17",
-      "udel": null,
+      "udel": {
+        "upr": 1029,
+        "gl": 185,
+        "prc": 0.1798
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 8,
       "naz": "OŠ SP.ŠIŠKA, GASILSKA C.17",
-      "udel": null,
+      "udel": {
+        "upr": 362,
+        "gl": 53,
+        "prc": 0.1464
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 16,
       "naz": "OŠ VALENTINA VODNIKA, ADAMIČEVA UL. 16",
-      "udel": null,
+      "udel": {
+        "upr": 1087,
+        "gl": 204,
+        "prc": 0.1877
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 23,
       "naz": "OŠ VALENTINA VODNIKA, ADAMIČEVA UL.16",
-      "udel": null,
+      "udel": {
+        "upr": 751,
+        "gl": 172,
+        "prc": 0.229
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 24,
       "naz": "OŠ VALENTINA VODNIKA, ADAMIČEVA UL.16",
-      "udel": null,
+      "udel": {
+        "upr": 609,
+        "gl": 144,
+        "prc": 0.2365
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 21,
       "naz": "PROSTORI MOL, KEBETOVA UL.1",
-      "udel": null,
+      "udel": {
+        "upr": 831,
+        "gl": 195,
+        "prc": 0.2347
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 14,
       "naz": "VRTEC ANDERSEN, DERČEVA UL.10",
-      "udel": null,
+      "udel": {
+        "upr": 845,
+        "gl": 185,
+        "prc": 0.2189
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 22,
       "naz": "VRTEC NAJDIHOJCA, GORAZDOVA UL.6",
-      "udel": null,
+      "udel": {
+        "upr": 690,
+        "gl": 145,
+        "prc": 0.2101
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 901,
       "naz": "PREDČASNO GLASOVANJE",
-      "udel": null,
+      "udel": {
+        "upr": null,
+        "gl": 0,
+        "prc": null
+      },
       "rez": null,
       "prestetih_glasov": null
     }
@@ -298,10 +370,10 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T10:00:20.6416653+02:00",
-    "datum": "2022-04-24T07:20:00+02:00",
+    "timestamp": "2022-04-24T12:36:38.0650501+02:00",
+    "datum": "2022-04-24T12:35:00+02:00",
     "cas_udelezba": "11:00",
-    "has_udelezba": false,
+    "has_udelezba": true,
     "has_rezultat": false,
     "is_final": false,
     "has_kandidati_removed": false

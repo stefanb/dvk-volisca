@@ -7,294 +7,462 @@
     {
       "st": 56,
       "naz": "AVTO ČEPIN, POT V LEŠJE 1",
-      "udel": null,
+      "udel": {
+        "upr": 418,
+        "gl": 119,
+        "prc": 0.2847
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 13,
       "naz": "DOM KRAJANOV, ŠMARTNO V ROŽNI DOLINI 5",
-      "udel": null,
+      "udel": {
+        "upr": 1789,
+        "gl": 390,
+        "prc": 0.218
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 19,
       "naz": "DOM KS LJUBEČNA",
-      "udel": null,
+      "udel": {
+        "upr": 1324,
+        "gl": 287,
+        "prc": 0.2168
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 6,
       "naz": "DVORANA KS TEHARJE, TEHARJE 14",
-      "udel": null,
+      "udel": {
+        "upr": 278,
+        "gl": 68,
+        "prc": 0.2446
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 40,
       "naz": "GASILSKI DOM FRANKOLOVO,STRAŽICA 2",
-      "udel": null,
+      "udel": {
+        "upr": 577,
+        "gl": 119,
+        "prc": 0.2062
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 47,
       "naz": "GASILSKI DOM LEMBERG",
-      "udel": null,
+      "udel": {
+        "upr": 267,
+        "gl": 54,
+        "prc": 0.2022
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 11,
       "naz": "GASILSKI DOM LOKROVEC",
-      "udel": null,
+      "udel": {
+        "upr": 280,
+        "gl": 62,
+        "prc": 0.2214
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 10,
       "naz": "GASILSKI DOM LOPATA",
-      "udel": null,
+      "udel": {
+        "upr": 513,
+        "gl": 99,
+        "prc": 0.193
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 9,
       "naz": "GASILSKI DOM OSTROŽNO",
-      "udel": null,
+      "udel": {
+        "upr": 1550,
+        "gl": 360,
+        "prc": 0.2323
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 24,
       "naz": "GASILSKI DOM PROŽINSKA VAS,PROŽINSKA VAS 33,ŠTORE",
-      "udel": null,
+      "udel": {
+        "upr": 464,
+        "gl": 88,
+        "prc": 0.1897
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 32,
       "naz": "GASILSKI DOM SVETINA",
-      "udel": null,
+      "udel": {
+        "upr": 362,
+        "gl": 73,
+        "prc": 0.2017
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 30,
       "naz": "GOBEC DRAGO, ŠENTJANŽ NAD ŠTORAMI 26",
-      "udel": null,
+      "udel": {
+        "upr": 177,
+        "gl": 31,
+        "prc": 0.1751
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 15,
       "naz": "GOSTILNA TEPEŽ, RUNTOLE 3",
-      "udel": null,
+      "udel": {
+        "upr": 357,
+        "gl": 88,
+        "prc": 0.2465
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 4,
       "naz": "HRASTNIK MIROSLAV, VRHE 42",
-      "udel": null,
+      "udel": {
+        "upr": 202,
+        "gl": 46,
+        "prc": 0.2277
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 23,
       "naz": "IV. OSNOVNA ŠOLA, DEČKOVA CESTA 60",
-      "udel": null,
+      "udel": {
+        "upr": 2768,
+        "gl": 470,
+        "prc": 0.1698
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 38,
       "naz": "KARO JANEZ, LINDEK 7 ",
-      "udel": null,
+      "udel": {
+        "upr": 109,
+        "gl": 28,
+        "prc": 0.2569
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 12,
       "naz": "KLENOVŠEK J., DOBROVA 16",
-      "udel": null,
+      "udel": {
+        "upr": 607,
+        "gl": 170,
+        "prc": 0.2801
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 36,
       "naz": "KRAČUN MARTIN, BEZENŠKOVO BUKOVJE 9 A",
-      "udel": null,
+      "udel": {
+        "upr": 385,
+        "gl": 100,
+        "prc": 0.2597
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 59,
       "naz": "KULTURNI DOM DOBRNA",
-      "udel": null,
+      "udel": {
+        "upr": 1177,
+        "gl": 270,
+        "prc": 0.2294
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 14,
       "naz": "KULTURNI DOM ŠKOFJA VAS, ŠKOFJA VAS 38",
-      "udel": null,
+      "udel": {
+        "upr": 1445,
+        "gl": 405,
+        "prc": 0.2803
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 29,
       "naz": "KULTURNI DOM ŠTORE, CESTA XIV. DIVIZIJE 29, ŠTORE",
-      "udel": null,
+      "udel": {
+        "upr": 260,
+        "gl": 51,
+        "prc": 0.1962
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 55,
       "naz": "MAJGER JAKOB, PRISTAVA 14B",
-      "udel": null,
+      "udel": {
+        "upr": 542,
+        "gl": 102,
+        "prc": 0.1882
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 35,
       "naz": "OSNOVNA ŠOLA ANTONA BEZENŠKA FRANKOLOVO (AVLA)",
-      "udel": null,
+      "udel": {
+        "upr": 354,
+        "gl": 83,
+        "prc": 0.2345
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 64,
       "naz": "OSNOVNA ŠOLA DOBRNA",
-      "udel": null,
+      "udel": {
+        "upr": 132,
+        "gl": 22,
+        "prc": 0.1667
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 1,
       "naz": "OSNOVNA ŠOLA HUDINJA",
-      "udel": null,
+      "udel": {
+        "upr": 1279,
+        "gl": 340,
+        "prc": 0.2658
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 25,
       "naz": "OSNOVNA ŠOLA KOMPOLE, KOMPOLE 92,ŠTORE",
-      "udel": null,
+      "udel": {
+        "upr": 542,
+        "gl": 104,
+        "prc": 0.1919
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 7,
       "naz": "OSNOVNA ŠOLA LAVA",
-      "udel": null,
+      "udel": {
+        "upr": 1163,
+        "gl": 262,
+        "prc": 0.2253
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 45,
       "naz": "OSNOVNA ŠOLA SOCKA, SOCKA 70",
-      "udel": null,
+      "udel": {
+        "upr": 584,
+        "gl": 144,
+        "prc": 0.2466
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 31,
       "naz": "OSNOVNA ŠOLA ŠTORE",
-      "udel": null,
+      "udel": {
+        "upr": 1026,
+        "gl": 285,
+        "prc": 0.2778
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 51,
       "naz": "OSNOVNA ŠOLA VOJNIK",
-      "udel": null,
+      "udel": {
+        "upr": 1134,
+        "gl": 256,
+        "prc": 0.2257
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 52,
       "naz": "OSNOVNA ŠOLA VOJNIK",
-      "udel": null,
+      "udel": {
+        "upr": 906,
+        "gl": 233,
+        "prc": 0.2572
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 53,
       "naz": "OSTRI, RAVNAK IVAN, CELJSKA CESTA 2B",
-      "udel": null,
+      "udel": {
+        "upr": 455,
+        "gl": 138,
+        "prc": 0.3033
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 5,
       "naz": "OSTROŽNIK - HORVAT KARINA, BUKOVŽLAK 51 A",
-      "udel": null,
+      "udel": {
+        "upr": 280,
+        "gl": 64,
+        "prc": 0.2286
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 3,
       "naz": "SEDEŽ MČ HUDINJA",
-      "udel": null,
+      "udel": {
+        "upr": 793,
+        "gl": 173,
+        "prc": 0.2182
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 8,
       "naz": "SEDEŽ MČ LAVA",
-      "udel": null,
+      "udel": {
+        "upr": 923,
+        "gl": 260,
+        "prc": 0.2817
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 21,
       "naz": "ŠPORTNO DRUŠTVO ZAČRET",
-      "udel": null,
+      "udel": {
+        "upr": 298,
+        "gl": 101,
+        "prc": 0.3389
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 26,
       "naz": "ŠUHEL PAVEL, LAŠKA VAS 41, ŠTORE",
-      "udel": null,
+      "udel": {
+        "upr": 186,
+        "gl": 50,
+        "prc": 0.2688
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 44,
       "naz": "VEČNAMENSKA DVORANA POŠ NOVA CERKEV,NOVA CERKEV41",
-      "udel": null,
+      "udel": {
+        "upr": 1137,
+        "gl": 274,
+        "prc": 0.241
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 54,
       "naz": "VRBIČ FRANC, MALE DOLE 44",
-      "udel": null,
+      "udel": {
+        "upr": 405,
+        "gl": 117,
+        "prc": 0.2889
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 58,
       "naz": "ZDRAVSTVENI DOM DOBRNA",
-      "udel": null,
+      "udel": {
+        "upr": 438,
+        "gl": 118,
+        "prc": 0.2694
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 27,
       "naz": "ZLATKO CMOK, PEČOVJE 4A, ŠTORE",
-      "udel": null,
+      "udel": {
+        "upr": 222,
+        "gl": 66,
+        "prc": 0.2973
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 901,
       "naz": "PREDČASNO GLASOVANJE",
-      "udel": null,
+      "udel": {
+        "upr": null,
+        "gl": 0,
+        "prc": null
+      },
       "rez": null,
       "prestetih_glasov": null
     }
@@ -466,10 +634,10 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T10:00:20.6416653+02:00",
-    "datum": "2022-04-24T07:20:00+02:00",
+    "timestamp": "2022-04-24T12:36:38.0650501+02:00",
+    "datum": "2022-04-24T12:35:00+02:00",
     "cas_udelezba": "11:00",
-    "has_udelezba": false,
+    "has_udelezba": true,
     "has_rezultat": false,
     "is_final": false,
     "has_kandidati_removed": false

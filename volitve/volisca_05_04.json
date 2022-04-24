@@ -7,140 +7,220 @@
     {
       "st": 13,
       "naz": "AVTOHIŠA KOS",
-      "udel": null,
+      "udel": {
+        "upr": 770,
+        "gl": 199,
+        "prc": 0.2584
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 19,
       "naz": "DOM KRAJANOV VRBJE",
-      "udel": null,
+      "udel": {
+        "upr": 472,
+        "gl": 121,
+        "prc": 0.2564
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 1,
       "naz": "DOM KS VINSKA GORA",
-      "udel": null,
+      "udel": {
+        "upr": 1522,
+        "gl": 382,
+        "prc": 0.251
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 18,
       "naz": "GASILSKI DOM LOŽNICA",
-      "udel": null,
+      "udel": {
+        "upr": 447,
+        "gl": 137,
+        "prc": 0.3065
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 16,
       "naz": "KULTURNI DOM ŽALEC, VOLIŠČE I",
-      "udel": null,
+      "udel": {
+        "upr": 930,
+        "gl": 187,
+        "prc": 0.2011
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 17,
       "naz": "KULTURNI DOM ŽALEC, VOLIŠČE II",
-      "udel": null,
+      "udel": {
+        "upr": 1353,
+        "gl": 336,
+        "prc": 0.2483
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 9,
       "naz": "MARTIN ŠTORMAN KALE 17-A",
-      "udel": null,
+      "udel": {
+        "upr": 202,
+        "gl": 60,
+        "prc": 0.297
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 6,
       "naz": "OSNOVNA ŠOLA ŠEMPETER, VOLIŠČE I",
-      "udel": null,
+      "udel": {
+        "upr": 1010,
+        "gl": 251,
+        "prc": 0.2485
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 7,
       "naz": "OSNOVNA ŠOLA ŠEMPETER, VOLIŠČE II",
-      "udel": null,
+      "udel": {
+        "upr": 1081,
+        "gl": 241,
+        "prc": 0.2229
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 4,
       "naz": "POŠ PONIKVA, PONIKVA",
-      "udel": null,
+      "udel": {
+        "upr": 1000,
+        "gl": 218,
+        "prc": 0.218
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 2,
       "naz": "POŠ TRJE I",
-      "udel": null,
+      "udel": {
+        "upr": 790,
+        "gl": 164,
+        "prc": 0.2076
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 3,
       "naz": "POŠ TRJE II",
-      "udel": null,
+      "udel": {
+        "upr": 880,
+        "gl": 195,
+        "prc": 0.2216
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 5,
       "naz": "PROSTORI KS GOTOVLJE",
-      "udel": null,
+      "udel": {
+        "upr": 1182,
+        "gl": 313,
+        "prc": 0.2648
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 15,
       "naz": "SAVINOV SALON ŽALEC",
-      "udel": null,
+      "udel": {
+        "upr": 1284,
+        "gl": 272,
+        "prc": 0.2118
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 10,
       "naz": "ŠOLA POLZELA VOLIŠČE I",
-      "udel": null,
+      "udel": {
+        "upr": 1154,
+        "gl": 302,
+        "prc": 0.2617
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 11,
       "naz": "ŠOLA POLZELA, VOLIŠČE II",
-      "udel": null,
+      "udel": {
+        "upr": 1337,
+        "gl": 281,
+        "prc": 0.2102
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 12,
       "naz": "ŠOLA POLZELA, VOLIŠČE III",
-      "udel": null,
+      "udel": {
+        "upr": 827,
+        "gl": 176,
+        "prc": 0.2128
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 8,
       "naz": "TAVČAR ALOJZ, ZG. GRUŠOVLJE 18",
-      "udel": null,
+      "udel": {
+        "upr": 249,
+        "gl": 57,
+        "prc": 0.2289
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 14,
       "naz": "ZADRUŽNI DOM ANDRAŽ",
-      "udel": null,
+      "udel": {
+        "upr": 811,
+        "gl": 211,
+        "prc": 0.2602
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 901,
       "naz": "PREDČASNO GLASOVANJE",
-      "udel": null,
+      "udel": {
+        "upr": null,
+        "gl": 0,
+        "prc": null
+      },
       "rez": null,
       "prestetih_glasov": null
     }
@@ -312,10 +392,10 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T10:00:20.6416653+02:00",
-    "datum": "2022-04-24T07:20:00+02:00",
+    "timestamp": "2022-04-24T12:36:38.0650501+02:00",
+    "datum": "2022-04-24T12:35:00+02:00",
     "cas_udelezba": "11:00",
-    "has_udelezba": false,
+    "has_udelezba": true,
     "has_rezultat": false,
     "is_final": false,
     "has_kandidati_removed": false

@@ -7,427 +7,671 @@
     {
       "st": 11,
       "naz": "ADLEŠIČI - KULTURNI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 587,
+        "gl": 116,
+        "prc": 0.1976
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 45,
       "naz": "BOJANCI - VEČNAMENSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 71,
+        "gl": 20,
+        "prc": 0.2817
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 47,
       "naz": "BOŽAKOVO - DOM KRAJANOV",
-      "udel": null,
+      "udel": {
+        "upr": 180,
+        "gl": 52,
+        "prc": 0.2889
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 16,
       "naz": "BUTORAJ - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 163,
+        "gl": 49,
+        "prc": 0.3006
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 69,
       "naz": "CEROVEC PRI ČREŠNJEVCU - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 209,
+        "gl": 56,
+        "prc": 0.2679
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 68,
       "naz": "ČRMOŠNJICE-V PROST. PGD ČRMOŠNJICE, ČRMOŠNJICE 24",
-      "udel": null,
+      "udel": {
+        "upr": 233,
+        "gl": 51,
+        "prc": 0.2189
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 7,
       "naz": "ČRNOMELJ - DOM OBRTNIKOV, ULICA 21.OKTOBRA 10",
-      "udel": null,
+      "udel": {
+        "upr": 981,
+        "gl": 231,
+        "prc": 0.2355
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 1,
       "naz": "ČRNOMELJ - OŠ LOKA, KIDRIČEVA ULICA 18",
-      "udel": null,
+      "udel": {
+        "upr": 618,
+        "gl": 158,
+        "prc": 0.2557
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 4,
       "naz": "ČRNOMELJ - OŠ MIRANA JARCA, UL. OTONA ŽUPANČIČA 8",
-      "udel": null,
+      "udel": {
+        "upr": 886,
+        "gl": 204,
+        "prc": 0.2302
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 10,
       "naz": "ČRNOMELJ - OTROŠKI VRTEC, ČARDAK 1",
-      "udel": null,
+      "udel": {
+        "upr": 994,
+        "gl": 219,
+        "prc": 0.2203
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 80,
       "naz": "ČRNOMELJ- BIVŠA TRGOVINA \"NINA\", PREČNA ULICA 4 ",
-      "udel": null,
+      "udel": {
+        "upr": 338,
+        "gl": 93,
+        "prc": 0.2751
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 2,
       "naz": "ČRNOMELJ-V PROS. ŠD NOG. ŠOLE BK, PRI STADIONU 2 ",
-      "udel": null,
+      "udel": {
+        "upr": 520,
+        "gl": 133,
+        "prc": 0.2558
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 38,
       "naz": "DESINEC - PRI SEDLAR STANKU, DESINEC 1A",
-      "udel": null,
+      "udel": {
+        "upr": 128,
+        "gl": 18,
+        "prc": 0.1406
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 17,
       "naz": "DOBLIČE - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 398,
+        "gl": 102,
+        "prc": 0.2563
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 53,
       "naz": "DOLNJA LOKVICA - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 312,
+        "gl": 84,
+        "prc": 0.2692
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 67,
       "naz": "DOLNJI SUHOR PRI METLIKI - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 740,
+        "gl": 119,
+        "prc": 0.1608
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 20,
       "naz": "DRAGATUŠ - OSNOVNA ŠOLA, DRAGATUŠ 48",
-      "udel": null,
+      "udel": {
+        "upr": 479,
+        "gl": 119,
+        "prc": 0.2484
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 49,
       "naz": "DRAŠIČI - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 231,
+        "gl": 54,
+        "prc": 0.2338
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 31,
       "naz": "GORENJI RADENCI - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 70,
+        "gl": 26,
+        "prc": 0.3714
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 50,
       "naz": "GRABROVEC - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 134,
+        "gl": 40,
+        "prc": 0.2985
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 51,
       "naz": "GRADAC - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 370,
+        "gl": 117,
+        "prc": 0.3162
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 24,
       "naz": "GRIBLJE- V PROSTORIH PODR. OŠ GRIBLJE, GRIBLJE 38",
-      "udel": null,
+      "udel": {
+        "upr": 321,
+        "gl": 64,
+        "prc": 0.1994
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 39,
       "naz": "HRAST PRI VINICI - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 163,
+        "gl": 31,
+        "prc": 0.1902
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 18,
       "naz": "KANIŽARICA 15A -V GOSTILNI IN PICERIJI PRI DELIČU",
-      "udel": null,
+      "udel": {
+        "upr": 548,
+        "gl": 97,
+        "prc": 0.177
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 62,
       "naz": "KRASINEC - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 148,
+        "gl": 47,
+        "prc": 0.3176
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 48,
       "naz": "KRIVOGLAVICE - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 181,
+        "gl": 37,
+        "prc": 0.2044
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 26,
       "naz": "LOKVE - TRGOVINA VIZIR, LOKVE 10B",
-      "udel": null,
+      "udel": {
+        "upr": 379,
+        "gl": 43,
+        "prc": 0.1135
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 23,
       "naz": "MALI NERAJEC - PRI PANJAN FRANCU, MALI NERAJEC 8",
-      "udel": null,
+      "udel": {
+        "upr": 279,
+        "gl": 64,
+        "prc": 0.2294
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 36,
       "naz": "MAVRLEN - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 373,
+        "gl": 110,
+        "prc": 0.2949
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 55,
       "naz": "METLIKA - GD METLIKA",
-      "udel": null,
+      "udel": {
+        "upr": 339,
+        "gl": 78,
+        "prc": 0.2301
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 59,
       "naz": "METLIKA - OBRTNI DOM OOZ, PARTIZANSKI TRG 5 ",
-      "udel": null,
+      "udel": {
+        "upr": 499,
+        "gl": 114,
+        "prc": 0.2285
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 58,
       "naz": "METLIKA - OTROŠKI VRTEC, ŽUPANČIČEVA CESTA 1 ",
-      "udel": null,
+      "udel": {
+        "upr": 486,
+        "gl": 139,
+        "prc": 0.286
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 54,
       "naz": "METLIKA- MLADINSKI CENTER, CBE 43",
-      "udel": null,
+      "udel": {
+        "upr": 518,
+        "gl": 134,
+        "prc": 0.2587
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 56,
       "naz": "METLIKA-STATUS D.O.O., UL. BELOKRANJSKEGA ODR. 19",
-      "udel": null,
+      "udel": {
+        "upr": 699,
+        "gl": 132,
+        "prc": 0.1888
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 72,
       "naz": "NESTOPLJA VAS-PRI PEČAVAR MARTINU,NESTOPLJA VAS1",
-      "udel": null,
+      "udel": {
+        "upr": 104,
+        "gl": 25,
+        "prc": 0.2404
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 74,
       "naz": "OSOJNIK - PRI KONDA ROBERTU, OSOJNIK ŠT. 15",
-      "udel": null,
+      "udel": {
+        "upr": 137,
+        "gl": 42,
+        "prc": 0.3066
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 35,
       "naz": "OTOVEC - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 112,
+        "gl": 23,
+        "prc": 0.2054
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 27,
       "naz": "PETROVA VAS - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 314,
+        "gl": 76,
+        "prc": 0.242
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 61,
       "naz": "PODZEMELJ - V PROSTORIH PGD, PODZEMELJ 16B",
-      "udel": null,
+      "udel": {
+        "upr": 531,
+        "gl": 130,
+        "prc": 0.2448
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 40,
       "naz": "PRELOKA - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 94,
+        "gl": 25,
+        "prc": 0.266
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 64,
       "naz": "RADOVICA - OSNOVNA ŠOLA",
-      "udel": null,
+      "udel": {
+        "upr": 339,
+        "gl": 164,
+        "prc": 0.4838
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 34,
       "naz": "RODINE - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 129,
+        "gl": 35,
+        "prc": 0.2713
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 65,
       "naz": "ROSALNICE - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 577,
+        "gl": 90,
+        "prc": 0.156
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 75,
       "naz": "ROŽNI DOL - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 111,
+        "gl": 23,
+        "prc": 0.2072
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 52,
       "naz": "SELA PRI JUGORJU - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 97,
+        "gl": 26,
+        "prc": 0.268
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 73,
       "naz": "SEMIČ - KULTURNI CENTER SEMIČ, PROSVETNA ULICA 4",
-      "udel": null,
+      "udel": {
+        "upr": 1237,
+        "gl": 295,
+        "prc": 0.2385
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 71,
       "naz": "SEMIČ, SPODNJE GORENJCE 32 - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 442,
+        "gl": 110,
+        "prc": 0.2489
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 29,
       "naz": "SINJI VRH - V PROSTORIH KS, SINJI VRH 1A",
-      "udel": null,
+      "udel": {
+        "upr": 184,
+        "gl": 52,
+        "prc": 0.2826
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 66,
       "naz": "SLAMNA VAS - DOM GASILCEV IN KRAJANOV",
-      "udel": null,
+      "udel": {
+        "upr": 128,
+        "gl": 35,
+        "prc": 0.2734
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 41,
       "naz": "STARA LIPA -PRI TOMEC JOŽETU, STARA LIPA 1A",
-      "udel": null,
+      "udel": {
+        "upr": 181,
+        "gl": 53,
+        "prc": 0.2928
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 32,
       "naz": "STARI TRG OB KOLPI-VRTEC OŠ,STARI TRG OB KOLPI 7",
-      "udel": null,
+      "udel": {
+        "upr": 167,
+        "gl": 42,
+        "prc": 0.2515
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 76,
       "naz": "STRANSKA VAS PRI SEMIČU - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 223,
+        "gl": 49,
+        "prc": 0.2197
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 77,
       "naz": "ŠTREKLJEVEC - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 434,
+        "gl": 107,
+        "prc": 0.2465
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 22,
       "naz": "TANČA GORA - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 398,
+        "gl": 77,
+        "prc": 0.1935
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 37,
       "naz": "TRIBUČE - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 256,
+        "gl": 61,
+        "prc": 0.2383
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 43,
       "naz": "VINICA - DOM KRAJANOV VINICA, VINICA 44",
-      "udel": null,
+      "udel": {
+        "upr": 678,
+        "gl": 138,
+        "prc": 0.2035
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 6,
       "naz": "VRANOVIČI - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 104,
+        "gl": 31,
+        "prc": 0.2981
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 33,
       "naz": "ZAGOZDAC - STAVBA BIVŠE OŠ",
-      "udel": null,
+      "udel": {
+        "upr": 48,
+        "gl": 11,
+        "prc": 0.2292
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 44,
       "naz": "ZILJE - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 150,
+        "gl": 26,
+        "prc": 0.1733
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 15,
       "naz": "ŽUNIČI - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 77,
+        "gl": 30,
+        "prc": 0.3896
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 901,
       "naz": "PREDČASNO GLASOVANJE",
-      "udel": null,
+      "udel": {
+        "upr": null,
+        "gl": 0,
+        "prc": null
+      },
       "rez": null,
       "prestetih_glasov": null
     }
@@ -599,10 +843,10 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T10:00:20.6416653+02:00",
-    "datum": "2022-04-24T07:20:00+02:00",
+    "timestamp": "2022-04-24T12:36:38.0650501+02:00",
+    "datum": "2022-04-24T12:35:00+02:00",
     "cas_udelezba": "11:00",
-    "has_udelezba": false,
+    "has_udelezba": true,
     "has_rezultat": false,
     "is_final": false,
     "has_kandidati_removed": false

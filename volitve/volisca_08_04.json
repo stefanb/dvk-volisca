@@ -7,777 +7,1221 @@
     {
       "st": 28,
       "naz": "ADRIJANCI - STARA ŠOLA",
-      "udel": null,
+      "udel": {
+        "upr": 116,
+        "gl": 28,
+        "prc": 0.2414
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 57,
       "naz": "ANDREJCI - VAŠKO-GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 168,
+        "gl": 33,
+        "prc": 0.1964
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 62,
       "naz": "BERKOVCI - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 38,
+        "gl": 12,
+        "prc": 0.3158
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 98,
       "naz": "BEZNOVCI - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 124,
+        "gl": 19,
+        "prc": 0.1532
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 95,
       "naz": "BODONCI - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 360,
+        "gl": 82,
+        "prc": 0.2278
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 87,
       "naz": "BOKRAČI - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 61,
+        "gl": 14,
+        "prc": 0.2295
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 29,
       "naz": "BOREČA - VAŠKO-GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 70,
+        "gl": 19,
+        "prc": 0.2714
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 10,
       "naz": "BOREJCI - VAŠKO-GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 194,
+        "gl": 25,
+        "prc": 0.1289
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 92,
       "naz": "BREZOVCI - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 203,
+        "gl": 51,
+        "prc": 0.2512
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 40,
       "naz": "BUDINCI - VAŠKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 92,
+        "gl": 17,
+        "prc": 0.1848
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 1,
       "naz": "CANKOVA - VAŠKO-GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 378,
+        "gl": 69,
+        "prc": 0.1825
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 39,
       "naz": "ČEPINCI - ZADRUŽNI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 218,
+        "gl": 39,
+        "prc": 0.1789
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 63,
       "naz": "ČIKEČKA VAS - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 75,
+        "gl": 16,
+        "prc": 0.2133
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 79,
       "naz": "DANKOVCI - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 122,
+        "gl": 29,
+        "prc": 0.2377
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 38,
       "naz": "DOLENCI - VAŠKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 145,
+        "gl": 32,
+        "prc": 0.2207
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 52,
       "naz": "DOLIČ - ZADRUŽNI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 297,
+        "gl": 63,
+        "prc": 0.2121
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 88,
       "naz": "DOLINA - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 156,
+        "gl": 38,
+        "prc": 0.2436
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 45,
       "naz": "DOLNJI SLAVEČI - VAŠKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 348,
+        "gl": 54,
+        "prc": 0.1552
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 2,
       "naz": "DOMAJINCI - VAŠKO-GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 182,
+        "gl": 15,
+        "prc": 0.0824
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 35,
       "naz": "DOMANJŠEVCI - VAŠKO-GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 219,
+        "gl": 50,
+        "prc": 0.2283
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 109,
       "naz": "FIKŠINCI - VAŠKO-GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 133,
+        "gl": 15,
+        "prc": 0.1128
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 73,
       "naz": "FOKOVCI - OSNOVNA ŠOLA FOKOVCI",
-      "udel": null,
+      "udel": {
+        "upr": 159,
+        "gl": 33,
+        "prc": 0.2075
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 17,
       "naz": "GEDEROVCI - VAŠKO-GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 137,
+        "gl": 32,
+        "prc": 0.2336
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 3,
       "naz": "GERLINCI - VAŠKO-GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 266,
+        "gl": 53,
+        "prc": 0.1992
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 89,
       "naz": "GORICA-VEČNAMENSKI OBJEKT PRI IGRIŠČU",
-      "udel": null,
+      "udel": {
+        "upr": 235,
+        "gl": 43,
+        "prc": 0.183
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 6,
       "naz": "GORNJI ČRNCI - VAŠKO-GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 110,
+        "gl": 23,
+        "prc": 0.2091
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 25,
       "naz": "GORNJI PETROVCI - VAŠKA DVORANA",
-      "udel": null,
+      "udel": {
+        "upr": 333,
+        "gl": 88,
+        "prc": 0.2643
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 53,
       "naz": "GORNJI SLAVEČI - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 366,
+        "gl": 62,
+        "prc": 0.1694
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 44,
       "naz": "GRAD - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 521,
+        "gl": 89,
+        "prc": 0.1708
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 11,
       "naz": "GRADIŠČE-ŠPORTNO REKREACIJSKI CENTER",
-      "udel": null,
+      "udel": {
+        "upr": 267,
+        "gl": 54,
+        "prc": 0.2022
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 42,
       "naz": "HODOŠ - VAŠKO-KULTURNI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 186,
+        "gl": 36,
+        "prc": 0.1935
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 64,
       "naz": "IVANJŠEVCI - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 36,
+        "gl": 13,
+        "prc": 0.3611
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 69,
       "naz": "IVANOVCI - VAŠKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 123,
+        "gl": 25,
+        "prc": 0.2033
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 70,
       "naz": "KANČEVCI - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 55,
+        "gl": 12,
+        "prc": 0.2182
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 4,
       "naz": "KOROVCI - VAŠKO-GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 160,
+        "gl": 37,
+        "prc": 0.2312
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 22,
       "naz": "KOŠAROVCI - ŠPORTNI CENTER",
-      "udel": null,
+      "udel": {
+        "upr": 56,
+        "gl": 5,
+        "prc": 0.0893
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 46,
       "naz": "KOVAČEVCI - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 84,
+        "gl": 4,
+        "prc": 0.0476
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 18,
       "naz": "KRAJNA - VAŠKO-GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 232,
+        "gl": 37,
+        "prc": 0.1595
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 103,
       "naz": "KRAMAROVCI - VAŠKO-GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 29,
+        "gl": 7,
+        "prc": 0.2414
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 5,
       "naz": "KRAŠČI - GASILSKO - VAŠKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 222,
+        "gl": 33,
+        "prc": 0.1486
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 21,
       "naz": "KRIŽEVCI - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 315,
+        "gl": 75,
+        "prc": 0.2381
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 58,
       "naz": "KRNCI - VAŠKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 50,
+        "gl": 15,
+        "prc": 0.3
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 74,
       "naz": "KROG-PODRUŽNIČNA ŠOLA KROG, TRUBARJEVA 77",
-      "udel": null,
+      "udel": {
+        "upr": 976,
+        "gl": 200,
+        "prc": 0.2049
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 43,
       "naz": "KRPLIVNIK - VAŠKO-GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 67,
+        "gl": 15,
+        "prc": 0.2239
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 47,
       "naz": "KRUPLIVNIK - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 159,
+        "gl": 37,
+        "prc": 0.2327
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 23,
       "naz": "KUKEČ - VAŠKO-GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 45,
+        "gl": 9,
+        "prc": 0.2
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 80,
       "naz": "KUŠTANOVCI - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 137,
+        "gl": 25,
+        "prc": 0.1825
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 51,
       "naz": "KUZMA - KRAJEVNA DVORANA",
-      "udel": null,
+      "udel": {
+        "upr": 319,
+        "gl": 53,
+        "prc": 0.1661
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 93,
       "naz": "LEMERJE - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 217,
+        "gl": 19,
+        "prc": 0.0876
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 71,
       "naz": "LONČAROVCI - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 48,
+        "gl": 20,
+        "prc": 0.4167
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 30,
       "naz": "LUCOVA - VAŠKO-GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 108,
+        "gl": 20,
+        "prc": 0.1852
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 78,
       "naz": "MAČKOVCI - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 179,
+        "gl": 51,
+        "prc": 0.2849
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 77,
       "naz": "MARKIŠAVCI - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 167,
+        "gl": 31,
+        "prc": 0.1856
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 41,
       "naz": "MARKOVCI - VAŠKO-GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 211,
+        "gl": 56,
+        "prc": 0.2654
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 31,
       "naz": "MARTINJE - VAŠKO-GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 84,
+        "gl": 23,
+        "prc": 0.2738
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 56,
       "naz": "MARTJANCI - VAŠKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 433,
+        "gl": 29,
+        "prc": 0.067
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 54,
       "naz": "MATJAŠEVCI - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 142,
+        "gl": 29,
+        "prc": 0.2042
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 81,
       "naz": "MOŠČANCI - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 221,
+        "gl": 42,
+        "prc": 0.19
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 48,
       "naz": "MOTOVILCI - VAŠKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 232,
+        "gl": 35,
+        "prc": 0.1509
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 65,
       "naz": "MOTVARJEVCI - VAŠKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 125,
+        "gl": 20,
+        "prc": 0.16
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 12,
       "naz": "MURSKI ČRNCI - VAŠKO-GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 369,
+        "gl": 93,
+        "prc": 0.252
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 19,
       "naz": "MURSKI PETROVCI - VAŠKO-GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 111,
+        "gl": 20,
+        "prc": 0.1802
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 76,
       "naz": "NEMČAVCI - VAŠKO-GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 212,
+        "gl": 68,
+        "prc": 0.3208
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 32,
       "naz": "NERADNOVCI - VAŠKO-GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 124,
+        "gl": 27,
+        "prc": 0.2177
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 59,
       "naz": "NORŠINCI - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 198,
+        "gl": 42,
+        "prc": 0.2121
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 104,
       "naz": "NUSKOVA - VAŠKO-GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 239,
+        "gl": 34,
+        "prc": 0.1423
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 105,
       "naz": "OCINJE - VAŠKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 42,
+        "gl": 14,
+        "prc": 0.3333
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 82,
       "naz": "OTOVCI - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 190,
+        "gl": 36,
+        "prc": 0.1895
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 24,
       "naz": "PANOVCI - VAŠKO-GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 33,
+        "gl": 4,
+        "prc": 0.1212
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 83,
       "naz": "PEČAROVCI - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 336,
+        "gl": 84,
+        "prc": 0.25
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 108,
       "naz": "PERTOČA, VAŠKO-GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 337,
+        "gl": 58,
+        "prc": 0.1721
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 26,
       "naz": "PESKOVCI - VAŠKO GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 61,
+        "gl": 19,
+        "prc": 0.3115
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 13,
       "naz": "PETANJCI - VAŠKO-GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 549,
+        "gl": 102,
+        "prc": 0.1858
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 66,
       "naz": "PORDAŠINCI - VAŠKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 36,
+        "gl": 7,
+        "prc": 0.1944
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 84,
       "naz": "POZNANOVCI - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 142,
+        "gl": 34,
+        "prc": 0.2394
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 94,
       "naz": "PREDANOVCI - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 156,
+        "gl": 45,
+        "prc": 0.2885
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 85,
       "naz": "PROSEČKA VAS - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 100,
+        "gl": 16,
+        "prc": 0.16
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 61,
       "naz": "PROSENJAKOVCI - STARI GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 136,
+        "gl": 30,
+        "prc": 0.2206
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 86,
       "naz": "PUCONCI - OSNOVNA ŠOLA",
-      "udel": null,
+      "udel": {
+        "upr": 521,
+        "gl": 121,
+        "prc": 0.2322
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 99,
       "naz": "PUŽEVCI - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 140,
+        "gl": 31,
+        "prc": 0.2214
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 49,
       "naz": "RADOVCI - VAŠKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 157,
+        "gl": 46,
+        "prc": 0.293
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 14,
       "naz": "RANKOVCI - VAŠKO-GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 203,
+        "gl": 53,
+        "prc": 0.2611
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 68,
       "naz": "RATKOVCI - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 49,
+        "gl": 8,
+        "prc": 0.1633
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 101,
       "naz": "ROGAŠOVCI - VAŠKO-GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 226,
+        "gl": 42,
+        "prc": 0.1858
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 110,
       "naz": "ROPOČA - VAŠKO-GASILSKI DOM, SPODAJ",
-      "udel": null,
+      "udel": {
+        "upr": 169,
+        "gl": 37,
+        "prc": 0.2189
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 75,
       "naz": "SATAHOVCI - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 239,
+        "gl": 49,
+        "prc": 0.205
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 60,
       "naz": "SEBEBORCI - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 404,
+        "gl": 97,
+        "prc": 0.2401
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 72,
       "naz": "SELO - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 228,
+        "gl": 35,
+        "prc": 0.1535
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 106,
       "naz": "SERDICA - VAŠKO-GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 437,
+        "gl": 66,
+        "prc": 0.151
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 7,
       "naz": "SKAKOVCI - VAŠKO-GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 174,
+        "gl": 45,
+        "prc": 0.2586
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 20,
       "naz": "SODIŠINCI - VAŠKO-GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 179,
+        "gl": 25,
+        "prc": 0.1397
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 107,
       "naz": "SOTINA - VAŠKO-GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 282,
+        "gl": 38,
+        "prc": 0.1348
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 67,
       "naz": "SREDIŠČE - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 35,
+        "gl": 5,
+        "prc": 0.1429
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 33,
       "naz": "STANJEVCI - VAŠKO-GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 157,
+        "gl": 27,
+        "prc": 0.172
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 100,
       "naz": "STRUKOVCI - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 143,
+        "gl": 42,
+        "prc": 0.2937
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 102,
       "naz": "SVETI JURIJ - VAŠKO-GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 375,
+        "gl": 94,
+        "prc": 0.2507
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 90,
       "naz": "ŠALAMENCI - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 244,
+        "gl": 52,
+        "prc": 0.2131
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 36,
       "naz": "ŠALOVCI - ZADRUŽNI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 338,
+        "gl": 73,
+        "prc": 0.216
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 27,
       "naz": "ŠULINCI - VAŠKO-GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 144,
+        "gl": 31,
+        "prc": 0.2153
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 9,
       "naz": "TIŠINA - VAŠKO-GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 349,
+        "gl": 57,
+        "prc": 0.1633
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 8,
       "naz": "TOPOLOVCI - VAŠKO-KULTURNI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 48,
+        "gl": 10,
+        "prc": 0.2083
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 55,
       "naz": "TRDKOVA - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 159,
+        "gl": 51,
+        "prc": 0.3208
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 15,
       "naz": "TROPOVCI - VAŠKO-GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 396,
+        "gl": 101,
+        "prc": 0.2551
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 96,
       "naz": "VADARCI - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 277,
+        "gl": 55,
+        "prc": 0.1986
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 16,
       "naz": "VANČA VAS - VAŠKO-GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 386,
+        "gl": 57,
+        "prc": 0.1477
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 91,
       "naz": "VANEČA - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 413,
+        "gl": 103,
+        "prc": 0.2494
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 111,
       "naz": "VEČESLAVCI - VAŠKO-GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 316,
+        "gl": 63,
+        "prc": 0.1994
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 50,
       "naz": "VIDONCI - VAŠKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 259,
+        "gl": 74,
+        "prc": 0.2857
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 97,
       "naz": "ZENKOVCI - GASILSKI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 262,
+        "gl": 17,
+        "prc": 0.0649
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 34,
       "naz": "ŽENAVLJE - ZADRUŽNI DOM",
-      "udel": null,
+      "udel": {
+        "upr": 82,
+        "gl": 16,
+        "prc": 0.1951
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 901,
       "naz": "PREDČASNO GLASOVANJE",
-      "udel": null,
+      "udel": {
+        "upr": null,
+        "gl": 0,
+        "prc": null
+      },
       "rez": null,
       "prestetih_glasov": null
     }
@@ -951,10 +1395,10 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T10:00:20.6416653+02:00",
-    "datum": "2022-04-24T07:20:00+02:00",
+    "timestamp": "2022-04-24T12:36:38.0650501+02:00",
+    "datum": "2022-04-24T12:35:00+02:00",
     "cas_udelezba": "11:00",
-    "has_udelezba": false,
+    "has_udelezba": true,
     "has_rezultat": false,
     "is_final": false,
     "has_kandidati_removed": false

@@ -7,203 +7,319 @@
     {
       "st": 26,
       "naz": "BELL CENTER, PTUJSKA CESTA 13",
-      "udel": null,
+      "udel": {
+        "upr": 1119,
+        "gl": 254,
+        "prc": 0.227
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 13,
       "naz": "DOM AMD, OREHOVA CESTA 26",
-      "udel": null,
+      "udel": {
+        "upr": 364,
+        "gl": 87,
+        "prc": 0.239
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 30,
       "naz": "DOM KRAJANOV, BRUNŠVIK 49B",
-      "udel": null,
+      "udel": {
+        "upr": 350,
+        "gl": 86,
+        "prc": 0.2457
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 18,
       "naz": "DOM KRAJANOV, ROGOŠKA C. 60",
-      "udel": null,
+      "udel": {
+        "upr": 1183,
+        "gl": 276,
+        "prc": 0.2333
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 4,
       "naz": "DOM KS, MARJETA 57A",
-      "udel": null,
+      "udel": {
+        "upr": 382,
+        "gl": 83,
+        "prc": 0.2173
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 17,
       "naz": "FAKULTETA ZA KBV, PIVOLA 10",
-      "udel": null,
+      "udel": {
+        "upr": 355,
+        "gl": 57,
+        "prc": 0.1606
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 5,
       "naz": "GASILSKI DOM, TRNIČE 30",
-      "udel": null,
+      "udel": {
+        "upr": 370,
+        "gl": 100,
+        "prc": 0.2703
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 8,
       "naz": "GASILSKI DOM, ZLATOLIČJE 10",
-      "udel": null,
+      "udel": {
+        "upr": 607,
+        "gl": 101,
+        "prc": 0.1664
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 16,
       "naz": "KD HOČE, POHORSKA 15",
-      "udel": null,
+      "udel": {
+        "upr": 956,
+        "gl": 167,
+        "prc": 0.1747
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 24,
       "naz": "KD MIKLAVŽ, CESTA V ROGOZO 11",
-      "udel": null,
+      "udel": {
+        "upr": 1211,
+        "gl": 286,
+        "prc": 0.2362
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 25,
       "naz": "KD MIKLAVŽ, CESTA V ROGOZO 11",
-      "udel": null,
+      "udel": {
+        "upr": 971,
+        "gl": 251,
+        "prc": 0.2585
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 15,
       "naz": "KNJIŽNICA HOČE, SRŠAKOVA 2",
-      "udel": null,
+      "udel": {
+        "upr": 951,
+        "gl": 196,
+        "prc": 0.2061
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 21,
       "naz": "KS DRAVSKI DVOR, KIDRIČEVA CESTA 9",
-      "udel": null,
+      "udel": {
+        "upr": 561,
+        "gl": 122,
+        "prc": 0.2175
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 10,
       "naz": "KS PREPOLJE, PREPOLJE 62",
-      "udel": null,
+      "udel": {
+        "upr": 447,
+        "gl": 92,
+        "prc": 0.2058
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 23,
       "naz": "KS SKOKE, USKOŠKA UL. 58",
-      "udel": null,
+      "udel": {
+        "upr": 875,
+        "gl": 192,
+        "prc": 0.2194
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 14,
       "naz": "KULTURNI CENTER HOTINJA VAS, HOTINJSKA C. 127",
-      "udel": null,
+      "udel": {
+        "upr": 1129,
+        "gl": 273,
+        "prc": 0.2418
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 7,
       "naz": "KULTURNI DOM, ROŠNJA 40A",
-      "udel": null,
+      "udel": {
+        "upr": 317,
+        "gl": 65,
+        "prc": 0.205
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 2,
       "naz": "MČ TEZNO, PANONSKA 12",
-      "udel": null,
+      "udel": {
+        "upr": 775,
+        "gl": 191,
+        "prc": 0.2465
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 3,
       "naz": "MČ TEZNO, PANONSKA 12",
-      "udel": null,
+      "udel": {
+        "upr": 888,
+        "gl": 221,
+        "prc": 0.2489
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 27,
       "naz": "MČ TEZNO, PANONSKA 12",
-      "udel": null,
+      "udel": {
+        "upr": 927,
+        "gl": 221,
+        "prc": 0.2384
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 1,
       "naz": "OŠ M. KONŠAK, PREKMURSKA 67",
-      "udel": null,
+      "udel": {
+        "upr": 1083,
+        "gl": 250,
+        "prc": 0.2308
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 11,
       "naz": "OŠ SLIVNICA, MARIBORSKA C. 4",
-      "udel": null,
+      "udel": {
+        "upr": 774,
+        "gl": 180,
+        "prc": 0.2326
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 12,
       "naz": "OŠ SLIVNICA, MARIBORSKA C. 4",
-      "udel": null,
+      "udel": {
+        "upr": 1496,
+        "gl": 297,
+        "prc": 0.1985
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 6,
       "naz": "ŠD LOKA - ROŠNJA, LOKA 23A",
-      "udel": null,
+      "udel": {
+        "upr": 225,
+        "gl": 48,
+        "prc": 0.2133
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 20,
       "naz": "TRUCK-STOP, MIKLAVŠKA CESTA 82",
-      "udel": null,
+      "udel": {
+        "upr": 292,
+        "gl": 68,
+        "prc": 0.2329
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 19,
       "naz": "VEČNAMENSKI OBJEKT BOHOVA, BOHOVA 2A",
-      "udel": null,
+      "udel": {
+        "upr": 218,
+        "gl": 73,
+        "prc": 0.3349
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 22,
       "naz": "VRTEC CICIBAN - DOBROVCE, KIDRIČEVA CESTA 55",
-      "udel": null,
+      "udel": {
+        "upr": 643,
+        "gl": 206,
+        "prc": 0.3204
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 9,
       "naz": "ZDRAV. POSTAJA, STARŠE 78 C",
-      "udel": null,
+      "udel": {
+        "upr": 654,
+        "gl": 143,
+        "prc": 0.2187
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 901,
       "naz": "PREDČASNO GLASOVANJE",
-      "udel": null,
+      "udel": {
+        "upr": null,
+        "gl": 0,
+        "prc": null
+      },
       "rez": null,
       "prestetih_glasov": null
     }
@@ -377,10 +493,10 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T10:00:20.6416653+02:00",
-    "datum": "2022-04-24T07:20:00+02:00",
+    "timestamp": "2022-04-24T12:36:38.0650501+02:00",
+    "datum": "2022-04-24T12:35:00+02:00",
     "cas_udelezba": "11:00",
-    "has_udelezba": false,
+    "has_udelezba": true,
     "has_rezultat": false,
     "is_final": false,
     "has_kandidati_removed": false

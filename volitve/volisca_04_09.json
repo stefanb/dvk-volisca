@@ -7,168 +7,264 @@
     {
       "st": 7,
       "naz": "DRUŠTVO DISTROFIKOV SLOVENIJE, LINHARTOVA C. 1",
-      "udel": null,
+      "udel": {
+        "upr": 801,
+        "gl": 164,
+        "prc": 0.2047
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 5,
       "naz": "KNJIŽNICA BEŽIGRAD, EINSPIELERJEVA ULICA 1",
-      "udel": null,
+      "udel": {
+        "upr": 1386,
+        "gl": 255,
+        "prc": 0.184
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 22,
       "naz": "OBJEKT - OKREPČEVALNICA, ŠIFRERJEVA 3, LJUBLJANA",
-      "udel": null,
+      "udel": {
+        "upr": 1027,
+        "gl": 144,
+        "prc": 0.1402
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 23,
       "naz": "OBJEKT - OKREPČEVALNICA, ŠIFRERJEVA 3, LJUBLJANA",
-      "udel": null,
+      "udel": {
+        "upr": 762,
+        "gl": 146,
+        "prc": 0.1916
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 1,
       "naz": "OŠ BEŽIGRAD, ČRTOMIROVA UL.12",
-      "udel": null,
+      "udel": {
+        "upr": 1017,
+        "gl": 189,
+        "prc": 0.1858
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 2,
       "naz": "OŠ BEŽIGRAD, ČRTOMIROVA UL.12",
-      "udel": null,
+      "udel": {
+        "upr": 1007,
+        "gl": 200,
+        "prc": 0.1986
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 3,
       "naz": "OŠ BEŽIGRAD, ČRTOMIROVA UL.12",
-      "udel": null,
+      "udel": {
+        "upr": 829,
+        "gl": 137,
+        "prc": 0.1653
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 4,
       "naz": "OŠ BEŽIGRAD, ČRTOMIROVA UL.12",
-      "udel": null,
+      "udel": {
+        "upr": 709,
+        "gl": 151,
+        "prc": 0.213
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 19,
       "naz": "OŠ MILANA ŠUŠTARŠIČA, ŠTEMBALOVA UL. 2A",
-      "udel": null,
+      "udel": {
+        "upr": 699,
+        "gl": 160,
+        "prc": 0.2289
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 20,
       "naz": "OŠ MILANA ŠUŠTARŠIČA, ŠTEMBALOVA UL. 2A",
-      "udel": null,
+      "udel": {
+        "upr": 730,
+        "gl": 190,
+        "prc": 0.2603
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 15,
       "naz": "OŠ MIRANA JARCA, IPAVČEVA UL. 1",
-      "udel": null,
+      "udel": {
+        "upr": 737,
+        "gl": 140,
+        "prc": 0.19
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 8,
       "naz": "OŠ MIRANA JARCA, IPAVČEVA UL. 1",
-      "udel": null,
+      "udel": {
+        "upr": 608,
+        "gl": 150,
+        "prc": 0.2467
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 9,
       "naz": "OŠ MIRANA JARCA, IPAVČEVA UL. 1",
-      "udel": null,
+      "udel": {
+        "upr": 1255,
+        "gl": 216,
+        "prc": 0.1721
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 16,
       "naz": "OŠ SAVSKO NASELJE, MATJAŽEVA UL. 4",
-      "udel": null,
+      "udel": {
+        "upr": 675,
+        "gl": 146,
+        "prc": 0.2163
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 17,
       "naz": "OŠ SAVSKO NASELJE, MATJAŽEVA UL. 4",
-      "udel": null,
+      "udel": {
+        "upr": 986,
+        "gl": 199,
+        "prc": 0.2018
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 18,
       "naz": "OŠ SAVSKO NASELJE, MATJAŽEVA UL. 4",
-      "udel": null,
+      "udel": {
+        "upr": 1008,
+        "gl": 160,
+        "prc": 0.1587
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 10,
       "naz": "OŠ V. KRAIGHERJA, TRG 9. MAJA 1, LJUBLJANA",
-      "udel": null,
+      "udel": {
+        "upr": 799,
+        "gl": 182,
+        "prc": 0.2278
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 14,
       "naz": "OŠ VITA KRAIGHERJA, TRG 9. MAJA 1",
-      "udel": null,
+      "udel": {
+        "upr": 830,
+        "gl": 165,
+        "prc": 0.1988
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 12,
       "naz": "OŠ VITA KRAIGHERJA, TRG 9. MAJA 1",
-      "udel": null,
+      "udel": {
+        "upr": 576,
+        "gl": 124,
+        "prc": 0.2153
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 13,
       "naz": "PROSTORI MOL, DUNAJSKA C. 101",
-      "udel": null,
+      "udel": {
+        "upr": 919,
+        "gl": 227,
+        "prc": 0.247
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 11,
       "naz": "PROSTORI MOL, DUNAJSKA C. 101",
-      "udel": null,
+      "udel": {
+        "upr": 647,
+        "gl": 123,
+        "prc": 0.1901
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 21,
       "naz": "PROSTORI MOL, VOJKOVA C. 73",
-      "udel": null,
+      "udel": {
+        "upr": 471,
+        "gl": 93,
+        "prc": 0.1975
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 6,
       "naz": "ZAVOD RS ZA ZAPOSLOVANJE, PARMOVA 32, LJUBLJANA",
-      "udel": null,
+      "udel": {
+        "upr": 837,
+        "gl": 144,
+        "prc": 0.172
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 901,
       "naz": "PREDČASNO GLASOVANJE",
-      "udel": null,
+      "udel": {
+        "upr": null,
+        "gl": 0,
+        "prc": null
+      },
       "rez": null,
       "prestetih_glasov": null
     }
@@ -340,10 +436,10 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T10:00:20.6416653+02:00",
-    "datum": "2022-04-24T07:20:00+02:00",
+    "timestamp": "2022-04-24T12:36:38.0650501+02:00",
+    "datum": "2022-04-24T12:35:00+02:00",
     "cas_udelezba": "11:00",
-    "has_udelezba": false,
+    "has_udelezba": true,
     "has_rezultat": false,
     "is_final": false,
     "has_kandidati_removed": false

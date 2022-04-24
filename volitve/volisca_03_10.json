@@ -7,133 +7,209 @@
     {
       "st": 8,
       "naz": "GASILSKI DOM, PRUŠNIKOVA UL.57",
-      "udel": null,
+      "udel": {
+        "upr": 1112,
+        "gl": 250,
+        "prc": 0.2248
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 10,
       "naz": "GASILSKI DOM, VIŽMARSKA POT 9",
-      "udel": null,
+      "udel": {
+        "upr": 910,
+        "gl": 250,
+        "prc": 0.2747
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 11,
       "naz": "GASILSKI DOM, VIŽMARSKA POT 9",
-      "udel": null,
+      "udel": {
+        "upr": 637,
+        "gl": 181,
+        "prc": 0.2841
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 9,
       "naz": "MOL - LJUDSKI DOM, PRUŠNIKOVA UL.99",
-      "udel": null,
+      "udel": {
+        "upr": 906,
+        "gl": 217,
+        "prc": 0.2395
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 15,
       "naz": "MOL - LJUDSKI DOM, PRUŠNIKOVA UL.99",
-      "udel": null,
+      "udel": {
+        "upr": 834,
+        "gl": 184,
+        "prc": 0.2206
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 16,
       "naz": "MOL - LJUDSKI DOM, PRUŠNIKOVA UL.99",
-      "udel": null,
+      "udel": {
+        "upr": 787,
+        "gl": 179,
+        "prc": 0.2274
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 14,
       "naz": "MOL - SLUŽBA ZA LOKALNO SAMOUPRAVO, KOSIJEVA UL.1",
-      "udel": null,
+      "udel": {
+        "upr": 1115,
+        "gl": 250,
+        "prc": 0.2242
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 1,
       "naz": "MOL-DOM KRAJANOV, DRAVELJSKA UL.44",
-      "udel": null,
+      "udel": {
+        "upr": 1133,
+        "gl": 400,
+        "prc": 0.353
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 2,
       "naz": "MOL-DOM KRAJANOV, DRAVELJSKA UL.44",
-      "udel": null,
+      "udel": {
+        "upr": 1124,
+        "gl": 210,
+        "prc": 0.1868
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 3,
       "naz": "MOL-DOM KRAJANOV, DRAVELJSKA UL.44",
-      "udel": null,
+      "udel": {
+        "upr": 892,
+        "gl": 170,
+        "prc": 0.1906
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 4,
       "naz": "OŠ KOSEZE, LEDARSKA UL.23",
-      "udel": null,
+      "udel": {
+        "upr": 622,
+        "gl": 138,
+        "prc": 0.2219
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 5,
       "naz": "OŠ MIŠKA KRANJCA, KAMNOGORIŠKA C.35",
-      "udel": null,
+      "udel": {
+        "upr": 1121,
+        "gl": 235,
+        "prc": 0.2096
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 6,
       "naz": "OŠ MIŠKA KRANJCA, KAMNOGORIŠKA C.35",
-      "udel": null,
+      "udel": {
+        "upr": 919,
+        "gl": 200,
+        "prc": 0.2176
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 7,
       "naz": "OŠ MIŠKA KRANJCA, KAMNOGORIŠKA C.35",
-      "udel": null,
+      "udel": {
+        "upr": 721,
+        "gl": 176,
+        "prc": 0.2441
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 17,
       "naz": "OŠ VIŽMARJE - BROD, NA GAJU 2",
-      "udel": null,
+      "udel": {
+        "upr": 594,
+        "gl": 147,
+        "prc": 0.2475
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 18,
       "naz": "OŠ VIŽMARJE - BROD, NA GAJU 2",
-      "udel": null,
+      "udel": {
+        "upr": 679,
+        "gl": 189,
+        "prc": 0.2784
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 13,
       "naz": "OŠ VIŽMARJE - BROD, NA GAJU 2",
-      "udel": null,
+      "udel": {
+        "upr": 586,
+        "gl": 142,
+        "prc": 0.2423
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 12,
       "naz": "PROSTORI  MOL, NA GMAJNI 1, LJUBLJANA-ŠENTVID",
-      "udel": null,
+      "udel": {
+        "upr": 1308,
+        "gl": 260,
+        "prc": 0.1988
+      },
       "rez": null,
       "prestetih_glasov": null
     },
     {
       "st": 901,
       "naz": "PREDČASNO GLASOVANJE",
-      "udel": null,
+      "udel": {
+        "upr": null,
+        "gl": 0,
+        "prc": null
+      },
       "rez": null,
       "prestetih_glasov": null
     }
@@ -305,10 +381,10 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T10:00:20.6416653+02:00",
-    "datum": "2022-04-24T07:20:00+02:00",
+    "timestamp": "2022-04-24T12:36:38.0650501+02:00",
+    "datum": "2022-04-24T12:35:00+02:00",
     "cas_udelezba": "11:00",
-    "has_udelezba": false,
+    "has_udelezba": true,
     "has_rezultat": false,
     "is_final": false,
     "has_kandidati_removed": false
