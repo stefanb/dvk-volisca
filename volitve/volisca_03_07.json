@@ -2205,30 +2205,30 @@
       "naz": "SREDNJA ZDRAVSTVENA ŠOLA LJUBLJANA,POLJANSKA C.61",
       "udel": {
         "upr": 1014,
-        "gl": 520,
-        "prc": 0.5128
+        "gl": 632,
+        "prc": 0.6233
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0016
           },
           {
             "st": 2,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 14,
+            "prc": 0.0223
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 231,
+            "prc": 0.3678
           },
           {
             "st": 5,
@@ -2237,78 +2237,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 84,
+            "prc": 0.1338
           },
           {
             "st": 7,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 26,
+            "prc": 0.0414
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0032
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 11,
+            "prc": 0.0175
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 12,
+            "prc": 0.0191
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 40,
+            "prc": 0.0637
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 15,
+            "prc": 0.0239
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 18,
+            "prc": 0.0287
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 94,
+            "prc": 0.1497
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0032
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 37,
+            "prc": 0.0589
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 24,
+            "prc": 0.0382
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 15,
+            "prc": 0.0239
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0032
           },
           {
             "st": 21,
@@ -2316,11 +2316,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 632,
+        "velj": 628,
+        "nev": 4
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 901,
@@ -2613,8 +2613,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T21:30:07.5309847+02:00",
-    "datum": "2022-04-24T21:30:00+02:00",
+    "timestamp": "2022-04-24T21:40:03.7119913+02:00",
+    "datum": "2022-04-24T21:40:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

@@ -1717,110 +1717,110 @@
       "naz": "OŠ TONE ČUFAR, ZRKOVSKA 67",
       "udel": {
         "upr": 973,
-        "gl": 456,
-        "prc": 0.4687
+        "gl": 576,
+        "prc": 0.592
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0088
           },
           {
             "st": 2,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0018
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 11,
+            "prc": 0.0193
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 221,
+            "prc": 0.3877
           },
           {
             "st": 5,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 21,
+            "prc": 0.0368
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.007
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 16,
+            "prc": 0.0281
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0053
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0088
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.014
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 21,
+            "prc": 0.0368
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 12,
+            "prc": 0.0211
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 22,
+            "prc": 0.0386
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 142,
+            "prc": 0.2491
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 11,
+            "prc": 0.0193
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 38,
+            "prc": 0.0667
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 18,
+            "prc": 0.0316
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0088
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0105
           },
           {
             "st": 21,
@@ -1828,11 +1828,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 576,
+        "velj": 570,
+        "nev": 6
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 1,
@@ -2614,8 +2614,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T21:30:07.5309847+02:00",
-    "datum": "2022-04-24T21:30:00+02:00",
+    "timestamp": "2022-04-24T21:40:03.7119913+02:00",
+    "datum": "2022-04-24T21:40:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

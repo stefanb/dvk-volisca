@@ -1595,30 +1595,30 @@
       "naz": "OSNOVNA ŠOLA ZG. VELKA, ZG. VELKA 41",
       "udel": {
         "upr": 938,
-        "gl": 435,
-        "prc": 0.4638
+        "gl": 585,
+        "prc": 0.6237
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0104
           },
           {
             "st": 2,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 29,
+            "prc": 0.0502
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 217,
+            "prc": 0.3754
           },
           {
             "st": 5,
@@ -1627,90 +1627,90 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0052
           },
           {
             "st": 7,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0104
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 20,
+            "prc": 0.0346
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0104
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0104
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 45,
+            "prc": 0.0779
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0035
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 13,
+            "prc": 0.0225
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 178,
+            "prc": 0.308
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0138
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 10,
+            "prc": 0.0173
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 14,
+            "prc": 0.0242
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0052
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.0156
           },
           {
             "st": 21,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0052
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 585,
+        "velj": 578,
+        "nev": 7
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 5,
@@ -2693,30 +2693,30 @@
       "naz": "PREDČASNO GLASOVANJE",
       "udel": {
         "upr": null,
-        "gl": 0,
+        "gl": 1069,
         "prc": null
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0047
           },
           {
             "st": 2,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 44,
+            "prc": 0.0414
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 340,
+            "prc": 0.3195
           },
           {
             "st": 5,
@@ -2725,90 +2725,90 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 35,
+            "prc": 0.0329
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0019
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 30,
+            "prc": 0.0282
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 15,
+            "prc": 0.0141
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.0085
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.0085
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 46,
+            "prc": 0.0432
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 11,
+            "prc": 0.0103
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 24,
+            "prc": 0.0226
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 370,
+            "prc": 0.3477
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0038
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 84,
+            "prc": 0.0789
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 23,
+            "prc": 0.0216
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0047
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0056
           },
           {
             "st": 21,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0019
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 1069,
+        "velj": 1064,
+        "nev": 5
       },
-      "prestetih_glasov": null
+      "prestetih_glasov": 1
     }
   ],
   "liste": [
@@ -2981,8 +2981,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T21:30:07.5309847+02:00",
-    "datum": "2022-04-24T21:30:00+02:00",
+    "timestamp": "2022-04-24T21:40:03.7119913+02:00",
+    "datum": "2022-04-24T21:40:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

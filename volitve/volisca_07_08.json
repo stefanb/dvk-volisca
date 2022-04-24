@@ -497,110 +497,110 @@
       "naz": "OŠ F.R. STANE, KERSNIKOVA 10",
       "udel": {
         "upr": 1025,
-        "gl": 506,
-        "prc": 0.4937
+        "gl": 620,
+        "prc": 0.6049
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0049
           },
           {
             "st": 2,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0033
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 24,
+            "prc": 0.039
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 260,
+            "prc": 0.4228
           },
           {
             "st": 5,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0016
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 43,
+            "prc": 0.0699
           },
           {
             "st": 7,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 26,
+            "prc": 0.0423
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0033
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 13,
+            "prc": 0.0211
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 17,
+            "prc": 0.0276
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 26,
+            "prc": 0.0423
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 11,
+            "prc": 0.0179
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0114
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 103,
+            "prc": 0.1675
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0114
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 39,
+            "prc": 0.0634
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 17,
+            "prc": 0.0276
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 13,
+            "prc": 0.0211
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0016
           },
           {
             "st": 21,
@@ -608,11 +608,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 620,
+        "velj": 615,
+        "nev": 5
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 10,
@@ -2005,8 +2005,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T21:30:07.5309847+02:00",
-    "datum": "2022-04-24T21:30:00+02:00",
+    "timestamp": "2022-04-24T21:40:03.7119913+02:00",
+    "datum": "2022-04-24T21:40:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

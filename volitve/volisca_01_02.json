@@ -2327,30 +2327,30 @@
       "naz": "OBČINA BLED, CESTA SVOBODE 13, BLED",
       "udel": {
         "upr": 833,
-        "gl": 355,
-        "prc": 0.4262
+        "gl": 443,
+        "prc": 0.5318
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0046
           },
           {
             "st": 2,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.0206
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 133,
+            "prc": 0.305
           },
           {
             "st": 5,
@@ -2359,90 +2359,90 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 28,
+            "prc": 0.0642
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0046
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 10,
+            "prc": 0.0229
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0138
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0092
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 17,
+            "prc": 0.039
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 34,
+            "prc": 0.078
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0161
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 18,
+            "prc": 0.0413
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 108,
+            "prc": 0.2477
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0115
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 29,
+            "prc": 0.0665
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 13,
+            "prc": 0.0298
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0183
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0023
           },
           {
             "st": 21,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0046
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 443,
+        "velj": 436,
+        "nev": 7
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 4,
@@ -3712,8 +3712,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T21:30:07.5309847+02:00",
-    "datum": "2022-04-24T21:30:00+02:00",
+    "timestamp": "2022-04-24T21:40:03.7119913+02:00",
+    "datum": "2022-04-24T21:40:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

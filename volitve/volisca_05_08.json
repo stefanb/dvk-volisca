@@ -253,30 +253,30 @@
       "naz": "GORENJE - KULTURNI DOM",
       "udel": {
         "upr": 352,
-        "gl": 200,
-        "prc": 0.5682
+        "gl": 272,
+        "prc": 0.7727
       },
       "rez": {
         "rez": [
           {
             "st": 1,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 2,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 15,
+            "prc": 0.0556
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 54,
+            "prc": 0.2
           },
           {
             "st": 5,
@@ -285,78 +285,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0259
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0111
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 10,
+            "prc": 0.037
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0222
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0111
           },
           {
             "st": 11,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 27,
+            "prc": 0.1
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0185
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 15,
+            "prc": 0.0556
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 85,
+            "prc": 0.3148
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0148
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 17,
+            "prc": 0.063
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 12,
+            "prc": 0.0444
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0111
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0148
           },
           {
             "st": 21,
@@ -364,11 +364,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 272,
+        "velj": 270,
+        "nev": 2
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 8,
@@ -741,30 +741,30 @@
       "naz": "PAŠKA VAS - GASILSKI DOM",
       "udel": {
         "upr": 612,
-        "gl": 357,
-        "prc": 0.5833
+        "gl": 460,
+        "prc": 0.7516
       },
       "rez": {
         "rez": [
           {
             "st": 1,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 2,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 11,
+            "prc": 0.024
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 126,
+            "prc": 0.2745
           },
           {
             "st": 5,
@@ -773,78 +773,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.0196
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0044
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 20,
+            "prc": 0.0436
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0174
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0044
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0065
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 46,
+            "prc": 0.1002
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0065
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 19,
+            "prc": 0.0414
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 146,
+            "prc": 0.3181
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 16,
+            "prc": 0.0349
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 33,
+            "prc": 0.0719
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0153
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0131
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0044
           },
           {
             "st": 21,
@@ -852,11 +852,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 460,
+        "velj": 459,
+        "nev": 1
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 24,
@@ -2449,30 +2449,30 @@
       "naz": "VELENJE - OŠ MPT",
       "udel": {
         "upr": 1515,
-        "gl": 725,
-        "prc": 0.4785
+        "gl": 843,
+        "prc": 0.5564
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.0108
           },
           {
             "st": 2,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 48,
+            "prc": 0.0576
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 237,
+            "prc": 0.2842
           },
           {
             "st": 5,
@@ -2481,78 +2481,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 34,
+            "prc": 0.0408
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 15,
+            "prc": 0.018
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 22,
+            "prc": 0.0264
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0048
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 21,
+            "prc": 0.0252
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 14,
+            "prc": 0.0168
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 37,
+            "prc": 0.0444
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 16,
+            "prc": 0.0192
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 17,
+            "prc": 0.0204
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 167,
+            "prc": 0.2002
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0048
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 140,
+            "prc": 0.1679
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 32,
+            "prc": 0.0384
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 15,
+            "prc": 0.018
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0024
           },
           {
             "st": 21,
@@ -2560,11 +2560,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 843,
+        "velj": 834,
+        "nev": 9
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 21,
@@ -3345,8 +3345,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T21:30:07.5309847+02:00",
-    "datum": "2022-04-24T21:30:00+02:00",
+    "timestamp": "2022-04-24T21:40:03.7119913+02:00",
+    "datum": "2022-04-24T21:40:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

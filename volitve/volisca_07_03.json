@@ -2815,110 +2815,110 @@
       "naz": "KULTURNI DOM SLOV. KONJICE, MESTNI TRG 4",
       "udel": {
         "upr": 1233,
-        "gl": 612,
-        "prc": 0.4964
+        "gl": 770,
+        "prc": 0.6245
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0013
           },
           {
             "st": 2,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0026
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 16,
+            "prc": 0.0209
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 275,
+            "prc": 0.359
           },
           {
             "st": 5,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0026
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 19,
+            "prc": 0.0248
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0013
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 21,
+            "prc": 0.0274
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 10,
+            "prc": 0.0131
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 10,
+            "prc": 0.0131
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 12,
+            "prc": 0.0157
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 28,
+            "prc": 0.0366
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0052
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 17,
+            "prc": 0.0222
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 212,
+            "prc": 0.2768
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 41,
+            "prc": 0.0535
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 69,
+            "prc": 0.0901
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 12,
+            "prc": 0.0157
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.0117
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0065
           },
           {
             "st": 21,
@@ -2926,11 +2926,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 770,
+        "velj": 766,
+        "nev": 4
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 28,
@@ -4933,8 +4933,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T21:30:07.5309847+02:00",
-    "datum": "2022-04-24T21:30:00+02:00",
+    "timestamp": "2022-04-24T21:40:03.7119913+02:00",
+    "datum": "2022-04-24T21:40:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

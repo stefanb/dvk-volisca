@@ -2449,30 +2449,30 @@
       "naz": "SREDNJA GOST.IN TUR.ŠOLA RADOVLJICA,KRANJSKA C.24",
       "udel": {
         "upr": 1096,
-        "gl": 511,
-        "prc": 0.4662
+        "gl": 624,
+        "prc": 0.5693
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0032
           },
           {
             "st": 2,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0016
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 32,
+            "prc": 0.0515
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 217,
+            "prc": 0.3494
           },
           {
             "st": 5,
@@ -2481,90 +2481,90 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 32,
+            "prc": 0.0515
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0097
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 42,
+            "prc": 0.0676
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0113
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0081
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 20,
+            "prc": 0.0322
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 46,
+            "prc": 0.0741
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 15,
+            "prc": 0.0242
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 17,
+            "prc": 0.0274
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 95,
+            "prc": 0.153
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.0145
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 29,
+            "prc": 0.0467
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 18,
+            "prc": 0.029
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 21,
+            "prc": 0.0338
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0097
           },
           {
             "st": 21,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0016
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 624,
+        "velj": 621,
+        "nev": 3
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 23,
@@ -3327,6 +3327,7 @@
     {
       "ime": "Alma",
       "pri": "Intihar",
+      "man": true,
       "st": 4,
       "naz": "GIBANJE SVOBODA",
       "knaz": "SVOBODA",
@@ -3413,7 +3414,6 @@
     {
       "ime": "Mark",
       "pri": "Toplak",
-      "man": true,
       "st": 15,
       "naz": "SLOVENSKA DEMOKRATSKA STRANKA - SDS",
       "knaz": "SDS",
@@ -3469,8 +3469,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T21:30:07.5309847+02:00",
-    "datum": "2022-04-24T21:30:00+02:00",
+    "timestamp": "2022-04-24T21:40:03.7119913+02:00",
+    "datum": "2022-04-24T21:40:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,
