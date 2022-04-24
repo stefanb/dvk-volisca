@@ -863,30 +863,30 @@
       "naz": "MOL-DOM KRAJANOV, DRAVELJSKA UL.44",
       "udel": {
         "upr": 1133,
-        "gl": 614,
-        "prc": 0.5419
+        "gl": 724,
+        "prc": 0.639
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0042
           },
           {
             "st": 2,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0014
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 20,
+            "prc": 0.0278
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 289,
+            "prc": 0.4014
           },
           {
             "st": 5,
@@ -895,78 +895,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 51,
+            "prc": 0.0708
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0042
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 26,
+            "prc": 0.0361
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0014
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 10,
+            "prc": 0.0139
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 19,
+            "prc": 0.0264
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 40,
+            "prc": 0.0556
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 13,
+            "prc": 0.0181
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 22,
+            "prc": 0.0306
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 121,
+            "prc": 0.1681
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0083
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 58,
+            "prc": 0.0806
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 20,
+            "prc": 0.0278
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 10,
+            "prc": 0.0139
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0097
           },
           {
             "st": 21,
@@ -974,11 +974,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 724,
+        "velj": 720,
+        "nev": 4
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 2,
@@ -2491,8 +2491,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T22:45:07.8259508+02:00",
-    "datum": "2022-04-24T22:45:00+02:00",
+    "timestamp": "2022-04-24T22:55:13.6475056+02:00",
+    "datum": "2022-04-24T22:55:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

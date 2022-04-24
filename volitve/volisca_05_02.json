@@ -497,30 +497,30 @@
       "naz": "GASILSKI DOM FRANKOLOVO,STRAŽICA 2",
       "udel": {
         "upr": 577,
-        "gl": 307,
-        "prc": 0.5321
+        "gl": 399,
+        "prc": 0.6915
       },
       "rez": {
         "rez": [
           {
             "st": 1,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 2,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 14,
+            "prc": 0.0352
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 106,
+            "prc": 0.2663
           },
           {
             "st": 5,
@@ -529,78 +529,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 11,
+            "prc": 0.0276
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0025
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 12,
+            "prc": 0.0302
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.005
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.0226
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0075
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 25,
+            "prc": 0.0628
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0025
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 25,
+            "prc": 0.0628
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 157,
+            "prc": 0.3945
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0201
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 12,
+            "prc": 0.0302
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0025
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0201
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0075
           },
           {
             "st": 21,
@@ -608,11 +608,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 399,
+        "velj": 398,
+        "nev": 1
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 47,
@@ -2693,30 +2693,30 @@
       "naz": "OSNOVNA ŠOLA ANTONA BEZENŠKA FRANKOLOVO (AVLA)",
       "udel": {
         "upr": 354,
-        "gl": 191,
-        "prc": 0.5395
+        "gl": 245,
+        "prc": 0.6921
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0042
           },
           {
             "st": 2,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 17,
+            "prc": 0.0714
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 59,
+            "prc": 0.2479
           },
           {
             "st": 5,
@@ -2725,78 +2725,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0084
           },
           {
             "st": 7,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0168
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0168
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0042
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0336
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 12,
+            "prc": 0.0504
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0084
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 13,
+            "prc": 0.0546
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 99,
+            "prc": 0.416
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0084
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.0378
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0168
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0042
           },
           {
             "st": 20,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 21,
@@ -2804,11 +2804,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 245,
+        "velj": 238,
+        "nev": 7
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 64,
@@ -3425,30 +3425,30 @@
       "naz": "OSNOVNA ŠOLA ŠTORE",
       "udel": {
         "upr": 1026,
-        "gl": 561,
-        "prc": 0.5468
+        "gl": 656,
+        "prc": 0.6394
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0092
           },
           {
             "st": 2,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 36,
+            "prc": 0.0555
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 268,
+            "prc": 0.4129
           },
           {
             "st": 5,
@@ -3457,78 +3457,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 14,
+            "prc": 0.0216
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 10,
+            "prc": 0.0154
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 19,
+            "prc": 0.0293
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0108
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 21,
+            "prc": 0.0324
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0092
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 31,
+            "prc": 0.0478
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.0139
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 15,
+            "prc": 0.0231
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 100,
+            "prc": 0.1541
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0123
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 67,
+            "prc": 0.1032
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0123
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 16,
+            "prc": 0.0247
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0123
           },
           {
             "st": 21,
@@ -3536,11 +3536,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 656,
+        "velj": 649,
+        "nev": 7
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 51,
@@ -5297,8 +5297,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T22:45:07.8259508+02:00",
-    "datum": "2022-04-24T22:45:00+02:00",
+    "timestamp": "2022-04-24T22:55:13.6475056+02:00",
+    "datum": "2022-04-24T22:55:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

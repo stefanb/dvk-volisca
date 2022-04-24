@@ -1839,30 +1839,30 @@
       "naz": "GRAČIŠČE - KULTURNI DOM",
       "udel": {
         "upr": 435,
-        "gl": 221,
-        "prc": 0.508
+        "gl": 306,
+        "prc": 0.7034
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0033
           },
           {
             "st": 2,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0033
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 14,
+            "prc": 0.0461
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 107,
+            "prc": 0.352
           },
           {
             "st": 5,
@@ -1871,90 +1871,90 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 11,
+            "prc": 0.0362
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 22,
+            "prc": 0.0724
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.023
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0197
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.023
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 14,
+            "prc": 0.0461
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0197
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.023
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0033
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 66,
+            "prc": 0.2171
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0066
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 14,
+            "prc": 0.0461
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.0296
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0066
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0197
           },
           {
             "st": 21,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0033
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 306,
+        "velj": 304,
+        "nev": 2
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 14,
@@ -7251,8 +7251,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T22:45:07.8259508+02:00",
-    "datum": "2022-04-24T22:45:00+02:00",
+    "timestamp": "2022-04-24T22:55:13.6475056+02:00",
+    "datum": "2022-04-24T22:55:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,
