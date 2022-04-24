@@ -2205,30 +2205,30 @@
       "naz": "NOVO MESTO, ŠEGOVA ULICA 22 - VRTEC",
       "udel": {
         "upr": 2052,
-        "gl": 861,
-        "prc": 0.4196
+        "gl": 1401,
+        "prc": 0.6827
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 26,
+            "prc": 0.0188
           },
           {
             "st": 2,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 32,
+            "prc": 0.0231
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 496,
+            "prc": 0.3581
           },
           {
             "st": 5,
@@ -2237,78 +2237,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 67,
+            "prc": 0.0484
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0007
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 62,
+            "prc": 0.0448
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 10,
+            "prc": 0.0072
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 33,
+            "prc": 0.0238
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 50,
+            "prc": 0.0361
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 118,
+            "prc": 0.0852
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 22,
+            "prc": 0.0159
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 20,
+            "prc": 0.0144
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 281,
+            "prc": 0.2029
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 27,
+            "prc": 0.0195
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 82,
+            "prc": 0.0592
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 39,
+            "prc": 0.0282
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 10,
+            "prc": 0.0072
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.0065
           },
           {
             "st": 21,
@@ -2316,11 +2316,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 1401,
+        "velj": 1385,
+        "nev": 16
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 23,
@@ -3878,7 +3878,6 @@
     {
       "ime": "Mark Boris",
       "pri": "Andrijanič",
-      "man": true,
       "st": 12,
       "naz": "NOVA SLOVENIJA - KRŠČANSKI DEMOKRATI",
       "knaz": "NSi",
@@ -3956,8 +3955,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T23:55:03.9700392+02:00",
-    "datum": "2022-04-24T23:55:00+02:00",
+    "timestamp": "2022-04-25T00:15:20.7086295+02:00",
+    "datum": "2022-04-25T00:15:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

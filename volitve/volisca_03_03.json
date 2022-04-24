@@ -375,30 +375,30 @@
       "naz": "DRUŠTVENI PROSTORI GRADIŠČE, GRADIŠČE, ŠKOFLJICA",
       "udel": {
         "upr": 974,
-        "gl": 651,
-        "prc": 0.6684
+        "gl": 734,
+        "prc": 0.7536
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0027
           },
           {
             "st": 2,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0055
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 22,
+            "prc": 0.0302
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 326,
+            "prc": 0.4472
           },
           {
             "st": 5,
@@ -407,78 +407,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 36,
+            "prc": 0.0494
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0027
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 22,
+            "prc": 0.0302
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.011
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 17,
+            "prc": 0.0233
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 21,
+            "prc": 0.0288
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 43,
+            "prc": 0.059
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 17,
+            "prc": 0.0233
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 16,
+            "prc": 0.0219
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 101,
+            "prc": 0.1385
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 15,
+            "prc": 0.0206
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 46,
+            "prc": 0.0631
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 15,
+            "prc": 0.0206
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 11,
+            "prc": 0.0151
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0069
           },
           {
             "st": 21,
@@ -486,11 +486,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 734,
+        "velj": 729,
+        "nev": 5
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 14,
@@ -4199,8 +4199,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T23:55:03.9700392+02:00",
-    "datum": "2022-04-24T23:55:00+02:00",
+    "timestamp": "2022-04-25T00:15:20.7086295+02:00",
+    "datum": "2022-04-25T00:15:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,
