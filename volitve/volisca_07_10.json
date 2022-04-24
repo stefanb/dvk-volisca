@@ -1717,110 +1717,110 @@
       "naz": "ZD POSTAJA, CESTA PROLETARSKIH BRIGAD 71",
       "udel": {
         "upr": 727,
-        "gl": 407,
-        "prc": 0.5598
+        "gl": 490,
+        "prc": 0.674
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0102
           },
           {
             "st": 2,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 22,
+            "prc": 0.045
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 204,
+            "prc": 0.4172
           },
           {
             "st": 5,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0061
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 27,
+            "prc": 0.0552
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.002
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 11,
+            "prc": 0.0225
           },
           {
             "st": 9,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 11,
+            "prc": 0.0225
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0123
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 18,
+            "prc": 0.0368
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 10,
+            "prc": 0.0204
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 11,
+            "prc": 0.0225
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 83,
+            "prc": 0.1697
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0123
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 26,
+            "prc": 0.0532
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 30,
+            "prc": 0.0613
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0102
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 10,
+            "prc": 0.0204
           },
           {
             "st": 21,
@@ -1828,11 +1828,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 490,
+        "velj": 489,
+        "nev": 1
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 901,
@@ -2127,8 +2127,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T20:40:06.0915952+02:00",
-    "datum": "2022-04-24T20:40:00+02:00",
+    "timestamp": "2022-04-24T20:50:05.3313079+02:00",
+    "datum": "2022-04-24T20:50:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

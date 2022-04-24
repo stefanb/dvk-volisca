@@ -1717,30 +1717,30 @@
       "naz": "INFOCENTER TRIGLAVSKA ROŽA BLED, LJUBLJANSKA C.27",
       "udel": {
         "upr": 1406,
-        "gl": 800,
-        "prc": 0.569
+        "gl": 950,
+        "prc": 0.6757
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0075
           },
           {
             "st": 2,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0011
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 31,
+            "prc": 0.0331
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 366,
+            "prc": 0.391
           },
           {
             "st": 5,
@@ -1749,90 +1749,90 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 49,
+            "prc": 0.0524
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0011
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 32,
+            "prc": 0.0342
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0043
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 18,
+            "prc": 0.0192
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 25,
+            "prc": 0.0267
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 58,
+            "prc": 0.062
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 23,
+            "prc": 0.0246
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 18,
+            "prc": 0.0192
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 160,
+            "prc": 0.1709
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 13,
+            "prc": 0.0139
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 59,
+            "prc": 0.063
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 46,
+            "prc": 0.0491
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 19,
+            "prc": 0.0203
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0064
           },
           {
             "st": 21,
             "gl": 0,
-            "prc": null
+            "prc": 0
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 950,
+        "velj": 936,
+        "nev": 14
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 6,
@@ -3713,8 +3713,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T20:40:06.0915952+02:00",
-    "datum": "2022-04-24T20:40:00+02:00",
+    "timestamp": "2022-04-24T20:50:05.3313079+02:00",
+    "datum": "2022-04-24T20:50:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

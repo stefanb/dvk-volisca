@@ -3425,30 +3425,30 @@
       "naz": "STAVBA GASILSKEGA DOMA OBREŽJE",
       "udel": {
         "upr": 580,
-        "gl": 230,
-        "prc": 0.3966
+        "gl": 284,
+        "prc": 0.4897
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0212
           },
           {
             "st": 2,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0035
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0071
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 98,
+            "prc": 0.3463
           },
           {
             "st": 5,
@@ -3457,78 +3457,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 19,
+            "prc": 0.0671
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0035
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0177
           },
           {
             "st": 9,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0212
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0106
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0212
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0071
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0141
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 48,
+            "prc": 0.1696
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 10,
+            "prc": 0.0353
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 53,
+            "prc": 0.1873
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 10,
+            "prc": 0.0353
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0141
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0177
           },
           {
             "st": 21,
@@ -3536,41 +3536,41 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 284,
+        "velj": 283,
+        "nev": 1
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 33,
       "naz": "STAVBA GASILSKEGA DOMA OREŠJE",
       "udel": {
         "upr": 199,
-        "gl": 102,
-        "prc": 0.5126
+        "gl": 117,
+        "prc": 0.5879
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0175
           },
           {
             "st": 2,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0614
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 37,
+            "prc": 0.3246
           },
           {
             "st": 5,
@@ -3579,78 +3579,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0263
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0088
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.0789
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0263
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0263
           },
           {
             "st": 11,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0351
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0175
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0088
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 31,
+            "prc": 0.2719
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0263
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0351
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0088
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0088
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0175
           },
           {
             "st": 21,
@@ -3658,11 +3658,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 117,
+        "velj": 114,
+        "nev": 3
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 30,
@@ -4035,30 +4035,30 @@
       "naz": "STAVBA GASILSKEGA DOMA SKOPICE",
       "udel": {
         "upr": 318,
-        "gl": 171,
-        "prc": 0.5377
+        "gl": 232,
+        "prc": 0.7296
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0087
           },
           {
             "st": 2,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0044
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 93,
+            "prc": 0.4061
           },
           {
             "st": 5,
@@ -4067,78 +4067,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 11,
+            "prc": 0.048
           },
           {
             "st": 7,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0349
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0349
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0175
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0131
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 16,
+            "prc": 0.0699
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.0393
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0306
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 48,
+            "prc": 0.2096
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.0393
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0218
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0131
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0044
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0044
           },
           {
             "st": 21,
@@ -4146,11 +4146,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 232,
+        "velj": 229,
+        "nev": 3
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 34,
@@ -4401,30 +4401,30 @@
       "naz": "STAVBA GASILSKEGA DOMA ŽUPELEVEC",
       "udel": {
         "upr": 453,
-        "gl": 225,
-        "prc": 0.4967
+        "gl": 268,
+        "prc": 0.5916
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0153
           },
           {
             "st": 2,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0229
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 98,
+            "prc": 0.374
           },
           {
             "st": 5,
@@ -4433,78 +4433,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0229
           },
           {
             "st": 7,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 18,
+            "prc": 0.0687
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0115
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0191
           },
           {
             "st": 11,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 14,
+            "prc": 0.0534
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0229
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.0344
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 64,
+            "prc": 0.2443
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0229
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 16,
+            "prc": 0.0611
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0038
           },
           {
             "st": 19,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0229
           },
           {
             "st": 21,
@@ -4512,11 +4512,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 268,
+        "velj": 262,
+        "nev": 6
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 39,
@@ -6273,8 +6273,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T20:40:06.0915952+02:00",
-    "datum": "2022-04-24T20:40:00+02:00",
+    "timestamp": "2022-04-24T20:50:05.3313079+02:00",
+    "datum": "2022-04-24T20:50:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

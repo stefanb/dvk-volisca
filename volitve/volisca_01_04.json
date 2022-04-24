@@ -1717,30 +1717,30 @@
       "naz": "VODOVODNI STOLP III,OŠ S.JENKO,UL.XXXI.DIVIZIJE7A",
       "udel": {
         "upr": 1398,
-        "gl": 644,
-        "prc": 0.4607
+        "gl": 833,
+        "prc": 0.5959
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0073
           },
           {
             "st": 2,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 54,
+            "prc": 0.0655
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 334,
+            "prc": 0.4048
           },
           {
             "st": 5,
@@ -1749,90 +1749,90 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 46,
+            "prc": 0.0558
           },
           {
             "st": 7,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 37,
+            "prc": 0.0448
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0048
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 19,
+            "prc": 0.023
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 10,
+            "prc": 0.0121
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 30,
+            "prc": 0.0364
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 27,
+            "prc": 0.0327
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 11,
+            "prc": 0.0133
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 108,
+            "prc": 0.1309
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0085
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 58,
+            "prc": 0.0703
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 50,
+            "prc": 0.0606
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 18,
+            "prc": 0.0218
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0073
           },
           {
             "st": 21,
             "gl": 0,
-            "prc": null
+            "prc": 0
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 833,
+        "velj": 825,
+        "nev": 8
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 901,
@@ -2127,8 +2127,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T20:40:06.0915952+02:00",
-    "datum": "2022-04-24T20:40:00+02:00",
+    "timestamp": "2022-04-24T20:50:05.3313079+02:00",
+    "datum": "2022-04-24T20:50:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

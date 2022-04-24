@@ -497,110 +497,110 @@
       "naz": "GD ZRKOVCI, ZRKOVCI 73",
       "udel": {
         "upr": 527,
-        "gl": 300,
-        "prc": 0.5693
+        "gl": 391,
+        "prc": 0.7419
       },
       "rez": {
         "rez": [
           {
             "st": 1,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 2,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 15,
+            "prc": 0.0394
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 114,
+            "prc": 0.2992
           },
           {
             "st": 5,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 18,
+            "prc": 0.0472
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0026
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.021
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 14,
+            "prc": 0.0367
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0026
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0105
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 22,
+            "prc": 0.0577
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0079
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 27,
+            "prc": 0.0709
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 108,
+            "prc": 0.2835
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0184
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 19,
+            "prc": 0.0499
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 11,
+            "prc": 0.0289
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0052
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0184
           },
           {
             "st": 21,
@@ -608,11 +608,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 391,
+        "velj": 381,
+        "nev": 10
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 6,
@@ -2615,8 +2615,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T20:40:06.0915952+02:00",
-    "datum": "2022-04-24T20:40:00+02:00",
+    "timestamp": "2022-04-24T20:50:05.3313079+02:00",
+    "datum": "2022-04-24T20:50:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

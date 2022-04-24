@@ -985,30 +985,30 @@
       "naz": "GASILSKI DOM, PODOLNICA 50A, HORJUL",
       "udel": {
         "upr": 278,
-        "gl": 157,
-        "prc": 0.5647
+        "gl": 199,
+        "prc": 0.7158
       },
       "rez": {
         "rez": [
           {
             "st": 1,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 2,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.005
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0251
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 34,
+            "prc": 0.1709
           },
           {
             "st": 5,
@@ -1017,78 +1017,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0201
           },
           {
             "st": 7,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 14,
+            "prc": 0.0704
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.005
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0151
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0251
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 18,
+            "prc": 0.0905
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0151
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0101
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 95,
+            "prc": 0.4774
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0151
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0402
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0151
           },
           {
             "st": 19,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 20,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 21,
@@ -1096,11 +1096,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
+        "glas": 199,
+        "velj": 199,
         "nev": 0
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 17,
@@ -1595,30 +1595,30 @@
       "naz": "GD PODSMREKA, PODSMREKA 58, 1356 DOBROVA",
       "udel": {
         "upr": 501,
-        "gl": 317,
-        "prc": 0.6327
+        "gl": 378,
+        "prc": 0.7545
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0027
           },
           {
             "st": 2,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.016
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 128,
+            "prc": 0.3422
           },
           {
             "st": 5,
@@ -1627,78 +1627,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0053
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.008
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 15,
+            "prc": 0.0401
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0134
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.016
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.008
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 26,
+            "prc": 0.0695
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0187
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0214
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 136,
+            "prc": 0.3636
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0107
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 10,
+            "prc": 0.0267
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.016
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0134
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.008
           },
           {
             "st": 21,
@@ -1706,11 +1706,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 378,
+        "velj": 374,
+        "nev": 4
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 13,
@@ -2449,30 +2449,30 @@
       "naz": "OŠ DOBROVA, CESTA 7.MAJA 20, 1356 DOBROVA",
       "udel": {
         "upr": 1030,
-        "gl": 650,
-        "prc": 0.6311
+        "gl": 787,
+        "prc": 0.7641
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0013
           },
           {
             "st": 2,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 12,
+            "prc": 0.0154
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 267,
+            "prc": 0.3427
           },
           {
             "st": 5,
@@ -2481,78 +2481,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 32,
+            "prc": 0.0411
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0026
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 29,
+            "prc": 0.0372
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.009
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 10,
+            "prc": 0.0128
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 26,
+            "prc": 0.0334
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 42,
+            "prc": 0.0539
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 21,
+            "prc": 0.027
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 23,
+            "prc": 0.0295
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 241,
+            "prc": 0.3094
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.009
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 31,
+            "prc": 0.0398
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 15,
+            "prc": 0.0193
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.0116
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0051
           },
           {
             "st": 21,
@@ -2560,11 +2560,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 787,
+        "velj": 779,
+        "nev": 8
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 14,
@@ -3589,8 +3589,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T20:40:06.0915952+02:00",
-    "datum": "2022-04-24T20:40:00+02:00",
+    "timestamp": "2022-04-24T20:50:05.3313079+02:00",
+    "datum": "2022-04-24T20:50:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

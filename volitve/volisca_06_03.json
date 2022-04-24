@@ -131,30 +131,30 @@
       "naz": "DOM KRAJANOV KS GOTNA VAS, JEDINŠČICA 58",
       "udel": {
         "upr": 863,
-        "gl": 504,
-        "prc": 0.584
+        "gl": 602,
+        "prc": 0.6976
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0083
           },
           {
             "st": 2,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0083
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 223,
+            "prc": 0.3723
           },
           {
             "st": 5,
@@ -163,78 +163,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 28,
+            "prc": 0.0467
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0033
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 17,
+            "prc": 0.0284
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0033
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.01
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 20,
+            "prc": 0.0334
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 59,
+            "prc": 0.0985
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 13,
+            "prc": 0.0217
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 13,
+            "prc": 0.0217
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 148,
+            "prc": 0.2471
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0033
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 29,
+            "prc": 0.0484
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 19,
+            "prc": 0.0317
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0067
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0067
           },
           {
             "st": 21,
@@ -242,11 +242,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 602,
+        "velj": 599,
+        "nev": 3
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 26,
@@ -3815,6 +3815,7 @@
     {
       "ime": "Jožica",
       "pri": "Derganc",
+      "man": true,
       "st": 4,
       "naz": "GIBANJE SVOBODA",
       "knaz": "SVOBODA",
@@ -3955,8 +3956,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T20:40:06.0915952+02:00",
-    "datum": "2022-04-24T20:40:00+02:00",
+    "timestamp": "2022-04-24T20:50:05.3313079+02:00",
+    "datum": "2022-04-24T20:50:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,
