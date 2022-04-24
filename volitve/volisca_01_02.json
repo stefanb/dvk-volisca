@@ -863,30 +863,30 @@
       "naz": "GASILSKI DOM MLINO, MLINSKA CESTA 26, BLED",
       "udel": {
         "upr": 270,
-        "gl": 146,
-        "prc": 0.5407
+        "gl": 188,
+        "prc": 0.6963
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0108
           },
           {
             "st": 2,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0054
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 40,
+            "prc": 0.2162
           },
           {
             "st": 5,
@@ -895,90 +895,90 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 12,
+            "prc": 0.0649
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0108
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0378
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0108
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0054
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0216
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 15,
+            "prc": 0.0811
           },
           {
             "st": 13,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0378
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 62,
+            "prc": 0.3351
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0108
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 11,
+            "prc": 0.0595
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0324
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.0486
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0108
           },
           {
             "st": 21,
             "gl": 0,
-            "prc": null
+            "prc": 0
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 188,
+        "velj": 185,
+        "nev": 3
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 21,
@@ -3571,6 +3571,7 @@
     {
       "ime": "Eva",
       "pri": "Knez",
+      "man": true,
       "st": 4,
       "naz": "GIBANJE SVOBODA",
       "knaz": "SVOBODA",
@@ -3657,6 +3658,7 @@
     {
       "ime": "Bogomir",
       "pri": "Vnučec",
+      "man": true,
       "st": 15,
       "naz": "SLOVENSKA DEMOKRATSKA STRANKA - SDS",
       "knaz": "SDS",
@@ -3712,8 +3714,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T20:30:09.2826822+02:00",
-    "datum": "2022-04-24T20:30:00+02:00",
+    "timestamp": "2022-04-24T20:35:02.3071593+02:00",
+    "datum": "2022-04-24T20:35:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

@@ -131,30 +131,30 @@
       "naz": "CENTER ZA STAREJŠE OBČANE LUCIJA I",
       "udel": {
         "upr": 995,
-        "gl": 430,
-        "prc": 0.4322
+        "gl": 508,
+        "prc": 0.5106
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0158
           },
           {
             "st": 2,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.002
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 21,
+            "prc": 0.0414
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 193,
+            "prc": 0.3807
           },
           {
             "st": 5,
@@ -163,90 +163,90 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 27,
+            "prc": 0.0533
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0059
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 16,
+            "prc": 0.0316
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0039
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0158
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 14,
+            "prc": 0.0276
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 23,
+            "prc": 0.0454
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 12,
+            "prc": 0.0237
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0118
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 87,
+            "prc": 0.1716
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0039
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 49,
+            "prc": 0.0966
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 27,
+            "prc": 0.0533
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0059
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0079
           },
           {
             "st": 21,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.002
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 508,
+        "velj": 507,
+        "nev": 1
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 4,
@@ -1741,6 +1741,7 @@
     {
       "ime": "Dani (Danijel)",
       "pri": "Bešič Loredan",
+      "man": true,
       "st": 4,
       "naz": "GIBANJE SVOBODA",
       "knaz": "SVOBODA",
@@ -1882,8 +1883,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T20:30:09.2826822+02:00",
-    "datum": "2022-04-24T20:30:00+02:00",
+    "timestamp": "2022-04-24T20:35:02.3071593+02:00",
+    "datum": "2022-04-24T20:35:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

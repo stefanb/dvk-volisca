@@ -1717,30 +1717,30 @@
       "naz": "TRŽIČ II, DRUŠTVO UPOKOJENCEV TRŽIČ,TRG SVOBODE18",
       "udel": {
         "upr": 867,
-        "gl": 299,
-        "prc": 0.3449
+        "gl": 377,
+        "prc": 0.4348
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.008
           },
           {
             "st": 2,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 35,
+            "prc": 0.0938
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 101,
+            "prc": 0.2708
           },
           {
             "st": 5,
@@ -1749,90 +1749,90 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 10,
+            "prc": 0.0268
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0027
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 23,
+            "prc": 0.0617
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0107
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 10,
+            "prc": 0.0268
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 12,
+            "prc": 0.0322
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 26,
+            "prc": 0.0697
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0161
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0161
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 80,
+            "prc": 0.2145
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0134
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 18,
+            "prc": 0.0483
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 14,
+            "prc": 0.0375
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 15,
+            "prc": 0.0402
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0054
           },
           {
             "st": 21,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0054
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 377,
+        "velj": 373,
+        "nev": 4
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 901,
@@ -1985,7 +1985,6 @@
     {
       "ime": "Borut",
       "pri": "Sajovic",
-      "man": true,
       "st": 4,
       "naz": "GIBANJE SVOBODA",
       "knaz": "SVOBODA",
@@ -2127,8 +2126,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T20:30:09.2826822+02:00",
-    "datum": "2022-04-24T20:30:00+02:00",
+    "timestamp": "2022-04-24T20:35:02.3071593+02:00",
+    "datum": "2022-04-24T20:35:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

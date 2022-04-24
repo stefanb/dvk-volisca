@@ -3303,30 +3303,30 @@
       "naz": "OSNOVNA ŠOLA ZAVRATEC",
       "udel": {
         "upr": 125,
-        "gl": 66,
-        "prc": 0.528
+        "gl": 101,
+        "prc": 0.808
       },
       "rez": {
         "rez": [
           {
             "st": 1,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 2,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 3,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.06
           },
           {
             "st": 5,
@@ -3335,90 +3335,90 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.02
           },
           {
             "st": 7,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 8,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.02
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.03
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.01
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 16,
+            "prc": 0.16
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.02
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 13,
+            "prc": 0.13
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 48,
+            "prc": 0.48
           },
           {
             "st": 16,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.04
           },
           {
             "st": 18,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.02
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.01
           },
           {
             "st": 21,
             "gl": 0,
-            "prc": null
+            "prc": 0
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 101,
+        "velj": 100,
+        "nev": 1
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 42,
@@ -4933,8 +4933,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T20:30:09.2826822+02:00",
-    "datum": "2022-04-24T20:30:00+02:00",
+    "timestamp": "2022-04-24T20:35:02.3071593+02:00",
+    "datum": "2022-04-24T20:35:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,
