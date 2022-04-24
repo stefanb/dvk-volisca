@@ -497,30 +497,30 @@
       "naz": "GASILSKI DOM SLAPE, SLAPE 50",
       "udel": {
         "upr": 701,
-        "gl": 409,
-        "prc": 0.5835
+        "gl": 498,
+        "prc": 0.7104
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0061
           },
           {
             "st": 2,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.0182
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 194,
+            "prc": 0.3919
           },
           {
             "st": 5,
@@ -529,78 +529,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 17,
+            "prc": 0.0343
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.004
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 17,
+            "prc": 0.0343
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.004
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.0182
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0081
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 44,
+            "prc": 0.0889
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 13,
+            "prc": 0.0263
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0081
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 102,
+            "prc": 0.2061
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 11,
+            "prc": 0.0222
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 30,
+            "prc": 0.0606
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 11,
+            "prc": 0.0222
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 16,
+            "prc": 0.0323
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0141
           },
           {
             "st": 21,
@@ -608,11 +608,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 498,
+        "velj": 495,
+        "nev": 3
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 5,
@@ -4443,8 +4443,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T20:35:02.3071593+02:00",
-    "datum": "2022-04-24T20:35:00+02:00",
+    "timestamp": "2022-04-24T20:40:06.0915952+02:00",
+    "datum": "2022-04-24T20:40:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

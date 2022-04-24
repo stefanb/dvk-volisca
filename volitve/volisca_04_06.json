@@ -1107,30 +1107,30 @@
       "naz": "OŠ KARLA DESTOVNIKA KAJUHA, JAKČEVA UL. 42",
       "udel": {
         "upr": 459,
-        "gl": 245,
-        "prc": 0.5338
+        "gl": 278,
+        "prc": 0.6057
       },
       "rez": {
         "rez": [
           {
             "st": 1,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 2,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0036
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0217
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 103,
+            "prc": 0.3732
           },
           {
             "st": 5,
@@ -1139,78 +1139,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 20,
+            "prc": 0.0725
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0072
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 15,
+            "prc": 0.0543
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0072
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 11,
+            "prc": 0.0399
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0217
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.0326
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0217
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0145
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 41,
+            "prc": 0.1486
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.029
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 18,
+            "prc": 0.0652
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 13,
+            "prc": 0.0471
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0181
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0217
           },
           {
             "st": 21,
@@ -1218,11 +1218,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 278,
+        "velj": 276,
+        "nev": 2
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 3,
@@ -2735,8 +2735,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T20:35:02.3071593+02:00",
-    "datum": "2022-04-24T20:35:00+02:00",
+    "timestamp": "2022-04-24T20:40:06.0915952+02:00",
+    "datum": "2022-04-24T20:40:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

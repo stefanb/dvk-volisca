@@ -1473,30 +1473,30 @@
       "naz": "SMUČARSKI SKAKALNI CENTER GORENJA SAVA, KRANJ",
       "udel": {
         "upr": 304,
-        "gl": 140,
-        "prc": 0.4605
+        "gl": 166,
+        "prc": 0.5461
       },
       "rez": {
         "rez": [
           {
             "st": 1,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 2,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.006
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 12,
+            "prc": 0.0723
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 61,
+            "prc": 0.3675
           },
           {
             "st": 5,
@@ -1505,90 +1505,90 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0482
           },
           {
             "st": 7,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0422
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.006
           },
           {
             "st": 10,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0241
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0482
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.012
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0241
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 36,
+            "prc": 0.2169
           },
           {
             "st": 16,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 11,
+            "prc": 0.0663
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0482
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.012
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.006
           },
           {
             "st": 21,
             "gl": 0,
-            "prc": null
+            "prc": 0
           }
         ],
-        "glas": 0,
-        "velj": 0,
+        "glas": 166,
+        "velj": 166,
         "nev": 0
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 20,
@@ -2859,8 +2859,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T20:35:02.3071593+02:00",
-    "datum": "2022-04-24T20:35:00+02:00",
+    "timestamp": "2022-04-24T20:40:06.0915952+02:00",
+    "datum": "2022-04-24T20:40:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

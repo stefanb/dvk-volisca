@@ -375,110 +375,110 @@
       "naz": "GD DOGOŠE, DUPLEŠKA 237",
       "udel": {
         "upr": 590,
-        "gl": 282,
-        "prc": 0.478
+        "gl": 378,
+        "prc": 0.6407
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0053
           },
           {
             "st": 2,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0027
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 13,
+            "prc": 0.0348
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 79,
+            "prc": 0.2112
           },
           {
             "st": 5,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 14,
+            "prc": 0.0374
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0053
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0134
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 27,
+            "prc": 0.0722
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.008
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0107
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 13,
+            "prc": 0.0348
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0107
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 50,
+            "prc": 0.1337
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 121,
+            "prc": 0.3235
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.008
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 16,
+            "prc": 0.0428
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0214
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0134
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0107
           },
           {
             "st": 21,
@@ -486,11 +486,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 378,
+        "velj": 374,
+        "nev": 4
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 16,
@@ -2615,8 +2615,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T20:35:02.3071593+02:00",
-    "datum": "2022-04-24T20:35:00+02:00",
+    "timestamp": "2022-04-24T20:40:06.0915952+02:00",
+    "datum": "2022-04-24T20:40:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

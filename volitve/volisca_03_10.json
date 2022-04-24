@@ -1839,30 +1839,30 @@
       "naz": "OŠ VIŽMARJE - BROD, NA GAJU 2",
       "udel": {
         "upr": 679,
-        "gl": 390,
-        "prc": 0.5744
+        "gl": 498,
+        "prc": 0.7334
       },
       "rez": {
         "rez": [
           {
             "st": 1,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 2,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.006
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 13,
+            "prc": 0.0262
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 190,
+            "prc": 0.3831
           },
           {
             "st": 5,
@@ -1871,78 +1871,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 25,
+            "prc": 0.0504
           },
           {
             "st": 7,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 17,
+            "prc": 0.0343
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.004
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0121
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0141
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 40,
+            "prc": 0.0806
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 11,
+            "prc": 0.0222
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 16,
+            "prc": 0.0323
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 107,
+            "prc": 0.2157
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0121
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 31,
+            "prc": 0.0625
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 16,
+            "prc": 0.0323
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.006
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.006
           },
           {
             "st": 21,
@@ -1950,11 +1950,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 498,
+        "velj": 496,
+        "nev": 2
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 13,
@@ -2491,8 +2491,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T20:35:02.3071593+02:00",
-    "datum": "2022-04-24T20:35:00+02:00",
+    "timestamp": "2022-04-24T20:40:06.0915952+02:00",
+    "datum": "2022-04-24T20:40:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

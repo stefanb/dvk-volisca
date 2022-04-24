@@ -4279,30 +4279,30 @@
       "naz": "TVD PARTIZAN",
       "udel": {
         "upr": 877,
-        "gl": 523,
-        "prc": 0.5964
+        "gl": 620,
+        "prc": 0.707
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0065
           },
           {
             "st": 2,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0016
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 26,
+            "prc": 0.0424
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 240,
+            "prc": 0.3915
           },
           {
             "st": 5,
@@ -4311,78 +4311,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 24,
+            "prc": 0.0392
           },
           {
             "st": 7,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 13,
+            "prc": 0.0212
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0114
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.0147
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 16,
+            "prc": 0.0261
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 34,
+            "prc": 0.0555
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0082
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 25,
+            "prc": 0.0408
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 179,
+            "prc": 0.292
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0065
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 14,
+            "prc": 0.0228
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0082
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0033
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0082
           },
           {
             "st": 21,
@@ -4390,11 +4390,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 620,
+        "velj": 613,
+        "nev": 7
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 4,
@@ -5786,8 +5786,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T20:35:02.3071593+02:00",
-    "datum": "2022-04-24T20:35:00+02:00",
+    "timestamp": "2022-04-24T20:40:06.0915952+02:00",
+    "datum": "2022-04-24T20:40:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

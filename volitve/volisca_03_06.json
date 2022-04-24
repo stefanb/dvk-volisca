@@ -1107,30 +1107,30 @@
       "naz": "GD BUTAJNOVA, BUTAJNOVA 23,1354 HORJUL",
       "udel": {
         "upr": 254,
-        "gl": 150,
-        "prc": 0.5906
+        "gl": 184,
+        "prc": 0.7244
       },
       "rez": {
         "rez": [
           {
             "st": 1,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 2,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 3,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 26,
+            "prc": 0.1421
           },
           {
             "st": 5,
@@ -1139,78 +1139,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0109
           },
           {
             "st": 7,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0273
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0437
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0164
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0383
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 10,
+            "prc": 0.0546
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0219
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0055
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 107,
+            "prc": 0.5847
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0055
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0437
           },
           {
             "st": 18,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 19,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0055
           },
           {
             "st": 21,
@@ -1218,11 +1218,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 184,
+        "velj": 183,
+        "nev": 1
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 20,
@@ -3589,8 +3589,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T20:35:02.3071593+02:00",
-    "datum": "2022-04-24T20:35:00+02:00",
+    "timestamp": "2022-04-24T20:40:06.0915952+02:00",
+    "datum": "2022-04-24T20:40:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,
