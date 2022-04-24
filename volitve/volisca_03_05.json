@@ -253,30 +253,30 @@
       "naz": "DOM GASILCEV, CESTA V MESTNI LOG 31",
       "udel": {
         "upr": 844,
-        "gl": 521,
-        "prc": 0.6173
+        "gl": 622,
+        "prc": 0.737
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0016
           },
           {
             "st": 2,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0065
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 247,
+            "prc": 0.399
           },
           {
             "st": 5,
@@ -285,78 +285,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 49,
+            "prc": 0.0792
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0032
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 19,
+            "prc": 0.0307
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0032
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0065
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0097
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 34,
+            "prc": 0.0549
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 14,
+            "prc": 0.0226
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 24,
+            "prc": 0.0388
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 133,
+            "prc": 0.2149
           },
           {
             "st": 16,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 35,
+            "prc": 0.0565
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 25,
+            "prc": 0.0404
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 16,
+            "prc": 0.0258
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0065
           },
           {
             "st": 21,
@@ -364,41 +364,41 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 622,
+        "velj": 619,
+        "nev": 3
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 1,
       "naz": "DOM STAREJŠIH OBČANOV, KOPALIŠKA UL. 10",
       "udel": {
         "upr": 820,
-        "gl": 436,
-        "prc": 0.5317
+        "gl": 548,
+        "prc": 0.6683
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0037
           },
           {
             "st": 2,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0018
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 21,
+            "prc": 0.0386
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 208,
+            "prc": 0.3824
           },
           {
             "st": 5,
@@ -407,78 +407,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 51,
+            "prc": 0.0938
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0037
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 20,
+            "prc": 0.0368
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0037
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0129
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 13,
+            "prc": 0.0239
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 30,
+            "prc": 0.0551
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 14,
+            "prc": 0.0257
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 10,
+            "prc": 0.0184
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 77,
+            "prc": 0.1415
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0074
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 48,
+            "prc": 0.0882
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 24,
+            "prc": 0.0441
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 10,
+            "prc": 0.0184
           },
           {
             "st": 20,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 21,
@@ -486,11 +486,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 548,
+        "velj": 544,
+        "nev": 4
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 9,
@@ -619,30 +619,30 @@
       "naz": "OSNOVNA ŠOLA VIČ, TRŽAŠKA CESTA 74, LJUBLJANA",
       "udel": {
         "upr": 876,
-        "gl": 440,
-        "prc": 0.5023
+        "gl": 534,
+        "prc": 0.6096
       },
       "rez": {
         "rez": [
           {
             "st": 1,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 2,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0094
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 11,
+            "prc": 0.0207
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 208,
+            "prc": 0.3917
           },
           {
             "st": 5,
@@ -651,78 +651,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 55,
+            "prc": 0.1036
           },
           {
             "st": 7,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 15,
+            "prc": 0.0282
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0056
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0132
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0113
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 21,
+            "prc": 0.0395
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 13,
+            "prc": 0.0245
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 19,
+            "prc": 0.0358
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 70,
+            "prc": 0.1318
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0056
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 46,
+            "prc": 0.0866
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 26,
+            "prc": 0.049
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 19,
+            "prc": 0.0358
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0075
           },
           {
             "st": 21,
@@ -730,11 +730,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 534,
+        "velj": 531,
+        "nev": 3
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 5,
@@ -1229,30 +1229,30 @@
       "naz": "OŠ VIČ, ABRAMOVA UL. 26",
       "udel": {
         "upr": 1284,
-        "gl": 727,
-        "prc": 0.5662
+        "gl": 878,
+        "prc": 0.6838
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0034
           },
           {
             "st": 2,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0034
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 18,
+            "prc": 0.0206
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 353,
+            "prc": 0.4048
           },
           {
             "st": 5,
@@ -1261,78 +1261,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 83,
+            "prc": 0.0952
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0011
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 31,
+            "prc": 0.0356
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0057
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 20,
+            "prc": 0.0229
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 20,
+            "prc": 0.0229
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 47,
+            "prc": 0.0539
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 16,
+            "prc": 0.0183
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 21,
+            "prc": 0.0241
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 113,
+            "prc": 0.1296
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0034
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 75,
+            "prc": 0.086
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 45,
+            "prc": 0.0516
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 10,
+            "prc": 0.0115
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0057
           },
           {
             "st": 21,
@@ -1340,11 +1340,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 877,
+        "velj": 872,
+        "nev": 5
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 0.9989
     },
     {
       "st": 14,
@@ -2369,8 +2369,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T21:40:03.7119913+02:00",
-    "datum": "2022-04-24T21:40:00+02:00",
+    "timestamp": "2022-04-24T21:55:04.1491174+02:00",
+    "datum": "2022-04-24T21:55:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

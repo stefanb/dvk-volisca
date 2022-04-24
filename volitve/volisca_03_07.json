@@ -375,30 +375,30 @@
       "naz": "OŠ MAJDE VRHOVNIK, GREGORČIČEVA UL.16",
       "udel": {
         "upr": 688,
-        "gl": 313,
-        "prc": 0.4549
+        "gl": 391,
+        "prc": 0.5683
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0026
           },
           {
             "st": 2,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0026
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0179
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 115,
+            "prc": 0.2949
           },
           {
             "st": 5,
@@ -407,78 +407,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 83,
+            "prc": 0.2128
           },
           {
             "st": 7,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 11,
+            "prc": 0.0282
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0051
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 13,
+            "prc": 0.0333
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 10,
+            "prc": 0.0256
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 30,
+            "prc": 0.0769
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.0231
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 13,
+            "prc": 0.0333
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 39,
+            "prc": 0.1
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0051
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 22,
+            "prc": 0.0564
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 18,
+            "prc": 0.0462
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 12,
+            "prc": 0.0308
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0051
           },
           {
             "st": 21,
@@ -486,11 +486,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 391,
+        "velj": 390,
+        "nev": 1
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 4,
@@ -2488,6 +2488,7 @@
     {
       "ime": "Luka",
       "pri": "Mesec",
+      "man": true,
       "st": 6,
       "naz": "LEVICA",
       "knaz": "LEVICA",
@@ -2613,8 +2614,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T21:40:03.7119913+02:00",
-    "datum": "2022-04-24T21:40:00+02:00",
+    "timestamp": "2022-04-24T21:55:04.1491174+02:00",
+    "datum": "2022-04-24T21:55:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,
