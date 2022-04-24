@@ -3059,110 +3059,110 @@
       "naz": "OBČINA VITANJE, GRAJSKI TRG 1, VITANJE",
       "udel": {
         "upr": 810,
-        "gl": 448,
-        "prc": 0.5531
+        "gl": 556,
+        "prc": 0.6864
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0073
           },
           {
             "st": 2,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0037
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 15,
+            "prc": 0.0275
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 153,
+            "prc": 0.2802
           },
           {
             "st": 5,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0073
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0037
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 19,
+            "prc": 0.0348
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 21,
+            "prc": 0.0385
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0073
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0055
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 38,
+            "prc": 0.0696
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0073
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 15,
+            "prc": 0.0275
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 199,
+            "prc": 0.3645
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 24,
+            "prc": 0.044
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 20,
+            "prc": 0.0366
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 14,
+            "prc": 0.0256
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0073
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0018
           },
           {
             "st": 21,
@@ -3170,11 +3170,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 556,
+        "velj": 546,
+        "nev": 10
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 7,
@@ -4855,6 +4855,7 @@
     {
       "ime": "Janez",
       "pri": "Črešnar",
+      "man": true,
       "st": 12,
       "naz": "NOVA SLOVENIJA - KRŠČANSKI DEMOKRATI",
       "knaz": "NSi",
@@ -4933,8 +4934,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T21:20:04.2797947+02:00",
-    "datum": "2022-04-24T21:20:00+02:00",
+    "timestamp": "2022-04-24T21:25:22.037829+02:00",
+    "datum": "2022-04-24T21:25:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

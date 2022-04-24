@@ -1107,30 +1107,30 @@
       "naz": "OSNOVNA ŠOLA RETEČE, RETEČE 43, ŠKOFJA LOKA",
       "udel": {
         "upr": 874,
-        "gl": 510,
-        "prc": 0.5835
+        "gl": 629,
+        "prc": 0.7197
       },
       "rez": {
         "rez": [
           {
             "st": 1,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 2,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 11,
+            "prc": 0.0176
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 197,
+            "prc": 0.3152
           },
           {
             "st": 5,
@@ -1139,90 +1139,90 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 33,
+            "prc": 0.0528
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0032
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 27,
+            "prc": 0.0432
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0112
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0064
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0048
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 65,
+            "prc": 0.104
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 12,
+            "prc": 0.0192
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 17,
+            "prc": 0.0272
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 166,
+            "prc": 0.2656
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0128
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 27,
+            "prc": 0.0432
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 37,
+            "prc": 0.0592
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.0144
           },
           {
             "st": 20,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 21,
             "gl": 0,
-            "prc": null
+            "prc": 0
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 629,
+        "velj": 625,
+        "nev": 4
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 8,
@@ -3103,8 +3103,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T21:15:03.6315102+02:00",
-    "datum": "2022-04-24T21:15:00+02:00",
+    "timestamp": "2022-04-24T21:20:04.2797947+02:00",
+    "datum": "2022-04-24T21:20:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

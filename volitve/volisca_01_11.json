@@ -1717,30 +1717,30 @@
       "naz": "KULTURNI DOM V SP. IDRIJI, NA VASI 34",
       "udel": {
         "upr": 761,
-        "gl": 0,
-        "prc": 0
+        "gl": 522,
+        "prc": 0.6859
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0019
           },
           {
             "st": 2,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 26,
+            "prc": 0.0499
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 179,
+            "prc": 0.3436
           },
           {
             "st": 5,
@@ -1749,90 +1749,90 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 18,
+            "prc": 0.0345
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0077
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 32,
+            "prc": 0.0614
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0096
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0058
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0096
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 51,
+            "prc": 0.0979
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 13,
+            "prc": 0.025
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 13,
+            "prc": 0.025
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 113,
+            "prc": 0.2169
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0115
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 38,
+            "prc": 0.0729
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0134
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0115
           },
           {
             "st": 20,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 21,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0019
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 522,
+        "velj": 521,
+        "nev": 1
       },
-      "prestetih_glasov": null
+      "prestetih_glasov": 1
     },
     {
       "st": 28,
@@ -4933,8 +4933,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T21:15:03.6315102+02:00",
-    "datum": "2022-04-24T21:15:00+02:00",
+    "timestamp": "2022-04-24T21:20:04.2797947+02:00",
+    "datum": "2022-04-24T21:20:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

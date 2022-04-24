@@ -619,30 +619,30 @@
       "naz": "KRIŽE, OSNOVNA ŠOLA KRIŽE, C. KOKRŠKEGA ODREDA 16",
       "udel": {
         "upr": 847,
-        "gl": 484,
-        "prc": 0.5714
+        "gl": 580,
+        "prc": 0.6848
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0035
           },
           {
             "st": 2,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0052
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0139
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 188,
+            "prc": 0.3275
           },
           {
             "st": 5,
@@ -651,90 +651,90 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 28,
+            "prc": 0.0488
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0052
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 16,
+            "prc": 0.0279
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0017
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 15,
+            "prc": 0.0261
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 24,
+            "prc": 0.0418
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 72,
+            "prc": 0.1254
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 15,
+            "prc": 0.0261
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0139
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 115,
+            "prc": 0.2003
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 10,
+            "prc": 0.0174
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 25,
+            "prc": 0.0436
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 13,
+            "prc": 0.0226
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 26,
+            "prc": 0.0453
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0035
           },
           {
             "st": 21,
             "gl": 0,
-            "prc": null
+            "prc": 0
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 580,
+        "velj": 574,
+        "nev": 6
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 7,
@@ -2072,7 +2072,6 @@
     {
       "ime": "Lucija",
       "pri": "Zalokar",
-      "man": true,
       "st": 15,
       "naz": "SLOVENSKA DEMOKRATSKA STRANKA - SDS",
       "knaz": "SDS",
@@ -2128,8 +2127,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T21:15:03.6315102+02:00",
-    "datum": "2022-04-24T21:15:00+02:00",
+    "timestamp": "2022-04-24T21:20:04.2797947+02:00",
+    "datum": "2022-04-24T21:20:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

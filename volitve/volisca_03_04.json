@@ -619,30 +619,30 @@
       "naz": "OŠ OSKARJA KOVAČIČA, OB DOLENJSKI ŽELEZNICI 48",
       "udel": {
         "upr": 1211,
-        "gl": 681,
-        "prc": 0.5623
+        "gl": 845,
+        "prc": 0.6978
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0036
           },
           {
             "st": 2,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0047
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 17,
+            "prc": 0.0202
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 312,
+            "prc": 0.3701
           },
           {
             "st": 5,
@@ -651,78 +651,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 55,
+            "prc": 0.0652
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0012
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 35,
+            "prc": 0.0415
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0059
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 21,
+            "prc": 0.0249
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 14,
+            "prc": 0.0166
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 46,
+            "prc": 0.0546
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 31,
+            "prc": 0.0368
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 22,
+            "prc": 0.0261
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 177,
+            "prc": 0.21
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 15,
+            "prc": 0.0178
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 39,
+            "prc": 0.0463
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 35,
+            "prc": 0.0415
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 10,
+            "prc": 0.0119
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0012
           },
           {
             "st": 21,
@@ -730,11 +730,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 845,
+        "velj": 843,
+        "nev": 2
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 6,
@@ -2125,8 +2125,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T21:15:03.6315102+02:00",
-    "datum": "2022-04-24T21:15:00+02:00",
+    "timestamp": "2022-04-24T21:25:22.037829+02:00",
+    "datum": "2022-04-24T21:25:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

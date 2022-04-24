@@ -497,30 +497,30 @@
       "naz": "ČIRČE, DOM KS, SMLEDNIŠKA CESTA 136, KRANJ",
       "udel": {
         "upr": 1248,
-        "gl": 703,
-        "prc": 0.5633
+        "gl": 856,
+        "prc": 0.6859
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0047
           },
           {
             "st": 2,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0024
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 51,
+            "prc": 0.0599
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 236,
+            "prc": 0.2773
           },
           {
             "st": 5,
@@ -529,90 +529,90 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 35,
+            "prc": 0.0411
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0024
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 18,
+            "prc": 0.0212
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 11,
+            "prc": 0.0129
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0071
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0094
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 57,
+            "prc": 0.067
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 29,
+            "prc": 0.0341
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 18,
+            "prc": 0.0212
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 256,
+            "prc": 0.3008
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 15,
+            "prc": 0.0176
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 44,
+            "prc": 0.0517
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 38,
+            "prc": 0.0447
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 16,
+            "prc": 0.0188
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0035
           },
           {
             "st": 21,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0024
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 856,
+        "velj": 851,
+        "nev": 5
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 6,
@@ -2127,8 +2127,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T21:15:03.6315102+02:00",
-    "datum": "2022-04-24T21:15:00+02:00",
+    "timestamp": "2022-04-24T21:20:04.2797947+02:00",
+    "datum": "2022-04-24T21:20:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

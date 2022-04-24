@@ -9,8 +9,8 @@
       "naz": "AVLA KULTURNEGA DOMA GORNJI GRAD, ATTEMSOV TRG 3",
       "udel": {
         "upr": 1007,
-        "gl": 562,
-        "prc": 0.5581
+        "gl": 712,
+        "prc": 0.7071
       },
       "rez": {
         "rez": [
@@ -1351,30 +1351,30 @@
       "naz": "KULTURNI DOM BOČNA, BOČNA 63",
       "udel": {
         "upr": 500,
-        "gl": 285,
-        "prc": 0.57
+        "gl": 356,
+        "prc": 0.712
       },
       "rez": {
         "rez": [
           {
             "st": 1,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 2,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 19,
+            "prc": 0.0546
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 144,
+            "prc": 0.4138
           },
           {
             "st": 5,
@@ -1383,78 +1383,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0086
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0029
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 15,
+            "prc": 0.0431
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0057
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.023
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0086
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 24,
+            "prc": 0.069
           },
           {
             "st": 13,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 24,
+            "prc": 0.069
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 67,
+            "prc": 0.1925
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.0259
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 20,
+            "prc": 0.0575
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0115
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0115
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0029
           },
           {
             "st": 21,
@@ -1462,11 +1462,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 356,
+        "velj": 348,
+        "nev": 8
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 5,
@@ -2961,6 +2961,7 @@
     {
       "ime": "Miha",
       "pri": "Brodnik",
+      "man": true,
       "st": 4,
       "naz": "GIBANJE SVOBODA",
       "knaz": "SVOBODA",
@@ -3023,7 +3024,6 @@
     {
       "ime": "Klemen",
       "pri": "Matk",
-      "man": true,
       "st": 12,
       "naz": "NOVA SLOVENIJA - KRŠČANSKI DEMOKRATI",
       "knaz": "NSi",
@@ -3101,8 +3101,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T21:15:03.6315102+02:00",
-    "datum": "2022-04-24T21:15:00+02:00",
+    "timestamp": "2022-04-24T21:25:22.037829+02:00",
+    "datum": "2022-04-24T21:25:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

@@ -1351,30 +1351,30 @@
       "naz": "GASILSKI DOM REČICA, REČIŠKA CESTA 4, BLED",
       "udel": {
         "upr": 729,
-        "gl": 411,
-        "prc": 0.5638
+        "gl": 491,
+        "prc": 0.6735
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0062
           },
           {
             "st": 2,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0082
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 11,
+            "prc": 0.0227
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 140,
+            "prc": 0.2887
           },
           {
             "st": 5,
@@ -1383,90 +1383,90 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 11,
+            "prc": 0.0227
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0124
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 41,
+            "prc": 0.0845
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.0186
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0103
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 15,
+            "prc": 0.0309
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 30,
+            "prc": 0.0619
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 15,
+            "prc": 0.0309
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 14,
+            "prc": 0.0289
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 113,
+            "prc": 0.233
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0144
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 31,
+            "prc": 0.0639
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.0186
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 11,
+            "prc": 0.0227
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 10,
+            "prc": 0.0206
           },
           {
             "st": 21,
             "gl": 0,
-            "prc": null
+            "prc": 0
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 491,
+        "velj": 485,
+        "nev": 6
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 24,
@@ -3657,6 +3657,7 @@
     {
       "ime": "Bogomir",
       "pri": "Vnučec",
+      "man": true,
       "st": 15,
       "naz": "SLOVENSKA DEMOKRATSKA STRANKA - SDS",
       "knaz": "SDS",
@@ -3712,8 +3713,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T21:15:03.6315102+02:00",
-    "datum": "2022-04-24T21:15:00+02:00",
+    "timestamp": "2022-04-24T21:20:04.2797947+02:00",
+    "datum": "2022-04-24T21:20:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,
