@@ -3464,6 +3464,7 @@
     {
       "ime": "Matej",
       "pri": "Tašner Vatovec",
+      "man": true,
       "st": 6,
       "naz": "LEVICA",
       "knaz": "LEVICA",
@@ -3591,8 +3592,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T21:55:04.1491174+02:00",
-    "datum": "2022-04-24T21:55:00+02:00",
+    "timestamp": "2022-04-24T22:15:05.4942749+02:00",
+    "datum": "2022-04-24T22:15:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

@@ -131,30 +131,30 @@
       "naz": "BTF - ODD. ZA LESARSTVO, ROŽNA DOLINA C. VIII/34",
       "udel": {
         "upr": 1403,
-        "gl": 800,
-        "prc": 0.5702
+        "gl": 967,
+        "prc": 0.6892
       },
       "rez": {
         "rez": [
           {
             "st": 1,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 2,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0031
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 13,
+            "prc": 0.0136
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 350,
+            "prc": 0.3657
           },
           {
             "st": 5,
@@ -163,78 +163,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 72,
+            "prc": 0.0752
           },
           {
             "st": 7,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 50,
+            "prc": 0.0522
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0031
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 21,
+            "prc": 0.0219
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0084
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 62,
+            "prc": 0.0648
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 17,
+            "prc": 0.0178
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 39,
+            "prc": 0.0408
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 187,
+            "prc": 0.1954
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.0094
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 60,
+            "prc": 0.0627
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 41,
+            "prc": 0.0428
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 19,
+            "prc": 0.0199
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0031
           },
           {
             "st": 21,
@@ -242,11 +242,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 962,
+        "velj": 957,
+        "nev": 5
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 0.9948
     },
     {
       "st": 16,
@@ -3589,8 +3589,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T21:55:04.1491174+02:00",
-    "datum": "2022-04-24T21:55:00+02:00",
+    "timestamp": "2022-04-24T22:15:05.4942749+02:00",
+    "datum": "2022-04-24T22:15:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,
