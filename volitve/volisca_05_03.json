@@ -1839,30 +1839,30 @@
       "naz": "SEDEŽ MČ, ULICA BRATOV VOŠNJAKOV 1, CELJE",
       "udel": {
         "upr": 1467,
-        "gl": 710,
-        "prc": 0.484
+        "gl": 839,
+        "prc": 0.5719
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0048
           },
           {
             "st": 2,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 31,
+            "prc": 0.0373
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 276,
+            "prc": 0.3317
           },
           {
             "st": 5,
@@ -1871,78 +1871,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 46,
+            "prc": 0.0553
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0096
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 22,
+            "prc": 0.0264
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0084
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 26,
+            "prc": 0.0312
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 13,
+            "prc": 0.0156
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 30,
+            "prc": 0.0361
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.0108
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 17,
+            "prc": 0.0204
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 206,
+            "prc": 0.2476
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 19,
+            "prc": 0.0228
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 68,
+            "prc": 0.0817
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 31,
+            "prc": 0.0373
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 10,
+            "prc": 0.012
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.0108
           },
           {
             "st": 21,
@@ -1950,11 +1950,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 839,
+        "velj": 832,
+        "nev": 7
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 25,
@@ -2735,8 +2735,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T23:30:05.159362+02:00",
-    "datum": "2022-04-24T23:30:00+02:00",
+    "timestamp": "2022-04-24T23:35:05.2520707+02:00",
+    "datum": "2022-04-24T23:35:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,
