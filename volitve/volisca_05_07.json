@@ -497,30 +497,30 @@
       "naz": "GORICA - PROST.KS, GORIŠKA 46",
       "udel": {
         "upr": 1420,
-        "gl": 548,
-        "prc": 0.3859
+        "gl": 866,
+        "prc": 0.6099
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0023
           },
           {
             "st": 2,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0035
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 47,
+            "prc": 0.0548
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 272,
+            "prc": 0.317
           },
           {
             "st": 5,
@@ -529,78 +529,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 29,
+            "prc": 0.0338
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0035
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 22,
+            "prc": 0.0256
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.007
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 17,
+            "prc": 0.0198
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 12,
+            "prc": 0.014
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 29,
+            "prc": 0.0338
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 22,
+            "prc": 0.0256
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.0105
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 163,
+            "prc": 0.19
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.0105
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 169,
+            "prc": 0.197
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 25,
+            "prc": 0.0291
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 15,
+            "prc": 0.0175
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0047
           },
           {
             "st": 21,
@@ -608,11 +608,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 866,
+        "velj": 858,
+        "nev": 8
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 10,
@@ -2368,8 +2368,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T22:40:09.9634997+02:00",
-    "datum": "2022-04-24T22:40:00+02:00",
+    "timestamp": "2022-04-24T22:45:07.8259508+02:00",
+    "datum": "2022-04-24T22:45:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

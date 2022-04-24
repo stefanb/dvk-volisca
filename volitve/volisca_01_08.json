@@ -619,30 +619,30 @@
       "naz": "KRAJEVNA SKUPNOST PODLUBNIK, PODLUBNIK 139",
       "udel": {
         "upr": 1584,
-        "gl": 849,
-        "prc": 0.536
+        "gl": 1083,
+        "prc": 0.6837
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.0084
           },
           {
             "st": 2,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0028
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 31,
+            "prc": 0.029
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 400,
+            "prc": 0.3745
           },
           {
             "st": 5,
@@ -651,90 +651,90 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 81,
+            "prc": 0.0758
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0019
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 45,
+            "prc": 0.0421
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 10,
+            "prc": 0.0094
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 11,
+            "prc": 0.0103
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 31,
+            "prc": 0.029
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 52,
+            "prc": 0.0487
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 17,
+            "prc": 0.0159
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 31,
+            "prc": 0.029
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 221,
+            "prc": 0.2069
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 17,
+            "prc": 0.0159
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 44,
+            "prc": 0.0412
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 32,
+            "prc": 0.03
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 23,
+            "prc": 0.0215
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0075
           },
           {
             "st": 21,
             "gl": 0,
-            "prc": null
+            "prc": 0
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 1083,
+        "velj": 1068,
+        "nev": 15
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 3,
@@ -3104,8 +3104,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T22:40:09.9634997+02:00",
-    "datum": "2022-04-24T22:40:00+02:00",
+    "timestamp": "2022-04-24T22:45:07.8259508+02:00",
+    "datum": "2022-04-24T22:45:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

@@ -497,30 +497,30 @@
       "naz": "BRESTOVICA PRI KOMNU,VAŠKA SKUPNOST, ŠT.55",
       "udel": {
         "upr": 158,
-        "gl": 79,
-        "prc": 0.5
+        "gl": 110,
+        "prc": 0.6962
       },
       "rez": {
         "rez": [
           {
             "st": 1,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 2,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0093
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 35,
+            "prc": 0.3241
           },
           {
             "st": 5,
@@ -529,90 +529,90 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0648
           },
           {
             "st": 7,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0556
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0185
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0278
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0278
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.0833
           },
           {
             "st": 13,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0463
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 25,
+            "prc": 0.2315
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0185
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0185
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0741
           },
           {
             "st": 19,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 20,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 21,
             "gl": 0,
-            "prc": null
+            "prc": 0
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 110,
+        "velj": 108,
+        "nev": 2
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 58,
@@ -1717,30 +1717,30 @@
       "naz": "FAMLJE, V OBJEKTU NEKDANJEGA LIV-A",
       "udel": {
         "upr": 496,
-        "gl": 283,
-        "prc": 0.5706
+        "gl": 333,
+        "prc": 0.6714
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0092
           },
           {
             "st": 2,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0154
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 157,
+            "prc": 0.4831
           },
           {
             "st": 5,
@@ -1749,90 +1749,90 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 12,
+            "prc": 0.0369
           },
           {
             "st": 7,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 12,
+            "prc": 0.0369
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0246
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0031
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0185
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 15,
+            "prc": 0.0462
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0246
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0092
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 46,
+            "prc": 0.1415
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0185
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 16,
+            "prc": 0.0492
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 16,
+            "prc": 0.0492
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0185
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0123
           },
           {
             "st": 21,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0031
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 333,
+        "velj": 325,
+        "nev": 8
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 27,
@@ -6353,30 +6353,30 @@
       "naz": "ŠTJAK, V BIVŠI ŠOLI",
       "udel": {
         "upr": 173,
-        "gl": 90,
-        "prc": 0.5202
+        "gl": 113,
+        "prc": 0.6532
       },
       "rez": {
         "rez": [
           {
             "st": 1,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 2,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0093
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 35,
+            "prc": 0.3271
           },
           {
             "st": 5,
@@ -6385,90 +6385,90 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0374
           },
           {
             "st": 7,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.028
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0561
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.028
           },
           {
             "st": 11,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0748
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0374
           },
           {
             "st": 14,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 22,
+            "prc": 0.2056
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0093
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 10,
+            "prc": 0.0935
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0748
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0093
           },
           {
             "st": 20,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 21,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0093
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 113,
+        "velj": 107,
+        "nev": 6
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 22,
@@ -8207,6 +8207,7 @@
     {
       "ime": "Andreja",
       "pri": "Živic",
+      "man": true,
       "st": 4,
       "naz": "GIBANJE SVOBODA",
       "knaz": "SVOBODA",
@@ -8348,8 +8349,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T22:40:09.9634997+02:00",
-    "datum": "2022-04-24T22:40:00+02:00",
+    "timestamp": "2022-04-24T22:45:07.8259508+02:00",
+    "datum": "2022-04-24T22:45:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

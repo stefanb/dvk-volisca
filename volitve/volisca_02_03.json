@@ -741,30 +741,30 @@
       "naz": "MALIJA - STARA ŠOLA",
       "udel": {
         "upr": 466,
-        "gl": 248,
-        "prc": 0.5322
+        "gl": 325,
+        "prc": 0.6974
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0124
           },
           {
             "st": 2,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 13,
+            "prc": 0.0404
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 138,
+            "prc": 0.4286
           },
           {
             "st": 5,
@@ -773,90 +773,90 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 14,
+            "prc": 0.0435
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0186
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.028
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0062
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 13,
+            "prc": 0.0404
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 13,
+            "prc": 0.0404
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.028
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0124
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0217
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 52,
+            "prc": 0.1615
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0062
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 14,
+            "prc": 0.0435
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 14,
+            "prc": 0.0435
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0062
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0186
           },
           {
             "st": 21,
             "gl": 0,
-            "prc": null
+            "prc": 0
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 325,
+        "velj": 322,
+        "nev": 3
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 14,
@@ -2005,8 +2005,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T22:40:09.9634997+02:00",
-    "datum": "2022-04-24T22:40:00+02:00",
+    "timestamp": "2022-04-24T22:45:07.8259508+02:00",
+    "datum": "2022-04-24T22:45:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,
