@@ -1473,30 +1473,30 @@
       "naz": "OŠ JANČE, GABRJE PRI JANČAH 16, LJUBLJANA",
       "udel": {
         "upr": 317,
-        "gl": 171,
-        "prc": 0.5394
+        "gl": 203,
+        "prc": 0.6404
       },
       "rez": {
         "rez": [
           {
             "st": 1,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 2,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.025
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 72,
+            "prc": 0.36
           },
           {
             "st": 5,
@@ -1505,78 +1505,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.01
           },
           {
             "st": 7,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 11,
+            "prc": 0.055
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.015
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.015
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.03
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 22,
+            "prc": 0.11
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 13,
+            "prc": 0.065
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 10,
+            "prc": 0.05
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 43,
+            "prc": 0.215
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.015
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.005
           },
           {
             "st": 18,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.015
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.015
           },
           {
             "st": 21,
@@ -1584,11 +1584,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 203,
+        "velj": 200,
+        "nev": 3
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 29,
@@ -4443,8 +4443,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T20:50:05.3313079+02:00",
-    "datum": "2022-04-24T20:50:00+02:00",
+    "timestamp": "2022-04-24T21:00:04.7907686+02:00",
+    "datum": "2022-04-24T21:00:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

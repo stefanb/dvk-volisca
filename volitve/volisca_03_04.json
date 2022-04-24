@@ -1229,30 +1229,30 @@
       "naz": "OŠ TRNOVO, KARUNOVA UL. 14A",
       "udel": {
         "upr": 903,
-        "gl": 466,
-        "prc": 0.5161
+        "gl": 562,
+        "prc": 0.6224
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0018
           },
           {
             "st": 2,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0018
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0072
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 207,
+            "prc": 0.371
           },
           {
             "st": 5,
@@ -1261,78 +1261,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 60,
+            "prc": 0.1075
           },
           {
             "st": 7,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 23,
+            "prc": 0.0412
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0072
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0143
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 14,
+            "prc": 0.0251
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 33,
+            "prc": 0.0591
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 11,
+            "prc": 0.0197
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 16,
+            "prc": 0.0287
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 90,
+            "prc": 0.1613
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0143
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 41,
+            "prc": 0.0735
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 30,
+            "prc": 0.0538
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0108
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0018
           },
           {
             "st": 21,
@@ -1340,11 +1340,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 562,
+        "velj": 558,
+        "nev": 4
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 1,
@@ -2047,7 +2047,6 @@
     {
       "ime": "Peter",
       "pri": "Kolenc",
-      "man": true,
       "st": 12,
       "naz": "NOVA SLOVENIJA - KRŠČANSKI DEMOKRATI",
       "knaz": "NSi",
@@ -2072,7 +2071,6 @@
     {
       "ime": "mag. Mojca",
       "pri": "Gregorič",
-      "man": true,
       "st": 15,
       "naz": "SLOVENSKA DEMOKRATSKA STRANKA - SDS",
       "knaz": "SDS",
@@ -2126,8 +2124,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T20:50:05.3313079+02:00",
-    "datum": "2022-04-24T20:50:00+02:00",
+    "timestamp": "2022-04-24T21:00:04.7907686+02:00",
+    "datum": "2022-04-24T21:00:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

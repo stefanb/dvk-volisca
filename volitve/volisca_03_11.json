@@ -1107,30 +1107,30 @@
       "naz": "KRAJEVNA SKUPNOST TRNOVEC, TRNOVEC 25C, MEDVODE",
       "udel": {
         "upr": 153,
-        "gl": 77,
-        "prc": 0.5033
+        "gl": 121,
+        "prc": 0.7908
       },
       "rez": {
         "rez": [
           {
             "st": 1,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 2,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.025
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 28,
+            "prc": 0.2333
           },
           {
             "st": 5,
@@ -1139,78 +1139,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0417
           },
           {
             "st": 7,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0333
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.025
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.05
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0083
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 19,
+            "prc": 0.1583
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0083
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0667
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 22,
+            "prc": 0.1833
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0417
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0417
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0583
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.025
           },
           {
             "st": 20,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 21,
@@ -1218,11 +1218,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 121,
+        "velj": 120,
+        "nev": 1
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 22,
@@ -2449,30 +2449,30 @@
       "naz": "OSNOVNA ŠOLA ŠMARTNO, CESTA V GAMELJNE 7",
       "udel": {
         "upr": 696,
-        "gl": 465,
-        "prc": 0.6681
+        "gl": 497,
+        "prc": 0.7141
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.004
           },
           {
             "st": 2,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.002
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0101
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 227,
+            "prc": 0.4595
           },
           {
             "st": 5,
@@ -2481,78 +2481,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 26,
+            "prc": 0.0526
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.002
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 24,
+            "prc": 0.0486
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.002
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0061
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.002
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 28,
+            "prc": 0.0567
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 15,
+            "prc": 0.0304
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 16,
+            "prc": 0.0324
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 89,
+            "prc": 0.1802
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0081
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 31,
+            "prc": 0.0628
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 14,
+            "prc": 0.0283
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0101
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.002
           },
           {
             "st": 21,
@@ -2560,41 +2560,41 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 497,
+        "velj": 494,
+        "nev": 3
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 31,
       "naz": "OSNOVNA ŠOLA ŠMARTNO, CESTA V GAMELJNE 7",
       "udel": {
         "upr": 978,
-        "gl": 572,
-        "prc": 0.5849
+        "gl": 722,
+        "prc": 0.7382
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0042
           },
           {
             "st": 2,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 10,
+            "prc": 0.014
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 300,
+            "prc": 0.4196
           },
           {
             "st": 5,
@@ -2603,78 +2603,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 40,
+            "prc": 0.0559
           },
           {
             "st": 7,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 17,
+            "prc": 0.0238
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0042
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 12,
+            "prc": 0.0168
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 14,
+            "prc": 0.0196
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 47,
+            "prc": 0.0657
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 15,
+            "prc": 0.021
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 16,
+            "prc": 0.0224
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 144,
+            "prc": 0.2014
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0098
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 40,
+            "prc": 0.0559
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 26,
+            "prc": 0.0364
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 19,
+            "prc": 0.0266
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0028
           },
           {
             "st": 21,
@@ -2682,11 +2682,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 722,
+        "velj": 715,
+        "nev": 7
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 32,
@@ -2937,30 +2937,30 @@
       "naz": "PGD BUKOVICA - UTIK, UTIK 45",
       "udel": {
         "upr": 695,
-        "gl": 405,
-        "prc": 0.5827
+        "gl": 547,
+        "prc": 0.7871
       },
       "rez": {
         "rez": [
           {
             "st": 1,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 2,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0018
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 14,
+            "prc": 0.0256
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 165,
+            "prc": 0.3022
           },
           {
             "st": 5,
@@ -2969,78 +2969,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 16,
+            "prc": 0.0293
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0018
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 34,
+            "prc": 0.0623
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0128
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0147
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.0165
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 87,
+            "prc": 0.1593
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 14,
+            "prc": 0.0256
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 15,
+            "prc": 0.0275
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 134,
+            "prc": 0.2454
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0128
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 15,
+            "prc": 0.0275
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 13,
+            "prc": 0.0238
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0037
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0073
           },
           {
             "st": 21,
@@ -3048,11 +3048,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 547,
+        "velj": 546,
+        "nev": 1
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 27,
@@ -4425,6 +4425,7 @@
     {
       "ime": "Alenka",
       "pri": "Sivka",
+      "man": true,
       "st": 4,
       "naz": "GIBANJE SVOBODA",
       "knaz": "SVOBODA",
@@ -4564,8 +4565,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T20:50:05.3313079+02:00",
-    "datum": "2022-04-24T20:50:00+02:00",
+    "timestamp": "2022-04-24T21:00:04.7907686+02:00",
+    "datum": "2022-04-24T21:00:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

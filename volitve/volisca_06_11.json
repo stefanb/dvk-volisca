@@ -2083,30 +2083,30 @@
       "naz": "OŠ MLINŠE, MLINŠE 14, IZLAKE",
       "udel": {
         "upr": 336,
-        "gl": 215,
-        "prc": 0.6399
+        "gl": 255,
+        "prc": 0.7589
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0039
           },
           {
             "st": 2,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0197
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 99,
+            "prc": 0.3898
           },
           {
             "st": 5,
@@ -2115,78 +2115,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0276
           },
           {
             "st": 7,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 23,
+            "prc": 0.0906
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0079
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0079
           },
           {
             "st": 11,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 14,
+            "prc": 0.0551
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0039
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0236
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 55,
+            "prc": 0.2165
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0118
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 21,
+            "prc": 0.0827
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0236
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0197
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0157
           },
           {
             "st": 21,
@@ -2194,11 +2194,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 255,
+        "velj": 254,
+        "nev": 1
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 6,
@@ -3547,30 +3547,30 @@
       "naz": "ŠPORTNO DRUŠTVO ŠKLENDROVEC, ID 1889-1019, PODKUM",
       "udel": {
         "upr": 211,
-        "gl": 116,
-        "prc": 0.5498
+        "gl": 148,
+        "prc": 0.7014
       },
       "rez": {
         "rez": [
           {
             "st": 1,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 2,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0205
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 42,
+            "prc": 0.2877
           },
           {
             "st": 5,
@@ -3579,78 +3579,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0342
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0068
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 12,
+            "prc": 0.0822
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 41,
+            "prc": 0.2808
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0068
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0205
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0548
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0068
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0205
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 15,
+            "prc": 0.1027
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0137
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0548
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0068
           },
           {
             "st": 19,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 20,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 21,
@@ -3658,41 +3658,41 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 148,
+        "velj": 146,
+        "nev": 2
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 9,
       "naz": "VDC, CESTA 9.AVGUSTA 59C, ZAGORJE OB SAVI",
       "udel": {
         "upr": 871,
-        "gl": 459,
-        "prc": 0.527
+        "gl": 533,
+        "prc": 0.6119
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0056
           },
           {
             "st": 2,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0075
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 235,
+            "prc": 0.4426
           },
           {
             "st": 5,
@@ -3701,78 +3701,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 14,
+            "prc": 0.0264
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0075
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 37,
+            "prc": 0.0697
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0075
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0056
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0056
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 14,
+            "prc": 0.0264
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0132
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 29,
+            "prc": 0.0546
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 75,
+            "prc": 0.1412
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0056
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 57,
+            "prc": 0.1073
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 17,
+            "prc": 0.032
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 18,
+            "prc": 0.0339
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0075
           },
           {
             "st": 21,
@@ -3780,11 +3780,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 533,
+        "velj": 531,
+        "nev": 2
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 4,
@@ -4199,8 +4199,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T20:50:05.3313079+02:00",
-    "datum": "2022-04-24T20:50:00+02:00",
+    "timestamp": "2022-04-24T21:00:04.7907686+02:00",
+    "datum": "2022-04-24T21:00:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

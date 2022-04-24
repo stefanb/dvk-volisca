@@ -619,30 +619,30 @@
       "naz": "GORNJA RADGONA - GASILSKI DOM",
       "udel": {
         "upr": 611,
-        "gl": 308,
-        "prc": 0.5041
+        "gl": 388,
+        "prc": 0.635
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0052
           },
           {
             "st": 2,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 20,
+            "prc": 0.0517
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 117,
+            "prc": 0.3023
           },
           {
             "st": 5,
@@ -651,90 +651,90 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 12,
+            "prc": 0.031
           },
           {
             "st": 7,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 14,
+            "prc": 0.0362
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 12,
+            "prc": 0.031
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 11,
+            "prc": 0.0284
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 13,
+            "prc": 0.0336
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 24,
+            "prc": 0.062
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0129
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0207
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 90,
+            "prc": 0.2326
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 11,
+            "prc": 0.0284
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 28,
+            "prc": 0.0724
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.0233
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0078
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0207
           },
           {
             "st": 21,
             "gl": 0,
-            "prc": null
+            "prc": 0
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 388,
+        "velj": 387,
+        "nev": 1
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 12,
@@ -1839,30 +1839,30 @@
       "naz": "PODGORJE - GASILSKI DOM",
       "udel": {
         "upr": 433,
-        "gl": 225,
-        "prc": 0.5196
+        "gl": 296,
+        "prc": 0.6836
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0238
           },
           {
             "st": 2,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 13,
+            "prc": 0.0442
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 109,
+            "prc": 0.3707
           },
           {
             "st": 5,
@@ -1871,90 +1871,90 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 10,
+            "prc": 0.034
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0034
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0272
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0238
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0102
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0102
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 18,
+            "prc": 0.0612
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0204
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0204
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 45,
+            "prc": 0.1531
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 10,
+            "prc": 0.034
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 30,
+            "prc": 0.102
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0272
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0034
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0204
           },
           {
             "st": 21,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0102
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 296,
+        "velj": 294,
+        "nev": 2
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 9,
@@ -2083,30 +2083,30 @@
       "naz": "RADENCI - OSNOVNA ŠOLA",
       "udel": {
         "upr": 974,
-        "gl": 463,
-        "prc": 0.4754
+        "gl": 653,
+        "prc": 0.6704
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0015
           },
           {
             "st": 2,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 29,
+            "prc": 0.0446
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 224,
+            "prc": 0.3446
           },
           {
             "st": 5,
@@ -2115,90 +2115,90 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 37,
+            "prc": 0.0569
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0031
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 28,
+            "prc": 0.0431
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.0138
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 22,
+            "prc": 0.0338
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0123
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 35,
+            "prc": 0.0538
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 13,
+            "prc": 0.02
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 34,
+            "prc": 0.0523
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 120,
+            "prc": 0.1846
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0092
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 49,
+            "prc": 0.0754
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 15,
+            "prc": 0.0231
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 11,
+            "prc": 0.0169
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0108
           },
           {
             "st": 21,
             "gl": 0,
-            "prc": null
+            "prc": 0
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 653,
+        "velj": 650,
+        "nev": 3
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 17,
@@ -3058,31 +3058,31 @@
       "st": 2,
       "naz": "STOGOVCI - OSNOVNA ŠOLA",
       "udel": {
-        "upr": 507,
-        "gl": 250,
-        "prc": 0.4931
+        "upr": 508,
+        "gl": 319,
+        "prc": 0.628
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0256
           },
           {
             "st": 2,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 14,
+            "prc": 0.0447
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 91,
+            "prc": 0.2907
           },
           {
             "st": 5,
@@ -3091,90 +3091,90 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.016
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0032
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0224
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0096
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0128
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0064
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 18,
+            "prc": 0.0575
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0192
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0128
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 105,
+            "prc": 0.3355
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 14,
+            "prc": 0.0447
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 17,
+            "prc": 0.0543
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.016
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0032
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0128
           },
           {
             "st": 21,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0128
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 319,
+        "velj": 313,
+        "nev": 6
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 24,
@@ -3835,8 +3835,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T20:50:05.3313079+02:00",
-    "datum": "2022-04-24T20:50:00+02:00",
+    "timestamp": "2022-04-24T21:00:04.7907686+02:00",
+    "datum": "2022-04-24T21:00:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

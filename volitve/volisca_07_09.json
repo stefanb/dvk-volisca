@@ -1473,110 +1473,110 @@
       "naz": "PROMETNA ŠOLA, PRERADOVIČEVA UL.33",
       "udel": {
         "upr": 1079,
-        "gl": 564,
-        "prc": 0.5227
+        "gl": 722,
+        "prc": 0.6691
       },
       "rez": {
         "rez": [
           {
             "st": 1,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 2,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0042
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 19,
+            "prc": 0.0265
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 300,
+            "prc": 0.4184
           },
           {
             "st": 5,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 29,
+            "prc": 0.0404
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0028
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 28,
+            "prc": 0.0391
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0084
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 13,
+            "prc": 0.0181
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 20,
+            "prc": 0.0279
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 44,
+            "prc": 0.0614
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 16,
+            "prc": 0.0223
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 20,
+            "prc": 0.0279
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 135,
+            "prc": 0.1883
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0084
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 36,
+            "prc": 0.0502
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 24,
+            "prc": 0.0335
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 13,
+            "prc": 0.0181
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0042
           },
           {
             "st": 21,
@@ -1584,11 +1584,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 722,
+        "velj": 717,
+        "nev": 5
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 4,
@@ -2371,8 +2371,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T20:50:05.3313079+02:00",
-    "datum": "2022-04-24T20:50:00+02:00",
+    "timestamp": "2022-04-24T21:00:04.7907686+02:00",
+    "datum": "2022-04-24T21:00:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

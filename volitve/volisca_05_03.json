@@ -9,30 +9,30 @@
       "naz": "AMZS D.D., PE CELJE,  LJUBLJANSKA CESTA 35, CELJE",
       "udel": {
         "upr": 1027,
-        "gl": 480,
-        "prc": 0.4674
+        "gl": 605,
+        "prc": 0.5891
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0101
           },
           {
             "st": 2,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0034
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 21,
+            "prc": 0.0352
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 214,
+            "prc": 0.3591
           },
           {
             "st": 5,
@@ -41,78 +41,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 39,
+            "prc": 0.0654
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0067
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 13,
+            "prc": 0.0218
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 10,
+            "prc": 0.0168
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 13,
+            "prc": 0.0218
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0101
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 20,
+            "prc": 0.0336
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 10,
+            "prc": 0.0168
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 11,
+            "prc": 0.0185
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 119,
+            "prc": 0.1997
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 15,
+            "prc": 0.0252
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 43,
+            "prc": 0.0721
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 20,
+            "prc": 0.0336
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 17,
+            "prc": 0.0285
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 13,
+            "prc": 0.0218
           },
           {
             "st": 21,
@@ -120,11 +120,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 605,
+        "velj": 596,
+        "nev": 9
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 21,
@@ -2735,8 +2735,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T20:50:05.3313079+02:00",
-    "datum": "2022-04-24T20:50:00+02:00",
+    "timestamp": "2022-04-24T21:00:04.7907686+02:00",
+    "datum": "2022-04-24T21:00:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

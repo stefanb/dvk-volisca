@@ -1351,30 +1351,30 @@
       "naz": "PRIMSKOVO II, DOM KRAJANOV, JEZERSKA C. 41, KRANJ",
       "udel": {
         "upr": 1001,
-        "gl": 452,
-        "prc": 0.4515
+        "gl": 595,
+        "prc": 0.5944
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0017
           },
           {
             "st": 2,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0017
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 45,
+            "prc": 0.076
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 199,
+            "prc": 0.3361
           },
           {
             "st": 5,
@@ -1383,90 +1383,90 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 25,
+            "prc": 0.0422
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0051
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 17,
+            "prc": 0.0287
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.0152
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0084
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 10,
+            "prc": 0.0169
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 45,
+            "prc": 0.076
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 15,
+            "prc": 0.0253
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 12,
+            "prc": 0.0203
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 131,
+            "prc": 0.2213
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0101
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 27,
+            "prc": 0.0456
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 27,
+            "prc": 0.0456
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 10,
+            "prc": 0.0169
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0068
           },
           {
             "st": 21,
             "gl": 0,
-            "prc": null
+            "prc": 0
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 595,
+        "velj": 592,
+        "nev": 3
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 11,
@@ -2127,8 +2127,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T20:50:05.3313079+02:00",
-    "datum": "2022-04-24T20:50:00+02:00",
+    "timestamp": "2022-04-24T21:00:04.7907686+02:00",
+    "datum": "2022-04-24T21:00:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

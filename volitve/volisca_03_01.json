@@ -497,8 +497,8 @@
       "naz": "GASILSKI DOM DOLENJA VAS",
       "udel": {
         "upr": 380,
-        "gl": 289,
-        "prc": 0.7605
+        "gl": 259,
+        "prc": 0.6816
       },
       "rez": {
         "rez": [
@@ -612,7 +612,7 @@
         "velj": 256,
         "nev": 3
       },
-      "prestetih_glasov": 0.8962
+      "prestetih_glasov": 1
     },
     {
       "st": 5,
@@ -1839,30 +1839,30 @@
       "naz": "GOSTIŠČE MLAKAR, MARKOVEC 15A",
       "udel": {
         "upr": 315,
-        "gl": 207,
-        "prc": 0.6571
+        "gl": 224,
+        "prc": 0.7111
       },
       "rez": {
         "rez": [
           {
             "st": 1,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 2,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.018
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 76,
+            "prc": 0.3423
           },
           {
             "st": 5,
@@ -1871,78 +1871,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.018
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.009
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 10,
+            "prc": 0.045
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.036
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0135
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.009
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 13,
+            "prc": 0.0586
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0045
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0225
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 44,
+            "prc": 0.1982
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0225
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 40,
+            "prc": 0.1802
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0135
           },
           {
             "st": 19,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.009
           },
           {
             "st": 21,
@@ -1950,11 +1950,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 224,
+        "velj": 222,
+        "nev": 2
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 49,
@@ -3547,30 +3547,30 @@
       "naz": "POŠ HOTEDRŠICA",
       "udel": {
         "upr": 654,
-        "gl": 375,
-        "prc": 0.5734
+        "gl": 462,
+        "prc": 0.7064
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0022
           },
           {
             "st": 2,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.0197
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 118,
+            "prc": 0.2582
           },
           {
             "st": 5,
@@ -3579,78 +3579,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 14,
+            "prc": 0.0306
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0044
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 16,
+            "prc": 0.035
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0175
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0066
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0109
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 45,
+            "prc": 0.0985
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 9,
+            "prc": 0.0197
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 39,
+            "prc": 0.0853
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 133,
+            "prc": 0.291
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0131
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 33,
+            "prc": 0.0722
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 12,
+            "prc": 0.0263
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0088
           },
           {
             "st": 20,
             "gl": 0,
-            "prc": null
+            "prc": 0
           },
           {
             "st": 21,
@@ -3658,11 +3658,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 462,
+        "velj": 457,
+        "nev": 5
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 39,
@@ -4279,30 +4279,30 @@
       "naz": "STAVBA UPRAVNE ENOTE CERKNICA, CESTA 4. MAJA 24",
       "udel": {
         "upr": 1042,
-        "gl": 480,
-        "prc": 0.4607
+        "gl": 568,
+        "prc": 0.5451
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0036
           },
           {
             "st": 2,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0018
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0089
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 221,
+            "prc": 0.3925
           },
           {
             "st": 5,
@@ -4311,78 +4311,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 20,
+            "prc": 0.0355
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0036
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 30,
+            "prc": 0.0533
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 5,
+            "prc": 0.0089
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 10,
+            "prc": 0.0178
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 16,
+            "prc": 0.0284
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 59,
+            "prc": 0.1048
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 8,
+            "prc": 0.0142
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 12,
+            "prc": 0.0213
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 107,
+            "prc": 0.1901
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0071
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 42,
+            "prc": 0.0746
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 13,
+            "prc": 0.0231
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 4,
+            "prc": 0.0071
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 2,
+            "prc": 0.0036
           },
           {
             "st": 21,
@@ -4390,11 +4390,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 568,
+        "velj": 563,
+        "nev": 5
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 1
     },
     {
       "st": 23,
@@ -5341,6 +5341,7 @@
     {
       "ime": "Iva",
       "pri": "Dimic",
+      "man": true,
       "st": 12,
       "naz": "NOVA SLOVENIJA - KRŠČANSKI DEMOKRATI",
       "knaz": "NSi",
@@ -5419,8 +5420,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-24T20:50:05.3313079+02:00",
-    "datum": "2022-04-24T20:50:00+02:00",
+    "timestamp": "2022-04-24T21:00:04.7907686+02:00",
+    "datum": "2022-04-24T21:00:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,
