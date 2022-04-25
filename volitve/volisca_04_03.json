@@ -1351,30 +1351,30 @@
       "naz": "OSNOVNA ŠOLA LOUISA ADAMIČA, TOVARNIŠKA CESTA 14",
       "udel": {
         "upr": 1269,
-        "gl": 709,
-        "prc": 0.5587
+        "gl": 847,
+        "prc": 0.6675
       },
       "rez": {
         "rez": [
           {
             "st": 1,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0036
           },
           {
             "st": 2,
-            "gl": 0,
-            "prc": null
+            "gl": 3,
+            "prc": 0.0036
           },
           {
             "st": 3,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0083
           },
           {
             "st": 4,
-            "gl": 0,
-            "prc": null
+            "gl": 248,
+            "prc": 0.2949
           },
           {
             "st": 5,
@@ -1383,78 +1383,78 @@
           },
           {
             "st": 6,
-            "gl": 0,
-            "prc": null
+            "gl": 36,
+            "prc": 0.0428
           },
           {
             "st": 7,
-            "gl": 0,
-            "prc": null
+            "gl": 1,
+            "prc": 0.0012
           },
           {
             "st": 8,
-            "gl": 0,
-            "prc": null
+            "gl": 22,
+            "prc": 0.0262
           },
           {
             "st": 9,
-            "gl": 0,
-            "prc": null
+            "gl": 6,
+            "prc": 0.0071
           },
           {
             "st": 10,
-            "gl": 0,
-            "prc": null
+            "gl": 13,
+            "prc": 0.0155
           },
           {
             "st": 11,
-            "gl": 0,
-            "prc": null
+            "gl": 16,
+            "prc": 0.019
           },
           {
             "st": 12,
-            "gl": 0,
-            "prc": null
+            "gl": 61,
+            "prc": 0.0725
           },
           {
             "st": 13,
-            "gl": 0,
-            "prc": null
+            "gl": 15,
+            "prc": 0.0178
           },
           {
             "st": 14,
-            "gl": 0,
-            "prc": null
+            "gl": 21,
+            "prc": 0.025
           },
           {
             "st": 15,
-            "gl": 0,
-            "prc": null
+            "gl": 302,
+            "prc": 0.3591
           },
           {
             "st": 16,
-            "gl": 0,
-            "prc": null
+            "gl": 11,
+            "prc": 0.0131
           },
           {
             "st": 17,
-            "gl": 0,
-            "prc": null
+            "gl": 45,
+            "prc": 0.0535
           },
           {
             "st": 18,
-            "gl": 0,
-            "prc": null
+            "gl": 13,
+            "prc": 0.0155
           },
           {
             "st": 19,
-            "gl": 0,
-            "prc": null
+            "gl": 11,
+            "prc": 0.0131
           },
           {
             "st": 20,
-            "gl": 0,
-            "prc": null
+            "gl": 7,
+            "prc": 0.0083
           },
           {
             "st": 21,
@@ -1462,11 +1462,11 @@
             "prc": null
           }
         ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
+        "glas": 846,
+        "velj": 841,
+        "nev": 5
       },
-      "prestetih_glasov": 0
+      "prestetih_glasov": 0.9988
     },
     {
       "st": 16,
@@ -2491,8 +2491,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-25T00:20:03.6694075+02:00",
-    "datum": "2022-04-25T00:15:00+02:00",
+    "timestamp": "2022-04-25T09:51:03.7818+02:00",
+    "datum": "2022-04-25T10:00:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

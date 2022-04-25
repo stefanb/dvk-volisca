@@ -1229,128 +1229,6 @@
       "naz": "OSNOVNA ŠOLA SEČOVLJE",
       "udel": {
         "upr": 1742,
-        "gl": 709,
-        "prc": 0.407
-      },
-      "rez": {
-        "rez": [
-          {
-            "st": 1,
-            "gl": 0,
-            "prc": null
-          },
-          {
-            "st": 2,
-            "gl": 0,
-            "prc": null
-          },
-          {
-            "st": 3,
-            "gl": 0,
-            "prc": null
-          },
-          {
-            "st": 4,
-            "gl": 0,
-            "prc": null
-          },
-          {
-            "st": 5,
-            "gl": 0,
-            "prc": null
-          },
-          {
-            "st": 6,
-            "gl": 0,
-            "prc": null
-          },
-          {
-            "st": 7,
-            "gl": 0,
-            "prc": null
-          },
-          {
-            "st": 8,
-            "gl": 0,
-            "prc": null
-          },
-          {
-            "st": 9,
-            "gl": 0,
-            "prc": null
-          },
-          {
-            "st": 10,
-            "gl": 0,
-            "prc": null
-          },
-          {
-            "st": 11,
-            "gl": 0,
-            "prc": null
-          },
-          {
-            "st": 12,
-            "gl": 0,
-            "prc": null
-          },
-          {
-            "st": 13,
-            "gl": 0,
-            "prc": null
-          },
-          {
-            "st": 14,
-            "gl": 0,
-            "prc": null
-          },
-          {
-            "st": 15,
-            "gl": 0,
-            "prc": null
-          },
-          {
-            "st": 16,
-            "gl": 0,
-            "prc": null
-          },
-          {
-            "st": 17,
-            "gl": 0,
-            "prc": null
-          },
-          {
-            "st": 18,
-            "gl": 0,
-            "prc": null
-          },
-          {
-            "st": 19,
-            "gl": 0,
-            "prc": null
-          },
-          {
-            "st": 20,
-            "gl": 0,
-            "prc": null
-          },
-          {
-            "st": 21,
-            "gl": 0,
-            "prc": null
-          }
-        ],
-        "glas": 0,
-        "velj": 0,
-        "nev": 0
-      },
-      "prestetih_glasov": 0
-    },
-    {
-      "st": 11,
-      "naz": "OSNOVNA ŠOLA SV. PETER",
-      "udel": {
-        "upr": 1742,
         "gl": 980,
         "prc": 0.5626
       },
@@ -1465,6 +1343,128 @@
         "glas": 980,
         "velj": 960,
         "nev": 20
+      },
+      "prestetih_glasov": 1
+    },
+    {
+      "st": 11,
+      "naz": "OSNOVNA ŠOLA SV. PETER",
+      "udel": {
+        "upr": 1742,
+        "gl": 222,
+        "prc": 0.1274
+      },
+      "rez": {
+        "rez": [
+          {
+            "st": 1,
+            "gl": 1,
+            "prc": 0.0046
+          },
+          {
+            "st": 2,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 3,
+            "gl": 5,
+            "prc": 0.023
+          },
+          {
+            "st": 4,
+            "gl": 76,
+            "prc": 0.3502
+          },
+          {
+            "st": 5,
+            "gl": 0,
+            "prc": null
+          },
+          {
+            "st": 6,
+            "gl": 5,
+            "prc": 0.023
+          },
+          {
+            "st": 7,
+            "gl": 0,
+            "prc": 0
+          },
+          {
+            "st": 8,
+            "gl": 15,
+            "prc": 0.0691
+          },
+          {
+            "st": 9,
+            "gl": 1,
+            "prc": 0.0046
+          },
+          {
+            "st": 10,
+            "gl": 3,
+            "prc": 0.0138
+          },
+          {
+            "st": 11,
+            "gl": 10,
+            "prc": 0.0461
+          },
+          {
+            "st": 12,
+            "gl": 18,
+            "prc": 0.0829
+          },
+          {
+            "st": 13,
+            "gl": 1,
+            "prc": 0.0046
+          },
+          {
+            "st": 14,
+            "gl": 1,
+            "prc": 0.0046
+          },
+          {
+            "st": 15,
+            "gl": 49,
+            "prc": 0.2258
+          },
+          {
+            "st": 16,
+            "gl": 6,
+            "prc": 0.0276
+          },
+          {
+            "st": 17,
+            "gl": 17,
+            "prc": 0.0783
+          },
+          {
+            "st": 18,
+            "gl": 1,
+            "prc": 0.0046
+          },
+          {
+            "st": 19,
+            "gl": 6,
+            "prc": 0.0276
+          },
+          {
+            "st": 20,
+            "gl": 2,
+            "prc": 0.0092
+          },
+          {
+            "st": 21,
+            "gl": 0,
+            "prc": 0
+          }
+        ],
+        "glas": 222,
+        "velj": 217,
+        "nev": 5
       },
       "prestetih_glasov": 1
     },
@@ -1883,8 +1883,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-25T00:20:03.6694075+02:00",
-    "datum": "2022-04-25T00:15:00+02:00",
+    "timestamp": "2022-04-25T09:51:03.7818+02:00",
+    "datum": "2022-04-25T10:00:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,
