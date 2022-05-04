@@ -124,7 +124,7 @@
         "velj": 548,
         "nev": 2
       },
-      "prestetih_glasov": 0.9964
+      "prestetih_glasov": 1
     },
     {
       "st": 16,
@@ -490,7 +490,7 @@
         "velj": 575,
         "nev": 3
       },
-      "prestetih_glasov": 0.9983
+      "prestetih_glasov": 1
     },
     {
       "st": 11,
@@ -856,7 +856,7 @@
         "velj": 402,
         "nev": 2
       },
-      "prestetih_glasov": 0.9975
+      "prestetih_glasov": 1
     },
     {
       "st": 7,
@@ -1588,7 +1588,7 @@
         "velj": 505,
         "nev": 1
       },
-      "prestetih_glasov": 0.998
+      "prestetih_glasov": 1
     },
     {
       "st": 14,
@@ -2735,12 +2735,12 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-04-29T11:30:58.1522094+02:00",
-    "datum": "2022-04-29T11:30:00+02:00",
+    "timestamp": "2022-05-04T11:00:13.3912914+02:00",
+    "datum": "2022-05-04T11:00:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,
-    "is_final": false,
+    "is_final": true,
     "has_kandidati_removed": false
   }
 }
