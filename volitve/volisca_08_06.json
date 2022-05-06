@@ -1716,9 +1716,9 @@
       "st": 23,
       "naz": "OKOSLAVCI - GASILSKI DOM",
       "udel": {
-        "upr": 200,
+        "upr": 221,
         "gl": 157,
-        "prc": 0.785
+        "prc": 0.7104
       },
       "rez": {
         "rez": [
@@ -3835,8 +3835,8 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2022-05-04T11:00:13.3912914+02:00",
-    "datum": "2022-05-04T11:00:00+02:00",
+    "timestamp": "2022-05-06T12:28:07.3434728+02:00",
+    "datum": "2022-05-06T12:30:00+02:00",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_rezultat": true,

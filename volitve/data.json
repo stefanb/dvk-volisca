@@ -1692,9 +1692,9 @@
             "st": 2,
             "naz": "Piran",
             "udel": {
-              "upr": 16133,
+              "upr": 14707,
               "gl": 9351,
-              "prc": 0.5796
+              "prc": 0.6358
             },
             "udel_11": {
               "upr": 14706,
@@ -1948,7 +1948,7 @@
             "st": 4,
             "naz": "Koper 1",
             "udel": {
-              "upr": 18484,
+              "upr": 18485,
               "gl": 11976,
               "prc": 0.6479
             },
@@ -2078,8 +2078,8 @@
             "naz": "Koper 2",
             "udel": {
               "upr": 24985,
-              "gl": 17429,
-              "prc": 0.6976
+              "gl": 17380,
+              "prc": 0.6956
             },
             "udel_11": {
               "upr": 24984,
@@ -2972,9 +2972,9 @@
         "st": 2,
         "naz": "Postojna",
         "udel": {
-          "upr": 210736,
-          "gl": 145648,
-          "prc": 0.6911
+          "upr": 209311,
+          "gl": 145599,
+          "prc": 0.6956
         },
         "udel_11": {
           "upr": 209306,
@@ -11302,9 +11302,9 @@
             "st": 6,
             "naz": "Gornja Radgona",
             "udel": {
-              "upr": 17842,
+              "upr": 17863,
               "gl": 11850,
-              "prc": 0.6642
+              "prc": 0.6634
             },
             "udel_11": {
               "upr": 17861,
@@ -12070,9 +12070,9 @@
         "st": 8,
         "naz": "Ptuj",
         "udel": {
-          "upr": 211021,
+          "upr": 211042,
           "gl": 137452,
-          "prc": 0.6514
+          "prc": 0.6513
         },
         "udel_11": {
           "upr": 211038,
@@ -30174,16 +30174,16 @@
           "naz": "Koper",
           "opis": "IX. VOLILNA ENOTA / 9a CIRCOSCRIZIONE ELETTORALE",
           "udel": {
-            "upr": 2689,
-            "gl": 1849,
-            "gl_ime": 1816,
+            "upr": 2743,
+            "gl": 1918,
+            "gl_ime": 1885,
             "gl_pot": 33,
-            "prc": 0.6876
+            "prc": 0.6992
           },
           "rez": {
-            "glas": 1849,
-            "velj": 1804,
-            "nev": 45
+            "glas": 1918,
+            "velj": 1867,
+            "nev": 51
           },
           "prestetih_glasov": 1
         },
@@ -30192,16 +30192,16 @@
           "naz": "Lendava",
           "opis": "X. VOLILNA ENOTA / 10. VÁLASZTÁSI EGYSÉG",
           "udel": {
-            "upr": 5478,
-            "gl": 3232,
-            "gl_ime": 3232,
-            "gl_pot": 0,
-            "prc": 0.59
+            "upr": 5485,
+            "gl": 3583,
+            "gl_ime": 3576,
+            "gl_pot": 7,
+            "prc": 0.6532
           },
           "rez": {
-            "glas": 3232,
-            "velj": 3172,
-            "nev": 60
+            "glas": 3583,
+            "velj": 3509,
+            "nev": 74
           },
           "prestetih_glasov": 1
         }
@@ -30211,8 +30211,8 @@
           "st": null,
           "id": null,
           "naziv": "ŽIŽA FELICE",
-          "gl": 1098,
-          "prc": 0.6086,
+          "gl": 1127,
+          "prc": 0.6036,
           "man": true,
           "enota": 9,
           "okraji": null
@@ -30221,8 +30221,8 @@
           "st": null,
           "id": null,
           "naziv": "MAURIZIO TREMUL",
-          "gl": 706,
-          "prc": 0.3914,
+          "gl": 740,
+          "prc": 0.3964,
           "man": false,
           "enota": 9,
           "okraji": null
@@ -30231,8 +30231,8 @@
           "st": null,
           "id": null,
           "naziv": "OTTO MOČNEK",
-          "gl": 628,
-          "prc": 0.1846,
+          "gl": 647,
+          "prc": 0.1844,
           "man": false,
           "zreb": false,
           "enota": 10,
@@ -30242,8 +30242,8 @@
           "st": null,
           "id": null,
           "naziv": "HORVÁTH FERENC",
-          "gl": 1984,
-          "prc": 0.5832,
+          "gl": 2026,
+          "prc": 0.5774,
           "man": true,
           "zreb": false,
           "enota": 10,
@@ -30253,8 +30253,8 @@
           "st": null,
           "id": null,
           "naziv": "dr. MIHAEL KASAŠ",
-          "gl": 790,
-          "prc": 0.2322,
+          "gl": 836,
+          "prc": 0.2382,
           "man": false,
           "zreb": false,
           "enota": 10,
@@ -30263,17 +30263,17 @@
       ]
     },
     "udel": {
-      "upr_red": 1697172,
+      "upr_red": 1695766,
       "upr_pos": 0,
-      "gl_ime": 1203543,
-      "gl_pot": 28,
+      "gl_ime": 1203492,
+      "gl_pot": 30,
       "gl_pos": 0,
       "gl_inv": 0,
       "gl_vol_omnia": 11298,
       "gl_vol_inv": null,
-      "upr": 1697200,
-      "gl": 1203571,
-      "prc": 0.7092
+      "upr": 1695796,
+      "gl": 1203522,
+      "prc": 0.7097
     },
     "udel_11": {
       "upr_red": 1695766,
@@ -30500,8 +30500,8 @@
     "prestetih_glasov": 1
   },
   "nastavitve": {
-    "timestamp": "2022-05-04T11:00:13.309Z",
-    "datum": "2022-05-04T11:00:00Z",
+    "timestamp": "2022-05-06T12:28:07.273Z",
+    "datum": "2022-05-06T12:30:00Z",
     "cas_udelezba": "19:00",
     "has_udelezba": true,
     "has_udel_11": true,
