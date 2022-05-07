@@ -1,5 +1,5 @@
 {
-  "datum": "2022-05-06T12:30:00Z",
+  "datum": "2022-05-07T18:30:00Z",
   "kandidati": [
     {
       "st": 1,
@@ -725,7 +725,7 @@
       "naziv": "Ana Černe",
       "gl": 796,
       "prc": 0.054439,
-      "man": true,
+      "man": false,
       "enota": 1,
       "okraji": [
         4
@@ -1857,7 +1857,7 @@
       "naziv": "mag. Janez Žakelj",
       "gl": 1318,
       "prc": 0.108881,
-      "man": false,
+      "man": true,
       "enota": 1,
       "okraji": [
         9
@@ -10051,7 +10051,7 @@
       "naziv": "Klemen Matk",
       "gl": 1158,
       "prc": 0.11471,
-      "man": true,
+      "man": false,
       "enota": 5,
       "okraji": [
         6
@@ -11035,7 +11035,7 @@
       "naziv": "Alenka Helbl",
       "gl": 4030,
       "prc": 0.283483,
-      "man": false,
+      "man": true,
       "enota": 5,
       "okraji": [
         11
@@ -11254,7 +11254,7 @@
       "naziv": "mag. Maja Kocjan",
       "gl": 3887,
       "prc": 0.265487,
-      "man": true,
+      "man": false,
       "enota": 6,
       "okraji": [
         1
@@ -12773,7 +12773,7 @@
       "naziv": "Franc Props",
       "gl": 4520,
       "prc": 0.354565,
-      "man": false,
+      "man": true,
       "enota": 6,
       "okraji": [
         9
@@ -14059,7 +14059,7 @@
       "naziv": "Jurij Lep",
       "gl": 3180,
       "prc": 0.367036,
-      "man": true,
+      "man": false,
       "enota": 7,
       "okraji": [
         4
@@ -14267,7 +14267,7 @@
       "naziv": "Tomaž Lah",
       "gl": 6226,
       "prc": 0.375558,
-      "man": true,
+      "man": false,
       "enota": 7,
       "okraji": [
         5
@@ -14767,7 +14767,7 @@
       "naziv": "mag. Dejan Kaloh",
       "gl": 2925,
       "prc": 0.251332,
-      "man": false,
+      "man": true,
       "enota": 7,
       "okraji": [
         7
@@ -14877,7 +14877,7 @@
       "naziv": "Tatjana Greif",
       "gl": 627,
       "prc": 0.070992,
-      "man": false,
+      "man": true,
       "enota": 7,
       "okraji": [
         8
@@ -16007,7 +16007,7 @@
       "naziv": "Andrej Kosi",
       "gl": 2893,
       "prc": 0.305201,
-      "man": true,
+      "man": false,
       "enota": 8,
       "okraji": [
         2
@@ -16546,7 +16546,7 @@
       "naziv": "Tine Novak",
       "gl": 5329,
       "prc": 0.319216,
-      "man": false,
+      "man": true,
       "enota": 8,
       "okraji": [
         5
